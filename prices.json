@@ -1,0 +1,111 @@
+{
+  "updated": 1788861375,
+  "quotes": {
+    "SPY": {
+      "label": "S&P 500 (SPY)",
+      "price": 770.19,
+      "pct": -0.3854,
+      "prevClose": 773.17
+    },
+    "QQQ": {
+      "label": "Nasdaq (QQQ)",
+      "price": 718.96,
+      "pct": 0.1797,
+      "prevClose": 717.67
+    },
+    "AAPL": {
+      "label": "Apple",
+      "price": 319.97,
+      "pct": -2.5106,
+      "prevClose": 328.21
+    },
+    "MSFT": {
+      "label": "Microsoft",
+      "price": 499.7,
+      "pct": -2.0427,
+      "prevClose": 510.12
+    },
+    "GOOGL": {
+      "label": "Alphabet",
+      "price": 338.46,
+      "pct": -1.1738,
+      "prevClose": 342.48
+    },
+    "NVDA": {
+      "label": "Nvidia",
+      "price": 230.36,
+      "pct": 0.8361,
+      "prevClose": 228.45
+    },
+    "AVGO": {
+      "label": "Broadcom",
+      "price": 357.895,
+      "pct": 0.2058,
+      "prevClose": 357.16
+    },
+    "JPM": {
+      "label": "JPMorgan",
+      "price": 358.64,
+      "pct": -0.9446,
+      "prevClose": 362.06
+    },
+    "GS": {
+      "label": "Goldman Sachs",
+      "price": 1038.61,
+      "pct": 0.0655,
+      "prevClose": 1037.93
+    },
+    "BAC": {
+      "label": "Bank of America",
+      "price": 62.68,
+      "pct": -0.5711,
+      "prevClose": 63.04
+    },
+    "MS": {
+      "label": "Morgan Stanley",
+      "price": 217.72,
+      "pct": 0.2625,
+      "prevClose": 217.15
+    },
+    "C": {
+      "label": "Citigroup",
+      "price": 137.72,
+      "pct": -0.304,
+      "prevClose": 138.14
+    },
+    "^STI": {
+      "label": "STI",
+      "price": null,
+      "pct": null,
+      "prevClose": null
+    },
+    "D05.SI": {
+      "label": "DBS",
+      "price": null,
+      "pct": null,
+      "prevClose": null,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "U11.SI": {
+      "label": "UOB",
+      "price": null,
+      "pct": null,
+      "prevClose": null,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "O39.SI": {
+      "label": "OCBC",
+      "price": null,
+      "pct": null,
+      "prevClose": null,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "C6L.SI": {
+      "label": "SIA",
+      "price": null,
+      "pct": null,
+      "prevClose": null,
+      "error": "HTTP Error 403: Forbidden"
+    }
+  }
+}
