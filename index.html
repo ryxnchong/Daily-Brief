@@ -9,140 +9,52 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root{
-    --ink:#16241c;
-    --paper:#f7f6f1;
-    --rule:#cfceC5;
-    --rule2:#dedcd2;
-    --mustard:#b5852b;
-    --muted:#5b6259;
-    --up:#3f7a4f;
-    --down:#b5482b;
+    --ink:#16241c; --paper:#f7f6f1; --rule:#cfceC5; --rule2:#dedcd2;
+    --mustard:#b5852b; --muted:#5b6259; --up:#3f7a4f; --down:#b5482b;
   }
   *{box-sizing:border-box;}
   html{font-size:14px;}
   html,body{margin:0;padding:0;}
-  body{
-    background:var(--paper);
-    color:var(--ink);
-    font-family:'IBM Plex Mono', monospace;
-    line-height:1.5;
-    min-height:100vh;
-  }
-  .wrap{
-    max-width:760px;
-    margin:0 auto;
-    padding:36px 20px 70px;
-  }
-  header{
-    border-bottom:3px double var(--ink);
-    padding-bottom:14px;
-    margin-bottom:22px;
-  }
-  .masthead{
-    font-family:'Source Serif 4', serif;
-    font-weight:700;
-    font-size:32px;
-    letter-spacing:-0.01em;
-    margin:0 0 5px;
-  }
-  .sub{
-    display:flex;
-    justify-content:space-between;
-    align-items:baseline;
-    flex-wrap:wrap;
-    gap:8px;
-    font-size:11px;
-    color:var(--muted);
-  }
+  body{background:var(--paper); color:var(--ink); font-family:'IBM Plex Mono', monospace; line-height:1.5; min-height:100vh;}
+  .wrap{max-width:760px; margin:0 auto; padding:36px 20px 70px;}
+  header{border-bottom:3px double var(--ink); padding-bottom:14px; margin-bottom:22px;}
+  .masthead{font-family:'Source Serif 4', serif; font-weight:700; font-size:32px; letter-spacing:-0.01em; margin:0 0 5px;}
+  .sub{display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:8px; font-size:11px; color:var(--muted);}
   .status{display:flex; align-items:center; gap:8px; flex-wrap:wrap;}
   .dot{width:6px;height:6px;border-radius:50%;background:var(--up);display:inline-block;}
   .dot.stale{background:var(--mustard);}
-  button{
-    font-family:'IBM Plex Mono', monospace;
-    font-size:10.5px;
-    background:var(--ink);
-    color:var(--paper);
-    border:none;
-    padding:5px 10px;
-    cursor:pointer;
-  }
+  button{font-family:'IBM Plex Mono', monospace; font-size:10.5px; background:var(--ink); color:var(--paper); border:none; padding:5px 10px; cursor:pointer;}
   button:hover{background:#2a3d30;}
   button:disabled{opacity:.55;cursor:default;}
   button:focus-visible, a:focus-visible{outline:2px solid var(--mustard); outline-offset:2px;}
+  h3.section{font-family:'Source Serif 4', serif; font-weight:600; font-size:15px; margin:32px 0 12px; padding-bottom:6px; border-bottom:1px solid var(--ink);}
 
-  h3.section{
-    font-family:'Source Serif 4', serif;
-    font-weight:600;
-    font-size:15px;
-    margin:32px 0 12px;
-    padding-bottom:6px;
-    border-bottom:1px solid var(--ink);
-  }
-
-  /* --- market snapshot --- */
   .markets{display:grid; grid-template-columns:1fr 1fr; gap:20px;}
-  .market-card{border:1px solid var(--rule2); padding:12px;}
-  .market-head{display:flex; justify-content:space-between; align-items:flex-start; gap:8px; margin-bottom:6px;}
+  .market-card{border:1px solid var(--rule2); padding:14px;}
+  .market-head{display:flex; justify-content:space-between; align-items:flex-start; gap:8px; margin-bottom:2px;}
   .market-name{font-family:'Source Serif 4', serif; font-weight:600; font-size:14px;}
-  .market-price{font-size:15px; font-weight:600;}
-  .market-chg{font-size:11px;}
+  .market-track{font-size:9.5px; color:var(--muted); margin-bottom:8px;}
+  .market-price{font-size:18px; font-weight:600;}
+  .market-chg{font-size:11px; text-align:right;}
   .market-chg.up{color:var(--up);}
   .market-chg.down{color:var(--down);}
-  .spark{display:block; margin:6px 0 8px;}
+  .spark{display:block; margin:8px 0 10px; width:100%; height:auto;}
   table.holdings{width:100%; border-collapse:collapse; font-size:10.5px;}
-  table.holdings th, table.holdings td{ text-align:left; padding:4px 4px; border-bottom:1px solid var(--rule2); white-space:nowrap;}
-  table.holdings th{color:var(--muted); font-weight:500; font-size:9.5px; text-transform:uppercase; letter-spacing:.03em;}
+  table.holdings th, table.holdings td{text-align:right; padding:4px 3px; border-bottom:1px solid var(--rule2); white-space:nowrap;}
+  table.holdings th:first-child, table.holdings td:first-child{text-align:left;}
+  table.holdings th{color:var(--muted); font-weight:500; font-size:9px; text-transform:uppercase; letter-spacing:.02em;}
   .mkt-error{font-size:11px; color:var(--muted); padding:8px 0;}
 
-  /* --- stories --- */
-  .story{
-    display:grid;
-    grid-template-columns:26px 1fr;
-    gap:14px;
-    padding:16px 0;
-    border-bottom:1px solid var(--rule2);
-  }
+  .story{display:grid; grid-template-columns:26px 1fr; gap:14px; padding:15px 0; border-bottom:1px solid var(--rule2);}
   .story:first-child{padding-top:0;}
-  .num{
-    font-family:'Source Serif 4', serif;
-    font-size:16px;
-    color:var(--rule);
-    padding-top:1px;
-  }
-  h2{
-    font-family:'Source Serif 4', serif;
-    font-weight:600;
-    font-size:16px;
-    line-height:1.3;
-    margin:0 0 5px;
-  }
+  .num{font-family:'Source Serif 4', serif; font-size:16px; color:var(--rule); padding-top:1px;}
+  h2{font-family:'Source Serif 4', serif; font-weight:600; font-size:15.5px; line-height:1.3; margin:0 0 5px;}
   h2 a{color:var(--ink); text-decoration:none;}
   h2 a:hover{text-decoration:underline; text-decoration-color:var(--mustard);}
-  .meta{
-    font-size:10px;
-    color:var(--mustard);
-    text-transform:uppercase;
-    letter-spacing:.04em;
-    margin-bottom:5px;
-  }
-  .snippet{
-    font-family:'Source Serif 4', serif;
-    font-size:12.5px;
-    color:#3a4038;
-    margin:0;
-  }
-  .empty, .error{
-    font-size:12px;
-    color:var(--muted);
-    padding:30px 0;
-  }
-  footer{
-    margin-top:32px;
-    font-size:10.5px;
-    color:var(--muted);
-    border-top:1px solid var(--rule2);
-    padding-top:14px;
-  }
+  .meta{font-size:10px; color:var(--mustard); text-transform:uppercase; letter-spacing:.04em; margin-bottom:5px;}
+  .snippet{font-family:'Source Serif 4', serif; font-size:12.5px; color:#3a4038; margin:0;}
+  .empty, .error{font-size:12px; color:var(--muted); padding:30px 0;}
+  footer{margin-top:32px; font-size:10.5px; color:var(--muted); border-top:1px solid var(--rule2); padding-top:14px;}
   @media (max-width:560px){
     .masthead{font-size:26px;}
     .markets{grid-template-columns:1fr;}
@@ -161,232 +73,227 @@
   </header>
 
   <h3 class="section">Market snapshot — 5 day</h3>
-  <div class="markets" id="markets">
-    <p class="mkt-error">Loading market data…</p>
-  </div>
+  <div class="markets" id="markets"><p class="mkt-error">Loading market data…</p></div>
 
-  <h3 class="section">Today's stories</h3>
-  <main id="stories">
-    <p class="empty">Fetching today's stories…</p>
-  </main>
+  <h3 class="section">Financial headlines</h3>
+  <main id="stories"><p class="empty">Fetching headlines…</p></main>
 
   <footer>
-    News auto-refreshes every 3 hours while this tab is open. Edit <code>FEEDS</code> and <code>WATCHLIST</code> in the page source to change sources/tickers. Market data is sourced from an unofficial Yahoo Finance endpoint via a public CORS proxy — it can occasionally go down or rate-limit; treat prices as indicative, not for trading decisions.
+    Index prices refresh every 3 min; charts &amp; tables every 20 min (tuned to stay inside the free data quota — see FMP_KEY / cadence notes in the page source). Prices are delayed and shown via tracking ETFs (SPY≈S&amp;P 500, QQQ≈Nasdaq-100), so the % move matches but the headline number is the ETF's, not the index level. Indicative only, not for trading.
   </footer>
 </div>
 
 <script>
-// ---- News sources ----
-// Reuters and Bloomberg no longer publish public RSS feeds, so these route through
-// a Google News search scoped to each site — the closest reliable public substitute.
-const FEEDS = [
-  { name: "Reuters",          url: "https://news.google.com/rss/search?q=site:reuters.com+when:1d&hl=en-US&gl=US&ceid=US:en" },
-  { name: "Bloomberg",        url: "https://news.google.com/rss/search?q=site:bloomberg.com+when:1d&hl=en-US&gl=US&ceid=US:en" },
-  { name: "CNBC",             url: "https://www.cnbc.com/id/100003114/device/rss/rss.html" },
-  { name: "MarketWatch",      url: "http://feeds.marketwatch.com/marketwatch/topstories/" },
-  { name: "Yahoo Finance",    url: "https://finance.yahoo.com/news/rssindex" },
-  { name: "CNA Business",     url: "https://www.channelnewsasia.com/rssfeeds/8395986" },
-  { name: "Straits Times",    url: "https://www.straitstimes.com/news/business/rss.xml" },
-  { name: "Business Times SG",url: "https://www.businesstimes.com.sg/rss/singapore" },
-  { name: "Investing.com",    url: "https://www.investing.com/rss/news.rss" },
-  { name: "Financial Times",  url: "https://www.ft.com/rss/home" },
+/* =========================================================
+   CONFIG
+   ========================================================= */
+const FMP_KEY = "TBYjJyGxjhyijWlC9FIQqZNxOr5fb01d";
+
+// Free FMP plan = 250 calls/day. These cadences keep a full trading day inside that.
+// If you upgrade (or don't mind it stopping mid-day), lower INDEX_REFRESH_MS toward 60000.
+const INDEX_REFRESH_MS = 3 * 60 * 1000;   // light: index prices only (1 call)
+const HEAVY_REFRESH_MS = 20 * 60 * 1000;  // heavy: charts + constituent tables
+
+// Index cards. "track" is the ETF proxy actually fetched.
+const CARDS = [
+  { label: "S&P 500",  track: "SPY", note: "via SPY ETF",  stocks: ["AAPL","MSFT","NVDA","GOOGL","AMZN"] },
+  { label: "Nasdaq",   track: "QQQ", note: "via QQQ ETF",  stocks: ["NVDA","AAPL","MSFT","AMZN","AVGO"] },
 ];
-const MIN_STORIES = 8;
-const REFRESH_MS = 3 * 60 * 60 * 1000; // 3 hours
+
+// News — all financial sources. SG feeds are tagged so we can cap them.
+const FEEDS = [
+  { name: "Reuters",        sg:false, url: "https://news.google.com/rss/search?q=business%20OR%20markets%20site:reuters.com%20when:2d&hl=en-US&gl=US&ceid=US:en" },
+  { name: "Bloomberg",      sg:false, url: "https://news.google.com/rss/search?q=markets%20OR%20economy%20site:bloomberg.com%20when:2d&hl=en-US&gl=US&ceid=US:en" },
+  { name: "CNBC Markets",   sg:false, url: "https://www.cnbc.com/id/20910258/device/rss/rss.html" },
+  { name: "CNBC Finance",   sg:false, url: "https://www.cnbc.com/id/10000664/device/rss/rss.html" },
+  { name: "MarketWatch",    sg:false, url: "http://feeds.marketwatch.com/marketwatch/topstories/" },
+  { name: "MW Realtime",    sg:false, url: "http://feeds.marketwatch.com/marketwatch/realtimeheadlines/" },
+  { name: "Yahoo Finance",  sg:false, url: "https://finance.yahoo.com/news/rssindex" },
+  { name: "Investing.com",  sg:false, url: "https://www.investing.com/rss/news.rss" },
+  { name: "FT",             sg:false, url: "https://www.ft.com/rss/home" },
+  { name: "CNA Business",   sg:true,  url: "https://www.channelnewsasia.com/rssfeeds/8395986" },
+  { name: "Business Times", sg:true,  url: "https://www.businesstimes.com.sg/rss/singapore" },
+];
+const MIN_STORIES = 15;
+const MAX_STORIES = 20;
+const MAX_SG = 2;
 const RSS_PROXY = "https://api.rss2json.com/v1/api.json?rss_url=";
 
-// ---- Market watchlist ----
-// "Top 5" by market cap, current as of last check — these rankings shift, so revisit occasionally.
-const WATCHLIST = {
-  "S&P 500": { index: "^GSPC", currency: "USD", stocks: ["AAPL","MSFT","NVDA","GOOGL","AMZN"] },
-  "STI":     { index: "^STI",  currency: "SGD", stocks: ["D05.SI","O39.SI","U11.SI","Z74.SI","S68.SI"] },
-};
-const YF_PROXY = "https://api.allorigins.win/raw?url=";
+// Backstop: drop anything obviously non-financial that slips through a broad feed.
+const BLOCK_WORDS = ["rugby","all blacks","football","soccer","nba ","nfl","tennis","cricket","olympic","world cup","movie","film","box office","celebrity","concert","album","recipe","horoscope"];
 
+/* =========================================================
+   ELEMENTS + HELPERS
+   ========================================================= */
 const storiesEl = document.getElementById("stories");
 const marketsEl = document.getElementById("markets");
 const statusText = document.getElementById("statusText");
 const statusDot = document.getElementById("statusDot");
 const refreshBtn = document.getElementById("refreshBtn");
-let timer = null;
+let indexTimer=null, heavyTimer=null;
 
-// ---------- helpers ----------
 function timeAgo(dateStr){
   const d = new Date(dateStr);
   if (isNaN(d)) return "";
-  const mins = Math.round((Date.now() - d.getTime()) / 60000);
-  if (mins < 1) return "just now";
-  if (mins < 60) return mins + "m ago";
-  const hrs = Math.round(mins / 60);
-  if (hrs < 24) return hrs + "h ago";
-  return Math.round(hrs / 24) + "d ago";
+  const mins = Math.round((Date.now()-d.getTime())/60000);
+  if (mins<1) return "just now";
+  if (mins<60) return mins+"m ago";
+  const hrs = Math.round(mins/60);
+  if (hrs<24) return hrs+"h ago";
+  return Math.round(hrs/24)+"d ago";
 }
-function stripHtml(html){
-  const div = document.createElement("div");
-  div.innerHTML = html || "";
-  return (div.textContent || "").trim();
-}
-function fmtPrice(n, ccy){
-  if (n === null || n === undefined || isNaN(n)) return "—";
-  return (ccy === "SGD" ? "S$" : "$") + Number(n).toFixed(2);
-}
-function fmtCap(n){
-  if (!n) return "—";
-  if (n >= 1e12) return (n/1e12).toFixed(2) + "T";
-  if (n >= 1e9)  return (n/1e9).toFixed(2) + "B";
-  if (n >= 1e6)  return (n/1e6).toFixed(2) + "M";
-  return n.toLocaleString();
-}
-function fmtVol(n){
-  if (!n) return "—";
-  if (n >= 1e6) return (n/1e6).toFixed(2) + "M";
-  if (n >= 1e3) return (n/1e3).toFixed(1) + "K";
-  return n.toLocaleString();
-}
+function stripHtml(html){ const d=document.createElement("div"); d.innerHTML=html||""; return (d.textContent||"").trim(); }
+function fmtPrice(n){ if(n==null||isNaN(n)) return "—"; return "$"+Number(n).toFixed(2); }
+function fmtCap(n){ if(!n) return "—"; if(n>=1e12) return "$"+(n/1e12).toFixed(2)+"T"; if(n>=1e9) return "$"+(n/1e9).toFixed(1)+"B"; if(n>=1e6) return "$"+(n/1e6).toFixed(1)+"M"; return "$"+n.toLocaleString(); }
+function fmtVol(n){ if(!n) return "—"; if(n>=1e6) return (n/1e6).toFixed(1)+"M"; if(n>=1e3) return (n/1e3).toFixed(0)+"K"; return n.toLocaleString(); }
 function sparkline(closes){
-  const w = 130, h = 30;
-  const vals = closes.filter(c => c !== null && c !== undefined);
-  if (vals.length < 2) return "";
-  const min = Math.min(...vals), max = Math.max(...vals);
-  const range = (max - min) || 1;
-  const step = w / (vals.length - 1);
-  const pts = vals.map((c,i) => `${(i*step).toFixed(1)},${(h - ((c-min)/range)*h).toFixed(1)}`).join(" ");
-  const color = vals[vals.length-1] >= vals[0] ? "var(--up)" : "var(--down)";
-  return `<svg class="spark" viewBox="0 0 ${w} ${h}" width="${w}" height="${h}"><polyline points="${pts}" fill="none" stroke="${color}" stroke-width="1.6"/></svg>`;
+  const w=220,h=44, vals=closes.filter(c=>c!=null);
+  if(vals.length<2) return "";
+  const min=Math.min(...vals), max=Math.max(...vals), range=(max-min)||1, step=w/(vals.length-1);
+  const pts=vals.map((c,i)=>`${(i*step).toFixed(1)},${(h-((c-min)/range)*h).toFixed(1)}`).join(" ");
+  const color=vals[vals.length-1]>=vals[0]?"var(--up)":"var(--down)";
+  return `<svg class="spark" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none"><polyline points="${pts}" fill="none" stroke="${color}" stroke-width="1.8"/></svg>`;
 }
 
-// ---------- news ----------
+/* =========================================================
+   NEWS
+   ========================================================= */
 async function fetchFeed(feed){
-  try {
-    const res = await fetch(RSS_PROXY + encodeURIComponent(feed.url));
-    if (!res.ok) throw new Error("bad response");
+  try{
+    const res = await fetch(RSS_PROXY+encodeURIComponent(feed.url));
+    if(!res.ok) throw 0;
     const data = await res.json();
-    if (!data.items) throw new Error("no items");
-    return data.items.slice(0, 3).map(item => ({
-      title: item.title,
-      link: item.link,
-      pubDate: item.pubDate,
-      snippet: stripHtml(item.description).slice(0, 140),
-      source: feed.name,
+    if(!data.items) throw 0;
+    return data.items.slice(0,4).map(it=>({
+      title: it.title, link: it.link, pubDate: it.pubDate,
+      snippet: stripHtml(it.description).slice(0,140),
+      source: feed.name, sg: feed.sg,
     }));
-  } catch (e) {
-    console.warn("Feed failed:", feed.name, e);
-    return [];
-  }
+  }catch(e){ console.warn("Feed failed:", feed.name); return []; }
 }
-function renderStories(stories){
-  if (!stories.length){
-    storiesEl.innerHTML = '<p class="error">Couldn\'t load any stories right now — try Refresh, or check the FEEDS list in the page source.</p>';
-    return;
-  }
-  storiesEl.innerHTML = stories.map((s, i) => `
+function isFinancial(story){
+  const t = (story.title||"").toLowerCase();
+  return !BLOCK_WORDS.some(w => t.includes(w));
+}
+function renderStories(list){
+  if(!list.length){ storiesEl.innerHTML='<p class="error">Couldn\'t load headlines right now — try Refresh.</p>'; return; }
+  storiesEl.innerHTML = list.map((s,i)=>`
     <article class="story">
       <div class="num">${String(i+1).padStart(2,"0")}</div>
       <div>
         <div class="meta">${s.source} · ${timeAgo(s.pubDate)}</div>
         <h2><a href="${s.link}" target="_blank" rel="noopener">${s.title}</a></h2>
-        ${s.snippet ? `<p class="snippet">${s.snippet}${s.snippet.length >= 140 ? "…" : ""}</p>` : ""}
+        ${s.snippet?`<p class="snippet">${s.snippet}${s.snippet.length>=140?"…":""}</p>`:""}
       </div>
-    </article>
-  `).join("");
+    </article>`).join("");
 }
 async function loadNews(){
   const results = await Promise.all(FEEDS.map(fetchFeed));
-  let stories = results.flat();
-  stories.sort((a,b) => new Date(b.pubDate) - new Date(a.pubDate));
-  stories = stories.slice(0, Math.max(MIN_STORIES, 8));
-  renderStories(stories);
+  let all = results.flat().filter(isFinancial);
+  // de-dupe by title
+  const seen = new Set();
+  all = all.filter(s => { const k=(s.title||"").toLowerCase(); if(seen.has(k)) return false; seen.add(k); return true; });
+  all.sort((a,b)=> new Date(b.pubDate)-new Date(a.pubDate));
+  // enforce max 2 Singapore, build final list
+  const final=[]; let sg=0;
+  for(const s of all){
+    if(final.length>=MAX_STORIES) break;
+    if(s.sg){ if(sg>=MAX_SG) continue; sg++; }
+    final.push(s);
+  }
+  // if under minimum only because of SG cap, that's fine — non-SG already prioritised
+  renderStories(final.slice(0, Math.max(MIN_STORIES, final.length>=MIN_STORIES?final.length:final.length)));
 }
 
-// ---------- markets ----------
-async function fetchYahoo(url){
-  const res = await fetch(YF_PROXY + encodeURIComponent(url));
-  if (!res.ok) throw new Error("bad response");
-  return res.json();
+/* =========================================================
+   MARKETS (Financial Modeling Prep)
+   ========================================================= */
+async function fmpQuote(symbols){
+  const url = `https://financialmodelingprep.com/api/v3/quote/${symbols.join(",")}?apikey=${FMP_KEY}`;
+  const res = await fetch(url);
+  if(!res.ok) throw new Error("quote http "+res.status);
+  const data = await res.json();
+  if(!Array.isArray(data)) throw new Error("quote payload");
+  const map={}; data.forEach(q=>map[q.symbol]=q); return map;
 }
-async function fetchIndexChart(symbol){
-  const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?range=5d&interval=1d`;
-  const data = await fetchYahoo(url);
-  const result = data.chart.result[0];
-  const closes = result.indicators.quote[0].close.filter(c => c !== null);
-  return { closes, meta: result.meta };
+async function fmpHistory(symbol){
+  const url = `https://financialmodelingprep.com/api/v3/historical-price-full/${symbol}?serietype=line&timeseries=7&apikey=${FMP_KEY}`;
+  const res = await fetch(url);
+  if(!res.ok) throw new Error("hist http "+res.status);
+  const data = await res.json();
+  const hist = (data.historical||[]).slice(0,5).map(d=>d.close).reverse();
+  return hist;
 }
-async function fetchQuotes(symbols){
-  const url = `https://query1.finance.yahoo.com/v7/finance/quote?symbols=${symbols.join(",")}`;
-  const data = await fetchYahoo(url);
-  return data.quoteResponse.result;
+
+// light refresh: just the two index prices
+async function refreshIndexPrices(){
+  try{
+    const q = await fmpQuote(CARDS.map(c=>c.track));
+    CARDS.forEach(c=>{
+      const el = document.getElementById("price-"+c.track);
+      if(el && q[c.track]) el.textContent = fmtPrice(q[c.track].price);
+    });
+  }catch(e){ console.warn("Index price refresh failed:", e.message); }
 }
-async function loadMarketCard(label, cfg){
-  try {
-    const [chart, quotes] = await Promise.all([
-      fetchIndexChart(cfg.index),
-      fetchQuotes(cfg.stocks),
+
+// heavy refresh: full cards (prices + 5d change + sparkline + tables)
+async function loadMarkets(){
+  try{
+    const allStocks = [...new Set(CARDS.flatMap(c=>[c.track, ...c.stocks]))];
+    const [quotes, ...histories] = await Promise.all([
+      fmpQuote(allStocks),
+      ...CARDS.map(c=>fmpHistory(c.track)),
     ]);
-    const closes = chart.closes;
-    const last = closes[closes.length - 1];
-    const first = closes[0];
-    const chgPct = ((last - first) / first) * 100;
-    const chgClass = chgPct >= 0 ? "up" : "down";
-    const chgSign = chgPct >= 0 ? "+" : "";
-
-    const rows = cfg.stocks.map(sym => {
-      const q = quotes.find(r => r.symbol === sym) || {};
-      return `<tr>
-        <td>${sym.replace(".SI","")}</td>
-        <td>${fmtPrice(q.regularMarketPrice, cfg.currency)}</td>
-        <td>${fmtCap(q.marketCap)}</td>
-        <td>${fmtVol(q.regularMarketVolume)}</td>
-      </tr>`;
-    }).join("");
-
-    return `
-      <div class="market-card">
+    const html = CARDS.map((c,idx)=>{
+      const closes = histories[idx] || [];
+      const q = quotes[c.track] || {};
+      const last = closes.length ? closes[closes.length-1] : q.price;
+      const first = closes.length ? closes[0] : q.price;
+      const chg = first ? ((last-first)/first)*100 : 0;
+      const cls = chg>=0?"up":"down", sign = chg>=0?"+":"";
+      const rows = c.stocks.map(sym=>{
+        const s = quotes[sym]||{};
+        return `<tr><td>${sym}</td><td>${fmtPrice(s.price)}</td><td>${fmtCap(s.marketCap)}</td><td>${fmtVol(s.volume)}</td></tr>`;
+      }).join("");
+      return `<div class="market-card">
         <div class="market-head">
-          <div>
-            <div class="market-name">${label}</div>
-            <div class="market-price">${fmtPrice(last, cfg.currency)}</div>
-          </div>
-          <div class="market-chg ${chgClass}">${chgSign}${chgPct.toFixed(2)}% / 5d</div>
+          <div><div class="market-name">${c.label}</div></div>
+          <div class="market-chg ${cls}">${sign}${chg.toFixed(2)}% / 5d</div>
         </div>
+        <div class="market-track">${c.note}</div>
+        <div class="market-price" id="price-${c.track}">${fmtPrice(q.price)}</div>
         ${sparkline(closes)}
         <table class="holdings">
-          <thead><tr><th>Ticker</th><th>Price</th><th>Mkt cap</th><th>Vol</th></tr></thead>
+          <thead><tr><th>Top 5</th><th>Price</th><th>Mkt cap</th><th>Vol</th></tr></thead>
           <tbody>${rows}</tbody>
         </table>
       </div>`;
-  } catch (e) {
-    console.warn("Market card failed:", label, e);
-    return `<div class="market-card"><div class="market-name">${label}</div><p class="mkt-error">Market data unavailable right now — try Refresh.</p></div>`;
+    }).join("");
+    marketsEl.innerHTML = html;
+  }catch(e){
+    console.warn("Markets failed:", e.message);
+    marketsEl.innerHTML = `<div class="market-card"><p class="mkt-error">Market data unavailable — this usually means the free daily quota (250 calls) is used up, or the API key needs checking. It resets next day; try Refresh later.</p></div>`;
   }
 }
-async function loadMarkets(){
-  const cards = await Promise.all(
-    Object.entries(WATCHLIST).map(([label, cfg]) => loadMarketCard(label, cfg))
-  );
-  marketsEl.innerHTML = cards.join("");
-}
 
-// ---------- refresh orchestration ----------
+/* =========================================================
+   ORCHESTRATION
+   ========================================================= */
 async function refreshAll(){
-  refreshBtn.disabled = true;
-  statusText.textContent = "Refreshing…";
-  statusDot.className = "dot stale";
-
+  refreshBtn.disabled=true; statusText.textContent="Refreshing…"; statusDot.className="dot stale";
   await Promise.all([loadNews(), loadMarkets()]);
-
-  const now = new Date();
-  statusText.textContent = "Updated " + now.toLocaleTimeString([], {hour:"2-digit", minute:"2-digit"});
-  statusDot.className = "dot";
-  refreshBtn.disabled = false;
+  statusText.textContent = "Updated "+new Date().toLocaleTimeString([], {hour:"2-digit", minute:"2-digit"});
+  statusDot.className="dot"; refreshBtn.disabled=false;
 }
-function scheduleAutoRefresh(){
-  if (timer) clearInterval(timer);
-  timer = setInterval(refreshAll, REFRESH_MS);
+function scheduleTimers(){
+  if(indexTimer) clearInterval(indexTimer);
+  if(heavyTimer) clearInterval(heavyTimer);
+  indexTimer = setInterval(refreshIndexPrices, INDEX_REFRESH_MS);
+  heavyTimer = setInterval(()=>{ loadMarkets(); loadNews(); }, HEAVY_REFRESH_MS);
 }
-
 refreshBtn.addEventListener("click", refreshAll);
 refreshAll();
-scheduleAutoRefresh();
+scheduleTimers();
 </script>
 </body>
 </html>
