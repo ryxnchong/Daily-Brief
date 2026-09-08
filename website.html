@@ -1,0 +1,392 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>The Daily Brief</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#16241c;
+    --paper:#f7f6f1;
+    --rule:#cfceC5;
+    --rule2:#dedcd2;
+    --mustard:#b5852b;
+    --muted:#5b6259;
+    --up:#3f7a4f;
+    --down:#b5482b;
+  }
+  *{box-sizing:border-box;}
+  html{font-size:14px;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'IBM Plex Mono', monospace;
+    line-height:1.5;
+    min-height:100vh;
+  }
+  .wrap{
+    max-width:760px;
+    margin:0 auto;
+    padding:36px 20px 70px;
+  }
+  header{
+    border-bottom:3px double var(--ink);
+    padding-bottom:14px;
+    margin-bottom:22px;
+  }
+  .masthead{
+    font-family:'Source Serif 4', serif;
+    font-weight:700;
+    font-size:32px;
+    letter-spacing:-0.01em;
+    margin:0 0 5px;
+  }
+  .sub{
+    display:flex;
+    justify-content:space-between;
+    align-items:baseline;
+    flex-wrap:wrap;
+    gap:8px;
+    font-size:11px;
+    color:var(--muted);
+  }
+  .status{display:flex; align-items:center; gap:8px; flex-wrap:wrap;}
+  .dot{width:6px;height:6px;border-radius:50%;background:var(--up);display:inline-block;}
+  .dot.stale{background:var(--mustard);}
+  button{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:10.5px;
+    background:var(--ink);
+    color:var(--paper);
+    border:none;
+    padding:5px 10px;
+    cursor:pointer;
+  }
+  button:hover{background:#2a3d30;}
+  button:disabled{opacity:.55;cursor:default;}
+  button:focus-visible, a:focus-visible{outline:2px solid var(--mustard); outline-offset:2px;}
+
+  h3.section{
+    font-family:'Source Serif 4', serif;
+    font-weight:600;
+    font-size:15px;
+    margin:32px 0 12px;
+    padding-bottom:6px;
+    border-bottom:1px solid var(--ink);
+  }
+
+  /* --- market snapshot --- */
+  .markets{display:grid; grid-template-columns:1fr 1fr; gap:20px;}
+  .market-card{border:1px solid var(--rule2); padding:12px;}
+  .market-head{display:flex; justify-content:space-between; align-items:flex-start; gap:8px; margin-bottom:6px;}
+  .market-name{font-family:'Source Serif 4', serif; font-weight:600; font-size:14px;}
+  .market-price{font-size:15px; font-weight:600;}
+  .market-chg{font-size:11px;}
+  .market-chg.up{color:var(--up);}
+  .market-chg.down{color:var(--down);}
+  .spark{display:block; margin:6px 0 8px;}
+  table.holdings{width:100%; border-collapse:collapse; font-size:10.5px;}
+  table.holdings th, table.holdings td{ text-align:left; padding:4px 4px; border-bottom:1px solid var(--rule2); white-space:nowrap;}
+  table.holdings th{color:var(--muted); font-weight:500; font-size:9.5px; text-transform:uppercase; letter-spacing:.03em;}
+  .mkt-error{font-size:11px; color:var(--muted); padding:8px 0;}
+
+  /* --- stories --- */
+  .story{
+    display:grid;
+    grid-template-columns:26px 1fr;
+    gap:14px;
+    padding:16px 0;
+    border-bottom:1px solid var(--rule2);
+  }
+  .story:first-child{padding-top:0;}
+  .num{
+    font-family:'Source Serif 4', serif;
+    font-size:16px;
+    color:var(--rule);
+    padding-top:1px;
+  }
+  h2{
+    font-family:'Source Serif 4', serif;
+    font-weight:600;
+    font-size:16px;
+    line-height:1.3;
+    margin:0 0 5px;
+  }
+  h2 a{color:var(--ink); text-decoration:none;}
+  h2 a:hover{text-decoration:underline; text-decoration-color:var(--mustard);}
+  .meta{
+    font-size:10px;
+    color:var(--mustard);
+    text-transform:uppercase;
+    letter-spacing:.04em;
+    margin-bottom:5px;
+  }
+  .snippet{
+    font-family:'Source Serif 4', serif;
+    font-size:12.5px;
+    color:#3a4038;
+    margin:0;
+  }
+  .empty, .error{
+    font-size:12px;
+    color:var(--muted);
+    padding:30px 0;
+  }
+  footer{
+    margin-top:32px;
+    font-size:10.5px;
+    color:var(--muted);
+    border-top:1px solid var(--rule2);
+    padding-top:14px;
+  }
+  @media (max-width:560px){
+    .masthead{font-size:26px;}
+    .markets{grid-template-columns:1fr;}
+    .story{grid-template-columns:18px 1fr; gap:10px;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1 class="masthead">The Daily Brief</h1>
+    <div class="sub">
+      <span class="status"><span class="dot" id="statusDot"></span><span id="statusText">Loading…</span></span>
+      <button id="refreshBtn">Refresh now</button>
+    </div>
+  </header>
+
+  <h3 class="section">Market snapshot — 5 day</h3>
+  <div class="markets" id="markets">
+    <p class="mkt-error">Loading market data…</p>
+  </div>
+
+  <h3 class="section">Today's stories</h3>
+  <main id="stories">
+    <p class="empty">Fetching today's stories…</p>
+  </main>
+
+  <footer>
+    News auto-refreshes every 3 hours while this tab is open. Edit <code>FEEDS</code> and <code>WATCHLIST</code> in the page source to change sources/tickers. Market data is sourced from an unofficial Yahoo Finance endpoint via a public CORS proxy — it can occasionally go down or rate-limit; treat prices as indicative, not for trading decisions.
+  </footer>
+</div>
+
+<script>
+// ---- News sources ----
+// Reuters and Bloomberg no longer publish public RSS feeds, so these route through
+// a Google News search scoped to each site — the closest reliable public substitute.
+const FEEDS = [
+  { name: "Reuters",          url: "https://news.google.com/rss/search?q=site:reuters.com+when:1d&hl=en-US&gl=US&ceid=US:en" },
+  { name: "Bloomberg",        url: "https://news.google.com/rss/search?q=site:bloomberg.com+when:1d&hl=en-US&gl=US&ceid=US:en" },
+  { name: "CNBC",             url: "https://www.cnbc.com/id/100003114/device/rss/rss.html" },
+  { name: "MarketWatch",      url: "http://feeds.marketwatch.com/marketwatch/topstories/" },
+  { name: "Yahoo Finance",    url: "https://finance.yahoo.com/news/rssindex" },
+  { name: "CNA Business",     url: "https://www.channelnewsasia.com/rssfeeds/8395986" },
+  { name: "Straits Times",    url: "https://www.straitstimes.com/news/business/rss.xml" },
+  { name: "Business Times SG",url: "https://www.businesstimes.com.sg/rss/singapore" },
+  { name: "Investing.com",    url: "https://www.investing.com/rss/news.rss" },
+  { name: "Financial Times",  url: "https://www.ft.com/rss/home" },
+];
+const MIN_STORIES = 8;
+const REFRESH_MS = 3 * 60 * 60 * 1000; // 3 hours
+const RSS_PROXY = "https://api.rss2json.com/v1/api.json?rss_url=";
+
+// ---- Market watchlist ----
+// "Top 5" by market cap, current as of last check — these rankings shift, so revisit occasionally.
+const WATCHLIST = {
+  "S&P 500": { index: "^GSPC", currency: "USD", stocks: ["AAPL","MSFT","NVDA","GOOGL","AMZN"] },
+  "STI":     { index: "^STI",  currency: "SGD", stocks: ["D05.SI","O39.SI","U11.SI","Z74.SI","S68.SI"] },
+};
+const YF_PROXY = "https://api.allorigins.win/raw?url=";
+
+const storiesEl = document.getElementById("stories");
+const marketsEl = document.getElementById("markets");
+const statusText = document.getElementById("statusText");
+const statusDot = document.getElementById("statusDot");
+const refreshBtn = document.getElementById("refreshBtn");
+let timer = null;
+
+// ---------- helpers ----------
+function timeAgo(dateStr){
+  const d = new Date(dateStr);
+  if (isNaN(d)) return "";
+  const mins = Math.round((Date.now() - d.getTime()) / 60000);
+  if (mins < 1) return "just now";
+  if (mins < 60) return mins + "m ago";
+  const hrs = Math.round(mins / 60);
+  if (hrs < 24) return hrs + "h ago";
+  return Math.round(hrs / 24) + "d ago";
+}
+function stripHtml(html){
+  const div = document.createElement("div");
+  div.innerHTML = html || "";
+  return (div.textContent || "").trim();
+}
+function fmtPrice(n, ccy){
+  if (n === null || n === undefined || isNaN(n)) return "—";
+  return (ccy === "SGD" ? "S$" : "$") + Number(n).toFixed(2);
+}
+function fmtCap(n){
+  if (!n) return "—";
+  if (n >= 1e12) return (n/1e12).toFixed(2) + "T";
+  if (n >= 1e9)  return (n/1e9).toFixed(2) + "B";
+  if (n >= 1e6)  return (n/1e6).toFixed(2) + "M";
+  return n.toLocaleString();
+}
+function fmtVol(n){
+  if (!n) return "—";
+  if (n >= 1e6) return (n/1e6).toFixed(2) + "M";
+  if (n >= 1e3) return (n/1e3).toFixed(1) + "K";
+  return n.toLocaleString();
+}
+function sparkline(closes){
+  const w = 130, h = 30;
+  const vals = closes.filter(c => c !== null && c !== undefined);
+  if (vals.length < 2) return "";
+  const min = Math.min(...vals), max = Math.max(...vals);
+  const range = (max - min) || 1;
+  const step = w / (vals.length - 1);
+  const pts = vals.map((c,i) => `${(i*step).toFixed(1)},${(h - ((c-min)/range)*h).toFixed(1)}`).join(" ");
+  const color = vals[vals.length-1] >= vals[0] ? "var(--up)" : "var(--down)";
+  return `<svg class="spark" viewBox="0 0 ${w} ${h}" width="${w}" height="${h}"><polyline points="${pts}" fill="none" stroke="${color}" stroke-width="1.6"/></svg>`;
+}
+
+// ---------- news ----------
+async function fetchFeed(feed){
+  try {
+    const res = await fetch(RSS_PROXY + encodeURIComponent(feed.url));
+    if (!res.ok) throw new Error("bad response");
+    const data = await res.json();
+    if (!data.items) throw new Error("no items");
+    return data.items.slice(0, 3).map(item => ({
+      title: item.title,
+      link: item.link,
+      pubDate: item.pubDate,
+      snippet: stripHtml(item.description).slice(0, 140),
+      source: feed.name,
+    }));
+  } catch (e) {
+    console.warn("Feed failed:", feed.name, e);
+    return [];
+  }
+}
+function renderStories(stories){
+  if (!stories.length){
+    storiesEl.innerHTML = '<p class="error">Couldn\'t load any stories right now — try Refresh, or check the FEEDS list in the page source.</p>';
+    return;
+  }
+  storiesEl.innerHTML = stories.map((s, i) => `
+    <article class="story">
+      <div class="num">${String(i+1).padStart(2,"0")}</div>
+      <div>
+        <div class="meta">${s.source} · ${timeAgo(s.pubDate)}</div>
+        <h2><a href="${s.link}" target="_blank" rel="noopener">${s.title}</a></h2>
+        ${s.snippet ? `<p class="snippet">${s.snippet}${s.snippet.length >= 140 ? "…" : ""}</p>` : ""}
+      </div>
+    </article>
+  `).join("");
+}
+async function loadNews(){
+  const results = await Promise.all(FEEDS.map(fetchFeed));
+  let stories = results.flat();
+  stories.sort((a,b) => new Date(b.pubDate) - new Date(a.pubDate));
+  stories = stories.slice(0, Math.max(MIN_STORIES, 8));
+  renderStories(stories);
+}
+
+// ---------- markets ----------
+async function fetchYahoo(url){
+  const res = await fetch(YF_PROXY + encodeURIComponent(url));
+  if (!res.ok) throw new Error("bad response");
+  return res.json();
+}
+async function fetchIndexChart(symbol){
+  const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?range=5d&interval=1d`;
+  const data = await fetchYahoo(url);
+  const result = data.chart.result[0];
+  const closes = result.indicators.quote[0].close.filter(c => c !== null);
+  return { closes, meta: result.meta };
+}
+async function fetchQuotes(symbols){
+  const url = `https://query1.finance.yahoo.com/v7/finance/quote?symbols=${symbols.join(",")}`;
+  const data = await fetchYahoo(url);
+  return data.quoteResponse.result;
+}
+async function loadMarketCard(label, cfg){
+  try {
+    const [chart, quotes] = await Promise.all([
+      fetchIndexChart(cfg.index),
+      fetchQuotes(cfg.stocks),
+    ]);
+    const closes = chart.closes;
+    const last = closes[closes.length - 1];
+    const first = closes[0];
+    const chgPct = ((last - first) / first) * 100;
+    const chgClass = chgPct >= 0 ? "up" : "down";
+    const chgSign = chgPct >= 0 ? "+" : "";
+
+    const rows = cfg.stocks.map(sym => {
+      const q = quotes.find(r => r.symbol === sym) || {};
+      return `<tr>
+        <td>${sym.replace(".SI","")}</td>
+        <td>${fmtPrice(q.regularMarketPrice, cfg.currency)}</td>
+        <td>${fmtCap(q.marketCap)}</td>
+        <td>${fmtVol(q.regularMarketVolume)}</td>
+      </tr>`;
+    }).join("");
+
+    return `
+      <div class="market-card">
+        <div class="market-head">
+          <div>
+            <div class="market-name">${label}</div>
+            <div class="market-price">${fmtPrice(last, cfg.currency)}</div>
+          </div>
+          <div class="market-chg ${chgClass}">${chgSign}${chgPct.toFixed(2)}% / 5d</div>
+        </div>
+        ${sparkline(closes)}
+        <table class="holdings">
+          <thead><tr><th>Ticker</th><th>Price</th><th>Mkt cap</th><th>Vol</th></tr></thead>
+          <tbody>${rows}</tbody>
+        </table>
+      </div>`;
+  } catch (e) {
+    console.warn("Market card failed:", label, e);
+    return `<div class="market-card"><div class="market-name">${label}</div><p class="mkt-error">Market data unavailable right now — try Refresh.</p></div>`;
+  }
+}
+async function loadMarkets(){
+  const cards = await Promise.all(
+    Object.entries(WATCHLIST).map(([label, cfg]) => loadMarketCard(label, cfg))
+  );
+  marketsEl.innerHTML = cards.join("");
+}
+
+// ---------- refresh orchestration ----------
+async function refreshAll(){
+  refreshBtn.disabled = true;
+  statusText.textContent = "Refreshing…";
+  statusDot.className = "dot stale";
+
+  await Promise.all([loadNews(), loadMarkets()]);
+
+  const now = new Date();
+  statusText.textContent = "Updated " + now.toLocaleTimeString([], {hour:"2-digit", minute:"2-digit"});
+  statusDot.className = "dot";
+  refreshBtn.disabled = false;
+}
+function scheduleAutoRefresh(){
+  if (timer) clearInterval(timer);
+  timer = setInterval(refreshAll, REFRESH_MS);
+}
+
+refreshBtn.addEventListener("click", refreshAll);
+refreshAll();
+scheduleAutoRefresh();
+</script>
+</body>
+</html>
