@@ -1,0 +1,75 @@
+name: Update prices
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # every 30 minutes (UTC). GitHub may delay off-peak; that's normal.
+  workflow_dispatch: {}        # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Fetch quotes from Finnhub and write prices.json
+        env:
+          FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
+        run: |
+          python3 - <<'PY'
+          import json, os, time, urllib.request
+
+          KEY = os.environ["FINNHUB_KEY"]
+
+          # symbol -> display label. Finnhub uses ".SI" for SGX names.
+          SYMBOLS = {
+              "SPY":     "S&P 500 (SPY)",
+              "QQQ":     "Nasdaq (QQQ)",
+              "AAPL":    "Apple",
+              "MSFT":    "Microsoft",
+              "GOOGL":   "Alphabet",
+              "NVDA":    "Nvidia",
+              "AVGO":    "Broadcom",
+              "JPM":     "JPMorgan",
+              "GS":      "Goldman Sachs",
+              "BAC":     "Bank of America",
+              "MS":      "Morgan Stanley",
+              "C":       "Citigroup",
+              "^STI":    "STI",
+              "D05.SI":  "DBS",
+              "U11.SI":  "UOB",
+              "O39.SI":  "OCBC",
+              "C6L.SI":  "SIA",
+          }
+
+          out = {}
+          for sym, label in SYMBOLS.items():
+              try:
+                  url = f"https://finnhub.io/api/v1/quote?symbol={urllib.parse.quote(sym)}&token={KEY}"
+                  with urllib.request.urlopen(url, timeout=20) as r:
+                      d = json.load(r)
+                  # c=current, dp=percent change, pc=prev close
+                  if d and d.get("c"):
+                      out[sym] = {"label": label, "price": d.get("c"), "pct": d.get("dp"), "prevClose": d.get("pc")}
+                  else:
+                      out[sym] = {"label": label, "price": None, "pct": None, "prevClose": None}
+              except Exception as e:
+                  out[sym] = {"label": label, "price": None, "pct": None, "prevClose": None, "error": str(e)}
+              time.sleep(1)  # stay well under 60 req/min
+
+          payload = {"updated": int(time.time()), "quotes": out}
+          with open("prices.json", "w") as f:
+              json.dump(payload, f, indent=2)
+          print("wrote prices.json with", len(out), "symbols")
+          PY
+
+      - name: Commit prices.json if it changed
+        run: |
+          git config user.name "prices-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add prices.json
+          git diff --staged --quiet || git commit -m "Update prices.json"
+          git push
