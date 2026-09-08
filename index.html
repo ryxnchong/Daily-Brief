@@ -58,13 +58,14 @@
   /* stories in a 2-across grid: 1 left, 2 right, 3 left, 4 right ... */
   .stories{display:grid; grid-template-columns:1fr 1fr; gap:0 26px;}
   @media(max-width:620px){ .stories{grid-template-columns:1fr;} }
-  .story{break-inside:avoid; padding:12px 0; border-bottom:1px solid var(--rule); display:grid; grid-template-columns:1fr 20px; gap:6px; align-items:start;}
+  .story{break-inside:avoid; padding:12px 0; border-bottom:1px solid var(--rule); display:grid; grid-template-columns:1fr 20px; gap:6px; align-items:start; min-width:0;}
+  .story > div{min-width:0;}
   .story .meta{font-family:'IBM Plex Mono',monospace; font-size:8.5px; letter-spacing:.08em; text-transform:uppercase; color:var(--dim); margin-bottom:4px; display:flex; align-items:center; gap:5px; flex-wrap:wrap;}
   .story .star{color:var(--star);}
-  .story h2{font-family:'Playfair Display', serif; font-weight:700; font-size:14.5px; line-height:1.2; margin:0 0 5px; overflow-wrap:break-word; hyphens:auto;}
+  .story h2{font-family:'Playfair Display', serif; font-weight:700; font-size:14.5px; line-height:1.2; margin:0 0 5px; overflow-wrap:normal; word-break:normal; hyphens:none; min-width:0;}
   .story h2 a{color:var(--ink); text-decoration:none;}
   .story h2 a:hover{text-decoration:underline;}
-  .story .snippet{font-size:11px; line-height:1.45; color:#3a352c; margin:0; overflow-wrap:break-word;}
+  .story .snippet{font-size:11px; line-height:1.45; color:#3a352c; margin:0; overflow-wrap:break-word; min-width:0;}
   .heart{background:none; border:none; cursor:pointer; font-size:14px; color:var(--rule); padding:0; align-self:start;}
   .heart.liked{color:var(--star);} .heart:hover{color:var(--star);}
   .empty,.error{font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--dim); padding:26px 0; grid-column:1/-1;}
@@ -142,9 +143,9 @@ const PRICES_URL = "prices.json";   // written by the GitHub Action
 
 // Which price symbols each tab shows (keys must match prices.json)
 const TAB_TICKERS = {
-  global:    ["SPY","QQQ"],
+  global:    ["SPY","QQQ","DIA","^HSI"],
   tech:      ["AAPL","MSFT","GOOGL","NVDA","AVGO"],
-  banks:     ["SPY","QQQ"],
+  banks:     ["JPM","MS","BAC","C","WFC","HSBC"],
   singapore: ["^STI","D05.SI","U11.SI","O39.SI","C6L.SI"],
 };
 const TAB_LEDE = { global:"Global Markets", tech:"Technology", banks:"Banking & Finance", singapore:"Singapore" };
