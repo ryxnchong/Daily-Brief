@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "updated": 1788867504,
+  "updated": 1788869274,
   "tabs": {
     "global": [
       {
@@ -25,13 +25,6 @@
         "source": "Reuters"
       },
       {
-        "title": "UK retailer Next wins appeal to pay warehouse staff higher basic pay - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObHJuNVN4UkFVS1M1c2dQcWFqV0hPcFhidzI5RVdmLUEwdzh4X2ZyMl9jRWxmQU9EWHJGWUZHV3Y3UXhqSFlxbE5ENno0OE0tZ3o5ajRjbF9PcmNpVzJhMG14WVR1SkNNV3VUSUo5eVYtZVpVX1U1R3MwX3JFbVVkcUtYRDJ4RmFZazFDd05EcnVybi1pbk05YVhZUDhWbEFoaDBzUg?oc=5",
-        "pubDate": "Mon, 07 Sep 2026 12:48:14 GMT",
-        "snippet": "UK retailer Next wins appeal to pay warehouse staff higher basic pay&nbsp;&nbsp;Reuters",
-        "source": "Reuters"
-      },
-      {
         "title": "Another rate hike, just for insurance: Five questions for the ECB - Reuters",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUFuUFh6VTdaUzh1amJOYk43S256U1ZCVzJ1aXhBTE9UdkN4TTJLTG1LcUZKYURQd0RLRThKNzBzQkFaOE5pdmRZbUpLRWEwa09lX2xDLTlGNlJvVk1PSDA3dG15SUg1Qk5aejlNSGp2dmxYemRzeFZFdXQ0WjIyakFRYkUzT2kwcHR2a3BBZXNCRzFKUFRVN2FybzVmSFB4bEI5VWJLcw?oc=5",
         "pubDate": "Mon, 07 Sep 2026 04:03:00 GMT",
@@ -43,6 +36,13 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdzREc0pTbkJYakNVdk83YXAxTmpwU2gyMGNfbHFpVk4zTEdnVExLcHFUNUpYc0Zya0NyMnVQTGFObXZIeVk3X1I2MFRZQWFGWVJteHdMWEdod3k3N0FhbmliMFRrMG42OTV2bWNvSHZ6Y0lGT0Z1Ymc5NEZTeXExOGtmZkNRcXNfSWpGcXZGLUlHNElxNHVFQk5QN3JoR05xR2JxU29DZ0RiTC1NLWxzMWZiV3p3SnFUcHI1T2oyNElJMWFQMjFscVpB?oc=5",
         "pubDate": "Mon, 07 Sep 2026 17:51:00 GMT",
         "snippet": "Trump says Canada's Bombardier must build jets in US or lose market access&nbsp;&nbsp;Reuters",
+        "source": "Reuters"
+      },
+      {
+        "title": "Germany risks potential winter gas shortage due low storage levels, lobby group says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMnBOWVQ4SDZrTUZweEJWTHFQUTJFTFNNM3ZXaHVPa0VNLXA0ZUdiRkczZ1VybUtob2RXS1hlR2k4NHNrengyM2RrcGRfN0FRUzROUWRObG84dXh6VVEtLXF6dC1BbjhtYk9YZXVlN0w4cnF6c09YVlM3ME85OFhJR3hNN2o3Q0lWcEwxN2lPYkNjdFhSOVhGSGV2YnVveEFoWUcyMmduWlowZE55NGpvMVJzTW1qek9TcWN5T1kxdG1hR3F5eDZxT0Rn?oc=5",
+        "pubDate": "Tue, 08 Sep 2026 04:08:00 GMT",
+        "snippet": "Germany risks potential winter gas shortage due low storage levels, lobby group says&nbsp;&nbsp;Reuters",
         "source": "Reuters"
       },
       {
@@ -74,17 +74,17 @@
         "source": "Bloomberg"
       },
       {
-        "title": "Aliko Dangote, Investment Banks Sign Africa\u2019s Biggest IPO Deal - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQXzNKNk5Gemw0bXBsT29WYldMVV82UnhHZ3NCWTZwY1lGZXNWUmNsZDFWNlY0cEpmcno5UFlySGEwYm82MHBlSnljUXFocmd4MnhKdmJhdFIzLXpGRFB5N2djTjZPbE56T1hlMkdaMmxJeTRjWTI4TUdzZWxBSkNUd2dVaUdWWG5iMDVtaG1YOV8zZ0hjMFBKa3FZYkJ4S09ubHhjUjhSdFJnNk9DZ05rbGN3?oc=5",
-        "pubDate": "Mon, 07 Sep 2026 11:49:19 GMT",
-        "snippet": "Aliko Dangote, Investment Banks Sign Africa\u2019s Biggest IPO Deal&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg"
-      },
-      {
         "title": "BlackRock Says Chronic Climate Risks Not Priced In by Markets - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRTdYQW5xMU5waHM2U0hlRnZ3X3lNLURPUGtfZ3JVVVRsRmNvU08yT21ldEhoLTRiVVR2eThRdDdvUl9rWk1peFAxSWtGYmlIdG1HQXY4TDAxWHdVMTYzejZUTk1Jb1Uyc0hFdFY4QlpQUDFVVnNienFpQkptYnFTeU5oNm0tUDR6YkJ4cjNFVTZfRno1UU4xM3JNYTU4WDdsLVFWSkRLT3RSNlRzeFZ5SnB3?oc=5",
         "pubDate": "Mon, 07 Sep 2026 09:02:01 GMT",
         "snippet": "BlackRock Says Chronic Climate Risks Not Priced In by Markets&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg"
+      },
+      {
+        "title": "Aliko Dangote, Investment Banks Sign Africa\u2019s Biggest IPO Deal - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQXzNKNk5Gemw0bXBsT29WYldMVV82UnhHZ3NCWTZwY1lGZXNWUmNsZDFWNlY0cEpmcno5UFlySGEwYm82MHBlSnljUXFocmd4MnhKdmJhdFIzLXpGRFB5N2djTjZPbE56T1hlMkdaMmxJeTRjWTI4TUdzZWxBSkNUd2dVaUdWWG5iMDVtaG1YOV8zZ0hjMFBKa3FZYkJ4S09ubHhjUjhSdFJnNk9DZ05rbGN3?oc=5",
+        "pubDate": "Mon, 07 Sep 2026 11:49:19 GMT",
+        "snippet": "Aliko Dangote, Investment Banks Sign Africa\u2019s Biggest IPO Deal&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg"
       },
       {
@@ -95,17 +95,17 @@
         "source": "CNBC"
       },
       {
-        "title": "Pharma major Novartis falls 9% after three drug trial setbacks - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WRTg5RHNwODJqN0twNlIteDJySzZOWk9CZXU0QzlZQmZram5Ya3QzeUhCTzdOQmJGX2NnenB2VTB0STZpMmJBLVZCYWZRUHB4elFZTER3WXp1b25sSGVxYXBfX09nM1J6VVJUMGlBVFl0MWd2Sm5vaWpGS2RXQdIBgwFBVV95cUxOZFNRTnU3cHFQOExSSHhzRjdmUkpnOGo0N2JFVXFJZWx4NHVGZ3RzcUdrWDBVR3lnRl9tbUlKbnc2aDhpM3V5RDBJSUtiZUtLRU1QakpaQnBLYk9lMXVJakI4Qm1aNUlKampmbm1TeUJJU0lSWlNIY21SVWFZNHlwWlJwcw?oc=5",
-        "pubDate": "Tue, 08 Sep 2026 07:51:59 GMT",
-        "snippet": "Pharma major Novartis falls 9% after three drug trial setbacks&nbsp;&nbsp;CNBC",
-        "source": "CNBC"
-      },
-      {
         "title": "Treasury yields tick higher as traders look ahead to more economic data releases - CNBC",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04UGw1UFY1elotUW5wTkNRUWlUQnl0N3A2bzAzc0RjTW13Ry1kbDl1V3hIQzZKUTQxWDFaRmZfR0NzbVRFVTdLbjBXbVRmRHJrT1pSYzZ6SUNPV1E2TmZSemtNSEtUTTJQX2l6VlBR0gFzQVVfeXFMTWxJaWcyU3VQRmZaRnpPNE9Ma3JPR21VbVZYN2JudlRPY1hrcUtVNmpNVVFPVXRraWtfcjFHVjJuMHRMV1J5VFo5WG9OWXA3bFJpeFRFYkg1dTRiX3FUX210T0p6cGxTcF9XTHU4TVNNdi1qZw?oc=5",
         "pubDate": "Tue, 08 Sep 2026 08:08:34 GMT",
         "snippet": "Treasury yields tick higher as traders look ahead to more economic data releases&nbsp;&nbsp;CNBC",
+        "source": "CNBC"
+      },
+      {
+        "title": "Pharma major Novartis falls 9% after three drug trial setbacks - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WRTg5RHNwODJqN0twNlIteDJySzZOWk9CZXU0QzlZQmZram5Ya3QzeUhCTzdOQmJGX2NnenB2VTB0STZpMmJBLVZCYWZRUHB4elFZTER3WXp1b25sSGVxYXBfX09nM1J6VVJUMGlBVFl0MWd2Sm5vaWpGS2RXQdIBgwFBVV95cUxOZFNRTnU3cHFQOExSSHhzRjdmUkpnOGo0N2JFVXFJZWx4NHVGZ3RzcUdrWDBVR3lnRl9tbUlKbnc2aDhpM3V5RDBJSUtiZUtLRU1QakpaQnBLYk9lMXVJakI4Qm1aNUlKampmbm1TeUJJU0lSWlNIY21SVWFZNHlwWlJwcw?oc=5",
+        "pubDate": "Tue, 08 Sep 2026 07:51:59 GMT",
+        "snippet": "Pharma major Novartis falls 9% after three drug trial setbacks&nbsp;&nbsp;CNBC",
         "source": "CNBC"
       },
       {
@@ -123,10 +123,10 @@
         "source": "CNBC"
       },
       {
-        "title": "Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWU9TdjZUU2ozWGhJMGRpaHNzWnZNUjYyTW1BSHVNQ0ZEWmx1QlBkaDVLUHR5RzltNG01UEgyX1BUTW9JaVVMSFFIdGxPcEgzNTY5OGhtSDlHeG1FTXZubnVkSUZQay1HLWE1SzRzRzBBMm1yY0hmZEpVNHprTm1Jc0tKUy1ENUY1dzVlU0FTQXpEV0dW0gGaAUFVX3lxTE1HS3J6TzlEWlhBQzVGSHQ0VFh6OEkxc2lYVGhOYUZ4dTA2VGd3aVQydmdLSnhKYV8xVFB2SjB4azY1bTV3U0doQjl5b292emJ0UG84cDN4cFZpWmt6bk0yR05TbkRqRWlabldQcl9uV0xkd3J1VVJHS19EdlZVZ25pR1hHYjd6eUlsTmFhU3oyVTlBSDVzQnZndlE?oc=5",
-        "pubDate": "Tue, 08 Sep 2026 01:50:00 GMT",
-        "snippet": "Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz&nbsp;&nbsp;CNBC",
+        "title": "Santoli: One key tech ETF may signal whether this bull market can keep marching on - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVXQzX01SeGg3MFY3OE5VNFItVE9MR29ndloxZUtyOEdfMzc2WGNTcDF0ZWh6YWNVOG90Q1lKQVBXeUFGc3pyUUR6MERKc3FMQ1d1YkZhaGt3dVdELTRSWHJsYWJCN1A2dmkzTEduVGhkTDYtc29SRWFUclkzWVJQdm1oVjlBN01hVTY1Z3Bxa1dRWUtqQlI2V2cySU8tbTg4alNsVkY4SkV1MHZKd0FmbjdSLW0waExuV2fSAb8BQVVfeXFMT1A2R0xHalh3X3AzU3BRUDRnYUFVYmRvbXhFeUE5V2pFMklaclJhaXhEbkFsSFdPMXNzaHE4dTZZdEYzdVBHbnBrMHNJNHhuUlRNNlI0cmc0eHUzZ2ZjM2JwWUZ5RU9LWnFhMDc3Tlp6dHhGcW5BMlJ5VjZXZ1hwQVVwM2VCQlZ2Tnp5QTY0OGw2TzBkRFlNOG14bFFrS1RSUUJma2s5UUZiZGZTd2RtejNGUTd6YXZoMjFYZzNjYUE?oc=5",
+        "pubDate": "Tue, 08 Sep 2026 11:42:04 GMT",
+        "snippet": "Santoli: One key tech ETF may signal whether this bull market can keep marching on&nbsp;&nbsp;CNBC",
         "source": "CNBC"
       },
       {
@@ -137,16 +137,9 @@
         "source": "FT"
       },
       {
-        "title": "Why America\u2019s debt binge is starting to matter - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR19lSmVCaEMySWVxM2xCeVZ3SUhNUFlabGdyaHBuSHRBdGlybEhzWnZUSF93aGFTanZ1U2hHeVR6dXNDWjkyVDJjU0duRGRQZXo1MmYxWEszUTNaeUNKbjh2MmNBYVpGWVFueTZhMU53UjZFWk5nTTRGYlBSRHFRV09GVVU?oc=5",
-        "pubDate": "Mon, 07 Sep 2026 04:01:48 GMT",
-        "snippet": "Why America\u2019s debt binge is starting to matter&nbsp;&nbsp;Financial Times",
-        "source": "FT"
-      },
-      {
         "title": "China\u2019s 25% export surge sets stage for record annual trade surplus - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcnkxQXZIUUNxQzlQMXFUYTNMTXpfSjdjcHZaSUtTa0U4dEF1dHZUYzk2QzRDdzJlN0djaFNObE9qSXo1QUthc25Wck16MUZjd1FIVGFmZEg1RDlRZGFFRndWbENRVXpEUWVPRnM5MFd6aWlNaHpIblA0ejNZZW1PT3l1RjU?oc=5",
-        "pubDate": "Tue, 08 Sep 2026 05:46:12 GMT",
+        "pubDate": "Tue, 08 Sep 2026 03:00:21 GMT",
         "snippet": "China\u2019s 25% export surge sets stage for record annual trade surplus&nbsp;&nbsp;Financial Times",
         "source": "FT"
       },
@@ -170,6 +163,13 @@
         "pubDate": "Tue, 08 Sep 2026 04:00:27 GMT",
         "snippet": "Why Japan Inc can brush off interest-rate hikes \u2014 and America can\u2019t&nbsp;&nbsp;Financial Times",
         "source": "FT"
+      },
+      {
+        "title": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3Z6TmVsNklaVTFJUzRYNkxMQjFoN2ZvSnJjbHlmX0JzTzgwUTRGVUlXR3NPM08wemRmUlItRGlBVzZNSlh0cXBiN1BsRW5LRzYtQUZ2QktPSF9ZQUY5SFRNalJYb0puYmtjQVFiQjZWWkNpQ2hQd1ZBUFRRZDhrdVBhbkk?oc=5",
+        "pubDate": "Tue, 08 Sep 2026 05:34:05 GMT",
+        "snippet": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO&nbsp;&nbsp;Financial Times",
+        "source": "FT"
       }
     ],
     "tech": [
@@ -188,17 +188,17 @@
         "source": "Reuters Tech"
       },
       {
+        "title": "Apple's Ternus faces AI test as foldable iPhone takes center stage - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcmV4NTJaYXg0aHhFODItdnhNd292QjhkM1RvMGFmTlJ5cEhkc2VfU1I2Y3BqNHZpdDJmeWZaNlRVdTlGczJTZXZQLXY5RFBIX2xCYlpCaGFaN05DY1BJbmdQTm9DckJuaXJLSmtXSE45Zm90RlR5NEJJX2g2YUdLV1k0S1M1bnByX2VOUC1JeU9iQUFkQnVfbHFYWlNvNncxNXFfdDdYNExiUDg4TnlyUlZfcEF6T2dJc0ZXTlpzSGI?oc=5",
+        "pubDate": "Tue, 08 Sep 2026 11:19:45 GMT",
+        "snippet": "Apple's Ternus faces AI test as foldable iPhone takes center stage&nbsp;&nbsp;Reuters",
+        "source": "Reuters Tech"
+      },
+      {
         "title": "China's exports surge as demand for high-tech, AI help prop up economic growth - Reuters",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmQ2cXNneko5R0o0eDZ1MUVmY25oRkhpeVNDUXJFNVdhMDV1eDg1TnFFWjg4Z1pqUk9lYTZoWHUyblNqT1NZRDlhMEFjN2REVm9CWFBhM2hIbkVLd2lOQ1otRUtpNlFLNmkxeEdYUzRVbUs0MGF5R1VfOHZjMkJzUllpODZja01aZWdDM2R4cl82WHZldExHcV9IN2x2S3d5eFZjYmVn?oc=5",
         "pubDate": "Tue, 08 Sep 2026 02:45:00 GMT",
         "snippet": "China's exports surge as demand for high-tech, AI help prop up economic growth&nbsp;&nbsp;Reuters",
-        "source": "Reuters Tech"
-      },
-      {
-        "title": "Apple's Ternus faces AI test as foldable iPhone takes center stage - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcmV4NTJaYXg0aHhFODItdnhNd292QjhkM1RvMGFmTlJ5cEhkc2VfU1I2Y3BqNHZpdDJmeWZaNlRVdTlGczJTZXZQLXY5RFBIX2xCYlpCaGFaN05DY1BJbmdQTm9DckJuaXJLSmtXSE45Zm90RlR5NEJJX2g2YUdLV1k0S1M1bnByX2VOUC1JeU9iQUFkQnVfbHFYWlNvNncxNXFfdDdYNExiUDg4TnlyUlZfcEF6T2dJc0ZXTlpzSGI?oc=5",
-        "pubDate": "Tue, 08 Sep 2026 10:11:47 GMT",
-        "snippet": "Apple's Ternus faces AI test as foldable iPhone takes center stage&nbsp;&nbsp;Reuters",
         "source": "Reuters Tech"
       },
       {
@@ -272,6 +272,13 @@
         "source": "CNBC Tech"
       },
       {
+        "title": "Santoli: One key tech ETF may signal whether this bull market can keep marching on - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVXQzX01SeGg3MFY3OE5VNFItVE9MR29ndloxZUtyOEdfMzc2WGNTcDF0ZWh6YWNVOG90Q1lKQVBXeUFGc3pyUUR6MERKc3FMQ1d1YkZhaGt3dVdELTRSWHJsYWJCN1A2dmkzTEduVGhkTDYtc29SRWFUclkzWVJQdm1oVjlBN01hVTY1Z3Bxa1dRWUtqQlI2V2cySU8tbTg4alNsVkY4SkV1MHZKd0FmbjdSLW0waExuV2fSAb8BQVVfeXFMT1A2R0xHalh3X3AzU3BRUDRnYUFVYmRvbXhFeUE5V2pFMklaclJhaXhEbkFsSFdPMXNzaHE4dTZZdEYzdVBHbnBrMHNJNHhuUlRNNlI0cmc0eHUzZ2ZjM2JwWUZ5RU9LWnFhMDc3Tlp6dHhGcW5BMlJ5VjZXZ1hwQVVwM2VCQlZ2Tnp5QTY0OGw2TzBkRFlNOG14bFFrS1RSUUJma2s5UUZiZGZTd2RtejNGUTd6YXZoMjFYZzNjYUE?oc=5",
+        "pubDate": "Tue, 08 Sep 2026 11:42:04 GMT",
+        "snippet": "Santoli: One key tech ETF may signal whether this bull market can keep marching on&nbsp;&nbsp;CNBC",
+        "source": "CNBC Tech"
+      },
+      {
         "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts - CNBC",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZk9UZ1N2d2pack13Um5mcUNYOXFSMFE4elo0Rnh1UVZLU21RZGhKbWlFZHRvWVdhS3lwUVZabDZtR000VFZ6bWJMcWJ4OWxLUkc1REl1N0VfcTJOLURZSVNReUtnYWRRc1VZaThaRW82czU4VDc3M3prY2l4VnFiYThiTVI2UdIBiwFBVV95cUxQWWo4RjNJbmtRQlY3S0x6Rnc3WUo4T2t6TmVXODB2WEVfUmlrb0U0UnlFYnpWbDNDYmFIZ1NyNnlna2Y1Wng2dW5oeXFvM3E1ZzUtQm9LbWNCSW9nWjBfMGU3Rl82ZjJZbHFHSUZvd1NJLTU5bEhUTXZnbkE4SEtMTlJ6Um42akZrVjk0?oc=5",
         "pubDate": "Mon, 07 Sep 2026 11:06:20 GMT",
@@ -279,17 +286,10 @@
         "source": "CNBC Tech"
       },
       {
-        "title": "AI data centers are transforming rural land markets \u2014 and fueling a backlash - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0VSWlFxcndIbkxjaWdlNFVNVktJUExoYV9KdXMwT0o0enczbHRraGNINE8yVlh6cHd5VW9nSmtMQnlvTFJXSzNFVmpYVVpIZmNlcHh3NUlJY1NWRkNwSVA0WXFRU05fZkxmVTRyYTlGN0hyRXg3bWNEWVVYLWh1VUp2YjRMUVZUR0ZIcGpzQXFabEt6dll3N2t2Yk5pMnFKOVhTU1lJbWrSAa4BQVVfeXFMUFNBdi0wVVM5X3ZfSU1ZTEV0MFdyY0tueVdJQ0xTZ20ycE9xdW5scHQ0Uzg5SXVkUTNpLW5UaklfcmdTeUxXbExFdzNfS3VxSXJrWHlvWTNnWnhrRzF5Wk5TQXFDR1pWVnJkRnlkdEloTHdyRUxEbl82Y2hJejVTUVRRNzNJdjVXQ2Jva04zZGVDRVNfU3BhTVFvb056NkZ3VXcxQW5QMGMyWFg1b3ZB?oc=5",
-        "pubDate": "Sun, 06 Sep 2026 12:00:01 GMT",
-        "snippet": "AI data centers are transforming rural land markets \u2014 and fueling a backlash&nbsp;&nbsp;CNBC",
-        "source": "CNBC Tech"
-      },
-      {
-        "title": "\u2018Model fatigue\u2019 sets in as AI labs race to roll out new versions at frenetic pace - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGE4Q2Q0VHRjb2tCbGpsemp2Ql9uSW1zdXdRVDVOUFgxdXhXcTBOTlFHamp5bkQzN1Foam44WWFlNXZTWGVpdXdWMEhqMTBVbklsR2YtdE83Wkd5SG12WjF5akVSeUF2RE9SRjZPQ01mTEtnRzNEc1hjRHJIQ1V0aUw1MHNzSDVsTFHSAY8BQVVfeXFMTVdCNVVRWEpVQ1RLcDVsQ3VhVmtWQlZMek91OVJWSExlQWxLOEpoUm8xenRUb1d2YTJxbUhRRUNjUFBkbFpHVUlXUnNsalUtVk1sUlBmSTFLOEZhbTM0cHM4azJmdUVYLXJwRlUxaV9Wd1BBa3h0Z3p1MzAwdEp1ajljZG1xdTZVeTVZR3RDRkk?oc=5",
-        "pubDate": "Sun, 06 Sep 2026 12:00:01 GMT",
-        "snippet": "\u2018Model fatigue\u2019 sets in as AI labs race to roll out new versions at frenetic pace&nbsp;&nbsp;CNBC",
+        "title": "Australia to let social media users 'opt out' of algorithm-based feeds in fresh blow to big tech - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUWVPVWJSWmJiejUyTUlNZnBCMjNEWlE2enpDVy1uT0ZHTjViZFNuQTMwd3gxSGdrMGM0UTdvQnVLVEtLbEplSndDRTk1YldrckNqVG1LLUFjWVN5MHREOWVTcV9JVWVKd1FCT3ltLVZaeWJvd3V2LTM1aWJjbEtjMkd2RdIBiAFBVV95cUxOWjBjcmxOYmFYUUl1YW1uaGZ1SEJnazFnVHRWRWF2RTk0YUd2b2lzbkhhT3RQX2RodmdJWTAyYVV3LUV0SHY3cWt5eTIwS1RpRDd4TC1lay0tZWNmTGRaRlAtRDBDRTN3NkpQNWZlbUpVTnVwX1RBLVJHUXJOcWtCZFd3UFVCclpR?oc=5",
+        "pubDate": "Tue, 08 Sep 2026 11:11:57 GMT",
+        "snippet": "Australia to let social media users 'opt out' of algorithm-based feeds in fresh blow to big tech&nbsp;&nbsp;CNBC",
         "source": "CNBC Tech"
       },
       {
@@ -449,24 +449,24 @@
         "source": "CNBC Finance"
       },
       {
+        "title": "Crypto platforms have lost over $3.63 billion to cyberattacks \u2014 even though most of them did security checks - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLVd0azV6dlAxY2R1eE9RQ21fNk9tSTFDaWxFdV9ZZlA2WkFqWW1UQTlsV1czMmhUNkM5OEM2Qldyc0lZdndHaG5SMUtUWDRpUzhlWTkzSkxHbHlKcUhITW8xWkRRalJPeDZrRlpkYXNpV3RTYkN2RXBNZ3VsdUdfUmtIcDN3cWpSTXFNREJOa1QyZXhVMXExSVRhczRxWUxuUlpUUXR2LVRZQdIBrwFBVV95cUxQRUZYbHB2SktUaWJSV202V3RJa19tN0duWFlCQ1ZSckQ4WjJUdXVxaDJjZmJzTmZCOGt2aVl3ZTUxTEdFVjA4b193X3R1bEN0bXBmQnA0dzk5VnpvSndGY2dpRVhXT09MaWxLZXk2N1hESk56alVWN1R6dHJrOUVqaDlzU1BtWGdCRW1vallVSFgxczNVbk5KYl9mT1RxRFA0c05qNEluRU5nSWx5RHA0?oc=5",
+        "pubDate": "Tue, 08 Sep 2026 08:16:11 GMT",
+        "snippet": "Crypto platforms have lost over $3.63 billion to cyberattacks \u2014 even though most of them did security checks&nbsp;&nbsp;CNBC",
+        "source": "CNBC Finance"
+      },
+      {
+        "title": "EverBank to combine with WaFd in $3.9 billion reverse merger - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2lUQkNNMWJpOVZNNnNwanVCWkdrWk9lRWpweHY2SmxmSmFEOUFxNjhoR19aY3VEbmJkMU9mektJRkRFVlFZaklyWGR2Q1kydXM1QV96aXliQk1NRzAzVmtRYU0wQUFxeTc3RVF1c2l1UGVoM2luclk2MWZDdVZWM2xqMXVUcGkzX3ZsRVM1bWplM1MxWVh4Qkw4aGJrN0hxenZn0gGoAUFVX3lxTE9ZR2NiM0dEUlJIb3c4dTF6TG1aeWI2aFRvQ182bFRLaVlyLWJkWGswMTl4N2x0SzV6dEFfTk9KaUMyZnBtWnVFVll1dzZhUXNYblViT25vOGZ5dTVJQWZfQXdGTWpqVGxLQXZzamNiallQUTM1NUl0bEJnbjVWM0VnMXlUX3lsSkRxZ1Q4eXcwYkYzbElhZWI2d28xdnZ6SDhKZ3IzblMxSA?oc=5",
+        "pubDate": "Tue, 08 Sep 2026 11:03:05 GMT",
+        "snippet": "EverBank to combine with WaFd in $3.9 billion reverse merger&nbsp;&nbsp;CNBC",
+        "source": "CNBC Finance"
+      },
+      {
         "title": "Inside Italy\u2019s banking M&A boom \u2014 and why Wall Street is watching - CNBC",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLX19PMVpkbkdkLTRPVzR6TV9fVkp2OWZxd2QyYjVVR1JfV1p4V2NJRnlFM044Ul8zYWtYSWpSWDQxNUlZY1p6R2VrUnpLUTh2UnROcEhodUpYamtQR2FMbE9kZVdaVDctV2xITmhJN2NtUQ?oc=5",
         "pubDate": "Tue, 08 Sep 2026 04:00:00 GMT",
         "snippet": "Inside Italy\u2019s banking M&A boom \u2014 and why Wall Street is watching&nbsp;&nbsp;CNBC",
-        "source": "CNBC Finance"
-      },
-      {
-        "title": "Gasoline prices, over $4 per gallon, hit record high for Labor Day - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQnJiRmdiLW9ZQkZEVGlRTGtIZU1mM1pHdDBKNmI0T1FUZ3VpTFRQRzFmZ0wtWHRGX08tMWdjU0p0bkxPTGRCUDRJOWlsLXVKVGhmTnJ6UW9zNUFOSnVjclRVdlBmVF9GZ3NNZjAxd2EyRDJXQnhVYlgwLTJSWVY0RHJpd3k5QdIBiwFBVV95cUxNMGpmTlg2ZDZsRkRFV3hxN3lVeXluaDNYdzlBSExMMk1nVWxnSF96a0ZDVGtXWEs3cXFhZkUyRjJNcmtQSVB2d19UWThCM3RINHZSS3JOUHlDeGRHbU93Q0lpbFQxYVJhbFRkRkM1amR2dWw1b0ZzXzNZbFpmakd0cDB2NVZxZEhTeGVB?oc=5",
-        "pubDate": "Mon, 07 Sep 2026 13:43:09 GMT",
-        "snippet": "Gasoline prices, over $4 per gallon, hit record high for Labor Day&nbsp;&nbsp;CNBC",
-        "source": "CNBC Finance"
-      },
-      {
-        "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjRXNzYm1DbW9uSUVoNEdiRERzODZ0ZU9uX3prc1NqRzBJRmpfbE54c2l2ZmdyRlNJVm9IMS03Z0dZMWJYSjM2MVN6Qi1RbGZqa2RYWU1OQ3FKZXVRUk5UbU5LRUxhVnI2YW80b3FiQWtWbkZjbXdXUmZCWFLSAYIBQVVfeXFMTXcyWEYyRmljRURjaTBVeUtUZThKWHVpWkdCTHY5dWRpNVRsNG9wT3NaZE9WcG9aSGdXd3FLSTFLMkVaX2dPQzVuTzlqRVBoTnBLbU1ET181MVB2VHd5M2V1X1Y2bGpHZjl5U2dnZ2xkWkcxWEIxaHNJbVF6TlVFUFdIUQ?oc=5",
-        "pubDate": "Sun, 06 Sep 2026 12:02:47 GMT",
-        "snippet": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen&nbsp;&nbsp;CNBC",
         "source": "CNBC Finance"
       },
       {
@@ -500,7 +500,7 @@
       {
         "title": "China pumps $54bn into banks and insurers - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUN3RmxWVzNKQjJ3dmZRQThsZThwbUhiYURQVzFvUmhPcWxPSFZlRDFROE1nZjhBUTBKaUJhU3J3VEZxYVdGeUd1aXlYN3FDUEJZVGhZU2RSWksxQVlOS2poLXB0bWlmWFdldThGb2JXc1NrbE9BbEs3aDZMNTVVdS0tYUk?oc=5",
-        "pubDate": "Mon, 07 Sep 2026 10:19:09 GMT",
+        "pubDate": "Mon, 07 Sep 2026 04:21:12 GMT",
         "snippet": "China pumps $54bn into banks and insurers&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
@@ -514,129 +514,129 @@
     ],
     "singapore": [
       {
-        "title": "Asean's digital economy pact promises to unlock US$2 trillion, but is unknown to 1 in 3 firms: poll - businesstimes.com.sg",
+        "title": "Asean's digital economy pact promises to unlock US$2 trillion, but is unknown to 1 in 3 firms: poll - The Business Times",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSkEzQllQckRNQmpvcXRGU3ZjR2xlT0FEZi1xak13RkhyWV9ndmM5cFFWWVk0a3pxcGh2aWZxQTlta3dQdExxc2RqSmdhQzVZZVdmbEpoZDJpU3FMNG4zZUYtM2dkb24weTBqOWY5cFBab3k4T1hrUHdVWXQ3MkNfTG81S19rYlZmbHphNjNSeVFjeFdJak5acEZRaFhTZHpERndJM2lvOHpEZDVCb0pHNGQwR2tkVk1KT1hVLWl4dw?oc=5",
         "pubDate": "Tue, 08 Sep 2026 10:51:00 GMT",
-        "snippet": "Asean's digital economy pact promises to unlock US$2 trillion, but is unknown to 1 in 3 firms: poll&nbsp;&nbsp;businesstimes.com.sg",
+        "snippet": "Asean's digital economy pact promises to unlock US$2 trillion, but is unknown to 1 in 3 firms: poll&nbsp;&nbsp;The Business Times",
         "source": "Business Times"
       },
       {
-        "title": "Benchmark ministerial pay to rise to S$1.8 million; MP monthly allowance, S$18,500 - businesstimes.com.sg",
+        "title": "Benchmark ministerial pay to rise to S$1.8 million; MP monthly allowance, S$18,500 - The Business Times",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbnFrdmk0R1h2dndEck1RbGMyN2tZSUNoV21BNFk3S1ZlM2pQc252MHE0eHVsdnZIZzY0by1OSGVfQWpDMDV4ZzhxYzBzTFZmcEZaanVrU2owR0M4Mmd1V1Itam9sV3BXWVpxMXYzaktnLUgzN21zTktCeEtJNVJraTBYSFI1VDFRUE5QTEEwSVd6VFVWaEFQdUlXWE4zZUZuVTBKRzVWQ3FyRDM3SWxKNzlIUVV5SlFTNkRZNjJJaGg3YkdLT2NqdQ?oc=5",
         "pubDate": "Tue, 08 Sep 2026 04:43:00 GMT",
-        "snippet": "Benchmark ministerial pay to rise to S$1.8 million; MP monthly allowance, S$18,500&nbsp;&nbsp;businesstimes.com.sg",
+        "snippet": "Benchmark ministerial pay to rise to S$1.8 million; MP monthly allowance, S$18,500&nbsp;&nbsp;The Business Times",
         "source": "Business Times"
       },
       {
-        "title": "Benchmark ministerial pay to rise to S$1.8 million; MP monthly allowance revised to S$18,500 - businesstimes.com.sg",
+        "title": "Benchmark ministerial pay to rise to S$1.8 million; MP monthly allowance revised to S$18,500 - The Business Times",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLTZSXzcyWGxXWXkzU2ZvS1NsWjg4cEZzeGFJaG4yeGV6WXVJeGw3V2dUZzlzM0pSeVdNc0w4UHR2bVZlOUVwYURrdVR3R1A4cnVBd1Q4RDZXYmpIdFBGd1JhN1dwS3puNUZXaEN5Wjc5TWgzTy1ZSE5DQU5GejZYSVowU2RTZmxLbURrWTJJSW1ibl9ScG9uMWVPS1BNM1hRcHlENUNudVl6OTRvR0RCZGhiU3RpVXBBUm1sWFBvWGtJb3RxbjZ1MEZwOVhyaEE5N1hn?oc=5",
         "pubDate": "Tue, 08 Sep 2026 04:43:00 GMT",
-        "snippet": "Benchmark ministerial pay to rise to S$1.8 million; MP monthly allowance revised to S$18,500&nbsp;&nbsp;businesstimes.com.sg",
+        "snippet": "Benchmark ministerial pay to rise to S$1.8 million; MP monthly allowance revised to S$18,500&nbsp;&nbsp;The Business Times",
         "source": "Business Times"
       },
       {
-        "title": "Are developers over-optimistic with bullish housing land bids? - businesstimes.com.sg",
+        "title": "Are developers over-optimistic with bullish housing land bids? - The Business Times",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmgxODVPQzQwYjZTS3djLTNfZ3VMMmIwVUNFellXRzN6a0JpM0R5OVc2Q0ozOExMU1o5UGhVdG1tMHMyR1FoSFFYdUE3aFFySjdlZHRtc2lRTm1uaFVuUjJETWNaeGdhSHhwcjJBaElDVll3aHF2SkNiVDI0TkZJY1NOTk90WTRXVkdaU3RoSnFkenV3QThzRXNWMEJhdHdWQVZmMDVZdDFlUQ?oc=5",
         "pubDate": "Mon, 07 Sep 2026 03:12:00 GMT",
-        "snippet": "Are developers over-optimistic with bullish housing land bids?&nbsp;&nbsp;businesstimes.com.sg",
+        "snippet": "Are developers over-optimistic with bullish housing land bids?&nbsp;&nbsp;The Business Times",
         "source": "Business Times"
       },
       {
-        "title": "PM Wong wants more private-sector leaders like Tan See Leng in Cabinet amid succession challenge - businesstimes.com.sg",
+        "title": "PM Wong wants more private-sector leaders like Tan See Leng in Cabinet amid succession challenge - The Business Times",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYVFUdTI4N1pUYjlNMUVpUVlnbGtwdlVmc25qY2VCUzdsY3I4WFBqZERVQXFjeXM4MWtxN3J6bmhvTkxYN29uOG5pUS1wd0JzUGpoWXlzZ0hwX1JFenctYjJFTHJ2ZVNDUzZ2bjVJR0lrOUU2ZE4tZWlJemhIU3lpaVBkRlcxd1lGRFU4bEx4QzI2NmlQYmVTMDQ3LTdCWk9OQWRXUjl6T1ZSYVVRTUZYMHF4QmZzc1NCWU1CQXptUUVLSXNCb3pMbWpUdDRHclpjeXBlU0syY29EQ2RBSlFJ?oc=5",
         "pubDate": "Tue, 08 Sep 2026 04:36:00 GMT",
-        "snippet": "PM Wong wants more private-sector leaders like Tan See Leng in Cabinet amid succession challenge&nbsp;&nbsp;businesstimes.com.sg",
+        "snippet": "PM Wong wants more private-sector leaders like Tan See Leng in Cabinet amid succession challenge&nbsp;&nbsp;The Business Times",
         "source": "Business Times"
       },
       {
-        "title": "Singapore tightens national bonus criteria for political salaries, including unemployment, income growth - businesstimes.com.sg",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZTJoNXhnejE5UWJrY3VCZ1FuR09KSmRtVkVYazJXVHE4N2EzVlJmWE9MdUF2WHNaNk1YemRFQWw4Y1VHVVk1ZzlXSFNnRFJOcjRESVlqQmIzVnFZSEFIbXlVU2tWV1padWJqbEZEdGhoY21MVEo5ZlZteFNVbHVObEVQR3NIX19rUzlpVmJ2cWI0aVhaZTdwUWREQ2N0THdfNDBPZEtMd0JZY3BIMUZmRmVpNEZLcm95ejU5bWdkYzFkZGhHMnd3ZDZCMW9aY0FYcnAyeFVhclJCMjZjcUdtTGNCVFhqV0FpaVE4SA?oc=5",
-        "pubDate": "Tue, 08 Sep 2026 05:13:00 GMT",
-        "snippet": "Singapore tightens national bonus criteria for political salaries, including unemployment, income growth&nbsp;&nbsp;businesstimes.com.sg",
+        "title": "How much should Singapore\u2019s leaders be paid? - The Business Times",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS0NvWEdZajVNdFRaeU1WTnh6NkIyUTRNajNjQTNiT183bUJkcUNYQTg5UndkcFZuVEZ5R2x4Q0p1ZDY4QlNobE1TTWRpS0tjUHhwa0k1TWFsX3JIeE0zbTNwa2N2RHRyVjRscUtJNDM5WlBQR0w4R1BqdHF1YmgzMDFjVlZXNmF6a0RYeWItWF9MUERLSlZxWE1JRm5lU19oZ1E?oc=5",
+        "pubDate": "Tue, 08 Sep 2026 11:58:00 GMT",
+        "snippet": "How much should Singapore\u2019s leaders be paid?&nbsp;&nbsp;The Business Times",
         "source": "Business Times"
       },
       {
-        "title": "Graduates can stay confident that S\u2019pore is still creating jobs amid tighter job market: Ong Ye Kung - The Straits Times",
+        "title": "Graduates can stay confident that S\u2019pore is still creating jobs amid tighter job market: Ong Ye Kung - straitstimes.com",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWtkM0ZrWG5ERVVQcmt5OVNadzlPeDBhcWJrUlRvNTBCMGRIVC04ZU9fd1NBN1BlX2JLb3MzblpocW1tTmVrYU85X2hWcHlSQWFHV0JJX2h4Z0lrNTA0VVBpQUlySmVYMWtrWmptZ3M5VXY3SldxajJodEczZTQ0RVFzTnQ2SVVkT0tZb3VmcjV3cDFZLW1uekY0N1Bmcl9LYnJEM25Hb0NOSC1uMTlZOEFZQ1Zhamd4VFNGZG5uRktQZ1AwMjJOYVdGT0pOWXB0OUFr?oc=5",
         "pubDate": "Mon, 07 Sep 2026 13:00:00 GMT",
-        "snippet": "Graduates can stay confident that S\u2019pore is still creating jobs amid tighter job market: Ong Ye Kung&nbsp;&nbsp;The Straits Times",
+        "snippet": "Graduates can stay confident that S\u2019pore is still creating jobs amid tighter job market: Ong Ye Kung&nbsp;&nbsp;straitstimes.com",
         "source": "Straits Times"
       },
       {
-        "title": "Asia stocks waver as Japanese yen surges, Iran warns of retaliation - The Straits Times",
+        "title": "Asia stocks waver as Japanese yen surges, Iran warns of retaliation - straitstimes.com",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVUY3Ymt4Uy1ocEU3MzhWVG1obGFBdldaREdRb0hwQm1DdGFDUG54TWxJNk9LQmVHNk1iZURjWWhEa0I0MXV5alRPSkNXT3gwbXY4QkhiemlveGVwVUswZHBuX1hGb2RHTHE1REJIcTdmTkxIRmZzRDZkREg4V2xGMm5qdmNMUUEtcHNsa241WGhhRHhKdjZCTA?oc=5",
         "pubDate": "Tue, 08 Sep 2026 01:06:00 GMT",
-        "snippet": "Asia stocks waver as Japanese yen surges, Iran warns of retaliation&nbsp;&nbsp;The Straits Times",
+        "snippet": "Asia stocks waver as Japanese yen surges, Iran warns of retaliation&nbsp;&nbsp;straitstimes.com",
         "source": "Straits Times"
       },
       {
-        "title": "Stocks in Asia edge lower at open, Japanese yen advances - The Straits Times",
+        "title": "Stocks in Asia edge lower at open, Japanese yen advances - straitstimes.com",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUlpBVUVabWN5bnV5SG0wNVJENHl1UUhEUFVrTXg4SS1hYzlvWmlhWThFaWQ2dTZGSVNaSFRESTFCREtQZHprdlUtZmZWbVVqNmt0VWE3UnhGM3QwV3pudUZMTlAxSFZhRU9pY25UbEx2ck5BZm9iOFRkYkczcXh2YXZSekctUmJtRHFHYnREbjBLWUVWTmo3R3NwYzE2YXJRb2FlalRIOA?oc=5",
         "pubDate": "Tue, 08 Sep 2026 01:06:00 GMT",
-        "snippet": "Stocks in Asia edge lower at open, Japanese yen advances&nbsp;&nbsp;The Straits Times",
+        "snippet": "Stocks in Asia edge lower at open, Japanese yen advances&nbsp;&nbsp;straitstimes.com",
         "source": "Straits Times"
       },
       {
-        "title": "Marina Square to close for redevelopment in 2027; Shein tanks after IPO: Markets this week - The Straits Times",
+        "title": "Marina Square to close for redevelopment in 2027; Shein tanks after IPO: Markets this week - straitstimes.com",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVkNmZmN0MFFwU2FzSm5WbEF0VTFRVlFmOFFvR1FnUHNuUFVDVml5VlM3alpOUElqWm9yV3ZPbmtqdzV1bkNPNzNzb0k5aG8tR29HZUpMWVNoN0pMdkl6Y19kUmVFZTQwUDhjTGVxNy1MalpRcnZSSWtickNsY01kMEdiY01RUjNIUlNUOUtMMlc5RUFnOC1ybmJ6OU9OUzhkMVBQTE8zRWFRN1d3RmVkWHc4anBZcm10RlY0eXFwOGVEX3Rpc2FZMVVpSGJhQ1d3RExCZXByVW1JeHI1?oc=5",
         "pubDate": "Sun, 06 Sep 2026 08:22:00 GMT",
-        "snippet": "Marina Square to close for redevelopment in 2027; Shein tanks after IPO: Markets this week&nbsp;&nbsp;The Straits Times",
+        "snippet": "Marina Square to close for redevelopment in 2027; Shein tanks after IPO: Markets this week&nbsp;&nbsp;straitstimes.com",
         "source": "Straits Times"
       },
       {
-        "title": "Tech shares lead gains in Asian stocks, oil rises - The Straits Times",
+        "title": "Tech shares lead gains in Asian stocks, oil rises - straitstimes.com",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR0Z4TG5YUVh2dEtyemI0LWVONFZYTlBvckdfRUljc1lRbVZpZzVlbGt4eVBYa3hHS05BNWpLUFFxUThZZFpES2Z3QWtYLXFDSFpPUV9PQ210V3huY29rc25IVjN2LU83Um9XNVExTXBkai1iRHpTNmsxMUEtX0pEVEpMaG1YeldKUlN0aGo1aFdBNmlaTWNCU1J4VTktbFZGZGc?oc=5",
         "pubDate": "Mon, 07 Sep 2026 00:45:00 GMT",
-        "snippet": "Tech shares lead gains in Asian stocks, oil rises&nbsp;&nbsp;The Straits Times",
+        "snippet": "Tech shares lead gains in Asian stocks, oil rises&nbsp;&nbsp;straitstimes.com",
         "source": "Straits Times"
       },
       {
-        "title": "Asian stocks to gain, oil rises on US-Iran strikes: Markets wrap - The Straits Times",
+        "title": "Asian stocks to gain, oil rises on US-Iran strikes: Markets wrap - straitstimes.com",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPajVTRDl1ZFNKejBSb2xTS0dENWtUeTRTdVhhcERKalNSaWY4U0dWT1VTcFE3dmJUQXM5ZWlSZUpCdUM0SFNoMXM3M2xRZjIzZ0xMenpCaFBPbDBzenlGdWFJd0RzMFJ2cDlJUmoxbXl2dGFmeDRJTVltUGdlYzY0enFiNU5tUXFHMDRnWEMwc0lxU1ZROHlvNkgwbWNhSUY4cEViVHBqb1ByUVFDMDVyZDhBOUdaLTBDN292ZndB?oc=5",
         "pubDate": "Mon, 07 Sep 2026 00:45:00 GMT",
-        "snippet": "Asian stocks to gain, oil rises on US-Iran strikes: Markets wrap&nbsp;&nbsp;The Straits Times",
+        "snippet": "Asian stocks to gain, oil rises on US-Iran strikes: Markets wrap&nbsp;&nbsp;straitstimes.com",
         "source": "Straits Times"
       },
       {
-        "title": "As other Asian equity markets boom, Singapore sees value over volume in SGX's IPO rebound - channelnewsasia.com",
+        "title": "As other Asian equity markets boom, Singapore sees value over volume in SGX's IPO rebound - CNA",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2RWNFdTQ1RBbzJLZjZ5cl9IQkdMa3lRcXIxcUVaM3RlU0dhcDUzbkZRSzJOWkVTV3dWUVk0RDN5Uk4tc1I2aUJCNGpZYzV3RjVWM1BIejB4cGJZc0M2SjJ1a1pjN0NYMkZvLVNLRkMyR0o5UWZhbkxVS0tMbnZROEl2N0hxenBJODg0eWQ2dw?oc=5",
         "pubDate": "Sun, 06 Sep 2026 22:00:00 GMT",
-        "snippet": "As other Asian equity markets boom, Singapore sees value over volume in SGX's IPO rebound&nbsp;&nbsp;channelnewsasia.com",
+        "snippet": "As other Asian equity markets boom, Singapore sees value over volume in SGX's IPO rebound&nbsp;&nbsp;CNA",
         "source": "CNA"
       },
       {
-        "title": "CNA938 Rewind - AI, advanced manufacturing, and the future of Singapore\u2019s economy: breaking down Singapore\u2019s ESR strategy - channelnewsasia.com",
+        "title": "CNA938 Rewind - AI, advanced manufacturing, and the future of Singapore\u2019s economy: breaking down Singapore\u2019s ESR strategy - CNA",
         "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPM3c5VmVDZFlPTlBjSGVWZG9fYVJodzdxWjMza0dpaUR2WUNsT0t0VWxDMWhYZjBveFJoczZ5MDFkU3ZQYmFDNEVJY0QybW4waXlVUVhMSjVkclFTeWppbEFSUmxwNnRqWE1LRGljXy1DbjRzX1dMS1hGelBiWWVCeFlfNE5FeGdXU1FrNC00Rk5hR050bkJzNUwxTDFBSFJDV0FYME5sUkhwUHJsWFpUdzlrd1Y5Qm5ydElaRUp0WVJUMFRBSWFBUzRMMWlHLVRubHBiMm9oQklxWGFrQ2g2ZTNSeXd2VkRuaVpPNmdpWHAtOHZlYjBQSV9wRkdjVG40ejl2VTZMSEhEXzJUZFJ3dEp0RS14QQ?oc=5",
         "pubDate": "Sun, 06 Sep 2026 10:27:44 GMT",
-        "snippet": "CNA938 Rewind - AI, advanced manufacturing, and the future of Singapore\u2019s economy: breaking down Singapore\u2019s ESR strategy&nbsp;&nbsp;channelnewsasia.c",
+        "snippet": "CNA938 Rewind - AI, advanced manufacturing, and the future of Singapore\u2019s economy: breaking down Singapore\u2019s ESR strategy&nbsp;&nbsp;CNA",
         "source": "CNA"
       },
       {
-        "title": "CNA938 Rewind - Singapore's economy surges: Breaking down the Q2 2026 numbers #SGToday - channelnewsasia.com",
+        "title": "CNA938 Rewind - Singapore's economy surges: Breaking down the Q2 2026 numbers #SGToday - CNA",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUS1idmtIR2Y1c0VqZzdvc0d5VFp6WDFOclEtLXV6V1c5amQwYXhEc0FKaEFtRHlLS0NLekpCV2xBSzlMa0RpUE40MzVWQjFqejNldzdCdDZkM2lmek0wblZOcExXSTdLQlI3ZHZ1SUY0ck9QVFhUUENXU0toR0dJOS1SS3NXMlJadG5STTdINU10c3plQmhhV2JmbnU2Njl0eThfem5yYmJxRjVPZ0lUSml1ZE9pSW5lVlBpUWV4OFFDX3NHenNVNEwyRG02U0Rxc0ZxQzZQalZLckVUN3JVNkE5eVE0WThPX3BFazFhZw?oc=5",
         "pubDate": "Sun, 06 Sep 2026 08:18:27 GMT",
-        "snippet": "CNA938 Rewind - Singapore's economy surges: Breaking down the Q2 2026 numbers #SGToday&nbsp;&nbsp;channelnewsasia.com",
+        "snippet": "CNA938 Rewind - Singapore's economy surges: Breaking down the Q2 2026 numbers #SGToday&nbsp;&nbsp;CNA",
         "source": "CNA"
       },
       {
-        "title": "CNA938 Rewind - Mind Your Money - Grabbing your attention in the scroll economy - channelnewsasia.com",
+        "title": "CNA938 Rewind - Mind Your Money - Grabbing your attention in the scroll economy - CNA",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPV3JiekRzOHJQYS1uaGtscnI4eWlCUmFnNXhXd2xPcDhLQ3h3NTRUVnpWY0RZMnZHajE3dllxY18zbktmZjZ5bXpycVhHT2o5eV95YWoxOFJ5R3NRWjlvcEhYbGpjS0tnOHdhcll0NndBcGhLMmkzRVY4dHE3b0dscEpjajJpN0Qza3N5b2RINTFqcFJkdWVJNTZVUnZXOTBLRnJINDVja3pkM0lqZUdfTjcySVdlSFVCdXUyVGxWcS1JWUhZbnJfMGxZeVNQQVZVeWViZGJvb0FxZnRRMWRHRThNdWxfUDg?oc=5",
         "pubDate": "Sat, 05 Sep 2026 20:02:12 GMT",
-        "snippet": "CNA938 Rewind - Mind Your Money - Grabbing your attention in the scroll economy&nbsp;&nbsp;channelnewsasia.com",
+        "snippet": "CNA938 Rewind - Mind Your Money - Grabbing your attention in the scroll economy&nbsp;&nbsp;CNA",
         "source": "CNA"
       },
       {
-        "title": "CNA938 Rewind - Brexit: Where is the UK economy, 10 years and 7 PMs later? - channelnewsasia.com",
+        "title": "CNA938 Rewind - Brexit: Where is the UK economy, 10 years and 7 PMs later? - CNA",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbU1rY3pPMWVrWU15UTY2UUxtMlgzWnFWam90WHBWRlFzM0FROEczYTZZZm1YZ3VrU2lWNFJzLXdYVVM5ZFBNZjA0OXZpdVhaX3MyS1V3dU5nX1o5dVhzb2dlcDhpbXhhYldkc216LVRYRUdRNFd0WktkUG5VVEY1S1BISi1KWkRRSm5RWTl5dHFuZEYtRDZ2YWFTVlY3S1BSd3hNTXcwQkJEQnJSNUQwTEtBY290TmVIOHdHV3U2X0xNeE9JMjVFZkp5NzBMOGIzN2hZNmNzNUVnVkk?oc=5",
         "pubDate": "Sat, 05 Sep 2026 19:47:36 GMT",
-        "snippet": "CNA938 Rewind - Brexit: Where is the UK economy, 10 years and 7 PMs later?&nbsp;&nbsp;channelnewsasia.com",
+        "snippet": "CNA938 Rewind - Brexit: Where is the UK economy, 10 years and 7 PMs later?&nbsp;&nbsp;CNA",
         "source": "CNA"
       },
       {
-        "title": "CNA938 Rewind - Stock take today: OPEC+ pauses output hikes, Gold price upgrade - channelnewsasia.com",
+        "title": "CNA938 Rewind - Stock take today: OPEC+ pauses output hikes, Gold price upgrade - CNA",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTDN3Ymx2VUoyUmlFZDZJY3lrcUMyRU5udURyMDVuRWNKNG1hT3pENkFTZTdQMkpZVkZVZUIwNzA5SDhocDdOTlJvZGVfd1k0dWY5eW5wRU04OFY5YWszajFBazRWVXpycUloWGtoR05NaTFsNzktaXpXdnF3OGNaZGJoVlZxOHJjQm1KWEVhWnlIZ1ZkT1FuaHJEckZNZDRHbko4dDlJRTdDdGlSa3JGalVqdTBwQjlDSTl3MHBRV3NkaGd4ckhfTHExLUtnNnlzZTFXcVVPRlZsM00wNUQyVS1tWDFoQ1VnN0ZR?oc=5",
         "pubDate": "Sat, 05 Sep 2026 22:29:42 GMT",
-        "snippet": "CNA938 Rewind - Stock take today: OPEC+ pauses output hikes, Gold price upgrade&nbsp;&nbsp;channelnewsasia.com",
+        "snippet": "CNA938 Rewind - Stock take today: OPEC+ pauses output hikes, Gold price upgrade&nbsp;&nbsp;CNA",
         "source": "CNA"
       },
       {
@@ -668,17 +668,17 @@
         "source": "Reuters SG"
       },
       {
+        "title": "China to pump $54 billion into state banks, insurers in capital-boosting push - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPang2d09TQ3Q1cEd0QVJXaWc5aWpIcVh5MUQ5UEhud1R1OVFKV2lYSXEtb2hGMHNqR0xjUWx1cXJNZ3NFcTV3RmR5LXliVHNuWEJDdUVLVld1OU5mMURmLWFieGxGZzdYbTdhMUZkeXk2UTM2QS1QRWt2M2JJelM4VUlXZ2pxd2I5ZFZyX1k2TmJLNHVURHNwTEVQOHNuOV9rZTM1UFh6d1c0RFAwVFBLaG1yQVAzSEpRQWptMg?oc=5",
+        "pubDate": "Sun, 06 Sep 2026 09:12:00 GMT",
+        "snippet": "China to pump $54 billion into state banks, insurers in capital-boosting push&nbsp;&nbsp;Reuters",
+        "source": "Reuters SG"
+      },
+      {
         "title": "Japan upgrades Q2 GDP on slight capex improvement - Reuters",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMDBCbnBuREtSbXVFYTdjdnBKWEJmQVdGS2tTTlZMVnVRSW8zS1dtREV1b2VoelJYZWl0Yk5wUGlNWW9ySWhWUHV2WUM3U2FsMk1Genk2bEdjblc2V3Rmdm1tRGJLcUlpZWQtN0x3dlZya0tWOUx0dGc0N24wVmFGSjQzYnlYZk5QTUJTazFZWmVONlhaWVFGRDg1R2M5YmJTaDREdg?oc=5",
         "pubDate": "Mon, 07 Sep 2026 23:59:00 GMT",
         "snippet": "Japan upgrades Q2 GDP on slight capex improvement&nbsp;&nbsp;Reuters",
-        "source": "Reuters SG"
-      },
-      {
-        "title": "Indonesia's Anak Krakatau eruption halts flights, schools, fishing - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT3JKRkt1M2t6MVo4TnpsdXo2aWZiMzltZjR6bjhNTHdsOWkwNE1VWENrdHFoYkJQajB2dFRMZzkzVGlDRENhdlNoeVFfZW1idDNfR1c1b1ZrNEpuSnJjWDBmNVJaRGs3UFdtMmJvdV9rc2ZlblVwaEJBTENIRTVhdnREbGtIYXNXOUFvUDltLTRxZFMtZmpGRms1Q3F1d2pxM21GR0U1SUt6YmVPSGFDYXY0U3RoMnJ5Y1BKNWMyV21BbmNVLXI0?oc=5",
-        "pubDate": "Sun, 06 Sep 2026 00:27:00 GMT",
-        "snippet": "Indonesia's Anak Krakatau eruption halts flights, schools, fishing&nbsp;&nbsp;Reuters",
         "source": "Reuters SG"
       }
     ]
