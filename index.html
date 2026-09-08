@@ -47,11 +47,12 @@
   table.holdings th, table.holdings td{text-align:right; padding:4px 3px; border-bottom:1px solid var(--rule2); white-space:nowrap;}
   table.holdings th:first-child, table.holdings td:first-child{text-align:left;}
   table.holdings th{color:var(--dim); font-weight:500; font-size:9px; text-transform:uppercase; letter-spacing:.02em;}
+  td.up{color:var(--up);} td.down{color:var(--down);}
   .mkt-error{font-size:11px; color:var(--dim); padding:8px 0;}
 
   .story{display:grid; grid-template-columns:26px 1fr 30px; gap:12px; padding:15px 0; border-bottom:1px solid var(--rule2); align-items:start;}
   .story:first-child{padding-top:0;}
-  .num{font-family:'Source Serif 4', serif; font-size:16px; color:var(--rule); padding-top:1px;}
+  .num{font-family:'Source Serif 4', serif; font-size:16px; color:var(--mustard); padding-top:1px;}
   .story-body h2{font-family:'Source Serif 4', serif; font-weight:600; font-size:15.5px; line-height:1.3; margin:0 0 5px;}
   .story-body h2 a{color:var(--ink); text-decoration:none;}
   .story-body h2 a:hover{text-decoration:underline; text-decoration-color:var(--mustard);}
@@ -64,7 +65,6 @@
   .empty, .error{font-size:12px; color:var(--dim); padding:30px 0;}
   footer{margin-top:32px; font-size:10.5px; color:var(--dim); border-top:1px solid var(--rule2); padding-top:14px;}
 
-  /* drawer */
   .overlay{position:fixed; inset:0; background:rgba(0,0,0,.55); opacity:0; pointer-events:none; transition:opacity .2s; z-index:40;}
   .overlay.open{opacity:1; pointer-events:auto;}
   .drawer{position:fixed; top:0; left:0; height:100%; width:320px; max-width:85vw; background:var(--panel); border-right:1px solid var(--rule); transform:translateX(-100%); transition:transform .22s ease; z-index:50; display:flex; flex-direction:column;}
@@ -115,32 +115,25 @@
   <main id="stories"><p class="empty">Fetching headlines…</p></main>
 
   <footer>
-    Saved articles &amp; folders are stored only in this browser on this device (not synced to your phone, and cleared if you wipe browser data). A red ★ flags likely market-moving stories, matched on keywords — edit STAR_WORDS in the source to tune it. Prices are delayed, shown via tracking ETFs (SPY≈S&amp;P 500, QQQ≈Nasdaq-100); the % move matches, the headline number is the ETF's. Indicative only.
+    Saved articles &amp; folders live only in this browser on this device (not synced, cleared if you wipe browser data). A red ★ flags likely market-moving stories by keyword — edit STAR_WORDS in the source. Market data is end-of-day from Stooq via a public proxy, shown through tracking ETFs (SPY≈S&amp;P 500, QQQ≈Nasdaq-100), so the % move matches but the number is the ETF's. Indicative only, not for trading.
   </footer>
 </div>
 
-<!-- Saved drawer -->
 <div class="overlay" id="overlay"></div>
 <aside class="drawer" id="drawer" aria-hidden="true">
-  <div class="drawer-head">
-    <h2>Saved</h2>
-    <button class="close-btn" id="closeBtn" aria-label="Close">×</button>
-  </div>
+  <div class="drawer-head"><h2>Saved</h2><button class="close-btn" id="closeBtn" aria-label="Close">×</button></div>
   <div class="folders" id="folders"></div>
   <div class="saved-list" id="savedList"></div>
 </aside>
 
 <script>
-/* =========================================================
-   CONFIG
-   ========================================================= */
-const FMP_KEY = "TBYjJyGxjhyijWlC9FIQqZNxOr5fb01d";
-const INDEX_REFRESH_MS = 3 * 60 * 1000;
-const HEAVY_REFRESH_MS = 20 * 60 * 1000;
+/* ===================== CONFIG ===================== */
+const REFRESH_MS = 15 * 60 * 1000;  // market data (Stooq) + news refresh cadence
 
+// Cards. Stooq uses ".us" suffixes. Top-5 constituents shown per index.
 const CARDS = [
-  { label:"S&P 500", track:"SPY", note:"via SPY ETF", stocks:["AAPL","MSFT","NVDA","GOOGL","AMZN"] },
-  { label:"Nasdaq",  track:"QQQ", note:"via QQQ ETF", stocks:["NVDA","AAPL","MSFT","AMZN","AVGO"] },
+  { label:"S&P 500", track:"spy.us", note:"via SPY ETF", stocks:["aapl.us","msft.us","nvda.us","googl.us","amzn.us"] },
+  { label:"Nasdaq",  track:"qqq.us", note:"via QQQ ETF", stocks:["nvda.us","aapl.us","msft.us","amzn.us","avgo.us"] },
 ];
 
 const FEEDS = [
@@ -157,72 +150,48 @@ const FEEDS = [
 ];
 const MIN_STORIES = 15, MAX_STORIES = 22, MAX_SG = 2;
 const RSS_PROXY = "https://api.rss2json.com/v1/api.json?rss_url=";
+const CORS_PROXY = "https://api.allorigins.win/raw?url=";
 
-// Non-financial backstop (drops obvious sport/lifestyle that broad feeds leak).
 const BLOCK_WORDS = ["rugby","all blacks","fracture","achilles","football","soccer","nba ","nfl","tennis","cricket","olympic","world cup","pisa","students","movie","film","box office","celebrity","concert","album","recipe","horoscope","royal family"];
-
-// Red-star importance heuristic (edit freely).
 const STAR_WORDS = ["fed","federal reserve","fomc","rate cut","rate hike","interest rate","ecb","central bank","inflation","cpi","ppi","recession","gdp","jobs report","payroll","unemployment","tariff","s&p 500","nasdaq","dow","treasury","yield","crash","selloff","sell-off","bond market","default","imf","bank of japan","boj","monetary policy"];
 
-/* =========================================================
-   SAVED ARTICLES (localStorage)
-   ========================================================= */
-const LS_KEY = "ryanDailyNews.saved.v1";
-function loadStore(){
-  try{ const raw=localStorage.getItem(LS_KEY); if(raw) return JSON.parse(raw); }catch(e){}
-  return { folders:["General"], items:{} }; // items keyed by link
-}
-function saveStore(s){ try{ localStorage.setItem(LS_KEY, JSON.stringify(s)); }catch(e){ console.warn("save failed",e);} }
-let store = loadStore();
-let activeFolder = store.folders[0] || "General";
+/* ===================== SAVED (localStorage) ===================== */
+const LS_KEY="ryanDailyNews.saved.v1";
+function loadStore(){ try{const r=localStorage.getItem(LS_KEY); if(r)return JSON.parse(r);}catch(e){} return {folders:["General"],items:{}}; }
+function saveStore(s){ try{localStorage.setItem(LS_KEY,JSON.stringify(s));}catch(e){console.warn("save failed",e);} }
+let store=loadStore(); let activeFolder=store.folders[0]||"General";
+function isSaved(l){ return !!store.items[l]; }
+function toggleSave(st){ if(store.items[st.link]) delete store.items[st.link]; else store.items[st.link]={title:st.title,link:st.link,source:st.source,folder:activeFolder,ts:Date.now()}; saveStore(store); }
+function moveItem(l,f){ if(store.items[l]){store.items[l].folder=f; saveStore(store);} }
+function removeItem(l){ delete store.items[l]; saveStore(store); }
+function addFolder(){ const n=prompt("New folder name:"); if(!n)return; const c=n.trim(); if(c&&!store.folders.includes(c)){store.folders.push(c);activeFolder=c;saveStore(store);renderDrawer();} }
 
-function isSaved(link){ return !!store.items[link]; }
-function toggleSave(story){
-  if(store.items[story.link]){ delete store.items[story.link]; }
-  else { store.items[story.link] = { title:story.title, link:story.link, source:story.source, folder:activeFolder, ts:Date.now() }; }
-  saveStore(store);
-}
-function moveItem(link, folder){ if(store.items[link]){ store.items[link].folder=folder; saveStore(store);} }
-function removeItem(link){ delete store.items[link]; saveStore(store); }
-function addFolder(){
-  const name = prompt("New folder name:");
-  if(!name) return;
-  const clean = name.trim();
-  if(clean && !store.folders.includes(clean)){ store.folders.push(clean); activeFolder=clean; saveStore(store); renderDrawer(); }
-}
-
-/* =========================================================
-   ELEMENTS + HELPERS
-   ========================================================= */
+/* ===================== ELEMENTS + HELPERS ===================== */
 const storiesEl=document.getElementById("stories"), marketsEl=document.getElementById("markets");
 const statusText=document.getElementById("statusText"), statusDot=document.getElementById("statusDot"), refreshBtn=document.getElementById("refreshBtn");
 const menuBtn=document.getElementById("menuBtn"), drawer=document.getElementById("drawer"), overlay=document.getElementById("overlay"), closeBtn=document.getElementById("closeBtn");
 const foldersEl=document.getElementById("folders"), savedListEl=document.getElementById("savedList");
-let indexTimer=null, heavyTimer=null, lastStories=[];
+let timer=null, lastStories=[];
 
-function timeAgo(s){ const d=new Date(s); if(isNaN(d)) return ""; const m=Math.round((Date.now()-d)/60000); if(m<1)return"just now"; if(m<60)return m+"m ago"; const h=Math.round(m/60); if(h<24)return h+"h ago"; return Math.round(h/24)+"d ago"; }
+function timeAgo(s){ const d=new Date(s); if(isNaN(d))return""; const m=Math.round((Date.now()-d)/60000); if(m<1)return"just now"; if(m<60)return m+"m ago"; const h=Math.round(m/60); if(h<24)return h+"h ago"; return Math.round(h/24)+"d ago"; }
 function stripHtml(h){ const d=document.createElement("div"); d.innerHTML=h||""; return (d.textContent||"").trim(); }
 function esc(s){ return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
 function fmtPrice(n){ if(n==null||isNaN(n))return"—"; return "$"+Number(n).toFixed(2); }
-function fmtCap(n){ if(!n)return"—"; if(n>=1e12)return"$"+(n/1e12).toFixed(2)+"T"; if(n>=1e9)return"$"+(n/1e9).toFixed(1)+"B"; if(n>=1e6)return"$"+(n/1e6).toFixed(1)+"M"; return "$"+Number(n).toLocaleString(); }
-function fmtVol(n){ if(!n)return"—"; if(n>=1e6)return(n/1e6).toFixed(1)+"M"; if(n>=1e3)return(n/1e3).toFixed(0)+"K"; return Number(n).toLocaleString(); }
+function fmtVol(n){ if(!n||isNaN(n))return"—"; if(n>=1e6)return(n/1e6).toFixed(1)+"M"; if(n>=1e3)return(n/1e3).toFixed(0)+"K"; return Number(n).toLocaleString(); }
 function sparkline(cl){ const w=220,h=44,v=cl.filter(c=>c!=null); if(v.length<2)return""; const mn=Math.min(...v),mx=Math.max(...v),r=(mx-mn)||1,st=w/(v.length-1); const p=v.map((c,i)=>`${(i*st).toFixed(1)},${(h-((c-mn)/r)*h).toFixed(1)}`).join(" "); const col=v[v.length-1]>=v[0]?"var(--up)":"var(--down)"; return `<svg class="spark" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none"><polyline points="${p}" fill="none" stroke="${col}" stroke-width="1.8"/></svg>`; }
-function isImportant(title){ const t=(title||"").toLowerCase(); return STAR_WORDS.some(w=>t.includes(w)); }
+function isImportant(t){ const s=(t||"").toLowerCase(); return STAR_WORDS.some(w=>s.includes(w)); }
 
-/* =========================================================
-   NEWS
-   ========================================================= */
+/* ===================== NEWS ===================== */
 async function fetchFeed(feed){
   try{
     const res=await fetch(RSS_PROXY+encodeURIComponent(feed.url));
     if(!res.ok) throw 0;
     const data=await res.json();
     if(!data.items) throw 0;
-    return data.items.slice(0,4).map(it=>({ title:it.title, link:it.link, pubDate:it.pubDate, snippet:stripHtml(it.description).slice(0,140), source:feed.name, sg:feed.sg }));
+    return data.items.slice(0,4).map(it=>({title:it.title,link:it.link,pubDate:it.pubDate,snippet:stripHtml(it.description).slice(0,140),source:feed.name,sg:feed.sg}));
   }catch(e){ console.warn("Feed failed:",feed.name); return []; }
 }
 function isFinancial(s){ const t=(s.title||"").toLowerCase(); return !BLOCK_WORDS.some(w=>t.includes(w)); }
-
 function storyHTML(s,i){
   const liked=isSaved(s.link);
   const star=isImportant(s.title)?`<span class="star" title="Likely market-moving">★</span>`:"";
@@ -242,14 +211,9 @@ function renderStories(list){
   storiesEl.innerHTML=list.map(storyHTML).join("");
   storiesEl.querySelectorAll(".heart").forEach(btn=>{
     btn.addEventListener("click",()=>{
-      const link=btn.getAttribute("data-link");
-      const story=lastStories.find(s=>s.link===link);
-      if(!story) return;
-      toggleSave(story);
-      const nowLiked=isSaved(link);
-      btn.classList.toggle("liked",nowLiked);
-      btn.textContent=nowLiked?"♥":"♡";
-      btn.title=nowLiked?"Saved":"Save article";
+      const link=btn.getAttribute("data-link"); const story=lastStories.find(s=>s.link===link); if(!story)return;
+      toggleSave(story); const nl=isSaved(link);
+      btn.classList.toggle("liked",nl); btn.textContent=nl?"♥":"♡"; btn.title=nl?"Saved":"Save article";
       if(drawer.classList.contains("open")) renderDrawer();
     });
   });
@@ -257,127 +221,118 @@ function renderStories(list){
 async function loadNews(){
   const results=await Promise.all(FEEDS.map(fetchFeed));
   let all=results.flat().filter(isFinancial);
-  const seen=new Set();
-  all=all.filter(s=>{ const k=(s.title||"").toLowerCase(); if(seen.has(k))return false; seen.add(k); return true; });
+  const seen=new Set(); all=all.filter(s=>{const k=(s.title||"").toLowerCase(); if(seen.has(k))return false; seen.add(k); return true;});
   all.sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate));
   const final=[]; let sg=0;
-  for(const s of all){ if(final.length>=MAX_STORIES)break; if(s.sg){ if(sg>=MAX_SG)continue; sg++; } final.push(s); }
+  for(const s of all){ if(final.length>=MAX_STORIES)break; if(s.sg){if(sg>=MAX_SG)continue; sg++;} final.push(s); }
   renderStories(final);
 }
 
-/* =========================================================
-   MARKETS (FMP /stable/ endpoints)
-   ========================================================= */
-async function fmpJSON(url){
-  const res=await fetch(url);
+/* ===================== MARKETS (Stooq, no key) ===================== */
+// Stooq daily CSV: https://stooq.com/q/d/l/?s=spy.us&i=d  -> Date,Open,High,Low,Close,Volume
+async function stooqDaily(sym){
+  const target = `https://stooq.com/q/d/l/?s=${sym}&i=d`;
+  const res = await fetch(CORS_PROXY + encodeURIComponent(target));
   if(!res.ok) throw new Error("http "+res.status);
-  const data=await res.json();
-  if(data && data["Error Message"]) throw new Error(data["Error Message"]);
-  return data;
+  const text = await res.text();
+  const lines = text.trim().split("\n");
+  if(lines.length < 2 || !/date/i.test(lines[0])) throw new Error("no data for "+sym);
+  const rows = lines.slice(1).map(l=>{
+    const p=l.split(","); return { date:p[0], close:parseFloat(p[4]), volume:parseFloat(p[5]) };
+  }).filter(r=>!isNaN(r.close));
+  return rows; // chronological (oldest first)
 }
-async function fmpQuote(symbol){
-  const data=await fmpJSON(`https://financialmodelingprep.com/stable/quote?symbol=${symbol}&apikey=${FMP_KEY}`);
-  return Array.isArray(data)?data[0]:null;
-}
-async function fmpHistory(symbol){
-  const to=new Date(), from=new Date(Date.now()-12*864e5);
-  const f=d=>d.toISOString().slice(0,10);
-  const data=await fmpJSON(`https://financialmodelingprep.com/stable/historical-price-eod/light?symbol=${symbol}&from=${f(from)}&to=${f(to)}&apikey=${FMP_KEY}`);
-  const arr=Array.isArray(data)?data:(data.historical||[]);
-  const closes=arr.map(d=>d.price!=null?d.price:d.close).filter(x=>x!=null);
-  // light endpoint returns newest-first; ensure chronological, take last 5
-  return closes.slice(0,5).reverse();
-}
-async function refreshIndexPrices(){
+function pctChange(closes){ if(closes.length<2) return 0; const a=closes[0], b=closes[closes.length-1]; return a?((b-a)/a)*100:0; }
+
+async function buildCard(c){
+  // index history (last ~5 sessions)
+  let closes=[], last=null, chg5=0, ok=true;
   try{
-    for(const c of CARDS){
-      const q=await fmpQuote(c.track);
-      const el=document.getElementById("price-"+c.track);
-      if(el&&q) el.textContent=fmtPrice(q.price);
-    }
-  }catch(e){ console.warn("index price refresh:",e.message); }
+    const rows=await stooqDaily(c.track);
+    const recent=rows.slice(-5);
+    closes=recent.map(r=>r.close);
+    last=closes[closes.length-1];
+    chg5=pctChange(closes);
+  }catch(e){ ok=false; console.warn("index history failed",c.track,e.message); }
+
+  // constituent rows (price, daily change %, volume)
+  const rows=[];
+  for(const sym of c.stocks){
+    try{
+      const r=await stooqDaily(sym);
+      const tail=r.slice(-2);
+      const price=tail[tail.length-1].close;
+      const prev=tail.length>1?tail[0].close:price;
+      const dchg=prev?((price-prev)/prev)*100:0;
+      const vol=tail[tail.length-1].volume;
+      rows.push({sym:sym.replace(".us","").toUpperCase(), price, dchg, vol});
+    }catch(e){ rows.push({sym:sym.replace(".us","").toUpperCase(), price:null, dchg:null, vol:null}); }
+  }
+
+  const cls=chg5>=0?"up":"down", sign=chg5>=0?"+":"";
+  const rowsHTML=rows.map(r=>{
+    const dc=r.dchg==null?"—":(r.dchg>=0?"+":"")+r.dchg.toFixed(2)+"%";
+    const dcls=r.dchg==null?"":(r.dchg>=0?"up":"down");
+    return `<tr><td>${r.sym}</td><td>${fmtPrice(r.price)}</td><td class="${dcls}">${dc}</td><td>${fmtVol(r.vol)}</td></tr>`;
+  }).join("");
+
+  return `<div class="market-card">
+    <div class="market-head"><div><div class="market-name">${c.label}</div></div>
+    <div class="market-chg ${cls}">${ok?sign+chg5.toFixed(2)+"% / 5d":""}</div></div>
+    <div class="market-track">${c.note}</div>
+    <div class="market-price">${fmtPrice(last)}</div>
+    ${ok?sparkline(closes):'<div class="mkt-error">chart unavailable</div>'}
+    <table class="holdings"><thead><tr><th>Top 5</th><th>Price</th><th>Chg</th><th>Vol</th></tr></thead><tbody>${rowsHTML}</tbody></table>
+  </div>`;
 }
 async function loadMarkets(){
   try{
-    const cardsHTML=[];
-    for(const c of CARDS){
-      const [q, closes, ...stockQuotes] = await Promise.all([
-        fmpQuote(c.track), fmpHistory(c.track), ...c.stocks.map(fmpQuote)
-      ]);
-      const last=closes.length?closes[closes.length-1]:(q&&q.price);
-      const first=closes.length?closes[0]:(q&&q.price);
-      const chg=first?((last-first)/first)*100:0;
-      const cls=chg>=0?"up":"down", sign=chg>=0?"+":"";
-      const rows=c.stocks.map((sym,i)=>{ const s=stockQuotes[i]||{}; return `<tr><td>${sym}</td><td>${fmtPrice(s.price)}</td><td>${fmtCap(s.marketCap)}</td><td>${fmtVol(s.volume)}</td></tr>`; }).join("");
-      cardsHTML.push(`<div class="market-card">
-        <div class="market-head"><div><div class="market-name">${c.label}</div></div><div class="market-chg ${cls}">${sign}${chg.toFixed(2)}% / 5d</div></div>
-        <div class="market-track">${c.note}</div>
-        <div class="market-price" id="price-${c.track}">${fmtPrice(q&&q.price)}</div>
-        ${sparkline(closes)}
-        <table class="holdings"><thead><tr><th>Top 5</th><th>Price</th><th>Mkt cap</th><th>Vol</th></tr></thead><tbody>${rows}</tbody></table>
-      </div>`);
-    }
-    marketsEl.innerHTML=cardsHTML.join("");
+    const html=[];
+    for(const c of CARDS){ html.push(await buildCard(c)); }
+    marketsEl.innerHTML=html.join("");
   }catch(e){
     console.warn("markets:",e.message);
-    marketsEl.innerHTML=`<div class="market-card"><p class="mkt-error">Market data unavailable — ${esc(e.message)}. If it mentions quota, it resets next day; otherwise the key or endpoint needs checking.</p></div>`;
+    marketsEl.innerHTML=`<div class="market-card"><p class="mkt-error">Market data unavailable — ${esc(e.message)}. The Stooq proxy may be busy; try Refresh in a bit.</p></div>`;
   }
 }
 
-/* =========================================================
-   DRAWER
-   ========================================================= */
+/* ===================== DRAWER ===================== */
 function renderDrawer(){
-  foldersEl.innerHTML = store.folders.map(f=>`<button class="folder-tab ${f===activeFolder?'active':''}" data-folder="${esc(f)}">${esc(f)}</button>`).join("") + `<button class="add-folder" id="addFolderBtn" title="Add folder">+</button>`;
-  foldersEl.querySelectorAll(".folder-tab").forEach(b=>b.addEventListener("click",()=>{ activeFolder=b.getAttribute("data-folder"); renderDrawer(); }));
+  foldersEl.innerHTML=store.folders.map(f=>`<button class="folder-tab ${f===activeFolder?'active':''}" data-folder="${esc(f)}">${esc(f)}</button>`).join("")+`<button class="add-folder" id="addFolderBtn" title="Add folder">+</button>`;
+  foldersEl.querySelectorAll(".folder-tab").forEach(b=>b.addEventListener("click",()=>{activeFolder=b.getAttribute("data-folder");renderDrawer();}));
   document.getElementById("addFolderBtn").addEventListener("click",addFolder);
-
   const items=Object.values(store.items).filter(it=>it.folder===activeFolder).sort((a,b)=>b.ts-a.ts);
   if(!items.length){ savedListEl.innerHTML=`<p class="saved-empty">No saved articles in “${esc(activeFolder)}” yet. Tap the ♡ on any headline to save it here.</p>`; return; }
   const others=store.folders.filter(f=>f!==activeFolder);
   savedListEl.innerHTML=items.map(it=>`
     <div class="saved-item">
       <h4><a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a></h4>
-      <div class="row">
-        <span class="src">${esc(it.source||"")}</span>
-        <div class="saved-actions">
-          ${others.length?`<button class="mini move" data-link="${esc(it.link)}">Move ▾</button>`:""}
-          <button class="mini remove" data-link="${esc(it.link)}">Remove</button>
-        </div>
+      <div class="row"><span class="src">${esc(it.source||"")}</span>
+        <div class="saved-actions">${others.length?`<button class="mini move" data-link="${esc(it.link)}">Move ▾</button>`:""}<button class="mini remove" data-link="${esc(it.link)}">Remove</button></div>
       </div>
     </div>`).join("");
-  savedListEl.querySelectorAll(".remove").forEach(b=>b.addEventListener("click",()=>{ removeItem(b.getAttribute("data-link")); renderDrawer(); syncHearts(); }));
+  savedListEl.querySelectorAll(".remove").forEach(b=>b.addEventListener("click",()=>{removeItem(b.getAttribute("data-link"));renderDrawer();syncHearts();}));
   savedListEl.querySelectorAll(".move").forEach(b=>b.addEventListener("click",()=>{
-    const link=b.getAttribute("data-link");
-    const dest=prompt("Move to folder:\n"+others.join(", "), others[0]);
-    if(dest&&store.folders.includes(dest.trim())){ moveItem(link,dest.trim()); renderDrawer(); }
-    else if(dest){ alert("No folder named “"+dest+"”. Create it first with +."); }
+    const link=b.getAttribute("data-link"); const dest=prompt("Move to folder:\n"+others.join(", "),others[0]);
+    if(dest&&store.folders.includes(dest.trim())){moveItem(link,dest.trim());renderDrawer();}
+    else if(dest){alert("No folder named “"+dest+"”. Create it first with +.");}
   }));
 }
-function syncHearts(){ storiesEl.querySelectorAll(".heart").forEach(btn=>{ const l=btn.getAttribute("data-link"); const liked=isSaved(l); btn.classList.toggle("liked",liked); btn.textContent=liked?"♥":"♡"; }); }
+function syncHearts(){ storiesEl.querySelectorAll(".heart").forEach(btn=>{const l=btn.getAttribute("data-link");const k=isSaved(l);btn.classList.toggle("liked",k);btn.textContent=k?"♥":"♡";}); }
 function openDrawer(){ renderDrawer(); drawer.classList.add("open"); overlay.classList.add("open"); drawer.setAttribute("aria-hidden","false"); }
 function closeDrawer(){ drawer.classList.remove("open"); overlay.classList.remove("open"); drawer.setAttribute("aria-hidden","true"); syncHearts(); }
-menuBtn.addEventListener("click",openDrawer);
-closeBtn.addEventListener("click",closeDrawer);
-overlay.addEventListener("click",closeDrawer);
+menuBtn.addEventListener("click",openDrawer); closeBtn.addEventListener("click",closeDrawer); overlay.addEventListener("click",closeDrawer);
 
-/* =========================================================
-   ORCHESTRATION
-   ========================================================= */
+/* ===================== ORCHESTRATION ===================== */
 async function refreshAll(){
   refreshBtn.disabled=true; statusText.textContent="Refreshing…"; statusDot.className="dot stale";
   await Promise.all([loadNews(), loadMarkets()]);
   statusText.textContent="Updated "+new Date().toLocaleTimeString([],{hour:"2-digit",minute:"2-digit"});
   statusDot.className="dot"; refreshBtn.disabled=false;
 }
-function scheduleTimers(){
-  if(indexTimer)clearInterval(indexTimer); if(heavyTimer)clearInterval(heavyTimer);
-  indexTimer=setInterval(refreshIndexPrices, INDEX_REFRESH_MS);
-  heavyTimer=setInterval(()=>{ loadMarkets(); loadNews(); }, HEAVY_REFRESH_MS);
-}
+function scheduleTimers(){ if(timer)clearInterval(timer); timer=setInterval(refreshAll, REFRESH_MS); }
 refreshBtn.addEventListener("click",refreshAll);
-refreshAll();
-scheduleTimers();
+refreshAll(); scheduleTimers();
 </script>
 </body>
 </html>
