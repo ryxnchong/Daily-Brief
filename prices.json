@@ -1,5 +1,5 @@
 {
-  "updated": 1788862056,
+  "updated": 1788862197,
   "quotes": {
     "SPY": {
       "label": "S&P 500 (SPY)",
@@ -12,6 +12,18 @@
       "price": 718.96,
       "pct": 0.1797,
       "prevClose": 717.67
+    },
+    "DIA": {
+      "label": "Dow Jones (DIA)",
+      "price": 534.08,
+      "pct": -0.5308,
+      "prevClose": 536.93
+    },
+    "^HSI": {
+      "label": "Hang Seng",
+      "price": null,
+      "pct": null,
+      "prevClose": null
     },
     "AAPL": {
       "label": "Apple",
@@ -49,11 +61,11 @@
       "pct": -0.9446,
       "prevClose": 362.06
     },
-    "GS": {
-      "label": "Goldman Sachs",
-      "price": 1038.61,
-      "pct": 0.0655,
-      "prevClose": 1037.93
+    "MS": {
+      "label": "Morgan Stanley",
+      "price": 217.72,
+      "pct": 0.2625,
+      "prevClose": 217.15
     },
     "BAC": {
       "label": "Bank of America",
@@ -61,17 +73,29 @@
       "pct": -0.5711,
       "prevClose": 63.04
     },
-    "MS": {
-      "label": "Morgan Stanley",
-      "price": 217.72,
-      "pct": 0.2625,
-      "prevClose": 217.15
-    },
     "C": {
       "label": "Citigroup",
       "price": 137.72,
       "pct": -0.304,
       "prevClose": 138.14
+    },
+    "WFC": {
+      "label": "Wells Fargo",
+      "price": 89.97,
+      "pct": 0.8745,
+      "prevClose": 89.19
+    },
+    "HSBC": {
+      "label": "HSBC",
+      "price": 107.11,
+      "pct": 0.6106,
+      "prevClose": 106.46
+    },
+    "GS": {
+      "label": "Goldman Sachs",
+      "price": 1038.61,
+      "pct": 0.0655,
+      "prevClose": 1037.93
     },
     "^STI": {
       "label": "STI",
