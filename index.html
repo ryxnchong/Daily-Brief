@@ -27,6 +27,8 @@
   .status{display:flex; align-items:center; gap:8px; flex-wrap:wrap;}
   .dot{width:6px;height:6px;border-radius:50%;background:var(--up);display:inline-block;}
   .dot.stale{background:var(--mustard);}
+  #statusText.flash{color:var(--up); transition:color .2s;}
+  #statusText.flash-none{color:var(--mustard); transition:color .2s;}
   button{font-family:'IBM Plex Mono', monospace;}
   .refresh{font-size:10.5px; background:var(--ink); color:var(--bg); border:none; padding:5px 10px; cursor:pointer;}
   .refresh:hover{opacity:.85;}
@@ -171,7 +173,7 @@ const storiesEl=document.getElementById("stories"), marketsEl=document.getElemen
 const statusText=document.getElementById("statusText"), statusDot=document.getElementById("statusDot"), refreshBtn=document.getElementById("refreshBtn");
 const menuBtn=document.getElementById("menuBtn"), drawer=document.getElementById("drawer"), overlay=document.getElementById("overlay"), closeBtn=document.getElementById("closeBtn");
 const foldersEl=document.getElementById("folders"), savedListEl=document.getElementById("savedList");
-let timer=null, lastStories=[];
+let timer=null, lastStories=[], seenLinks=new Set();
 
 function timeAgo(s){ const d=new Date(s); if(isNaN(d))return""; const m=Math.round((Date.now()-d)/60000); if(m<1)return"just now"; if(m<60)return m+"m ago"; const h=Math.round(m/60); if(h<24)return h+"h ago"; return Math.round(h/24)+"d ago"; }
 function stripHtml(h){ const d=document.createElement("div"); d.innerHTML=h||""; return (d.textContent||"").trim(); }
@@ -225,7 +227,12 @@ async function loadNews(){
   all.sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate));
   const final=[]; let sg=0;
   for(const s of all){ if(final.length>=MAX_STORIES)break; if(s.sg){if(sg>=MAX_SG)continue; sg++;} final.push(s); }
+  // count how many are genuinely new since last fetch
+  let fresh=0;
+  for(const s of final){ if(!seenLinks.has(s.link)) fresh++; }
+  seenLinks = new Set(final.map(s=>s.link));
   renderStories(final);
+  return fresh;
 }
 
 /* ===================== MARKETS (Stooq, no key) ===================== */
@@ -324,11 +331,19 @@ function closeDrawer(){ drawer.classList.remove("open"); overlay.classList.remov
 menuBtn.addEventListener("click",openDrawer); closeBtn.addEventListener("click",closeDrawer); overlay.addEventListener("click",closeDrawer);
 
 /* ===================== ORCHESTRATION ===================== */
+let flashTimer=null;
 async function refreshAll(){
   refreshBtn.disabled=true; statusText.textContent="Refreshing…"; statusDot.className="dot stale";
-  await Promise.all([loadNews(), loadMarkets()]);
-  statusText.textContent="Updated "+new Date().toLocaleTimeString([],{hour:"2-digit",minute:"2-digit"});
+  statusText.classList.remove("flash","flash-none");
+  const [fresh] = await Promise.all([loadNews(), loadMarkets()]);
   statusDot.className="dot"; refreshBtn.disabled=false;
+
+  // brief confirmation flash, then settle to the timestamp
+  const time = new Date().toLocaleTimeString([],{hour:"2-digit",minute:"2-digit"});
+  if(fresh>0){ statusText.textContent=`Updated ✓ ${fresh} new`; statusText.classList.add("flash"); }
+  else { statusText.textContent="No new stories"; statusText.classList.add("flash-none"); }
+  if(flashTimer) clearTimeout(flashTimer);
+  flashTimer=setTimeout(()=>{ statusText.classList.remove("flash","flash-none"); statusText.textContent="Updated "+time; }, 2200);
 }
 function scheduleTimers(){ if(timer)clearInterval(timer); timer=setInterval(refreshAll, REFRESH_MS); }
 refreshBtn.addEventListener("click",refreshAll);
