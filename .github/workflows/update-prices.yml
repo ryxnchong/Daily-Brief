@@ -1,9 +1,9 @@
-name: Update prices
+name: Update prices and news
 
 on:
   schedule:
-    - cron: '*/30 * * * *'   # every 30 minutes (UTC). GitHub may delay off-peak; that's normal.
-  workflow_dispatch: {}        # lets you run it manually from the Actions tab
+    - cron: '*/30 * * * *'
+  workflow_dispatch: {}
 
 permissions:
   contents: write
@@ -15,65 +15,145 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v4
 
-      - name: Fetch quotes from Finnhub and write prices.json
+      - name: Fetch prices (Finnhub US + Yahoo SG) and archive news
         env:
           FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
         run: |
           python3 - <<'PY'
-          import json, os, time, urllib.request
+          import json, os, time, urllib.request, urllib.parse, datetime, re
+          import xml.etree.ElementTree as ET
 
-          KEY = os.environ["FINNHUB_KEY"]
+          KEY = os.environ.get("FINNHUB_KEY","")
+          UA = {"User-Agent": "Mozilla/5.0 (compatible; RyanDailyNews/1.0)"}
 
-          # symbol -> display label. Finnhub uses ".SI" for SGX names.
-          SYMBOLS = {
-              "SPY":     "S&P 500 (SPY)",
-              "QQQ":     "Nasdaq (QQQ)",
-              "DIA":     "Dow Jones (DIA)",
-              "^HSI":    "Hang Seng",
-              "AAPL":    "Apple",
-              "MSFT":    "Microsoft",
-              "GOOGL":   "Alphabet",
-              "NVDA":    "Nvidia",
-              "AVGO":    "Broadcom",
-              "JPM":     "JPMorgan",
-              "MS":      "Morgan Stanley",
-              "BAC":     "Bank of America",
-              "C":       "Citigroup",
-              "WFC":     "Wells Fargo",
-              "HSBC":    "HSBC",
-              "GS":      "Goldman Sachs",
-              "^STI":    "STI",
-              "D05.SI":  "DBS",
-              "U11.SI":  "UOB",
-              "O39.SI":  "OCBC",
-              "C6L.SI":  "SIA",
+          def get(url, timeout=25):
+              req = urllib.request.Request(url, headers=UA)
+              with urllib.request.urlopen(req, timeout=timeout) as r:
+                  return r.read()
+
+          # ---------- PRICES ----------
+          FINNHUB = {
+              "SPY":"S&P 500 (SPY)","QQQ":"Nasdaq (QQQ)","DIA":"Dow Jones (DIA)",
+              "AAPL":"Apple (AAPL)","MSFT":"Microsoft (MSFT)","GOOGL":"Alphabet (GOOGL)",
+              "NVDA":"Nvidia (NVDA)","AVGO":"Broadcom (AVGO)",
+              "JPM":"JPMorgan (JPM)","MS":"Morgan Stanley (MS)","BAC":"Bank of America (BAC)",
+              "C":"Citigroup (C)","WFC":"Wells Fargo (WFC)","HSBC":"HSBC (HSBC)","GS":"Goldman Sachs (GS)",
+          }
+          YAHOO = {
+              "^HSI":"Hang Seng","^STI":"STI",
+              "D05.SI":"DBS (D05)","U11.SI":"UOB (U11)","O39.SI":"OCBC (O39)",
+              "C6L.SI":"SIA (C6L)","Z74.SI":"Singtel (Z74)","BN4.SI":"Keppel (BN4)",
           }
 
-          out = {}
-          for sym, label in SYMBOLS.items():
-              try:
-                  url = f"https://finnhub.io/api/v1/quote?symbol={urllib.parse.quote(sym)}&token={KEY}"
-                  with urllib.request.urlopen(url, timeout=20) as r:
-                      d = json.load(r)
-                  # c=current, dp=percent change, pc=prev close
-                  if d and d.get("c"):
-                      out[sym] = {"label": label, "price": d.get("c"), "pct": d.get("dp"), "prevClose": d.get("pc")}
-                  else:
-                      out[sym] = {"label": label, "price": None, "pct": None, "prevClose": None}
-              except Exception as e:
-                  out[sym] = {"label": label, "price": None, "pct": None, "prevClose": None, "error": str(e)}
-              time.sleep(1)  # stay well under 60 req/min
+          quotes = {}
 
-          payload = {"updated": int(time.time()), "quotes": out}
-          with open("prices.json", "w") as f:
-              json.dump(payload, f, indent=2)
-          print("wrote prices.json with", len(out), "symbols")
+          for sym,label in FINNHUB.items():
+              try:
+                  d = json.loads(get(f"https://finnhub.io/api/v1/quote?symbol={urllib.parse.quote(sym)}&token={KEY}"))
+                  quotes[sym] = {"label":label,"price":d.get("c"),"pct":d.get("dp")} if d.get("c") else {"label":label,"price":None,"pct":None}
+              except Exception as e:
+                  quotes[sym] = {"label":label,"price":None,"pct":None,"error":str(e)}
+              time.sleep(1)
+
+          for sym,label in YAHOO.items():
+              try:
+                  url = f"https://query1.finance.yahoo.com/v8/finance/chart/{urllib.parse.quote(sym)}?range=5d&interval=1d"
+                  d = json.loads(get(url))
+                  res = d["chart"]["result"][0]
+                  meta = res.get("meta",{})
+                  price = meta.get("regularMarketPrice")
+                  prev = meta.get("chartPreviousClose") or meta.get("previousClose")
+                  pct = ((price-prev)/prev*100) if (price and prev) else None
+                  quotes[sym] = {"label":label,"price":price,"pct":pct}
+              except Exception as e:
+                  quotes[sym] = {"label":label,"price":None,"pct":None,"error":str(e)}
+              time.sleep(1)
+
+          with open("prices.json","w") as f:
+              json.dump({"updated":int(time.time()),"quotes":quotes}, f, indent=2)
+          print("wrote prices.json:", len(quotes), "symbols")
+
+          # ---------- NEWS ARCHIVE ----------
+          FEEDS = {
+            "global":[
+              ("Reuters","https://news.google.com/rss/search?q=business%20OR%20markets%20site:reuters.com%20when:2d&hl=en-US&gl=US&ceid=US:en"),
+              ("Bloomberg","https://news.google.com/rss/search?q=markets%20OR%20economy%20site:bloomberg.com%20when:2d&hl=en-US&gl=US&ceid=US:en"),
+              ("CNBC","https://news.google.com/rss/search?q=markets%20site:cnbc.com%20when:2d&hl=en-US&gl=US&ceid=US:en"),
+              ("FT","https://news.google.com/rss/search?q=markets%20OR%20economy%20site:ft.com%20when:2d&hl=en-US&gl=US&ceid=US:en"),
+              ("MarketWatch","https://news.google.com/rss/search?q=markets%20site:marketwatch.com%20when:2d&hl=en-US&gl=US&ceid=US:en"),
+            ],
+            "tech":[
+              ("Reuters Tech","https://news.google.com/rss/search?q=technology%20OR%20chips%20OR%20AI%20site:reuters.com%20when:2d&hl=en-US&gl=US&ceid=US:en"),
+              ("Bloomberg Tech","https://news.google.com/rss/search?q=technology%20OR%20semiconductor%20site:bloomberg.com%20when:2d&hl=en-US&gl=US&ceid=US:en"),
+              ("CNBC Tech","https://news.google.com/rss/search?q=(tech%20OR%20AI%20OR%20chips)%20site:cnbc.com%20when:2d&hl=en-US&gl=US&ceid=US:en"),
+              ("The Verge","https://news.google.com/rss/search?q=site:theverge.com%20when:2d&hl=en-US&gl=US&ceid=US:en"),
+            ],
+            "banks":[
+              ("Reuters Banks","https://news.google.com/rss/search?q=(bank%20OR%20banking%20OR%20lender)%20site:reuters.com%20when:2d&hl=en-US&gl=US&ceid=US:en"),
+              ("Bloomberg Banks","https://news.google.com/rss/search?q=(bank%20OR%20banks%20OR%20Wall%20Street)%20site:bloomberg.com%20when:2d&hl=en-US&gl=US&ceid=US:en"),
+              ("CNBC Finance","https://news.google.com/rss/search?q=(bank%20OR%20finance)%20site:cnbc.com%20when:2d&hl=en-US&gl=US&ceid=US:en"),
+              ("FT Banks","https://news.google.com/rss/search?q=(bank%20OR%20banking)%20site:ft.com%20when:2d&hl=en-US&gl=US&ceid=US:en"),
+            ],
+            "singapore":[
+              ("Business Times","https://news.google.com/rss/search?q=(SGX%20OR%20Singapore%20economy%20OR%20MAS)%20site:businesstimes.com.sg%20when:3d&hl=en-SG&gl=SG&ceid=SG:en"),
+              ("Straits Times","https://news.google.com/rss/search?q=Singapore%20(market%20OR%20economy%20OR%20stocks)%20site:straitstimes.com%20when:3d&hl=en-SG&gl=SG&ceid=SG:en"),
+              ("CNA","https://news.google.com/rss/search?q=(Singapore%20economy%20OR%20SGX%20OR%20DBS%20OR%20OCBC%20OR%20UOB)%20site:channelnewsasia.com%20when:3d&hl=en-SG&gl=SG&ceid=SG:en"),
+              ("Reuters SG","https://news.google.com/rss/search?q=Singapore%20(economy%20OR%20finance)%20site:reuters.com%20when:3d&hl=en-US&gl=US&ceid=US:en"),
+            ],
+          }
+
+          def parse_rss(xml_bytes, source):
+              out=[]
+              try:
+                  root = ET.fromstring(xml_bytes)
+                  for item in root.iter("item"):
+                      title = (item.findtext("title") or "").strip()
+                      link = (item.findtext("link") or "").strip()
+                      pub = (item.findtext("pubDate") or "").strip()
+                      desc = re.sub("<[^>]+>","",(item.findtext("description") or ""))[:150].strip()
+                      if title and link:
+                          out.append({"title":title,"link":link,"pubDate":pub,"snippet":desc,"source":source})
+              except Exception as e:
+                  print("parse fail", source, e)
+              return out[:6]
+
+          archive = {}
+          for tab,feeds in FEEDS.items():
+              items=[]
+              for name,url in feeds:
+                  try:
+                      items += parse_rss(get(url), name)
+                  except Exception as e:
+                      print("feed fail", name, e)
+                  time.sleep(1)
+              seen=set(); dedup=[]
+              for it in items:
+                  k=it["title"].lower()
+                  if k in seen: continue
+                  seen.add(k); dedup.append(it)
+              archive[tab]=dedup[:24]
+
+          today = datetime.datetime.utcnow().strftime("%Y-%m-%d")
+          os.makedirs("news", exist_ok=True)
+          with open(f"news/{today}.json","w") as f:
+              json.dump({"date":today,"updated":int(time.time()),"tabs":archive}, f, indent=2)
+
+          idx_path="news/index.json"
+          dates=[]
+          if os.path.exists(idx_path):
+              try: dates=json.load(open(idx_path)).get("dates",[])
+              except: dates=[]
+          if today not in dates: dates.append(today)
+          dates=sorted(set(dates))[-40:]
+          with open(idx_path,"w") as f:
+              json.dump({"dates":dates}, f, indent=2)
+          print("archived news for", today, "; total dates:", len(dates))
           PY
 
-      - name: Commit prices.json if it changed
+      - name: Commit changes
         run: |
           git config user.name "prices-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add prices.json
-          git diff --staged --quiet || git commit -m "Update prices.json"
+          git add prices.json news/
+          git diff --staged --quiet || git commit -m "Update prices + news archive"
           git push
