@@ -154,8 +154,8 @@ const TAB_LEDE = { global:"Global Markets", tech:"Technology", banks:"Banking & 
 // Feeds per tab. sg flag caps Singapore items on non-SG tabs.
 const FEEDS = {
   global: [
-    {name:"Reuters",   url:"https://news.google.com/rss/search?q=business%20OR%20markets%20site:reuters.com%20when:2d&hl=en-US&gl=US&ceid=US:en"},
-    {name:"Bloomberg", url:"https://news.google.com/rss/search?q=markets%20OR%20economy%20site:bloomberg.com%20when:2d&hl=en-US&gl=US&ceid=US:en"},
+    {name:"Reuters",   url:"https://news.google.com/rss/search?q=business%20OR%20markets%20site:reuters.com%20when:1d&hl=en-US&gl=US&ceid=US:en"},
+    {name:"Bloomberg", url:"https://news.google.com/rss/search?q=markets%20OR%20economy%20site:bloomberg.com%20when:1d&hl=en-US&gl=US&ceid=US:en"},
     {name:"CNBC",      url:"https://www.cnbc.com/id/100003114/device/rss/rss.html"},
     {name:"MarketWatch",url:"http://feeds.marketwatch.com/marketwatch/topstories/"},
     {name:"Yahoo Finance",url:"https://finance.yahoo.com/news/rssindex"},
@@ -164,25 +164,25 @@ const FEEDS = {
   ],
   tech: [
     {name:"CNBC Tech", url:"https://www.cnbc.com/id/19854910/device/rss/rss.html"},
-    {name:"Reuters Tech", url:"https://news.google.com/rss/search?q=technology%20OR%20chips%20OR%20AI%20site:reuters.com%20when:2d&hl=en-US&gl=US&ceid=US:en"},
-    {name:"Bloomberg Tech", url:"https://news.google.com/rss/search?q=technology%20OR%20semiconductor%20site:bloomberg.com%20when:2d&hl=en-US&gl=US&ceid=US:en"},
+    {name:"Reuters Tech", url:"https://news.google.com/rss/search?q=technology%20OR%20chips%20OR%20AI%20site:reuters.com%20when:1d&hl=en-US&gl=US&ceid=US:en"},
+    {name:"Bloomberg Tech", url:"https://news.google.com/rss/search?q=technology%20OR%20semiconductor%20site:bloomberg.com%20when:1d&hl=en-US&gl=US&ceid=US:en"},
     {name:"The Verge", url:"https://www.theverge.com/rss/index.xml"},
     {name:"Ars Technica", url:"https://feeds.arstechnica.com/arstechnica/index"},
-    {name:"MarketWatch Tech", url:"https://news.google.com/rss/search?q=technology%20stocks%20site:marketwatch.com%20when:2d&hl=en-US&gl=US&ceid=US:en"},
+    {name:"MarketWatch Tech", url:"https://news.google.com/rss/search?q=technology%20stocks%20site:marketwatch.com%20when:1d&hl=en-US&gl=US&ceid=US:en"},
   ],
   banks: [
-    {name:"Reuters Banks", url:"https://news.google.com/rss/search?q=(bank%20OR%20banking%20OR%20lender)%20site:reuters.com%20when:2d&hl=en-US&gl=US&ceid=US:en"},
-    {name:"Bloomberg Banks", url:"https://news.google.com/rss/search?q=(bank%20OR%20banks%20OR%20Wall%20Street)%20site:bloomberg.com%20when:2d&hl=en-US&gl=US&ceid=US:en"},
+    {name:"Reuters Banks", url:"https://news.google.com/rss/search?q=(bank%20OR%20banking%20OR%20lender)%20site:reuters.com%20when:1d&hl=en-US&gl=US&ceid=US:en"},
+    {name:"Bloomberg Banks", url:"https://news.google.com/rss/search?q=(bank%20OR%20banks%20OR%20Wall%20Street)%20site:bloomberg.com%20when:1d&hl=en-US&gl=US&ceid=US:en"},
     {name:"CNBC Finance", url:"https://www.cnbc.com/id/10000664/device/rss/rss.html"},
-    {name:"FT Banks", url:"https://news.google.com/rss/search?q=(bank%20OR%20banking)%20site:ft.com%20when:2d&hl=en-US&gl=US&ceid=US:en"},
+    {name:"FT Banks", url:"https://news.google.com/rss/search?q=(bank%20OR%20banking)%20site:ft.com%20when:1d&hl=en-US&gl=US&ceid=US:en"},
     {name:"MarketWatch", url:"http://feeds.marketwatch.com/marketwatch/topstories/"},
   ],
   singapore: [
     {name:"Business Times", url:"https://www.businesstimes.com.sg/rss/companies-markets"},
     {name:"Business Times SG", url:"https://www.businesstimes.com.sg/rss/singapore"},
-    {name:"CNA Business", url:"https://news.google.com/rss/search?q=(Singapore%20economy%20OR%20SGX%20OR%20MAS%20OR%20DBS%20OR%20OCBC%20OR%20UOB)%20when:3d&hl=en-SG&gl=SG&ceid=SG:en"},
-    {name:"Straits Times", url:"https://news.google.com/rss/search?q=Singapore%20(market%20OR%20economy%20OR%20stocks)%20site:straitstimes.com%20when:3d&hl=en-SG&gl=SG&ceid=SG:en"},
-    {name:"Reuters SG", url:"https://news.google.com/rss/search?q=Singapore%20(economy%20OR%20finance)%20site:reuters.com%20when:3d&hl=en-US&gl=US&ceid=US:en"},
+    {name:"CNA Business", url:"https://news.google.com/rss/search?q=(Singapore%20economy%20OR%20SGX%20OR%20MAS%20OR%20DBS%20OR%20OCBC%20OR%20UOB)%20when:1d&hl=en-SG&gl=SG&ceid=SG:en"},
+    {name:"Straits Times", url:"https://news.google.com/rss/search?q=Singapore%20(market%20OR%20economy%20OR%20stocks)%20site:straitstimes.com%20when:1d&hl=en-SG&gl=SG&ceid=SG:en"},
+    {name:"Reuters SG", url:"https://news.google.com/rss/search?q=Singapore%20(economy%20OR%20finance)%20site:reuters.com%20when:1d&hl=en-US&gl=US&ceid=US:en"},
   ],
 };
 // keyword filters to keep narrow tabs on-topic (loose OR match)
@@ -251,12 +251,20 @@ function renderTicker(){
 /* ===================== NEWS ===================== */
 async function fetchFeed(feed){
   try{
-    const res=await fetch(RSS_PROXY+encodeURIComponent(feed.url)+"&_="+Date.now());
+    // Put the cache-buster INSIDE the feed URL so the proxy treats it as a new feed (forces fresh fetch)
+    const bustedUrl = feed.url + (feed.url.includes("?")?"&":"?") + "cb=" + Date.now();
+    const res=await fetch(RSS_PROXY+encodeURIComponent(bustedUrl));
     if(!res.ok) throw 0;
     const data=await res.json();
     if(!data.items) throw 0;
-    return data.items.slice(0,5).map(it=>({title:it.title,link:it.link,pubDate:it.pubDate,snippet:stripHtml(it.description).slice(0,150),source:feed.name}));
+    return data.items.slice(0,8).map(it=>({title:it.title,link:it.link,pubDate:it.pubDate,snippet:stripHtml(it.description).slice(0,150),source:feed.name}));
   }catch(e){ console.warn("feed failed",feed.name); return []; }
+}
+// true if a pubDate falls on today's local calendar date
+function isToday(pubDate){
+  const d=new Date(pubDate); if(isNaN(d)) return false;
+  const n=new Date();
+  return d.getFullYear()===n.getFullYear() && d.getMonth()===n.getMonth() && d.getDate()===n.getDate();
 }
 function storyHTML(s,i){
   const liked=isSaved(s.link);
@@ -320,16 +328,19 @@ async function loadNews(tab){
       return 0;
     }
   }
-  // Latest: live feeds (as before)
+  // Latest: live feeds
   const feeds=FEEDS[tab]||FEEDS.global;
   const results=await Promise.all(feeds.map(fetchFeed));
-  let all=results.flat().filter(isFinancial);
+  let all=results.flat().filter(isFinancial).filter(s=>isToday(s.pubDate));  // strictly today
   const seen=new Set(); all=all.filter(s=>{const k=(s.title||"").toLowerCase(); if(seen.has(k))return false; seen.add(k); return true;});
   const onTopic=all.filter(s=>matchesTab(tab,s.title));
   const pool = onTopic.length>=MIN_STORIES ? onTopic : all;
-  pool.sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate));
+  pool.sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate));  // absolute newest first
   const final=pool.slice(0,MAX_STORIES);
-  if(tab===currentTab) renderStories(final);
+  if(tab===currentTab){
+    if(!final.length){ storiesEl.innerHTML='<p class="empty">No articles published yet today for this section — check back later, or use the date dropdown for a past day.</p>'; }
+    else renderStories(final);
+  }
   return final.length;
 }
 
