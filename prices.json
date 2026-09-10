@@ -1,10 +1,10 @@
 {
-  "updated": 1789070723,
+  "updated": 1789072601,
   "quotes": {
     "SPY": {
       "label": "S&P 500 (SPY)",
-      "price": 757.89,
-      "pct": -0.5916
+      "price": 757.83,
+      "pct": -0.5994
     },
     "QQQ": {
       "label": "Nasdaq (QQQ)",
@@ -48,8 +48,8 @@
     },
     "MS": {
       "label": "Morgan Stanley (MS)",
-      "price": 212.73,
-      "pct": -1.2166
+      "price": 212.66,
+      "pct": -1.2491
     },
     "BAC": {
       "label": "Bank of America (BAC)",
