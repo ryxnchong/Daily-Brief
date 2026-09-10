@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "updated": 1789011570,
+  "updated": 1789013142,
   "tabs": {
     "global": [
       {
@@ -8,6 +8,13 @@
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTE5zWFZ4Z2JRY1VhbF94Z01fZFlvRDRvVFFjMHpwQnN3RnpUN1RHZW1kSFJiWDM2RnZadHhRVy0yOS1xcU85UEZucEN0ZHZ1YXdtYzE1WW9NQ2lQcEtZZEN0VW5qQTk1emRJT2hNSXV1SmRkdGVScHQwX1p2NkpiRlVpZ2kxYVJtbF96U2NjVC05Nmg0TEhBa1lJUVUyX3QyOWQzdVd0S1g5UjZibVNHODRyNDdLSGli?oc=5",
         "pubDate": "Thu, 10 Sep 2026 02:20:00 GMT",
         "snippet": "Xi's India visit to help diplomatic thaw, but business ties bound by suspicion&nbsp;&nbsp;Reuters",
+        "source": "Reuters"
+      },
+      {
+        "title": "Currency markets subdued as oil shock lifts global yields; ECB, U.S. inflation eyed - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYU50UmRVNmIyeFBOSmd6azlDeDMxNlh1S0cycHpnYjU4NERYWjhoN2diSmthTngzdWZScmFTdldrTGtUcTh3SDFKbVIySmU2TUx3cnMtOEdKMnFkV3J1d3pYRmdvZDVWb2VPSXNjcG52cEVPTGtLNF9UT1BFSnJ3WlUzOXNuU1FwZmNSdGVTdV9Na1h6M3dPVGVtU0ttYlBlRWc0S1Q0Rl9HSmVCNlZaZXhjMVc0OUduMk1mOGRqVkxjY0d2SGhRbWJsUQ?oc=5",
+        "pubDate": "Thu, 10 Sep 2026 02:07:00 GMT",
+        "snippet": "Currency markets subdued as oil shock lifts global yields; ECB, U.S. inflation eyed&nbsp;&nbsp;Reuters",
         "source": "Reuters"
       },
       {
@@ -32,17 +39,10 @@
         "source": "Reuters"
       },
       {
-        "title": "Republican lawmakers criticize Ford business ties to China - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNlBwY0xWY25vMW5KUmhIc3BjbVp0bUhyTnpXOGRuOXhKWVFVSlZrMWRXc2VsWHFRLWJ3UU14VmFrLWJTenNJa2NiNm52SWpTc2cyM0RrcG14el9TOVdFNkFDYkZKcGNPeWtqM19OYlZOTjFUaS1TYXJFZElMM0JHREo1SjhabVROTllGQzBnLXRuQml0cnZlWGRVOUFmX3IwN3lLNGpYSC11aEJmMFVqRWF3YUtDSHQ4amJueXhn?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 23:18:49 GMT",
-        "snippet": "Republican lawmakers criticize Ford business ties to China&nbsp;&nbsp;Reuters",
-        "source": "Reuters"
-      },
-      {
-        "title": "Canadian dollar edges lower as trade war with US intensifies - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb21VT3psWXJQX0NjWG03eGdsUC1xVlJnbkxtMWhRU2ZOUWw4V1ZkX3lkNVRoM1BhT0phby1hbV9WRi1obWpIYXItQmxOeFp3ZlU1NDZZSFlNcW5wNjdSb1BvT3U2VEFUdmZOOXgzQllJcmxMTnpqXzk3eDRpOHF1QTBRNVg0YVZ4MlJrSTRwZXJjUGQySnNSNlVSX0phUU1RTmwxTA?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 16:33:44 GMT",
-        "snippet": "Canadian dollar edges lower as trade war with US intensifies&nbsp;&nbsp;Reuters",
+        "title": "Brent holds above $100 as tanker attacks deepen supply fear - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTlKVk5vOWlpYndFb2Flck9IczhtU2k5X1I3a0tlMjA2dkRmMEJncVFZdWctZW9wX05NaU9vUzNwMU5ld3UycklJMjhHaHB3WDdZVF81Z0t1WWNZak8tTFFwdDZtTHZvUnozMnVpUmtEanVsN2ZxM1A2QkxZS3IydDByTlQtd3RFYThzVnlwVmR0eGMyT1RQQldPZVp4VE1oSm5TcHBXVTd1dXM?oc=5",
+        "pubDate": "Thu, 10 Sep 2026 01:24:00 GMT",
+        "snippet": "Brent holds above $100 as tanker attacks deepen supply fear&nbsp;&nbsp;Reuters",
         "source": "Reuters"
       },
       {
@@ -53,10 +53,10 @@
         "source": "Bloomberg"
       },
       {
-        "title": "Asian Stocks Fall as Oil Adds to Inflation Fears: Markets Wrap - Bloomberg.com",
+        "title": "Asian Stocks to Fall as Oil Stokes Inflation Fears: Markets Wrap - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeDNPY1UtR3dhUVBsYWhkc21iVFB1VmptOUFuVlhGdHgtZ0Zpb29KZVBUbHk0Sl9ZNnNIYmxMLWNQU25kT0ZMSVIzMkVZQUFub3R2WnQ3NV9mT29Id1lYVml0MF9qcFFPSzg1cndWWEltOWVLQUd3blRKMHM2eHVMSnFTc3dva3ZIOGVxV2RzWnF3Qnl5?oc=5",
         "pubDate": "Wed, 09 Sep 2026 22:13:56 GMT",
-        "snippet": "Asian Stocks Fall as Oil Adds to Inflation Fears: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
+        "snippet": "Asian Stocks to Fall as Oil Stokes Inflation Fears: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg"
       },
       {
@@ -174,6 +174,13 @@
     ],
     "tech": [
       {
+        "title": "OpenAI pushes for mandatory national AI safety rules - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM1BGN3ZBNTNDNW5DeGNuUmhNSnM3M1JfZ1NGaWF1ZFpvNHg3THdibUkzRkNrSkMwX2g2bDRzaUdmcklQNW9tNDZNTWREV2M0c0I1bXlFejQwZkFhTzRybzFjd1UzWS1BbFFyeWoxbzlWMXpyQTN3MF9ydzZxQ0ktYjhLY1dPRlM1alU1UUdGd0psUFBPOE5KU0VNSTdzNWs4RWFRYlpVaHJMd0Nt?oc=5",
+        "pubDate": "Wed, 09 Sep 2026 23:47:00 GMT",
+        "snippet": "OpenAI pushes for mandatory national AI safety rules&nbsp;&nbsp;Reuters",
+        "source": "Reuters Tech"
+      },
+      {
         "title": "Anthropic discloses fourth AI hacking incident missed in earlier review - Reuters",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaU1ZZ0ZRWnBaSnRlakoxVTU1SE9aZTEySkNZU2N2eU5XWG9remJKT29feUVoNlhhQVpfWnNFd1NKZ0xnb3lobTExTXE5dXZud0tCbGVLMzR4Y0NFRkRRUUlnWUllbjVTcXBWeHJzMDJVamFBQjJveC1PNThKSGUzNlRfUlVEVkJPbHhtendZdXdsSmdva0RvT3NidFdSb3BWSmd6R1lFb1NxYXdjR0xKeVVnZWY4c3JlbHlycFhkcXlmQ1Jv?oc=5",
         "pubDate": "Wed, 09 Sep 2026 22:18:17 GMT",
@@ -181,10 +188,17 @@
         "source": "Reuters Tech"
       },
       {
-        "title": "OpenAI pushes for mandatory national AI safety rules - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM1BGN3ZBNTNDNW5DeGNuUmhNSnM3M1JfZ1NGaWF1ZFpvNHg3THdibUkzRkNrSkMwX2g2bDRzaUdmcklQNW9tNDZNTWREV2M0c0I1bXlFejQwZkFhTzRybzFjd1UzWS1BbFFyeWoxbzlWMXpyQTN3MF9ydzZxQ0ktYjhLY1dPRlM1alU1UUdGd0psUFBPOE5KU0VNSTdzNWs4RWFRYlpVaHJMd0Nt?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 23:47:00 GMT",
-        "snippet": "OpenAI pushes for mandatory national AI safety rules&nbsp;&nbsp;Reuters",
+        "title": "DOJ probes Nvidia's licensing deal with AI startup Groq, NYT reports - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM04tamJVM0lINldJeEdvdDNHbTMxM2NMY0FzZjlGbWQzRVRjWGMweU9WM1NFeXU2U0NwdDdxZ1JOSVVUM0tjZVlkQTZvbE41VGlOT2FVbVJrRjN4Wk1ldW1od2tBcUR2T1ZKR244TjQwdWtHTm5qVFRyOFdzSGVGWVNtbFUwdHVZdl9Fak9SR1JlUWN0VUNXdFZPajZuTGVMRVJ0QUFCNzlRajdUWjVGVGNJQkotdlhFQjFoREQ1WQ?oc=5",
+        "pubDate": "Thu, 10 Sep 2026 01:07:00 GMT",
+        "snippet": "DOJ probes Nvidia's licensing deal with AI startup Groq, NYT reports&nbsp;&nbsp;Reuters",
+        "source": "Reuters Tech"
+      },
+      {
+        "title": "Nvidia teams up with Australian partners to build AI factory capacity - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk5MZDBuUUItQ1c2dnBiWWJudnJhczJ4MUh1azQxTjBBNmhCZHJsWVNEcWFRLUtJX1p6WXFaLVFrZ0tPeHNWWEhYYXZYd3BwNU1XZ2lvSEgxOUdHLW1mZ1dJdkZFYUg5bjZIVm9SbWNHdmw2MjBnenIzekF3UkJJdG5DTnVjc1ZXazR6M3UwZzA0X3c4by1uSUE2Z0o2U2hwTTJRdURmQTRFTzBQSDZWeDUzSENMYjdMYzJ6VUx3?oc=5",
+        "pubDate": "Thu, 10 Sep 2026 00:22:00 GMT",
+        "snippet": "Nvidia teams up with Australian partners to build AI factory capacity&nbsp;&nbsp;Reuters",
         "source": "Reuters Tech"
       },
       {
@@ -199,20 +213,6 @@
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXFxSC1yRTU2ejFxemZvWTFuejRhSXZTY2cwVUFCU21iLURyaGltd3BCTGlJeXR4NEJzZUpldTN2M2RfQ191TV9rb1RfeExhSms3elNGLVV4cU9nbG9oNWV3dFB5S1ctLXNBSDVOdjZsYnZoYklyb2FmdDZrLVBsYTEzT1c5Unhpd1dacUNpMWNzd1UxYnZMR2NrSWVMSEQxYXFXRGE4RDktQzIwS2xGaG9sWUFvNlAtbDVLNElSWQ?oc=5",
         "pubDate": "Wed, 09 Sep 2026 16:03:00 GMT",
         "snippet": "EXCLUSIVE: OpenAI\u2019s rogue agents used at least 10 more sites for unauthorized comms, researchers say&nbsp;&nbsp;Reuters",
-        "source": "Reuters Tech"
-      },
-      {
-        "title": "Nvidia teams up with Australian partners to build AI factory capacity - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk5MZDBuUUItQ1c2dnBiWWJudnJhczJ4MUh1azQxTjBBNmhCZHJsWVNEcWFRLUtJX1p6WXFaLVFrZ0tPeHNWWEhYYXZYd3BwNU1XZ2lvSEgxOUdHLW1mZ1dJdkZFYUg5bjZIVm9SbWNHdmw2MjBnenIzekF3UkJJdG5DTnVjc1ZXazR6M3UwZzA0X3c4by1uSUE2Z0o2U2hwTTJRdURmQTRFTzBQSDZWeDUzSENMYjdMYzJ6VUx3?oc=5",
-        "pubDate": "Thu, 10 Sep 2026 00:22:00 GMT",
-        "snippet": "Nvidia teams up with Australian partners to build AI factory capacity&nbsp;&nbsp;Reuters",
-        "source": "Reuters Tech"
-      },
-      {
-        "title": "Suno releases new AI music models in partnership with Warner Music, BMG - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLUU2OHhzTDE2cXROTGVBNkRiR2g1bWZSRUZDeXlDQjhidWkyVHBYeXJ2NUxfdlRhS0dxdzM1LTdiSnlHUTl5V0tzdnRGYW5DajVqWE9DaFhOckF6b2l0N2lwVmVVYWgtVmQwMmdhVWh3UWVfaWpfVTVXbDVyeDVTMEhQaXZPX3ZrUVUwZmx5a0h6NFFUeWg2RmxjcEcyOXRlSHl3RUVzMGRYNDFqV2hVZ19GUGFpU3RGR1lBWQ?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 18:33:46 GMT",
-        "snippet": "Suno releases new AI music models in partnership with Warner Music, BMG&nbsp;&nbsp;Reuters",
         "source": "Reuters Tech"
       },
       {
@@ -244,17 +244,17 @@
         "source": "Bloomberg Tech"
       },
       {
-        "title": "Lyft Begins Offering Waymo Robotaxi Rides on Its App in Nashville - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM3RJcEEtNkpUUkstUFY0VmJhSlVFSTg2WlBLeFJVQzdKZHVoR05jbUFYcVNjSG1BNm5Udks1cS14M0pLVW5rUlVpeERCZjEyVzJITU5Ha0tCWU1SV1k2dE1aeXl0LVllWWd0bzVhZkFZTzhpaTR0OUNrLWJWSHlKcjVQV0d2R3psbjhhNEY4dWtzZkUzQkZHZ3lOY2lZaGZFZV9sLW1vb3NJV2RhajZGcXl1N0FjZUU?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 10:00:05 GMT",
-        "snippet": "Lyft Begins Offering Waymo Robotaxi Rides on Its App in Nashville&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg Tech"
-      },
-      {
         "title": "Apple\u2019s Priciest iPhone Duo Hits $3,199, Setting Industry Record - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSDE3NGlCOEZTb3dpSXNRQmIzRUNrV0lkTENtZjV3WHVJWkxubncySVFkU2t6YXZpTlpMdlZfZUhsODFlanhRRHA2YU9lS0VYdTFtdG91Tmt2eUs2UUwzYUh3NldQZnE3czBNMmV0RnlaYnJ5RGR3SHQ3SGVzTXBlT2hGb092RFZqTERLSzdrS0F2bDgzM3E5RW1jZHhfcmRjZDF2X2ZfeUQwejVnVkR4Vjl6Yw?oc=5",
         "pubDate": "Wed, 09 Sep 2026 20:27:39 GMT",
         "snippet": "Apple\u2019s Priciest iPhone Duo Hits $3,199, Setting Industry Record&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg Tech"
+      },
+      {
+        "title": "Lyft Begins Offering Waymo Robotaxi Rides on Its App in Nashville - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM3RJcEEtNkpUUkstUFY0VmJhSlVFSTg2WlBLeFJVQzdKZHVoR05jbUFYcVNjSG1BNm5Udks1cS14M0pLVW5rUlVpeERCZjEyVzJITU5Ha0tCWU1SV1k2dE1aeXl0LVllWWd0bzVhZkFZTzhpaTR0OUNrLWJWSHlKcjVQV0d2R3psbjhhNEY4dWtzZkUzQkZHZ3lOY2lZaGZFZV9sLW1vb3NJV2RhajZGcXl1N0FjZUU?oc=5",
+        "pubDate": "Wed, 09 Sep 2026 10:00:05 GMT",
+        "snippet": "Lyft Begins Offering Waymo Robotaxi Rides on Its App in Nashville&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Tech"
       },
       {
@@ -279,17 +279,17 @@
         "source": "CNBC Tech"
       },
       {
-        "title": "AI data centers won't create as many UK jobs as the tech sector projects, think tank warns - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VTTZSeEh0NU5UNXE5RElRbUlyZ3pMTW44Z3JuUmxzajM0dzNYMDNSQW5aWEE3UFBjTVg0Z2JFZDlLOG16VmVWRi1ocTUxbEdYYWdXU2FGSVBkOXlPblVYTlJlUVdrUl9zU1c3a0ZZeS14aENGUG9ZbU13c9IBgAFBVV95cUxOSTJWLVdCcjlFdHBzNGdwcF9lNXFFM3RSMFZCa0hCbFc0WTFXeHJORkttTUJndWxVSFgyZnh0QzN1b3BCcFR6VzQtNHhqaUdiRWpZYVJmUk13dTdiU2hnQkNXUXkwV250Ni11OTR1ZExJQU9vM2tqT3FjMEFyeFF0TQ?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 12:26:40 GMT",
-        "snippet": "AI data centers won't create as many UK jobs as the tech sector projects, think tank warns&nbsp;&nbsp;CNBC",
-        "source": "CNBC Tech"
-      },
-      {
         "title": "Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth - CNBC",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TV0tFRVJORkx4ZnNlaUh6SDN3MFFtcTVmUVFjZXJtZTFOWFF4WXdGZVNhQl9zUEJaNkV3SUtpcEt0WFZNdmo3NTBHVXh6Q2NOdE1vbGFxS2Y5RTRPSnNHNzlZY0lGWHB3aVNrMHFyaGxIdEh6Y0tyY2ZaUUVxQdIBgwFBVV95cUxQUVUyaVhYNVZCNjEzdGZWbkpWSTE2SXR2eWJwV2xxTGlDcG1LaFpjMFNoaXlZc0RUZENXSjltdGVCYlNCdXdIMDAyV1p1Y2stNTVVY1VnZjFNd0FfQ0lmaV9UaHZPUGNFVlJ1dzdPUkVfblpIdnJuOHVud0czdzJucTBNYw?oc=5",
         "pubDate": "Wed, 09 Sep 2026 10:00:01 GMT",
         "snippet": "Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth&nbsp;&nbsp;CNBC",
+        "source": "CNBC Tech"
+      },
+      {
+        "title": "AI data centers won't create as many UK jobs as the tech sector projects, think tank warns - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VTTZSeEh0NU5UNXE5RElRbUlyZ3pMTW44Z3JuUmxzajM0dzNYMDNSQW5aWEE3UFBjTVg0Z2JFZDlLOG16VmVWRi1ocTUxbEdYYWdXU2FGSVBkOXlPblVYTlJlUVdrUl9zU1c3a0ZZeS14aENGUG9ZbU13c9IBgAFBVV95cUxOSTJWLVdCcjlFdHBzNGdwcF9lNXFFM3RSMFZCa0hCbFc0WTFXeHJORkttTUJndWxVSFgyZnh0QzN1b3BCcFR6VzQtNHhqaUdiRWpZYVJmUk13dTdiU2hnQkNXUXkwV250Ni11OTR1ZExJQU9vM2tqT3FjMEFyeFF0TQ?oc=5",
+        "pubDate": "Wed, 09 Sep 2026 12:26:40 GMT",
+        "snippet": "AI data centers won't create as many UK jobs as the tech sector projects, think tank warns&nbsp;&nbsp;CNBC",
         "source": "CNBC Tech"
       },
       {
@@ -314,6 +314,13 @@
         "source": "The Verge"
       },
       {
+        "title": "Apple is raising iPhone prices by $100 on all of its old models - The Verge",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY1RrM2h2Mnc0YVVUWEhUUDRsQnN6d1JRZWQ0T2tyczZRcWd5THk2YlVWdV9CTFJkaWRTYnl6d1h3YjZqVFRtTzlJdFRVV3dsZDRIYWh2bkgtVlEtUWI3M2xEVTFMM3pxTTEyTDl6aHdVNTR3Z0xsVTlNc0lYQndvaw?oc=5",
+        "pubDate": "Wed, 09 Sep 2026 18:30:24 GMT",
+        "snippet": "Apple is raising iPhone prices by $100 on all of its old models&nbsp;&nbsp;The Verge",
+        "source": "The Verge"
+      },
+      {
         "title": "Apple completely revamped iOS 27\u2019s controls and apps for the iPhone Duo - The Verge",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yS1Q0RG5sVXg3ZklWd0oybWtUd2ZMdWMtYTgzV3ZzNlBJOUF2eXgySGhvR3BzYmNPSzFXRWoxUmxnRVU1MHh4Z2dRSzl6MUZBRHJnWEc1NmtwWmE3TU8wdG5ieHZkWTkzdHNDekRHcGFtOU1adHg2Yk4tQQ?oc=5",
         "pubDate": "Wed, 09 Sep 2026 18:12:22 GMT",
@@ -332,13 +339,6 @@
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWkhWS0RtM0JhaXh1d1BMYlJJMF9VNENEZkttMXBhOGtyUnNQOW5lZzk1VjQzTDA0SzZfWDVxQ3BRR3Jtdzl6ZHV6eDRyaTRWSGJhUzhOM05fMThLZHlUckpkMjRmRFZ2S19jMWpFRXZDaFRYREtybGRhQTFPWWFGR0o1WW81YmV2MU00YkhaZzdmZw?oc=5",
         "pubDate": "Tue, 08 Sep 2026 20:53:52 GMT",
         "snippet": "Drama swirls around OpenAI\u2019s legendary mathematical milestone&nbsp;&nbsp;The Verge",
-        "source": "The Verge"
-      },
-      {
-        "title": "ChatGPT Sketch turns your bad drawings into detailed AI images - The Verge",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUGJBTkE4dDB6MVE5QTBVMWROS0phak5ORm1EU0V6U3JtTE5JcFRoTUNnc0RXMG9KRTR6Zm16V1haSWV6bnM3dXNYYm5YM2pJT1FwclZoVEFLdnhLNFVkZ3BTcjBtcFdMb0xvSnM1SVJ3VlVaSFYySjl1OFJlUHZvM1FsQUdETTJzXzA4bUFCank0YnlKdkE?oc=5",
-        "pubDate": "Tue, 08 Sep 2026 20:16:09 GMT",
-        "snippet": "ChatGPT Sketch turns your bad drawings into detailed AI images&nbsp;&nbsp;The Verge",
         "source": "The Verge"
       }
     ],
@@ -379,10 +379,10 @@
         "source": "Reuters Banks"
       },
       {
-        "title": "How two Israeli brothers are driving a West Bank settler land grab - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQTF3TDVzSnZXZkRQaUc1cFpZdktRRGQ1R2JvcVNJQmFtbnZBUThubGFkS21MVHp1clVROTFGX05GUFQzZGVWTFV0TVpNSkI0RU5KSU9XZjQxVkQ5NUozM2FBSTl3eHVibzB2TUJnRDgxTXJRYXRYRmI1Y01zWHhrVUMyTUxLdVpnajRQOUFSR2J2czAxemMtazhWX0JuNnJfV2VMR3p5ZXN4LU9FVk1sMXh6OTlGdzFUakE?oc=5",
-        "pubDate": "Tue, 08 Sep 2026 08:00:00 GMT",
-        "snippet": "How two Israeli brothers are driving a West Bank settler land grab&nbsp;&nbsp;Reuters",
+        "title": "Singapore's DBS faces $1 billion lawsuit in alleged 1MDB-linked claim - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3lqa05DVXpjdC02Y0NyN3k2OEJGalFlWXVFQTBsQ2M0NzVoZFQxWUtoMXZFNWN1dVZkZnl6NkYzOEprZ2xkN0p4UDMzNkE0V2lya29RNmRQaVpFTk9VbEpxNFZNUVVIU1I5bFlubkNjWXdzS0N3TXlYVlhkYm8tV0huUThTQTZKYjctd29idFhuVkQtWEpHRXRyQ1NQODRvVkE?oc=5",
+        "pubDate": "Wed, 09 Sep 2026 13:12:00 GMT",
+        "snippet": "Singapore's DBS faces $1 billion lawsuit in alleged 1MDB-linked claim&nbsp;&nbsp;Reuters",
         "source": "Reuters Banks"
       },
       {
@@ -584,17 +584,17 @@
         "source": "Straits Times"
       },
       {
-        "title": "Japan economy grew faster than estimated, revised data show - The Straits Times",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV2pFa0wwXzI4U2lxRE5YR1hmY2VNQ2wzSGRyb2tHam5GZE1fTW1LemtDUXJHS0VXUmQ3Ql9pdjlXQWRnTG5xRlE3NUxQSWZEU3ZaVlFsbkVidXdmaTFzM21uTkdMdzMtRGhBTm5QZmYwUnh2bUloR19iSnYwa3Q2bHBlN2FDQ2E2R3lyUlN1aFhwaTB1VlBMdVFjUUk?oc=5",
-        "pubDate": "Tue, 08 Sep 2026 03:41:00 GMT",
-        "snippet": "Japan economy grew faster than estimated, revised data show&nbsp;&nbsp;The Straits Times",
+        "title": "Stocks sink as oil rally fans inflation and rate hike fears - The Straits Times",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX1RxcWxsMlBVbWdGelZDUllvR1hyeXM3a1RQRnFtT1lIeml3dU5FdGNLVnpaZGhDNEloYXpyQTZpLXFJN1JSOExBSWZjdXFyV3BJUXE5T0lETVFjR1JuQW0teW9Zc2RNb3p6c1R5X2dvQVlyMkhZbldUemhLSzVhbU9ZMzVtR0k4TlM4a3pQOHBCdXFOWklRQTR5MkU3QQ?oc=5",
+        "pubDate": "Thu, 10 Sep 2026 03:55:00 GMT",
+        "snippet": "Stocks sink as oil rally fans inflation and rate hike fears&nbsp;&nbsp;The Straits Times",
         "source": "Straits Times"
       },
       {
-        "title": "Oil heads for $100, Asia stocks subdued as Middle East tensions escalate - The Straits Times",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMC1Fd0lwS2Q5SllqbUs3c25NaDhhbFEtWUFnTUZoMlotRGZhal8tZTFoOXZLSTBNLWNkdFkwWWpENHZDNEVldDZzTFBhdFVTN05kbWtUeVlVVExlNVEzYnpnblhuUGVUdElUV21Ub2VHUzNESDR5MnFiU3NOc29pSVFqelFNUTIzc3FmYmZCOTFaSFZ0X21paFhTNHROXzR1Ni1nSVZmcjRoeHdERUpnYzI2ZzRtNHRvd2dj?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 04:28:00 GMT",
-        "snippet": "Oil heads for $100, Asia stocks subdued as Middle East tensions escalate&nbsp;&nbsp;The Straits Times",
+        "title": "More support for Singapore firms in the US as EnterpriseSG opens Boston office - The Straits Times",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaFVHT1pidnpFSHdHM2RWcVdVZUdidXZERHc5RUNJRnVDYVo2d1RBQzNmMWJkcDZPV19JRG5EODJQVzNXU2xUQXMwZW4wZHhuNXI5RjA5TUxkUndPbW9OeWNJQTRPaDRBVTZ1Wm1qZVFxRXpaVExxeERtbF8yd09ObXIzdFR1dEEtbmNCMHU4NjEwRmo4Z21IZFAwU1Raek1xYWlHT0tIS0FwcjdKSjAtYWZsS3EwdkxHS0hKRk5fenpQLVZJS0NUTUREWHN1X1E?oc=5",
+        "pubDate": "Thu, 10 Sep 2026 04:01:00 GMT",
+        "snippet": "More support for Singapore firms in the US as EnterpriseSG opens Boston office&nbsp;&nbsp;The Straits Times",
         "source": "Straits Times"
       },
       {
