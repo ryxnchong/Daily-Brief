@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "updated": 1789185947,
+  "updated": 1789187837,
   "tabs": {
     "global": [
       {
@@ -18,17 +18,17 @@
         "source": "Reuters"
       },
       {
-        "title": "VIEW Stocks, bonds rally after August inflation report - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY08xWWcxZWZRWG5WSFJ2ckZFcFk1T0cyNjlfS3F0U0Vyby1EWVJUaUNNaTUwVXRNVnk0Q2NfVVdYT2lPYjUxdjZlVHBXOWVPVnMzWk1DWmE4V1RGNzFrWFhwN3V5alYtbktTcDBST0RORllfc1Nhd0RBNFZ0UTVlbFFaM0FGMEpTLTIxdTVCeEJpcG5YdC1zTUZqMTQwNGhDZVBNbVBxX0Jmbkpsd2c?oc=5",
-        "pubDate": "Fri, 11 Sep 2026 13:33:08 GMT",
-        "snippet": "VIEW Stocks, bonds rally after August inflation report&nbsp;&nbsp;Reuters",
-        "source": "Reuters"
-      },
-      {
         "title": "Fed rate-hike case builds as inflation fails to cool - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2R5eFJ0eFBfbWR4dnNKaUdDZC1MTVY5aWYxc3BlaUY1S2ZMM0xwaFhMbEh1cWtsSFhFVGk5eEE4NkRTb3FxREhvbkpKVjdXdVY1VHhNT2NaUkhUNmEtSzdoQno5aWFRUGpWS0ZBMXcwUEFKSHFOVF9jcFJQSExCbjBYaU5JNTdMdlladkpZdkp2TURmcW94ZkxtV1dwbTR3TkJhUXlmc1A?oc=5",
         "pubDate": "Fri, 11 Sep 2026 15:18:42 GMT",
         "snippet": "Fed rate-hike case builds as inflation fails to cool&nbsp;&nbsp;Reuters",
+        "source": "Reuters"
+      },
+      {
+        "title": "VIEW Stocks, bonds rally after August inflation report - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY08xWWcxZWZRWG5WSFJ2ckZFcFk1T0cyNjlfS3F0U0Vyby1EWVJUaUNNaTUwVXRNVnk0Q2NfVVdYT2lPYjUxdjZlVHBXOWVPVnMzWk1DWmE4V1RGNzFrWFhwN3V5alYtbktTcDBST0RORllfc1Nhd0RBNFZ0UTVlbFFaM0FGMEpTLTIxdTVCeEJpcG5YdC1zTUZqMTQwNGhDZVBNbVBxX0Jmbkpsd2c?oc=5",
+        "pubDate": "Fri, 11 Sep 2026 13:33:08 GMT",
+        "snippet": "VIEW Stocks, bonds rally after August inflation report&nbsp;&nbsp;Reuters",
         "source": "Reuters"
       },
       {
@@ -139,7 +139,7 @@
       {
         "title": "Bond markets stabilise after global sell-off - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnRneHpWaVQzQ1BNaGdWTjNfT2hqT1NfdG5BQ2hxUVp5VVByUnpmT0VBbno0N0x0cmdlZFVVSVI4VWQ0aTBMMzVXcTR1a3NwV3UtSmx4VTY5MjRBUTV5NE5XM2w4TXBtSVZHaGZycU1WOTNIQ1JjY0kzaHplTlZzQ3BpcGM?oc=5",
-        "pubDate": "Fri, 11 Sep 2026 04:06:44 GMT",
+        "pubDate": "Fri, 11 Sep 2026 13:22:38 GMT",
         "snippet": "Bond markets stabilise after global sell-off&nbsp;&nbsp;Financial Times",
         "source": "FT"
       },
@@ -188,6 +188,13 @@
         "source": "Reuters Tech"
       },
       {
+        "title": "JPMorgan curbed lending to Situational Awareness after AI losses, source says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYXZzWjNxUTdwUHp5NFJydUZnRU1VU3VIZWpxaHRGMGZ2YWFfekVHV1RHSGhlOEN4Ym9ZTjNmZ016SVJfR2ltTG5GUndNWXhkUDdhUUNOWU41UnRoXzhBQlQ4MjlIZGZzdS1wc0tPV3FfSG01SGd1dzA1ZTdnYkdpeWJ2R0NKWm11MzliVGVQcW1tUC1PUHV3dHhTYnJual94YWdEQ0p6Q3dxbjMwWWREY25DRWxMYm9PTmhsdFc2T3R3anpfaDR4OQ?oc=5",
+        "pubDate": "Fri, 11 Sep 2026 21:05:00 GMT",
+        "snippet": "JPMorgan curbed lending to Situational Awareness after AI losses, source says&nbsp;&nbsp;Reuters",
+        "source": "Reuters Tech"
+      },
+      {
         "title": "How Anthropic says Claude was used for weapons, spying and cyber operations - Reuters",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc?oc=5",
         "pubDate": "Fri, 11 Sep 2026 19:25:28 GMT",
@@ -199,13 +206,6 @@
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXdNOTVXY3kwZHluN2wtdk16OHYyYjR6aWxCZ3RFaDNveWtIMTZ3dzFwZExPZmpOX1YxbTJMdmdEeVZabF9NTjV3ei1KSWJXR2NKR2lnbWZjczZyQlBEU0x6c0dnWFplWFVteEJoQ0JTMGpFdnZqd2hXR2JpSF9ILU9WM2tGUTAtQWxuQnl4LXhZQWRnZXNEdFZlUFBDbXhxLTJVUVoyRkwtQm1KS3R5M05uaktvT0dWVzhV?oc=5",
         "pubDate": "Fri, 11 Sep 2026 09:49:16 GMT",
         "snippet": "EXCLUSIVE: UAE revises AI data center plan after Iranian attacks, sources say&nbsp;&nbsp;Reuters",
-        "source": "Reuters Tech"
-      },
-      {
-        "title": "JPMorgan curbed lending to Situational Awareness after AI losses, source says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYXZzWjNxUTdwUHp5NFJydUZnRU1VU3VIZWpxaHRGMGZ2YWFfekVHV1RHSGhlOEN4Ym9ZTjNmZ016SVJfR2ltTG5GUndNWXhkUDdhUUNOWU41UnRoXzhBQlQ4MjlIZGZzdS1wc0tPV3FfSG01SGd1dzA1ZTdnYkdpeWJ2R0NKWm11MzliVGVQcW1tUC1PUHV3dHhTYnJual94YWdEQ0p6Q3dxbjMwWWREY25DRWxMYm9PTmhsdFc2T3R3anpfaDR4OQ?oc=5",
-        "pubDate": "Fri, 11 Sep 2026 21:05:00 GMT",
-        "snippet": "JPMorgan curbed lending to Situational Awareness after AI losses, source says&nbsp;&nbsp;Reuters",
         "source": "Reuters Tech"
       },
       {
@@ -429,7 +429,7 @@
       },
       {
         "title": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hRjZwbjNmOUdKVjQ5ZVVIZmVQSXB0Z1BoV1BORjdNeUpYTV85UVNGbmJKd1VzQXVBaVdHVmdlREo3SlZlM2RPejZCOE5PWjlvMEVOSHJCS1lGS0RfUmkyeUJDcmZib2dsYmw3bElaQmdGX3Jm?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hRjZwbjNmOUdKVjQ5ZVVIZmVQSXB0Z1BoV1BORjdNeUpYTV85UVNGbmJKd1VzQXVBaVdHVmdlREo3SlZlM2RPejZCOE5PWjlvMEVOSHJCS1lGS0RfUmkyeUJDcmZib2dsYmw3bElaQmdGX3Jm0gF6QVVfeXFMT0E3MGJucVFXdU9uVE5aQWJBLUk4YUI5VXNHWmloV1M0MWtNc2tPQm10YmRKczA3bHVhWktCdFd3N3VQcG5CNzBhTVJybVBUWVNRYWt0SWE3ekQzWnZ4bVhHekRKRThSa3ZsMUVUS2lEalF2UXJwb1FxRUE?oc=5",
         "pubDate": "Fri, 11 Sep 2026 00:54:00 GMT",
         "snippet": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy&nbsp;&nbsp;CNBC",
         "source": "CNBC Finance"
