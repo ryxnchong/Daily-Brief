@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "updated": 1789180650,
+  "updated": 1789182343,
   "tabs": {
     "global": [
       {
@@ -8,6 +8,13 @@
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMm5mMEFxdUdWVkQ3Q3J0WlJnN1J1Ti01OEZiMjlKMjRPT0JMRnF6OTJrbjA1TFJ4dzVveUoxX0NsbUNyMUtYX040QzNOSWlfcWhiMEc5WWZVUEtGS1VaRDF2b3NCTzNPLXRRN2JYSzZXYURPZTdWNDA4c1hoRW1mZ3B1SGFiXzltQldPUTlKSERIeXpIQk5RaDU3Z2otUXZXV2NZMGhCanNFcWJLZ3B4aXk4X0xTS0FsV0Vteg?oc=5",
         "pubDate": "Fri, 11 Sep 2026 14:37:33 GMT",
         "snippet": "Oil tanker rates hit record highs following Iran, US shipping attacks&nbsp;&nbsp;Reuters",
+        "source": "Reuters"
+      },
+      {
+        "title": "VIEW Stocks, bonds rally after August inflation report - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY08xWWcxZWZRWG5WSFJ2ckZFcFk1T0cyNjlfS3F0U0Vyby1EWVJUaUNNaTUwVXRNVnk0Q2NfVVdYT2lPYjUxdjZlVHBXOWVPVnMzWk1DWmE4V1RGNzFrWFhwN3V5alYtbktTcDBST0RORllfc1Nhd0RBNFZ0UTVlbFFaM0FGMEpTLTIxdTVCeEJpcG5YdC1zTUZqMTQwNGhDZVBNbVBxX0Jmbkpsd2c?oc=5",
+        "pubDate": "Fri, 11 Sep 2026 13:33:08 GMT",
+        "snippet": "VIEW Stocks, bonds rally after August inflation report&nbsp;&nbsp;Reuters",
         "source": "Reuters"
       },
       {
@@ -39,13 +46,6 @@
         "source": "Reuters"
       },
       {
-        "title": "Trump administration to sanction unnamed 'large' bank on Monday, Bessent says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ203a2pwbUU5aVVPVUtBUHB4dWRXa2YtM2pYZzMtVWU3SXJqZUNZTmtrTWt6dmFsMm82YzJzUERqeExQYzVhXzl4REJpRk54SEZIblVEckJ5M0pVWHhUdDNUUTZiNzdyUlc3b0h2SjBhZFFQRk5pOTlCZlYzeTJkeXhkQURpbnB6Z1JfcFB5bl9walRKZUdfekNPaGVETHc0aTFfb3pZdlBZaXB1SkRSSjFLaUp3aTBXeXgybWFR?oc=5",
-        "pubDate": "Thu, 10 Sep 2026 22:46:20 GMT",
-        "snippet": "Trump administration to sanction unnamed 'large' bank on Monday, Bessent says&nbsp;&nbsp;Reuters",
-        "source": "Reuters"
-      },
-      {
         "title": "Citrini Founder Who Shook Markets Sells Firm, Plans New Fund - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGVXOWQxbkczM3J6al9XeHQ0YkVnZ05XUG4xQUdNeDBpWDZDcjRVWTlENVlaQWxtRGV1OVNqOEl6Mi1OcmtNOUdodGV5OVd0WFlyLVhucUtLdmlhUWJMb2lSVGRXdFdiT1A2elRiY3JTRC1UZ0J4XzBMTTdQUVVIcHgycHBsbTQ3cDVnRE9xTi1uTXJzV29ETTlvV0VkSkRtbFJ4YnJnLWNMLS1iWnln?oc=5",
         "pubDate": "Fri, 11 Sep 2026 21:04:03 GMT",
@@ -53,17 +53,17 @@
         "source": "Bloomberg"
       },
       {
-        "title": "Tesla Shares Suffer Slow Summer After SpaceX IPO, Earnings Rout - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUNSdDdROUtRU3lNUE1xY3Frb2NrTTVZQ1ZWSk5WQWpfQTBHWllyd1B5S2UxM2R1T1lWcU1RZi13TXNTTkdpRG1RMmJDbzRWZFZBUkh1ZXQ1VEI0YVdtUFc2NlRiTk42WnNodFphSzR4ZkpaZDc5aUh4N3dnT1VwNk40aGRONGtqa0FRWE13SmNFSDAxRGd1MDFSeGxNUWxwUG8yUmdMd2N6aWhraGZlTFdyNA?oc=5",
-        "pubDate": "Fri, 11 Sep 2026 13:15:50 GMT",
-        "snippet": "Tesla Shares Suffer Slow Summer After SpaceX IPO, Earnings Rout&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg"
-      },
-      {
         "title": "AI Is Killing the App Economy and Building Its Successor - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeEtvNUx1RUh1RHdBMll2XzBXLUlmWjUtMnJGZjg1RU1ST2hnVjVieHRKXzBvaDlHVTJKRWtzMTZSNWFaaHFiQnlxUW1jWXVQME1uUW01OVNxU3dmbFpva1ROenFrUE8tdEFxUm4wd1YySVZZcFJTclNvU0ZBbUF3WnlkZGxNQk10YW42TTg4cVJjRW15U3NjOXQ4M3NaQ2NJQzFGVzRBblN4OTg5clZN?oc=5",
         "pubDate": "Thu, 10 Sep 2026 04:00:00 GMT",
         "snippet": "AI Is Killing the App Economy and Building Its Successor&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg"
+      },
+      {
+        "title": "Tesla Shares Suffer Slow Summer After SpaceX IPO, Earnings Rout - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUNSdDdROUtRU3lNUE1xY3Frb2NrTTVZQ1ZWSk5WQWpfQTBHWllyd1B5S2UxM2R1T1lWcU1RZi13TXNTTkdpRG1RMmJDbzRWZFZBUkh1ZXQ1VEI0YVdtUFc2NlRiTk42WnNodFphSzR4ZkpaZDc5aUh4N3dnT1VwNk40aGRONGtqa0FRWE13SmNFSDAxRGd1MDFSeGxNUWxwUG8yUmdMd2N6aWhraGZlTFdyNA?oc=5",
+        "pubDate": "Fri, 11 Sep 2026 13:15:50 GMT",
+        "snippet": "Tesla Shares Suffer Slow Summer After SpaceX IPO, Earnings Rout&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg"
       },
       {
@@ -81,10 +81,10 @@
         "source": "Bloomberg"
       },
       {
-        "title": "AI Helps UK Economy Unexpectedly Grow in Boost for Burnham - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaGFxcklLOHAxTEx2TXFpUFRHZEd5bXF3TW9oRGtTR0tqVVg2blp3TlVOX1BFS0NrazhZSEhuSzlBWUZENnZWaEJseUVpN3NxalZuZFNmNVgzT0NjODYyU25jNVlTY1pUOTFLOEF5UVhWeG9tY3g1REljQW9QZFlyRzBjcEljbkJIa2VqdG1XU0t0V1dMbmFudWVtZVk2TWc?oc=5",
-        "pubDate": "Fri, 11 Sep 2026 07:20:37 GMT",
-        "snippet": "AI Helps UK Economy Unexpectedly Grow in Boost for Burnham&nbsp;&nbsp;Bloomberg.com",
+        "title": "Stocks, Bonds Rise as Oil Drop Outweighs CPI Data: Markets Wrap - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdWtrNXA0SFF6bzRNNjVfYkFKMXVEMS0yTTVGNXJhMFJqSzlibVZ6MUtDdmVkb014NkRmZEhXSEwyVzZ5S2FoY2hBZHgzMG4tQjYtczBVWWotazYyU3JmamdjWkxyRTlCNGJsX3Rmb3VtZHdUSU1haW1sTkFtY29uQ0pUaXE5VmI4S0M1TGpzTEc3UnhJ?oc=5",
+        "pubDate": "Thu, 10 Sep 2026 22:15:53 GMT",
+        "snippet": "Stocks, Bonds Rise as Oil Drop Outweighs CPI Data: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg"
       },
       {
@@ -130,45 +130,45 @@
         "source": "CNBC"
       },
       {
-        "title": "Is Scott Bessent winning the wrong battle in markets? - ft.com",
+        "title": "Is Scott Bessent winning the wrong battle in markets? - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSGNrMFhjRUFhN0I3ZlNuTTJGOEJxcUxoOTkwamd4Sl96U1Fmbi1TMWl6b01MMktJT1ZCcVR3WHBramNCeHpZM1dhZHMtNVA4R195QlZYelBweXJWdXFWd0N6bjlzMk9rWlpKTTFPTkE0N0NaUVJ2dHhjZXIwWjBjbl9udDc?oc=5",
         "pubDate": "Fri, 11 Sep 2026 17:00:07 GMT",
-        "snippet": "Is Scott Bessent winning the wrong battle in markets?&nbsp;&nbsp;ft.com",
+        "snippet": "Is Scott Bessent winning the wrong battle in markets?&nbsp;&nbsp;Financial Times",
         "source": "FT"
       },
       {
-        "title": "Bond markets stabilise after global sell-off - ft.com",
+        "title": "Bond markets stabilise after global sell-off - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnRneHpWaVQzQ1BNaGdWTjNfT2hqT1NfdG5BQ2hxUVp5VVByUnpmT0VBbno0N0x0cmdlZFVVSVI4VWQ0aTBMMzVXcTR1a3NwV3UtSmx4VTY5MjRBUTV5NE5XM2w4TXBtSVZHaGZycU1WOTNIQ1JjY0kzaHplTlZzQ3BpcGM?oc=5",
         "pubDate": "Fri, 11 Sep 2026 04:06:44 GMT",
-        "snippet": "Bond markets stabilise after global sell-off&nbsp;&nbsp;ft.com",
+        "snippet": "Bond markets stabilise after global sell-off&nbsp;&nbsp;Financial Times",
         "source": "FT"
       },
       {
-        "title": "UK economy unexpectedly grew 0.4% in July boosted by AI surge - ft.com",
+        "title": "UK economy unexpectedly grew 0.4% in July boosted by AI surge - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbW5nTDJpT1dVR3R2Vlg2WGtnZ2JqTlNDLXRscGJ6V1BSZEVXWC1vRW1PVFVpWWlRVnJaWXdsWkRZaGw5OUxDUHhLVGVFNXhsMnZrang0bUctUkEyZjFMNDdjN2Z4czAwOE9FeGlEUkVUMTQ1cWVISzlSYTJIQVlqQVo0VkQ?oc=5",
         "pubDate": "Fri, 11 Sep 2026 06:02:42 GMT",
-        "snippet": "UK economy unexpectedly grew 0.4% in July boosted by AI surge&nbsp;&nbsp;ft.com",
+        "snippet": "UK economy unexpectedly grew 0.4% in July boosted by AI surge&nbsp;&nbsp;Financial Times",
         "source": "FT"
       },
       {
-        "title": "Is now really the time to worry about a new China shock? - ft.com",
+        "title": "Is now really the time to worry about a new China shock? - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vdXJJRWtpT0xyUUdiVU10Y1pjSHhKWjgwQUhpa2pDaUllXzV1Zk5OOWVINWQ5NHBXSVViME5vWVpkcDVudVNROE5faFgxZUxXUTBPcHpPdHpIQlZQVVB1X1ItRW5uWkFLamVmS2htaHA?oc=5",
         "pubDate": "Thu, 10 Sep 2026 11:00:12 GMT",
-        "snippet": "Is now really the time to worry about a new China shock?&nbsp;&nbsp;ft.com",
+        "snippet": "Is now really the time to worry about a new China shock?&nbsp;&nbsp;Financial Times",
         "source": "FT"
       },
       {
-        "title": "On Europe\u2019s economy, let\u2019s ditch the lazy stereotypes - ft.com",
+        "title": "On Europe\u2019s economy, let\u2019s ditch the lazy stereotypes - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFh1b0pJTW05TkJ1dkl2TUt3bmRUaXdzdHFYaGRvSk9maHkxSjRBa3hqaExib0Z2QjlpVHVnOW1PV3dJQlhIREpMaDBMb1A4T0x4R3NLV3N4SnNXQUs5aDNRRkVpdUZCeXRUUW42bllsdkJTZnZvV1B2emR5QkRHSk0taWg?oc=5",
         "pubDate": "Thu, 10 Sep 2026 10:00:11 GMT",
-        "snippet": "On Europe\u2019s economy, let\u2019s ditch the lazy stereotypes&nbsp;&nbsp;ft.com",
+        "snippet": "On Europe\u2019s economy, let\u2019s ditch the lazy stereotypes&nbsp;&nbsp;Financial Times",
         "source": "FT"
       },
       {
-        "title": "Scott Bessent fails to break \u2018fever\u2019 in US bond market - ft.com",
+        "title": "Scott Bessent fails to break \u2018fever\u2019 in US bond market - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmlhQzlDUE1IOGNVekVMWDZIQTJTY0V4M2ViSjNMZnp0LXRRS2JSeDZpX3c0dU9JNE1ROWJ2WHZsRHN0Vk9QMlVrN1lvR2UyaGY0eWZGcmpRdlFtZS1QZWdjbk5pX3M1S0s0S1NuQWkyWDhibWhQZmlaZWZ2SGdrUXg0N18?oc=5",
         "pubDate": "Fri, 11 Sep 2026 04:00:28 GMT",
-        "snippet": "Scott Bessent fails to break \u2018fever\u2019 in US bond market&nbsp;&nbsp;ft.com",
+        "snippet": "Scott Bessent fails to break \u2018fever\u2019 in US bond market&nbsp;&nbsp;Financial Times",
         "source": "FT"
       }
     ],
@@ -181,17 +181,17 @@
         "source": "Reuters Tech"
       },
       {
-        "title": "How Anthropic says Claude was used for weapons, spying and cyber operations - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc?oc=5",
-        "pubDate": "Fri, 11 Sep 2026 19:25:28 GMT",
-        "snippet": "How Anthropic says Claude was used for weapons, spying and cyber operations&nbsp;&nbsp;Reuters",
-        "source": "Reuters Tech"
-      },
-      {
         "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV2F3RkRiVXZra3BTMExtX3lNVHBEV0xTbkxBMXNwaDVIOGtkeXJEWXRxeEd3dDlLbW5kOUdrQlFnXzVZTk9YRXMxdFRRVGpfR0puUjkyYXozVHJsVXVHTlhSNDVyZjlxMkVwNnU0a2pMMzdOSTdsaTJ4d2E2R1FLbU8wb0VVbW9GUzRsa0VTYUJhN24yRDNTTmtnYkpRUHVlN002SG54czB5UzRsTEtMLUxSSVgyN19xcnRwaGowODRJMXk3ZVNwRDNB?oc=5",
         "pubDate": "Fri, 11 Sep 2026 22:41:00 GMT",
         "snippet": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say&nbsp;&nbsp;Reuters",
+        "source": "Reuters Tech"
+      },
+      {
+        "title": "How Anthropic says Claude was used for weapons, spying and cyber operations - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc?oc=5",
+        "pubDate": "Fri, 11 Sep 2026 19:25:28 GMT",
+        "snippet": "How Anthropic says Claude was used for weapons, spying and cyber operations&nbsp;&nbsp;Reuters",
         "source": "Reuters Tech"
       },
       {
@@ -214,6 +214,13 @@
         "pubDate": "Fri, 11 Sep 2026 23:48:03 GMT",
         "snippet": "Oracle to spend $700 million more on restructuring costs as it ramps up AI spending&nbsp;&nbsp;Reuters",
         "source": "Reuters Tech"
+      },
+      {
+        "title": "Trump Ally Says US Underestimates China Tech Sector After Visits - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFJXSS1TUk44aktnVHlhcHdWbW9hTXFPVE9kZnlHTGl3RlZsTHB5OFlXTU1ZZC1HWGxFUUk4RVRJZ09IZUp0ckJMVDFGLW9PRW1vc3luRndTQzJ2M0x6NFkzMFZUbi11VkI2bW1jNjlMTUtYMTJKNlZyOU5GTUQtQ29Vbm9tbmZXQjBGcVVxT1d1TjlNRkVHQ2NxU0l3UU9JQkdiWmFFUEE1U0VyeEhZcklVT2ZjZw?oc=5",
+        "pubDate": "Fri, 11 Sep 2026 19:14:58 GMT",
+        "snippet": "Trump Ally Says US Underestimates China Tech Sector After Visits&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg Tech"
       },
       {
         "title": "As US Schools Crack Down on Screen Time, Parents Flock to Low-Tech Districts - Bloomberg.com",
@@ -244,17 +251,10 @@
         "source": "Bloomberg Tech"
       },
       {
-        "title": "Apple\u2019s Always-Listening Watch Features Test Eavesdropping Laws - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVXh5WkZBNmxHVjNJZTJpM1NOeldSSGZQWHE2Q0Z2QmNEalRBYjdrQjd3b0NaQThjU2VSeDAxR0ZSWThHaVZaWE1ld0h3TWk4c25KSVRmSzRlVWdMNEJLRG85V1hPRlJvWjVBTHVEbVluTUh3cDBlZWYxdFJUbUNRWk5CbGNmZkVzVHpleWljVHZkLU9JNE1KVXJXek55TnZaVFVudVRJV1plOFFHXzY0TVZGMzE4ZU1aeG1RcjdEWQ?oc=5",
-        "pubDate": "Fri, 11 Sep 2026 19:05:36 GMT",
-        "snippet": "Apple\u2019s Always-Listening Watch Features Test Eavesdropping Laws&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg Tech"
-      },
-      {
-        "title": "Meta Upgraded at JPMorgan as Muse Highlights Better AI Position - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaTZpcWRWU0dEZVRrazJEaVRLOS1OMkRLYkFmZzlYQUhqZ29MMUY0QTBJc3FBR2VXclI0b1RrLXJSMDRyS3lySTFPVkVVS3hRZXItdGlrWDFRQ0tiZ2xTRDRLTDF3UmxhNElzSXA3RnZWUF90QVRqTXM0d1JHZmRneWRoeFB1VnkzS1lpRVIteEVWMFNuSmtjb2R0T25kOElaVk5SbkFCZ2RHWk03T2o4VE1PWHg?oc=5",
-        "pubDate": "Thu, 10 Sep 2026 11:43:40 GMT",
-        "snippet": "Meta Upgraded at JPMorgan as Muse Highlights Better AI Position&nbsp;&nbsp;Bloomberg.com",
+        "title": "Nvidia Mulls $10 Billion Anthropic IPO Backing, Reuters Says - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdDBsRHFoaDBPR1JoeTZ4cmZ4a2U1dnhTWGpyd1BlTUJmLXZuZGZDbG9BNVpmMW9RZE9LR0RBVWpCdVRnZ3NYQUkwTjlFTnBENDU2QkR3dUhIM0ZlSldKOXVMSmhNYXQ2Z1hBN2NjRUM1UzBDd1RsRDhqcGFiNkgxOVRoaF9oTmlaamZPR3FmWjdmY3ZSak1uMVN4bmJ6Z05mVy01bzM4VXZlUzBabmNLYg?oc=5",
+        "pubDate": "Fri, 11 Sep 2026 23:19:47 GMT",
+        "snippet": "Nvidia Mulls $10 Billion Anthropic IPO Backing, Reuters Says&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Tech"
       },
       {
@@ -429,7 +429,7 @@
       },
       {
         "title": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hRjZwbjNmOUdKVjQ5ZVVIZmVQSXB0Z1BoV1BORjdNeUpYTV85UVNGbmJKd1VzQXVBaVdHVmdlREo3SlZlM2RPejZCOE5PWjlvMEVOSHJCS1lGS0RfUmkyeUJDcmZib2dsYmw3bElaQmdGX3Jm0gF6QVVfeXFMT0E3MGJucVFXdU9uVE5aQWJBLUk4YUI5VXNHWmloV1M0MWtNc2tPQm10YmRKczA3bHVhWktCdFd3N3VQcG5CNzBhTVJybVBUWVNRYWt0SWE3ekQzWnZ4bVhHekRKRThSa3ZsMUVUS2lEalF2UXJwb1FxRUE?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hRjZwbjNmOUdKVjQ5ZVVIZmVQSXB0Z1BoV1BORjdNeUpYTV85UVNGbmJKd1VzQXVBaVdHVmdlREo3SlZlM2RPejZCOE5PWjlvMEVOSHJCS1lGS0RfUmkyeUJDcmZib2dsYmw3bElaQmdGX3Jm?oc=5",
         "pubDate": "Fri, 11 Sep 2026 00:54:00 GMT",
         "snippet": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy&nbsp;&nbsp;CNBC",
         "source": "CNBC Finance"
@@ -470,45 +470,45 @@
         "source": "CNBC Finance"
       },
       {
-        "title": "Scott Bessent\u2019s intervention risks damaging BoJ\u2019s credibility, bankers warn - ft.com",
+        "title": "Scott Bessent\u2019s intervention risks damaging BoJ\u2019s credibility, bankers warn - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY0hyLVEzTU1JY0tTS0dUZlZCUllEbnBpWmltSlFVNUFZc0VvQ2o2Qkh4UXZBSUljTUlhcFdGQzlFMVpSc21NOWlwMUpDSjRqYzlWaDBEZlhqN3VsSWJPdHIzOVdQRElmcW5heTdBNW1OOTA4ay1aTnJzbEhvMm91SldKQW8?oc=5",
         "pubDate": "Fri, 11 Sep 2026 05:51:01 GMT",
-        "snippet": "Scott Bessent\u2019s intervention risks damaging BoJ\u2019s credibility, bankers warn&nbsp;&nbsp;ft.com",
+        "snippet": "Scott Bessent\u2019s intervention risks damaging BoJ\u2019s credibility, bankers warn&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
       {
-        "title": "ECB prepares for \u2018longer-lasting\u2019 inflation as it lifts interest rates to 2.5% - ft.com",
+        "title": "ECB prepares for \u2018longer-lasting\u2019 inflation as it lifts interest rates to 2.5% - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzFQdWp5RC10azlQOVlQeS1OMnNKQ0ZsZ0FmeWF0Ml9rUlZudkNpUVNzaUl3RDRxNzBfQ1BRYzVpVlIyZ0h3ZHFzT0F0anlDenZkclJPaUtUOVQxWjZTc1hkdThPRkhRZmltWm5LeVNBcm5YZ0RZTm5YZkpwYXVuQTU3d2Q?oc=5",
         "pubDate": "Thu, 10 Sep 2026 15:18:20 GMT",
-        "snippet": "ECB prepares for \u2018longer-lasting\u2019 inflation as it lifts interest rates to 2.5%&nbsp;&nbsp;ft.com",
+        "snippet": "ECB prepares for \u2018longer-lasting\u2019 inflation as it lifts interest rates to 2.5%&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
       {
-        "title": "HSBC finance chief Pam Kaur to step down in latest reshuffle - ft.com",
+        "title": "HSBC finance chief Pam Kaur to step down in latest reshuffle - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTENRQ3BFVl9ZQVJpSW5reEN2N2pRem95U1JYRzJHeVFqTmFSUzNOOUFrUmF6bjlOWU4yRjVScWVFYU9BLVFkREs4SEU5Vkd4ZFhCZE1JbDhsd0FsS3ZIeHBObm42blhzU3l4UF91NXVsY3J4cXl2Zy1Fcm92NVIyQkt3Qkg?oc=5",
         "pubDate": "Thu, 10 Sep 2026 09:32:23 GMT",
-        "snippet": "HSBC finance chief Pam Kaur to step down in latest reshuffle&nbsp;&nbsp;ft.com",
+        "snippet": "HSBC finance chief Pam Kaur to step down in latest reshuffle&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
       {
-        "title": "Japan must raise rates, central banker says - ft.com",
+        "title": "Japan must raise rates, central banker says - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcWlMYTl2YXBoM1d5Z2JzNVBvWGF1U205NktqRVJFSjBPbUk3UGVEN3ZmS2w2c2FpLXBfeEZOaDV3dm5yamtsMDU4cmRweHJhR04yQ0tQTlJYeDBnTnpVTW1FZms0ekJKX1dWZm1zOHd4azlaV3VhV0dxaEdVcWZXMDZMb0E?oc=5",
         "pubDate": "Thu, 10 Sep 2026 05:34:56 GMT",
-        "snippet": "Japan must raise rates, central banker says&nbsp;&nbsp;ft.com",
+        "snippet": "Japan must raise rates, central banker says&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
       {
-        "title": "UK economy unexpectedly grew 0.4% in July boosted by AI surge - ft.com",
+        "title": "UK economy unexpectedly grew 0.4% in July boosted by AI surge - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbW5nTDJpT1dVR3R2Vlg2WGtnZ2JqTlNDLXRscGJ6V1BSZEVXWC1vRW1PVFVpWWlRVnJaWXdsWkRZaGw5OUxDUHhLVGVFNXhsMnZrang0bUctUkEyZjFMNDdjN2Z4czAwOE9FeGlEUkVUMTQ1cWVISzlSYTJIQVlqQVo0VkQ?oc=5",
         "pubDate": "Fri, 11 Sep 2026 06:02:42 GMT",
-        "snippet": "UK economy unexpectedly grew 0.4% in July boosted by AI surge&nbsp;&nbsp;ft.com",
+        "snippet": "UK economy unexpectedly grew 0.4% in July boosted by AI surge&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
       {
-        "title": "Lessons drawn from Charles Goodhart - ft.com",
+        "title": "Lessons drawn from Charles Goodhart - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ3kzNzZuU0xBODdnRXlSMFZsZjlZNlduRENjQUNiaVVsdERITkFYODBfODhKdEdHeGJuSGx2NHc0cG5NVlYxbU1YeDdqaTBma1JVTURxN1prWXAtVFpOb3lHRnctbEV6WjZUX3RUQVB0TVRTN2pwMXJ5cWNyYldhbmIwYWc?oc=5",
         "pubDate": "Thu, 10 Sep 2026 04:03:27 GMT",
-        "snippet": "Lessons drawn from Charles Goodhart&nbsp;&nbsp;ft.com",
+        "snippet": "Lessons drawn from Charles Goodhart&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       }
     ],
