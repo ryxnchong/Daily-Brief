@@ -1,6 +1,6 @@
 {
   "date": "2026-09-13",
-  "updated": 1789297529,
+  "updated": 1789299344,
   "tabs": {
     "global": [
       {
@@ -144,13 +144,6 @@
         "source": "FT"
       },
       {
-        "title": "France\u2019s debt interest bill to jump 25% this year - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR001U2lmYlhCakpuYnRuVnozaS1iUGV3T1Q4SkpTM0tiaC1XRi1BTVp6Q0RNRkFaQ2x1b1V6dUNDcnk1d3hHTENtaV9WVjlOVGROcGRwWHNUR3UteEtDcjhHUm5TWjF6c2wwbVI5cDhnVDVnZEtfMGkwX2pvQzZaaUNNUDk?oc=5",
-        "pubDate": "Fri, 11 Sep 2026 11:35:03 GMT",
-        "snippet": "France\u2019s debt interest bill to jump 25% this year&nbsp;&nbsp;Financial Times",
-        "source": "FT"
-      },
-      {
         "title": "Is Scott Bessent winning the wrong battle in markets? - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSGNrMFhjRUFhN0I3ZlNuTTJGOEJxcUxoOTkwamd4Sl96U1Fmbi1TMWl6b01MMktJT1ZCcVR3WHBramNCeHpZM1dhZHMtNVA4R195QlZYelBweXJWdXFWd0N6bjlzMk9rWlpKTTFPTkE0N0NaUVJ2dHhjZXIwWjBjbl9udDc?oc=5",
         "pubDate": "Fri, 11 Sep 2026 17:00:07 GMT",
@@ -169,6 +162,13 @@
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTFVKZm14RURHVGR2M1A0d0ZfcGdQYjdlbGE0dm9LVkZ0azhlckM3bUVfeGdmcnU5WTEzOUNvM3BzUkR5cG03Y0cyYkNGemRScVZMUHdUSzctMjd0a21fVTZsVnh3bF9PV2hCQWFIeXk1X2lNTHUxd0hldUpPQ3M3aGwtS3Q?oc=5",
         "pubDate": "Sat, 12 Sep 2026 04:01:30 GMT",
         "snippet": "Booming Brics payments systems seek more cross-border links&nbsp;&nbsp;Financial Times",
+        "source": "FT"
+      },
+      {
+        "title": "JPMorgan cut off Situational Awareness lending after AI losses - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNHFCRWNlOGV6b2dNSUlNbUU0OFFWcWlncFZLY0hjZnRtTW5nQng3dm85djRHNDRaS3BZX280T1F6OEw2d1VqVThnUk16WnF2a3FMQWNJTXA5S3V1V25fcGtKU0FtalpTUGkxa1UwMW9jZG1OQkJsSEV5dFd4el9hTXlRenU?oc=5",
+        "pubDate": "Fri, 11 Sep 2026 17:15:28 GMT",
+        "snippet": "JPMorgan cut off Situational Awareness lending after AI losses&nbsp;&nbsp;Financial Times",
         "source": "FT"
       }
     ],
@@ -365,17 +365,17 @@
         "source": "Reuters Banks"
       },
       {
-        "title": "Brazil election challenger Bolsonaro under investigation over alleged corruption in Banco Master case - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaFFPLU1nTmZ4YVltTnMwSmhpNE1fVHFGZ0puQlY0XzJkUWNER252RjhzNkFMczFoNFk5M3gtalBkRGcwTklDVUN0alZMWngzZVZVX2wtYTl5Rl80eDlKaDlncHhnM1p0Y251RFJnbm1MOHlteHpTRy1pd2ZaSnVaMVd1T3JPYjdRVFp4S0xldG9DYTRpcGNVVkJ5TVhSR2RBR3BneXNqZVdOdy01ZGxtWU9VbnN6TEhLTUxwdEJGYw?oc=5",
-        "pubDate": "Fri, 11 Sep 2026 19:18:16 GMT",
-        "snippet": "Brazil election challenger Bolsonaro under investigation over alleged corruption in Banco Master case&nbsp;&nbsp;Reuters",
-        "source": "Reuters Banks"
-      },
-      {
         "title": "PODCAST: Under siege in the West Bank - Reuters",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSTnFtX09yVUpVMHFyVjlYZ01OZklGZGFFekF3a3l3VENBX0VHeFVDRVg3MmpFQVNNME50UG15MVk0ZWhTcENRRmI4eGRnNTN3NUx6MkR6Q3FLamJnRWJuVHI1ZXp3TzYtbFN3eDZqckRET25Y?oc=5",
         "pubDate": "Sat, 12 Sep 2026 05:01:00 GMT",
         "snippet": "PODCAST: Under siege in the West Bank&nbsp;&nbsp;Reuters",
+        "source": "Reuters Banks"
+      },
+      {
+        "title": "Brazil election challenger Bolsonaro under investigation over alleged corruption in Banco Master case - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaFFPLU1nTmZ4YVltTnMwSmhpNE1fVHFGZ0puQlY0XzJkUWNER252RjhzNkFMczFoNFk5M3gtalBkRGcwTklDVUN0alZMWngzZVZVX2wtYTl5Rl80eDlKaDlncHhnM1p0Y251RFJnbm1MOHlteHpTRy1pd2ZaSnVaMVd1T3JPYjdRVFp4S0xldG9DYTRpcGNVVkJ5TVhSR2RBR3BneXNqZVdOdy01ZGxtWU9VbnN6TEhLTUxwdEJGYw?oc=5",
+        "pubDate": "Fri, 11 Sep 2026 19:18:16 GMT",
+        "snippet": "Brazil election challenger Bolsonaro under investigation over alleged corruption in Banco Master case&nbsp;&nbsp;Reuters",
         "source": "Reuters Banks"
       },
       {
@@ -393,10 +393,10 @@
         "source": "Bloomberg Banks"
       },
       {
-        "title": "Warren Presses Insurance Watchdogs for Answers Amid Walter Probe - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMndNYXpPaWNlVjR2RzIyODBNYmtZMWhnSWdyNkVkZ3A2djhzcVhzdDBESUJndDVMQXAxMS1kMnNMUHg0X2VpY1dUdHJ2SWtySzJBX3RQVTRnZ29aaEZPdFJONVF5UFdwVGl6M1JNa01XaVB2b1dvRnZ1VDBRWmpXVENsamxNU0FxMXBlSG5aXzZrZ0VqRFQ2NVZDdF9zc1lBai0waW5OVnBlVkMxYW9MdklrYm5XZw?oc=5",
-        "pubDate": "Fri, 11 Sep 2026 11:10:00 GMT",
-        "snippet": "Warren Presses Insurance Watchdogs for Answers Amid Walter Probe&nbsp;&nbsp;Bloomberg.com",
+        "title": "SpaceX To Get Weighting Boost In Nasdaq 100 After Rebalance - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdlNsYU1PZVZldnFXRHBWdksxNnpCemlMRkIwdHItYjJtbWMtLU95N3A4VGdxQjg3NGdMZTlYU2RweEMzRFRicHJRNGl6dVJNQXhDaDRsaVNNejlZT3JYR05KMFFmdzdTaFRwcFhUU0dRbUZKSmFxVHktZlNPeFp5M3prVW5wc1BSYm1mTzU5NWVMMXFUODR6QXFRTlEtR3VadE5PRms4OGdvckFmRDlv?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 17:58:51 GMT",
+        "snippet": "SpaceX To Get Weighting Boost In Nasdaq 100 After Rebalance&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Banks"
       },
       {
@@ -404,13 +404,6 @@
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTGZaVVZMNnl5WVlrdVF0UVk3bVZHNExhTXJWemUwOHhPVUE3a0EyOHRYSTFiV3FvSEVxLTRpZHozUVIzZE9KekJOdHBfemlMUmtCaWt0bGlCX2tkWEpxb3JYWHM0VmVjQTllUU9PODZYQzNtaUd4TE5mbmtGNnJCbEdRampsUlpxdkMzMUZJR05LYV8yQUVhblB4cmZ1SVU5THRJc1pvOG12cnJWQlE?oc=5",
         "pubDate": "Fri, 11 Sep 2026 20:15:20 GMT",
         "snippet": "Goldman, BofA Vie to Manage Anthropic Staffers\u2019 IPO Millions&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg Banks"
-      },
-      {
-        "title": "SpaceX To Get Weighting Boost In Nasdaq 100 After Rebalance - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdlNsYU1PZVZldnFXRHBWdksxNnpCemlMRkIwdHItYjJtbWMtLU95N3A4VGdxQjg3NGdMZTlYU2RweEMzRFRicHJRNGl6dVJNQXhDaDRsaVNNejlZT3JYR05KMFFmdzdTaFRwcFhUU0dRbUZKSmFxVHktZlNPeFp5M3prVW5wc1BSYm1mTzU5NWVMMXFUODR6QXFRTlEtR3VadE5PRms4OGdvckFmRDlv?oc=5",
-        "pubDate": "Sat, 12 Sep 2026 17:58:51 GMT",
-        "snippet": "SpaceX To Get Weighting Boost In Nasdaq 100 After Rebalance&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Banks"
       },
       {
@@ -425,6 +418,13 @@
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOW4teWdzY1RpU1pRdHdXRE11NG5yNjlidGtTaUlyMGcwTURVRnR2a0NfdXhaM3JrazBSbzFzUU5LZ2owR0ZxdU1TSDdxQVNpam43Yl9yaDlKNVFKbTRlZXhxck9feFpmQ2VqX1V2czVhRVRfamtOZDV1cWhLcWtyeHc1dldLeV9Bc2RkYkd3d1VleUE4Q1RVeTd1c0xNdms1N2hQRkNGei1ORUl6MkNQV3Fhcw?oc=5",
         "pubDate": "Fri, 11 Sep 2026 21:22:01 GMT",
         "snippet": "Oraclum Hedge Fund Founder Is Charged With Lying About Returns&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg Banks"
+      },
+      {
+        "title": "\u2018Extremely High\u2019 Chance of $5 Gas by Midterms, Commodities Strategist Says - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYTN2SkRPdjFvSXBoV0tTWUxEc0lBUlVBcjJhMm4ycTFrR2hZdUprQmUySEdqMUxMTmxNa2ZYLXh1QWQ5STFZVXZVTmthR05yWTgzQUFIRUFrbmgzZGJwcHNEZm5MNmF4QjM1Z1kyR0loelA5ZXc0enhfd2tscUxtUko0YXFWUGVjMTc4ZVJYWk5EajF1Xy0yWFFPa3RBMk9XRGZJb3ZYLTNfdXNVR2hz?oc=5",
+        "pubDate": "Fri, 11 Sep 2026 14:56:07 GMT",
+        "snippet": "\u2018Extremely High\u2019 Chance of $5 Gas by Midterms, Commodities Strategist Says&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Banks"
       },
       {
@@ -477,6 +477,13 @@
         "source": "FT Banks"
       },
       {
+        "title": "Brazil banking scandal engulfs Supreme Court - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbFJTZ3Z5YXVHNThzVFFhSjEwTjB6WnRieWZhSG5VVFJMZXk4bHp0dXF0eS1HeG5MT09lVXRYR2lrRVdzYzk0WWVOWjFxMmIwaVgyeDZCQ1Q4Zzk0RzVpZldrZUJRM3V6OUdwem1OYURDdGxOTUVNUzROYV9yaEt1el9fenQ?oc=5",
+        "pubDate": "Sun, 13 Sep 2026 10:00:05 GMT",
+        "snippet": "Brazil banking scandal engulfs Supreme Court&nbsp;&nbsp;Financial Times",
+        "source": "FT Banks"
+      },
+      {
         "title": "High oil prices could force ECB to raise rates further, warns top policymaker - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzJYVmNLcVh3Z1MxbERSNTZKYnMxNG1lRzFIWGdXVnVKa0JlSnlyT01uTUZpRE9YdkVyUGMwZmZwNFB0eXk3YWhudU92UFNsTEhpRW40UjhsQk1pcUdnelUyT2ZBejk2YkZLMnlxV19oSU96S0s2N0FCT2pZSE1nbGFpczU?oc=5",
         "pubDate": "Sat, 12 Sep 2026 04:01:25 GMT",
@@ -491,13 +498,6 @@
         "source": "FT Banks"
       },
       {
-        "title": "Brazil banking scandal engulfs Supreme Court - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbFJTZ3Z5YXVHNThzVFFhSjEwTjB6WnRieWZhSG5VVFJMZXk4bHp0dXF0eS1HeG5MT09lVXRYR2lrRVdzYzk0WWVOWjFxMmIwaVgyeDZCQ1Q4Zzk0RzVpZldrZUJRM3V6OUdwem1OYURDdGxOTUVNUzROYV9yaEt1el9fenQ?oc=5",
-        "pubDate": "Sun, 13 Sep 2026 10:00:05 GMT",
-        "snippet": "Brazil banking scandal engulfs Supreme Court&nbsp;&nbsp;Financial Times",
-        "source": "FT Banks"
-      },
-      {
         "title": "US pressure on development banks to scrap climate finance goals - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcmNnVnBWckxPZ0NkY2pmcTlLTGJPYndnZy1BQjh6dlJCWFpQdzVPdVphWjBROFhjdGVOX0Rra3NUZDhxcFctWHRlSmNwSXVVMlRNakpRRlZpLVduQ2ZlcE0zOWt0QXRMOTJrZFRidk0xSGc5Y1FiMVJvcVB0dlI3WDdCV1E?oc=5",
         "pubDate": "Sun, 13 Sep 2026 04:01:32 GMT",
@@ -505,21 +505,14 @@
         "source": "FT Banks"
       },
       {
-        "title": "AI: Is Britain prepared? - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONFV5Q2I1bkNtdkFobU0yZS1yN1JvY0hucHcxQ3ZjeFhzUnBxVEx0ZmVqYmsyZThLQWVDOVVOTHBTbHhhZzRpd3Q1eThpd3BDcU9qTXJUd0V2dF9UUXVQWWVlUnpLamtuNERLMm9VdDBFZlNiM3NVSW5ETFlhcGFqRnNWUjI?oc=5",
-        "pubDate": "Fri, 11 Sep 2026 11:29:21 GMT",
-        "snippet": "AI: Is Britain prepared?&nbsp;&nbsp;Financial Times",
+        "title": "JPMorgan cut off Situational Awareness lending after AI losses - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNHFCRWNlOGV6b2dNSUlNbUU0OFFWcWlncFZLY0hjZnRtTW5nQng3dm85djRHNDRaS3BZX280T1F6OEw2d1VqVThnUk16WnF2a3FMQWNJTXA5S3V1V25fcGtKU0FtalpTUGkxa1UwMW9jZG1OQkJsSEV5dFd4el9hTXlRenU?oc=5",
+        "pubDate": "Fri, 11 Sep 2026 17:15:28 GMT",
+        "snippet": "JPMorgan cut off Situational Awareness lending after AI losses&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       }
     ],
     "singapore": [
-      {
-        "title": "Cashless society? Singapore\u2019s currency in circulation still hitting new highs at S$69 billion - The Business Times",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTlg2eFJuRkVkcjVFaDdOb21lX1ctc2piX2NWcWVfeXJ3TUpoMDVpQktfVWpxWVhpSk5XX1dmcjc5RTQ3M3RnSEg4TUZwR0cxdU9UajJJbGdIUksxZXg1VXhNeU94NllLMnZLY0l1Rl9SSmFHWXZ4TWo3bmRpbEttSW1VWEFPTGxLdjkzaHQybFdWRHN0N0NZOGRVbUpRQ3dpQk53blZYaERnMWJETDBHMURBT2VZNlI1TTJkc09ORXFCanhsU0E?oc=5",
-        "pubDate": "Thu, 10 Sep 2026 23:00:00 GMT",
-        "snippet": "Cashless society? Singapore\u2019s currency in circulation still hitting new highs at S$69 billion&nbsp;&nbsp;The Business Times",
-        "source": "Business Times"
-      },
       {
         "title": "UK economy grew 0.4% in July - The Business Times",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZTHVKcEM1QlhDVGxaS1AyUjM3c2JlOXJiQnU1NDZERlNFOXJVWGtSZlNSTVdFSUVpTEZDWXhXcDd1bTgxWG9ILWZGdVQxNjliOEJFcjY4UFQ1OUUyWUN3NS03a3VfcUxVTjQxTXN0c3RTcHRGUXJwOXBKYw?oc=5",
@@ -528,10 +521,10 @@
         "source": "Business Times"
       },
       {
-        "title": "Sustainability begins with learning to repair - The Business Times",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORHItQXNpUWducXFGM01oa2V3azFmb29yUDVXdHpJWVlNOWxGWFcxR2hkS3ZnSWR2MUN5cDQyM2wyaHVhdS02MFdfcWVfZ3E2UVF1SlhCS3BhTXdDdUZtMU12TVRCdVlHNE91Nm5pNk1sN19WdWNqejhPa3l5LXN3eUpseEVGMG51YXEyMzlqQTQ?oc=5",
-        "pubDate": "Fri, 11 Sep 2026 23:30:00 GMT",
-        "snippet": "Sustainability begins with learning to repair&nbsp;&nbsp;The Business Times",
+        "title": "Cashless society? Singapore\u2019s currency in circulation still hitting new highs at S$69 billion - The Business Times",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTlg2eFJuRkVkcjVFaDdOb21lX1ctc2piX2NWcWVfeXJ3TUpoMDVpQktfVWpxWVhpSk5XX1dmcjc5RTQ3M3RnSEg4TUZwR0cxdU9UajJJbGdIUksxZXg1VXhNeU94NllLMnZLY0l1Rl9SSmFHWXZ4TWo3bmRpbEttSW1VWEFPTGxLdjkzaHQybFdWRHN0N0NZOGRVbUpRQ3dpQk53blZYaERnMWJETDBHMURBT2VZNlI1TTJkc09ORXFCanhsU0E?oc=5",
+        "pubDate": "Thu, 10 Sep 2026 23:00:00 GMT",
+        "snippet": "Cashless society? Singapore\u2019s currency in circulation still hitting new highs at S$69 billion&nbsp;&nbsp;The Business Times",
         "source": "Business Times"
       },
       {
@@ -539,6 +532,13 @@
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSkk1S2x1ZVpWZm42bDYyeG5Vc3RhaHhaajRadENEaHF5QVdDaHBjSm9kSUF4bzlGRWtCdWZMM1hhRzA0UFVEOTRiZEtiZDhoN0ZiNldnRVpuOFlEZHJtSFdtYmlSb0JJVEI0WHFXVHFoWjZ4ZWRQcThYRTREN1d1WUtrT0xTb1hiSzhuSnRB?oc=5",
         "pubDate": "Fri, 11 Sep 2026 06:50:00 GMT",
         "snippet": "UK economy grows at fastest pace since Feb 2025&nbsp;&nbsp;The Business Times",
+        "source": "Business Times"
+      },
+      {
+        "title": "Sustainability begins with learning to repair - The Business Times",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORHItQXNpUWducXFGM01oa2V3azFmb29yUDVXdHpJWVlNOWxGWFcxR2hkS3ZnSWR2MUN5cDQyM2wyaHVhdS02MFdfcWVfZ3E2UVF1SlhCS3BhTXdDdUZtMU12TVRCdVlHNE91Nm5pNk1sN19WdWNqejhPa3l5LXN3eUpseEVGMG51YXEyMzlqQTQ?oc=5",
+        "pubDate": "Fri, 11 Sep 2026 23:30:00 GMT",
+        "snippet": "Sustainability begins with learning to repair&nbsp;&nbsp;The Business Times",
         "source": "Business Times"
       },
       {
@@ -605,13 +605,6 @@
         "source": "CNA"
       },
       {
-        "title": "CNA938 Rewind - Will NTT DC Reit recover from its weak SGX debut? - CNA",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSFNPN0RlSTVPWC1JMXcyVlVyUjlCT1JEOGwtckFJdk9TeW1la3d5dlE5SGlqV3I5WExTMWNndDJpZ0NBeDFWdUN4Tmtrc29PUkg1ZUsydERoUlBjS045UGMzNXE1UERSdUIxTGpobUtWN2U3Y0RJemt0MmpsRzF4TDhDeEJYNkV5ZmtVaTE0RlV5ZnExanBJUGNSNTVtM2dXT040OXN6MzVtRzQ0elRfQnZvU0kyUkVfOVlRNEg1Q2ZlVzJRXzUwbnM2bk8tcGFHU2Rr?oc=5",
-        "pubDate": "Thu, 10 Sep 2026 11:14:35 GMT",
-        "snippet": "CNA938 Rewind - Will NTT DC Reit recover from its weak SGX debut?&nbsp;&nbsp;CNA",
-        "source": "CNA"
-      },
-      {
         "title": "CNA938 Rewind - The Wellness Hour - Managing Haemophilia in Singapore: Beyond Treatment, Towards Everyday Living - CNA",
         "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOemd5bjQyVmh2dVV5QURoUDZGY0pnMnhJYWFaRWtUTXNHQlNyTWhxeENncTdlWXhjSl8xQzBnMGw0YlB5bWJDZDFkVmc5eS1ZZmpfVUpCX241Nm9UTUVjTGpwa2M1ODQxMFpwaUU4eDFiQ2Jua1NXQTd4amxrTUJmdG5ueFpvWE9VYUdwRHVRRURDTDR1Q1VFTGtHaWV3TGtmUWFUZzU4TGdUNlRmMG9RcnVxdGtrSGZiZGhiamlHclBpSmNmaFhTdURFemc3Yk51aExnTkxENGt2eXFBay1DSDZYSDdheTdMX2hHX3FyTkEzT3Z0d1JkTDhfb3NadWNwQ25nNEtEc0dLeDVqS000YjM1NnBlZWFVREQxOWZLU1JvekVG?oc=5",
         "pubDate": "Fri, 11 Sep 2026 08:17:06 GMT",
@@ -640,17 +633,17 @@
         "source": "CNA"
       },
       {
+        "title": "CNA938 Rewind - A Helping Hand & Then Some - SCWO\u2019s Single Mothers Programme - CNA",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeUF0NTJMWFRQYzU2ejRTTXk4QlJXN0xaaVhEWE1xNnhFdXQzLVNGejNJeDNhSENqTGREaXpqV2F1WS1ZTXZTcC11LXNuNTNHbzEzM2o5LVg4MmRKZTlVZG9mcDNKaWJ0Skh1aFJoaHA1TzRaRkxab3k1LTMtdFZUcnE3WFFDYlpUdlZ2UGJzZmdzT3ViTklLcUZ0LTl0QS1HUnBaZU1OZGR6NmlQWjA4a2VfLWFMaWUyRm9Kc2NXZ0FBWnhLd05jVk1vOEJVUjVmcXNueVRYa25Ed0RWdnRUWVVR?oc=5",
+        "pubDate": "Thu, 10 Sep 2026 13:18:41 GMT",
+        "snippet": "CNA938 Rewind - A Helping Hand & Then Some - SCWO\u2019s Single Mothers Programme&nbsp;&nbsp;CNA",
+        "source": "CNA"
+      },
+      {
         "title": "Hong Kong draws back talent as IPO boom fuels financial hub's revival - Reuters",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPREM3VnFaNFZKTEx3RTZrWGtYVzdHWnhnZUxFQW8zWk0yMURhZjJjODJXV3VJVkhDalVlazZaRkRiWHlVNUpVWTVxS1hLN0g0bDZkUGEySXk0SHJzSWM2RjhIUl9pUjl0YlpHb2ZXcWJ2UmNHeW40YTBZTWQxWTRVUmVpcVgwcXRfX3h2dE9aY3ZBZWNlYkhCZ2FNU2s0bUxtbVoxVmM0YVJkVU5KdzY0UFZraGhvNWZiUTlzaA?oc=5",
         "pubDate": "Fri, 11 Sep 2026 04:50:00 GMT",
         "snippet": "Hong Kong draws back talent as IPO boom fuels financial hub's revival&nbsp;&nbsp;Reuters",
-        "source": "Reuters SG"
-      },
-      {
-        "title": "AI boom poses new financial stability risks, BIS head says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcDUzRnJ3dHpQaFN0aF9CVHRZbTExQ1h4UHg2OEFaQmxHeHZsdUwtN2piZzdPdk5oYUticEdmSEIyS0RYUlpKYUpRX3ptWFp6WGFNbGp2QXlVNjRIVFdvanlTWXdubklpcXZzUHNWQWxURlBrU3hpcTU0dVJ2M1NEUEpRU3FhUzhHa25XRklRbUo2LUVoVWlsV3dVcVY5SENFc29hd3JXRUZQZG1FbHEw?oc=5",
-        "pubDate": "Thu, 10 Sep 2026 11:33:41 GMT",
-        "snippet": "AI boom poses new financial stability risks, BIS head says&nbsp;&nbsp;Reuters",
         "source": "Reuters SG"
       },
       {
@@ -661,13 +654,6 @@
         "source": "Reuters SG"
       },
       {
-        "title": "Oil falls but head for 8% weekly gain on tight supply; US diesel hits record - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORWZtMHZyX3Z0UkY2T285M3E2bElVVXRpdVhIVnZLQ1N4UjhKMTQ0UmZLWDlrQmRlcHFtZkN1SUcxSmNvVWhyelh4ZUhpZER2N2N5REE2aFR6Nm52YWRKY0xQRk16cE0tMFpRdkNjQm5YTDZ2RWFhcld2aWVHWUJMcFdncU1FUWVNNTgtX2VKcmpfZUNWZE1LenhwWDlGQmxreVF3Zjk4WlJ0N3hqODIxSQ?oc=5",
-        "pubDate": "Fri, 11 Sep 2026 20:13:49 GMT",
-        "snippet": "Oil falls but head for 8% weekly gain on tight supply; US diesel hits record&nbsp;&nbsp;Reuters",
-        "source": "Reuters SG"
-      },
-      {
         "title": "Supply squeeze in marine fuel eases as market adapts to prolonged Hormuz disruption - Reuters",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQk40cFBfcWRKYVBUbTZlamcwWEdZUm9hZ2ZvUUxzSml4dEhhdG1zSVZ4b3hmZTNTQVpEREZwUHNhMHQxS093YmtyaVhQckVFazZaNG5qOEswcG9CTmVucGc1QXNwRkdoUjF5STI2RXVxamh2WE5uVDJNWjdqaWFwSGJhb3c0RUVEUEFQYkl6MktDdmNudEhldFFPWXJ6V1RDaWtQTGhfTlhQMGpzRXQyRDRtbWRndHZXakVlZXZmeVA0SUJaelE?oc=5",
         "pubDate": "Thu, 10 Sep 2026 12:18:08 GMT",
@@ -675,10 +661,24 @@
         "source": "Reuters SG"
       },
       {
-        "title": "COMMENTARY: Asia's oil industry wants Trump to leave the Gulf, but expects he won't - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMm1IdXZwdFBoY28xel9yZ3VNRGs3a0RTbDhTb3ZDWEw0VFZqZE5mNVJ6b2theVp3Q2p0emhIWmZwLXc4ako5eDl3UzVWZkRaQ3RHX05VbkNhVkVxbk9ISXhLMjVaLTRHc1FDdHAxb1QxN2hYSldJUzVGYVhmeWNiRVV0UjNtcHdubFpKWVFYWDZ4OVBJRFRSREhvcVlYVjV0YnFwUTNKeDBvU2hYMEE5SWFubFFCZlhSMTFaUnJMY19oYnI5?oc=5",
-        "pubDate": "Thu, 10 Sep 2026 11:33:41 GMT",
-        "snippet": "COMMENTARY: Asia's oil industry wants Trump to leave the Gulf, but expects he won't&nbsp;&nbsp;Reuters",
+        "title": "Oil falls but head for 8% weekly gain on tight supply; US diesel hits record - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORWZtMHZyX3Z0UkY2T285M3E2bElVVXRpdVhIVnZLQ1N4UjhKMTQ0UmZLWDlrQmRlcHFtZkN1SUcxSmNvVWhyelh4ZUhpZER2N2N5REE2aFR6Nm52YWRKY0xQRk16cE0tMFpRdkNjQm5YTDZ2RWFhcld2aWVHWUJMcFdncU1FUWVNNTgtX2VKcmpfZUNWZE1LenhwWDlGQmxreVF3Zjk4WlJ0N3hqODIxSQ?oc=5",
+        "pubDate": "Fri, 11 Sep 2026 01:16:25 GMT",
+        "snippet": "Oil falls but head for 8% weekly gain on tight supply; US diesel hits record&nbsp;&nbsp;Reuters",
+        "source": "Reuters SG"
+      },
+      {
+        "title": "US 10-year borrowing costs pull back from 5% in reprieve for Bessent - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUXdFU1JwNmpyVFVfRzltQlQwcVJDUmFOWHVzNGdjWlZfZmJSd2FFQ2VpbFdOVTFQRHJtMlhremRVa2JSeWc5Smptc2J4Mmp0QnZoMTQ4NGdLaVBiekNRYlNqdWRtOTV2TUdIbmFkaTdCNmlRams2emVUc2Nsb244bW1hNHIwSHdDRm93M25LZGJlT3p0LTNaTE1kSTk5SHRSVFVkdXNuQjhHQ29UZm4yeHNqeEg2RkVwYVA3clpR?oc=5",
+        "pubDate": "Fri, 11 Sep 2026 15:02:15 GMT",
+        "snippet": "US 10-year borrowing costs pull back from 5% in reprieve for Bessent&nbsp;&nbsp;Reuters",
+        "source": "Reuters SG"
+      },
+      {
+        "title": "Kim Jong Un wants North Koreans to have more (state-sanctioned) fun - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNDREekN4OWVSWnN4YkY1XzctdzFDOHBWbmtCanpBaW5zLXhOeG9LWVV1dWdzcWhZUEltVDJMOTdIYkdHcnJvOXZMVnBaWFUwSjdwX2xtQllISy1KcmZUeWZ6R0k4RlpVZXYtejlaTkhOZHlrRDAteGxKZldEODFfNjk4WnVlR0lrUVVyMm1yLVF5Y0Fac2JLcmwwaG0xMFhGbXhiUUxFaw?oc=5",
+        "pubDate": "Fri, 11 Sep 2026 03:00:00 GMT",
+        "snippet": "Kim Jong Un wants North Koreans to have more (state-sanctioned) fun&nbsp;&nbsp;Reuters",
         "source": "Reuters SG"
       }
     ]
