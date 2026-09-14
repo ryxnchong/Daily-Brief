@@ -1,20 +1,20 @@
 {
-  "updated": 1789401970,
+  "updated": 1789403957,
   "quotes": {
     "SPY": {
       "label": "S&P 500 (SPY)",
-      "price": 761.36,
-      "pct": -0.3834
+      "price": 762.01,
+      "pct": -0.2983
     },
     "QQQ": {
       "label": "Nasdaq (QQQ)",
-      "price": 709.08,
-      "pct": -0.8113
+      "price": 710.37,
+      "pct": -0.6309
     },
     "DIA": {
       "label": "Dow Jones (DIA)",
-      "price": 525.17,
-      "pct": -0.1179
+      "price": 525.45,
+      "pct": -0.0647
     },
     "AAPL": {
       "label": "Apple (AAPL)",
@@ -23,18 +23,18 @@
     },
     "MSFT": {
       "label": "Microsoft (MSFT)",
-      "price": 504.5,
-      "pct": 1.7896
+      "price": 506.15,
+      "pct": 2.1226
     },
     "GOOGL": {
       "label": "Alphabet (GOOGL)",
-      "price": 345.04,
-      "pct": 1.9321
+      "price": 347.19,
+      "pct": 2.5672
     },
     "NVDA": {
       "label": "Nvidia (NVDA)",
-      "price": 212.06,
-      "pct": -2.854
+      "price": 211.72,
+      "pct": -3.0098
     },
     "AVGO": {
       "label": "Broadcom (AVGO)",
@@ -43,38 +43,38 @@
     },
     "JPM": {
       "label": "JPMorgan (JPM)",
-      "price": 351.65,
-      "pct": -1.2857
+      "price": 351.94,
+      "pct": -1.2043
     },
     "MS": {
       "label": "Morgan Stanley (MS)",
-      "price": 209.51,
-      "pct": -2.2717
+      "price": 209.64,
+      "pct": -2.211
     },
     "BAC": {
       "label": "Bank of America (BAC)",
-      "price": 61.87,
-      "pct": -1.308
+      "price": 61.97,
+      "pct": -1.1485
     },
     "C": {
       "label": "Citigroup (C)",
-      "price": 135.02,
-      "pct": -2.7374
+      "price": 135.43,
+      "pct": -2.442
     },
     "WFC": {
       "label": "Wells Fargo (WFC)",
-      "price": 88.35,
-      "pct": -2.1486
+      "price": 88.64,
+      "pct": -1.8274
     },
     "HSBC": {
       "label": "HSBC (HSBC)",
-      "price": 104.11,
-      "pct": -1.1301
+      "price": 104.3,
+      "pct": -0.9497
     },
     "GS": {
       "label": "Goldman Sachs (GS)",
-      "price": 998.15,
-      "pct": -3.015
+      "price": 999.51,
+      "pct": -2.8829
     },
     "^HSI": {
       "label": "Hang Seng",
