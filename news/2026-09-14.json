@@ -1,20 +1,20 @@
 {
   "date": "2026-09-14",
-  "updated": 1789403981,
+  "updated": 1789405544,
   "tabs": {
     "global": [
-      {
-        "title": "Companies left China to dodge tariffs. Now some are heading back - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcXZhYnM4LUVqMVptczRMSnVLLUp2YVVfRm9kNGh2MnZmWVlYUEtERkowb0xsb2drVG12aTd1SVlPNUFiRW9HQjJRNEhVR1hBWjZKem4xTjBaaVZ2anhqdTRscDYwcVZZUmp5V0FncDRPXzhhQ3BZWjc1ZlkyWXFaM0pDTFM0eUU2S0FYaUhvVzFVeUhyREZJZm85V0IzWTBnaGFFM2ZRam4wY1lkTlVTMnBYV2xVclBuTHJTSGZR?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 12:40:33 GMT",
-        "snippet": "Companies left China to dodge tariffs. Now some are heading back&nbsp;&nbsp;Reuters",
-        "source": "Reuters"
-      },
       {
         "title": "BIS says global market AI momentum showing signs of vulnerability - Reuters",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iVGdCTGR3X3hDMmJFazVFVkhGT1hxalMyYVJ6VUh4ODB4ZFFZdl9qcWtldzZGeGNGcXk0RGo3aTd5a3MwbEFSaG55elRyQlVoWG1RZW12dkJRVi1BM2U3TVRzWGFXakpJNzNoSTc1QTdxZmpxT3R4ODN2SVFDZw?oc=5",
         "pubDate": "Mon, 14 Sep 2026 11:05:21 GMT",
         "snippet": "BIS says global market AI momentum showing signs of vulnerability&nbsp;&nbsp;Reuters",
+        "source": "Reuters"
+      },
+      {
+        "title": "Companies left China to dodge tariffs. Now some are heading back - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcXZhYnM4LUVqMVptczRMSnVLLUp2YVVfRm9kNGh2MnZmWVlYUEtERkowb0xsb2drVG12aTd1SVlPNUFiRW9HQjJRNEhVR1hBWjZKem4xTjBaaVZ2anhqdTRscDYwcVZZUmp5V0FncDRPXzhhQ3BZWjc1ZlkyWXFaM0pDTFM0eUU2S0FYaUhvVzFVeUhyREZJZm85V0IzWTBnaGFFM2ZRam4wY1lkTlVTMnBYV2xVclBuTHJTSGZR?oc=5",
+        "pubDate": "Mon, 14 Sep 2026 12:40:33 GMT",
+        "snippet": "Companies left China to dodge tariffs. Now some are heading back&nbsp;&nbsp;Reuters",
         "source": "Reuters"
       },
       {
@@ -109,6 +109,13 @@
         "source": "CNBC"
       },
       {
+        "title": "Josh Brown says investors are (re)learning how profitable these financial stocks are, including one on his list - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUtoa2hTd25Ca01UOHo5YVFCMjE5QkpVel9hMmw5TnNOd0d0ZzVtcHZ6ei05aGdmbXd1V0NNRFc2dWRfZ09nZE51N1I1VjRpTDBYVjdBbmdDRmUzdXNxNlhBSnVyVFlZakpPWHcxZ1lGZHVQSXJXZ3MybU1zNDBsVGhrYW9WUzc2bjNlemhmWDFUN1JDVGtvemNwdWN3bGFZMHRDQ0x6eTJIZjNUc3RFbWRVczRmaHIyQnpN?oc=5",
+        "pubDate": "Mon, 14 Sep 2026 15:47:05 GMT",
+        "snippet": "Josh Brown says investors are (re)learning how profitable these financial stocks are, including one on his list&nbsp;&nbsp;CNBC",
+        "source": "CNBC"
+      },
+      {
         "title": "Microsoft sets limits for future AI models as industry throttles frontier development - CNBC",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSlJYLXlYazNYam85R0djdHlHOENQdGhCZkdQY1l0LTdmYnNMS1ZocFBpUl9wS2ZqamZyWXQzcXYwaW9vdkRMbEJ0ZFFFb3dydHNIdFBfbXNBVjJrdlB2NlNVcVBKMEdTWjVzd1VUeGtXcnJqUS1vMTI1WVRlWnZFREsyMnhiZ9IBiwFBVV95cUxONVNwbzBjUWFaOXRVblJ1ejIyRVlObEdPNW16aEVPaG9VRWxydExnZ2dvSzROWGprTTdYaG0wbEJ3aDJUb1RuVENIVTdySDVvTTBCR19YakpPTG5JeHRiYmRPY1pub0lBTFBvV01vS3lUeFpSUUp6U3QxdW9uZjRQdTY0b2ZYNUszbGtZ?oc=5",
         "pubDate": "Mon, 14 Sep 2026 13:00:01 GMT",
@@ -120,13 +127,6 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeWdDWGNJb2J0dTZBYW15YkhrZU1mMDdkOEhpTjVwTWIwWmtkdUhZbmtMa3JBU2UtUXg1ZmZGcFJMVHdDMjEtV2hQb1cyb0xoR0tZUWJ3VXNsVUVXa29Xc3ZaazgybzFjOGhEVUNUbnFfQVRPUmVuREJZRU5ZOUpYano4TXN1cllZS1JERXRqMldacVBXTDNvaw?oc=5",
         "pubDate": "Mon, 14 Sep 2026 11:37:33 GMT",
         "snippet": "Stocks making the biggest moves premarket: Intel, Marvell, CrowdStrike & more&nbsp;&nbsp;CNBC",
-        "source": "CNBC"
-      },
-      {
-        "title": "OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control' - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0x1dy1VVUlFQXJ2c2hKQ2xuY2s4Ukk2SGpodktxVEJnQU9YNzhrVVVLRHFUd0diMWFCdTg3VFh2QkZGbG1EN2tKdGg1R196Q2Fya3I4WmNkcERQd2VsYW9icnNxejRrOERpZlVKTTVrOWVoLUx0SUJhcERpbU9qSk5VdjFOeV9k0gGOAUFVX3lxTE5QSWhQNnEzV0Y0LWdDalpDVUN5V0lyWU9ITXFXa2V3TjROd3VkQV9nMjJRS3drZEVUVWNHRngzeUYtOVVvazcza00wdFhZZTh1YXRVc2s2SHY1U0d2RFFRandZa3c0ZHBUWnh2Rkc5UGZ1b1FoWkktM21uV0hWMGpQcTQ0RDBWbFJla1JzX3c?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 08:59:18 GMT",
-        "snippet": "OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control'&nbsp;&nbsp;CNBC",
         "source": "CNBC"
       },
       {
@@ -151,17 +151,17 @@
         "source": "FT"
       },
       {
-        "title": "Boom-era PE funds will fall short on promises, executives warn - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQamVYZmRyNEhtUlp0aU9xV3RsRVVqaEp2d3BKYWhvM2pSdjlVTnV2QmxaajI0UGxnSkxPRU82bGxKbGNBVnpmaWpIUWc1V3l4WS1xV3hTMHlSUmh5TV9LUXl5MF9zMnB2anp4Mll2MnN1YVJJYXIwUGpqUVBsWFdVRG5lb2w?oc=5",
-        "pubDate": "Sun, 13 Sep 2026 04:02:29 GMT",
-        "snippet": "Boom-era PE funds will fall short on promises, executives warn&nbsp;&nbsp;Financial Times",
-        "source": "FT"
-      },
-      {
         "title": "Private equity plans to put the swing back into Japan\u2019s golf tour - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWFBOZk5faGNFQlJmNWJ2X21xT3BHOF85VHVnZ3VNWEhXNm4zQVl6YS1GRVl6czZRa3FPaVpCZTdrcEJ2OUlxc01iZ2lwWGtZX2o0TFExNGNWd0RsOXdCSUpuZU1PenFTRVB5WXY3alQ1T2NVZEpsRjZMOGU4S1ZnZHIyeFI?oc=5",
         "pubDate": "Sun, 13 Sep 2026 02:55:08 GMT",
         "snippet": "Private equity plans to put the swing back into Japan\u2019s golf tour&nbsp;&nbsp;Financial Times",
+        "source": "FT"
+      },
+      {
+        "title": "Boom-era PE funds will fall short on promises, executives warn - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQamVYZmRyNEhtUlp0aU9xV3RsRVVqaEp2d3BKYWhvM2pSdjlVTnV2QmxaajI0UGxnSkxPRU82bGxKbGNBVnpmaWpIUWc1V3l4WS1xV3hTMHlSUmh5TV9LUXl5MF9zMnB2anp4Mll2MnN1YVJJYXIwUGpqUVBsWFdVRG5lb2w?oc=5",
+        "pubDate": "Sun, 13 Sep 2026 04:02:29 GMT",
+        "snippet": "Boom-era PE funds will fall short on promises, executives warn&nbsp;&nbsp;Financial Times",
         "source": "FT"
       },
       {
@@ -195,10 +195,10 @@
         "source": "Reuters Tech"
       },
       {
-        "title": "Nasdaq drags on Wall St as AI slowdown fears hammer Nvidia, chipmakers - Reuters",
+        "title": "Wall St falls as AI anxiety batters Nvidia, chipmakers - Reuters",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVB5TUc4VTc5MGdNMjVWcVYxUUszYjdXU3hrVnZXbVRCRm40Z3JBX3BhTElKaXVFQmU4SW82WWRwLVdxcGFTVVhPclllM25kSzR0MWdqUmU5YjQydl9MZDhLZ1MzQmF0b01UY3MxaWx0VkxOMjJUQzhmbHJPQjQzdXJMWkJ2OGs5R0ZQc2FjeVpEdjZkM2VqMC1aeGhXSm8?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 14:14:56 GMT",
-        "snippet": "Nasdaq drags on Wall St as AI slowdown fears hammer Nvidia, chipmakers&nbsp;&nbsp;Reuters",
+        "pubDate": "Mon, 14 Sep 2026 16:18:44 GMT",
+        "snippet": "Wall St falls as AI anxiety batters Nvidia, chipmakers&nbsp;&nbsp;Reuters",
         "source": "Reuters Tech"
       },
       {
@@ -251,10 +251,10 @@
         "source": "Bloomberg Tech"
       },
       {
-        "title": "China Rejects AI \u2018Fearmongering\u2019 After Amodei Urges Slowdown - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQTd3XzhBUTBta2pSTWI3UkFCWWdYS3c1RUNiXzFUTkFBTWRPWVQtZmRUTDBsZWdHb0llR2I4WjFXRHVHa3EzTTZuRGc3Z3FxWVdKNXJGVFNGSXVNSkVJMmFDN25ZRnRBTGlCNTM2ZUhhZlBtNU50WUxxUUs1cWpPWHBMcUdfYXJ1dmJmREhzWnRWWU5EWVQ3bUlXZ1NhU1hPMER6WEJsWEVWc002bVE?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 12:47:47 GMT",
-        "snippet": "China Rejects AI \u2018Fearmongering\u2019 After Amodei Urges Slowdown&nbsp;&nbsp;Bloomberg.com",
+        "title": "Revolut Says Some Customer Data Were Exposed in Email-Based Scam - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX01scDQ1MkQ0LUdyWFc3QXg2NGtKSDBfUXVWNkZxZVhoQ0xhTmFxNzhJV2RvdlZjNGFqVkFvNXpaUTU1cW1WSWlyT01rYVVsa0RnWXYzQ2l0cVg5TmpuOVVMNk9RN1VTRjBzZDZ5M2ZQa2FxbFl1d2kxUkJWR0U3V2p5Z2dQeVJOc29xeWxTeDNkeU1lT19pUU9hSk5JSThzT0ZFdU0ycUNiWFBaakFTY050bXk5dw?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 22:59:58 GMT",
+        "snippet": "Revolut Says Some Customer Data Were Exposed in Email-Based Scam&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Tech"
       },
       {
@@ -351,17 +351,17 @@
         "source": "Reuters Banks"
       },
       {
-        "title": "ECB's Kazaks sees growing case for more tightening - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS096UGRhVERKb0haNDg3WFQyQkJDaC03MVdTWG9GUk4zckVfMXo0WEJiZzhOU0lENktmanNZRFdwRDM1dHVmOW9XS1g3RDNXYUxLSFEzTWhGc3dhYkZlOHFtTWxLSGtLQldUMkQ3d09mbUpHSkNweGw1bEtjSXp1bDJ2cE5kdTE5TVdLV3ljRlBFVzBPMmxVOGhzV3g2WkE?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 06:03:00 GMT",
-        "snippet": "ECB's Kazaks sees growing case for more tightening&nbsp;&nbsp;Reuters",
-        "source": "Reuters Banks"
-      },
-      {
         "title": "Bank of England set to hold rates steady, slow QT - Reuters",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORzQ2bng4SXRWd0ZieHpHbTRGWU0xRk15RTFQMGNTVTdpVVJkcUpnRzRhRXFaU0F0TU5ORlJ4SFhqSmgyMDMzR3E0a1dvbGxEdlRSdWV5TXVQNzk0YlNycnUtNDl2RGhYc3RLT3JuRlpKWl9JR0lmZ1NLUGktRm04eUE4VWp6cFZSS1NTQ01jUVI?oc=5",
         "pubDate": "Mon, 14 Sep 2026 09:52:34 GMT",
         "snippet": "Bank of England set to hold rates steady, slow QT&nbsp;&nbsp;Reuters",
+        "source": "Reuters Banks"
+      },
+      {
+        "title": "ECB's Kazaks sees growing case for more tightening - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS096UGRhVERKb0haNDg3WFQyQkJDaC03MVdTWG9GUk4zckVfMXo0WEJiZzhOU0lENktmanNZRFdwRDM1dHVmOW9XS1g3RDNXYUxLSFEzTWhGc3dhYkZlOHFtTWxLSGtLQldUMkQ3d09mbUpHSkNweGw1bEtjSXp1bDJ2cE5kdTE5TVdLV3ljRlBFVzBPMmxVOGhzV3g2WkE?oc=5",
+        "pubDate": "Mon, 14 Sep 2026 06:03:00 GMT",
+        "snippet": "ECB's Kazaks sees growing case for more tightening&nbsp;&nbsp;Reuters",
         "source": "Reuters Banks"
       },
       {
@@ -379,10 +379,10 @@
         "source": "Reuters Banks"
       },
       {
-        "title": "Revolut confirms sensitive customer data breach after fake government requests - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM3JjTjR3RnhTRnZfNXlINGFtMGJPbTBxd0NzX2NmaUlsWHVmQjZBeTc5MlR4WDFPQXZQUjlmbTE0SldNS2w2T0cteTJIbnFsUGdILThMVjZ5ZnIzbmJRaHlwdndrMXJEbjFoUXhVRlk2Q214dUdNd1U3N05Tbkh2ejM2R3k2WGh4aXFZQmtKRXpGZzdTQXpjaURVSXF5eFVodHRZcjRqWmxOVTFZRHlIV3ZYQUlUTUh0dHcxRFpPQnFxTm1VZ1VCYVN3YUlXQQ?oc=5",
-        "pubDate": "Sat, 12 Sep 2026 16:59:00 GMT",
-        "snippet": "Revolut confirms sensitive customer data breach after fake government requests&nbsp;&nbsp;Reuters",
+        "title": "Zambian president reappoints Musokotwane as finance minister after election - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOelo4dUVjSlN3QlFxWG82QmlMSjJGU1pWQ2k1QndVbzJiSV82Qk9LRm1lUmszd1pYMWx0MWpHalJXNGVkc0lIcUluQ1E4TzZhVGJkTGJwdG50Z1NXeU5tTG5FR0JmdUFXTmdUMG5HdlNxVTkzTlJQMGxjN0pQcU1TeEEwWDJXVFJQY3kwekQxYXVBbEFMcmNqQW1xSmNhQVFyQWhjakdWZllDUkNaQXN2ZmU4QUR2VTJ5T0pXSElB?oc=5",
+        "pubDate": "Mon, 14 Sep 2026 11:28:09 GMT",
+        "snippet": "Zambian president reappoints Musokotwane as finance minister after election&nbsp;&nbsp;Reuters",
         "source": "Reuters Banks"
       },
       {
@@ -435,6 +435,13 @@
         "source": "CNBC Finance"
       },
       {
+        "title": "The Fed is likely to raise interest rates as inflation persists. What that means for consumers - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONzR2NnBtbXVOLWxnQlhkbkg5d3RhemtrU21LbDhNaWwxajZpMXA3eFM4ZXpTZlVzYUNiSG9IV3JMSHZpOWtiZ0JYWGxCdm40VEpadmU0dW9EU2QwWTczMWhKU1pCTUhMdXhfdFZjMGgzaDd2bXNmN2tMOWwtWVBvY0ZkdFE4Y3dxQlU5eW5BZkhuV00tTGfSAZsBQVVfeXFMT0E2cjJJeUpWNEpwd0h3OGptRlhyTVhYY3NlY0hRTzRVRXJoRFFjd0ZmakJ5N2FkNy1ZdzZVMGxXdTVicl9WX2NzMU5yemxSWlh4S2RmLVFKSUNWVjNlaVduXzR3Z01kOHlhOHF6WVlpYWFDUzI1aTlPaVRhTlJlSFBFWmh2RTNNNEJ2YlZsZDJoWmg5LWk1WFlKZGs?oc=5",
+        "pubDate": "Mon, 14 Sep 2026 16:17:03 GMT",
+        "snippet": "The Fed is likely to raise interest rates as inflation persists. What that means for consumers&nbsp;&nbsp;CNBC",
+        "source": "CNBC Finance"
+      },
+      {
         "title": "Gold falls on growing Fed rate hike bets ahead of policy meeting - CNBC",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMEtNU0dEOTY5dmFOY3hqVDhfaDNIN0hPOVpGRkdmclRjb1A3bWRleXUyQS1vZEJSdzFaVHc5QUNTbEdHTkFtdmdOVFNQajBJaXlqQWE2dl9lSFlQbGgzZ2h2Mi1lVFdDYWM3ZU5pcVpYSjRxSWFCeWVhcnJXVzRKVkV2UTZxWjk0c0ZZRnB3Zi14SV9jdEZvRnRZdVQ1d3JLRjJR0gGoAUFVX3lxTFB1UjBDT2tHTmdIZjlqdXZFaW4zSHJHZXJZY0U2eHl6eEUwNUpWQ1RueW8tLWxzYXpyUG5VaE1ScW5GSXU4aHhfQ2lyME41OTJNazM5aXlTZFM4R3VhVU5RSER4QzU4ejRNWVFZeUVqSmpYODlEdjBVdnpFWFZRMmQ0UGZlZ3NKRi00QXBPcGRkMzNiNzVDenJSRmo0N3NnUy14V2h3dVJuLQ?oc=5",
         "pubDate": "Mon, 14 Sep 2026 04:09:09 GMT",
@@ -463,16 +470,9 @@
         "source": "CNBC Finance"
       },
       {
-        "title": "Car ownership costs an average of $5,851 a year on top of auto loan payments, analysis finds - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc3FqMWdpMFRrVDNHMnUxMHNRckdpMHhMWnZoRTlnbE9xYW5TVWl3aVo2U1ZseEJxWjlpRHdTU01XNUdiUEtLbENRNWxvSnFjUHA3dm0zd3VjbXY1YmlkRUJTNWdVeW14Mjc3c19ZX1hrN2lLMGhsUzdGcXhVLV9yS0dIMld2Y2VSMkZSUlFmYUhjb0J3T1hrdk4tTkRpYTBOYlVZ0gGoAUFVX3lxTFBfQWh6YUJkcUdRN3BaS0V4XzFrMTJBWWNKWjk3Ui1fSXNMVWotalpMQW92UEFhbG9kWXJURm9qTUFIeTFCaGpsSFFFUzYtbDliWG1oVll3R0ZRRnVmemU1d1VnTUU0cFpTRXo3NUtaem0xQ3VtU245X2JQbVk5cEZRTGd3V0VMTGJMS3p3NU9CM2VhdXliUklZUktRZGU5NFBoM09icldkcQ?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 12:15:01 GMT",
-        "snippet": "Car ownership costs an average of $5,851 a year on top of auto loan payments, analysis finds&nbsp;&nbsp;CNBC",
-        "source": "CNBC Finance"
-      },
-      {
         "title": "Japan\u2019s central bank set for pivotal moment on rates - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVlrX2FtQ2F0RFB6dkhsbG1tVXNTZ0h2QWNnbUxFSGp1V1lzWEU1UmtQaUNncUJ3NDBEbHFScHRMTXh6dkJwNkZPYUpYREwxUWVxVmJQbnFCOXhFT25nMWFDSFZfYmJyaGYzTDFvM0w5dkY3RVBybjV1U1hRcnEwTkxvNjI?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 04:15:06 GMT",
+        "pubDate": "Mon, 14 Sep 2026 04:17:56 GMT",
         "snippet": "Japan\u2019s central bank set for pivotal moment on rates&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
@@ -675,10 +675,10 @@
         "source": "Reuters SG"
       },
       {
-        "title": "Bitcoin's late summer rally set to face off against the Fed, Congress - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZEV1dXlZWDh3VTJpMHVvclNtOWY1WVZXSGFIM3JZa1h0bDYyNVUzd0lvcUFpdVJtVjFZemVZSGotMnJmR3Q5aDN5MzVaenluWUhseElqVEltb2RBQU8zTnktd3hOaWZnQ20yTG5OY3ltMjlXZU9ta0tvTkpnTlhncW1DcEg0bl9BNWdnVEdJOFc5THpPZmZYNjFNZEhPdEVvU1ZtWW5vWUlVMFp5VDd2RXpBcw?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 15:45:30 GMT",
-        "snippet": "Bitcoin's late summer rally set to face off against the Fed, Congress&nbsp;&nbsp;Reuters",
+        "title": "Asia's oil traders, seeing no quick end to Middle East war, stay bullish on prices - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQjlwYUFLdF9Cc3lZbHQxSHlwT2Y4T3Yzd2ZfZUNwdmNWM1Y5d2M4azA3SUEyLUkzTWo1NEJVeVJSSFROXzJHM0tjdlBfWGpJUkY0MlJpSFFxSmlPcDgydF81R1BYekZyQklaNjNGRDFfUkZ2UVo4MmNKOUJkUDBSbEY3ZkUtM0FJajE4NWVDejk4XzFHb2F3ZzhiOEVRUHRxeElFWmlvOC1pc29LZXFEX25XZ3pHN3FhaUFjWnR1b21zb0E?oc=5",
+        "pubDate": "Mon, 14 Sep 2026 10:46:10 GMT",
+        "snippet": "Asia's oil traders, seeing no quick end to Middle East war, stay bullish on prices&nbsp;&nbsp;Reuters",
         "source": "Reuters SG"
       }
     ]
