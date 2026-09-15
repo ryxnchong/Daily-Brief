@@ -1,8 +1,15 @@
 {
   "date": "2026-09-15",
-  "updated": 1789434412,
+  "updated": 1789436370,
   "tabs": {
     "global": [
+      {
+        "title": "Oil prices rise as Saudi pipeline outage, fresh attacks raise supply concerns - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGZNVlpqdGZqMGlsa1lSR2IyWU0tbmd2R1ZkY2o5VDNlb0VsMEdhbWlZVzJBLXJ0WU9MTm13WnN2R0M0Slg4TzFkb1VSYVRxQXE5ejQ5eTNRbGcxdUVSNTFKYlk2WmxYbkdPMTJIUEZJRVdBUmFKVHVCamlsUzB2NFJLbkNGbkJFSjR3TTlhNF9vT2g4MXk0MjlzOHhVaWNGX3U3RGlUS0JzekpCb0VBbU8zMGdUbFpIaGlCVHlwcEtoR0U?oc=5",
+        "pubDate": "Tue, 15 Sep 2026 00:36:00 GMT",
+        "snippet": "Oil prices rise as Saudi pipeline outage, fresh attacks raise supply concerns&nbsp;&nbsp;Reuters",
+        "source": "Reuters"
+      },
       {
         "title": "BIS says global market AI momentum showing signs of vulnerability - Reuters",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iVGdCTGR3X3hDMmJFazVFVkhGT1hxalMyYVJ6VUh4ODB4ZFFZdl9qcWtldzZGeGNGcXk0RGo3aTd5a3MwbEFSaG55elRyQlVoWG1RZW12dkJRVi1BM2U3TVRzWGFXakpJNzNoSTc1QTdxZmpxT3R4ODN2SVFDZw?oc=5",
@@ -36,13 +43,6 @@
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmR4eUlzVVZXLUFSSEpiLUs3UkxJMDYwVVpsU2o1REJIOUFSTlN3U2VBV2NRZ3hUTUNzSy1KRTNlODFaTmh6bGgtTFpCM3BCWE13c250dlBDTW5XaS1rWHpUMjV0cFJiSkxqN3g4OTVVZmJKN1dKSXZhRHZ2bW1Lbndrc3UxRGhjNG9LY01lZklaajE4?oc=5",
         "pubDate": "Mon, 14 Sep 2026 18:25:51 GMT",
         "snippet": "Fed's table is set for a rate hike, a first under Warsh&nbsp;&nbsp;Reuters",
-        "source": "Reuters"
-      },
-      {
-        "title": "Anthropic targets financial advisers with new Claude tool - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOako0N2w1bExjVVA0azZSLUI0QXdveUdDUWFnM0RKeVJVTEN4TlFlX0t5UHR6Z1FROWp2LVJUSjY4anRUakt0OTBUWkdFdjNKLTFDNmhPZ0RVY3BZSEZzLVFFUjZVdmtLSHk1bVZQRm1ObVJ6SGVSWGpJbXBBdS1EQ3lSMk4xNzNfVTJQT2NYaW1aUkV5c1plNDJNRXk2S3ZPMzA5Yw?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 17:13:09 GMT",
-        "snippet": "Anthropic targets financial advisers with new Claude tool&nbsp;&nbsp;Reuters",
         "source": "Reuters"
       },
       {
@@ -95,10 +95,10 @@
         "source": "CNBC"
       },
       {
-        "title": "Supreme Court rejects Trump bid to lift block on mail-in ballots rule - CNBC",
+        "title": "Supreme Court rejects Trump bid to lift block on U.S. Postal Service mail-in ballots rule - CNBC",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYlNsY2FlM2t3blQwNy1WaHVjbTVUVUJzbGVfa3NZSmh2U2RBRnZKS3Y4b09vOGJaQVNwMlFJeVN4YWNFVlhrLUxDMi1SbWh4OEdXNkNsUll6dzRNMlFkdE5ESnRoSzZ6QnRVOEwwUXVfalpaMU1NWlJEempRcVViWjd4UXXSAYoBQVVfeXFMTlFQRkduZ3c2QmlkY1VWbmpldnlzX1kxa3kwQVh4UURvRW53NlIyUnVFZ2FHN2RtaHFqejVzdml5VzJZc1pIcGFPdFJFcjJXZldaR0lsVkFJZUhLcHo0aFdBUEJQSnFzXzhDbDA1YkE0bXlqX0k0YnZ3VTVQSmF2TVZoNjZ6MzRxNWtR?oc=5",
         "pubDate": "Mon, 14 Sep 2026 23:40:28 GMT",
-        "snippet": "Supreme Court rejects Trump bid to lift block on mail-in ballots rule&nbsp;&nbsp;CNBC",
+        "snippet": "Supreme Court rejects Trump bid to lift block on U.S. Postal Service mail-in ballots rule&nbsp;&nbsp;CNBC",
         "source": "CNBC"
       },
       {
@@ -130,45 +130,45 @@
         "source": "CNBC"
       },
       {
-        "title": "Automation is coming for the gig economy - ft.com",
+        "title": "Automation is coming for the gig economy - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkVULVN1Qkt2ZTVST2FiWHpwNzU0ZFNTS0p0QjdGUllqV2VmWHRiVzlZUDJPUmczZGdscXo5bXd2aElwbGZiYzFDdDBIZjh2VFZ3ZUk5VVk4SERiYUFwOG1PcF9tQ0tDLWEyb0JWUmVrYjNXOHpaMDA4eC0tMjB6NW1fTDI?oc=5",
         "pubDate": "Mon, 14 Sep 2026 04:00:22 GMT",
-        "snippet": "Automation is coming for the gig economy&nbsp;&nbsp;ft.com",
+        "snippet": "Automation is coming for the gig economy&nbsp;&nbsp;Financial Times",
         "source": "FT"
       },
       {
-        "title": "Ten-year Treasury yield hits 5% for first time since 2023 - ft.com",
+        "title": "Ten-year Treasury yield hits 5% for first time since 2023 - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcm9qMUhHdzZRZGFTVG9vQ2pxRmRZWWxSWXRLYlhFTlU1aF9hbmQ2aU9hNVNJZ3ZoYnNGVXhfREVzMVRzdFppM3dWUGpKeUtPcEp3RUhScUoyekJUNFJlN2h5NVdWRmEyaHl0MC1vc2FONG5ZTktPb1BhTTVjWmhIalExeDU?oc=5",
         "pubDate": "Mon, 14 Sep 2026 14:18:54 GMT",
-        "snippet": "Ten-year Treasury yield hits 5% for first time since 2023&nbsp;&nbsp;ft.com",
+        "snippet": "Ten-year Treasury yield hits 5% for first time since 2023&nbsp;&nbsp;Financial Times",
         "source": "FT"
       },
       {
-        "title": "Boom-era PE funds will fall short on promises, executives warn - ft.com",
+        "title": "Boom-era PE funds will fall short on promises, executives warn - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQamVYZmRyNEhtUlp0aU9xV3RsRVVqaEp2d3BKYWhvM2pSdjlVTnV2QmxaajI0UGxnSkxPRU82bGxKbGNBVnpmaWpIUWc1V3l4WS1xV3hTMHlSUmh5TV9LUXl5MF9zMnB2anp4Mll2MnN1YVJJYXIwUGpqUVBsWFdVRG5lb2w?oc=5",
         "pubDate": "Sun, 13 Sep 2026 04:02:29 GMT",
-        "snippet": "Boom-era PE funds will fall short on promises, executives warn&nbsp;&nbsp;ft.com",
+        "snippet": "Boom-era PE funds will fall short on promises, executives warn&nbsp;&nbsp;Financial Times",
         "source": "FT"
       },
       {
-        "title": "Stoltenberg reneges on Munich Security Conference top job plan - ft.com",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOG9Zd0VQb3V3UG5oNHl2a3dkRGVZSFgzQWFJLVFUeHNFSmV2VWJheWI5QzFfelhtQ1d6alZoYUhoWnczZW02b3UwU1VDRno4aWVzRnJsOHJYSmd5UnRZSFFYRjJmNmoyRjdpNnE5VWdIdVA2SC1QN1ZZaV9ZZm1lX1oydmg?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 14:42:36 GMT",
-        "snippet": "Stoltenberg reneges on Munich Security Conference top job plan&nbsp;&nbsp;ft.com",
-        "source": "FT"
-      },
-      {
-        "title": "US tech stocks fall after big AI groups call for slowdown - ft.com",
+        "title": "US tech stocks fall after big AI groups call for slowdown - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWtoSDV4bG9HZm83MmNTZ1BaT003NTM0ckdUNFBVRlItZE04YnU4eGtlY1gxdmMyRnFfai1hbGY3cGg5SThhaTVTOXRtUnRNYW5QUUlfYVVQVmI3YklUUTdWVWZ0MEJHNTZPc2haMWdoMmpMeVFZcGVseGpVdENoLUhCdmk?oc=5",
         "pubDate": "Mon, 14 Sep 2026 04:00:46 GMT",
-        "snippet": "US tech stocks fall after big AI groups call for slowdown&nbsp;&nbsp;ft.com",
+        "snippet": "US tech stocks fall after big AI groups call for slowdown&nbsp;&nbsp;Financial Times",
         "source": "FT"
       },
       {
-        "title": "Steve Bannon and Bernie Sanders unite in AI safety call - ft.com",
+        "title": "Steve Bannon and Bernie Sanders unite in AI safety call - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNFpLRTJmTmFjMDRqWUlrNVhmeHlWR0dGdjI5VmpBMDh3eHRjLXBVVVp4aFNEdGs5WTZzTzRsTFNlQ1lqaDRpRkI3Y1pyTTlUX011Z0MzeHZZc3g0M2JvLWNoZnhZV1pEOC1SeklWbU5rQTVrU0FSMHhBTjdRc3NiaGlLeEo?oc=5",
         "pubDate": "Mon, 14 Sep 2026 12:40:33 GMT",
-        "snippet": "Steve Bannon and Bernie Sanders unite in AI safety call&nbsp;&nbsp;ft.com",
+        "snippet": "Steve Bannon and Bernie Sanders unite in AI safety call&nbsp;&nbsp;Financial Times",
+        "source": "FT"
+      },
+      {
+        "title": "Donald Trump rejects calls from tech bosses for AI slowdown - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGpIWkFrLXNOMW52MlJQZno3UmNCMU5jMFVaNjRoOUZDSU1Hc2Q5MzRFaTd5ckVPS2FwR2hmVkNqRDhhcEYtZGxjNUhOLUZDWWR1YzBGY0dYYVI1ek5NVFd2d3hLNzlrN1JnbkE0Wmo5a3R1SUhJaHNzLWJ1Yk1Ib3lvc3A?oc=5",
+        "pubDate": "Sun, 13 Sep 2026 15:42:41 GMT",
+        "snippet": "Donald Trump rejects calls from tech bosses for AI slowdown&nbsp;&nbsp;Financial Times",
         "source": "FT"
       }
     ],
@@ -237,13 +237,6 @@
         "source": "Bloomberg Tech"
       },
       {
-        "title": "Trump Downplays AI Concerns as CEOs Call for Slowing Pace - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaC1vSDAyWm9XdVFqVm5sNmRwc3AxNXZ1MjhrSXpPZDRqeWdOaFZIbklQT25RUDZGZFdaYVN3a0xkM2FjTmZDYTBnelJmRHhXNklQQUVoSlFjY3ZrY2FrMjlRbEZ2YzdRWG5GTnl1RU1fSWFLWDh6Vm1HSTdYVC1oaWVaUDZSSTVLLWYxU1BEbWJIU0wyS3ZERUdrQzBPRVk3blktTWFzRFRGNHY2RWZ6MGwwVG8?oc=5",
-        "pubDate": "Sun, 13 Sep 2026 15:44:43 GMT",
-        "snippet": "Trump Downplays AI Concerns as CEOs Call for Slowing Pace&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg Tech"
-      },
-      {
         "title": "Samsung, SK Hynix Reject Kepco\u2019s Power Grid Prepayment Plan - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOTBYSlphb01GQVNudDlCX1pLX1R0ZUcyUkpKQkdkLVNNWTNjaHpDVGstRUltdlk2ZnlNbEVfczloMHJzMU9BYkRlbkMxNk1YdU5JT3pOdFRoWWZLWTVDRkNXOUVpcDFSM1pIanZ0Qlluei05SzN0UFZpaFpmQ2ptcDhfXzZNNnJIdmh3dTBqZDhsTkJGQllJYi03XzhPMV82M0lxSnJ1N1F2dU9zMEE?oc=5",
         "pubDate": "Mon, 14 Sep 2026 02:53:00 GMT",
@@ -258,17 +251,24 @@
         "source": "Bloomberg Tech"
       },
       {
-        "title": "CNBC's The China Connection newsletter: Tech controls expand to employees - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWHRHSWZadnJabldBa042LUZoVmI3QzRtUGxQdy1JOFZJMjR4RVhmb25IejBzVGk5Y2pyajhVdVYyQ3B4YVo0YU81UndhYUhoVkpGWU04dzN2YkczUzRoRkVhbUJ6VWR6eWRXc1Fad3ZIM25YdzVDUHpmN1R2ZmNvMVplWUpHLUxnQS1NY2xHYlJxdmRxRm9pQzNoRmMzOFHSAaQBQVVfeXFMUGdrbV80cmUyYzZackJYT2xvTlNmSW04d1UzT1JlVjJzcmFXLXYtXzZubWgwWnAzZWpiRUFEdTBGWWMyb0Fja0N3UzBnVVUxWkFMSlBrMmVwTXg3Z2RmUjFDT25HZUtBZ0haMEdfLXBHZ1RqeE5zRjU3dFFSWWMtRWRKaG1CNXdiZUROaVN2YmVVbU9XZW5RWEFsR0taX1V5WEFLSlY?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 23:00:01 GMT",
-        "snippet": "CNBC's The China Connection newsletter: Tech controls expand to employees&nbsp;&nbsp;CNBC",
-        "source": "CNBC Tech"
+        "title": "Trump Downplays AI Concerns as CEOs Call for Slowing Pace - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaC1vSDAyWm9XdVFqVm5sNmRwc3AxNXZ1MjhrSXpPZDRqeWdOaFZIbklQT25RUDZGZFdaYVN3a0xkM2FjTmZDYTBnelJmRHhXNklQQUVoSlFjY3ZrY2FrMjlRbEZ2YzdRWG5GTnl1RU1fSWFLWDh6Vm1HSTdYVC1oaWVaUDZSSTVLLWYxU1BEbWJIU0wyS3ZERUdrQzBPRVk3blktTWFzRFRGNHY2RWZ6MGwwVG8?oc=5",
+        "pubDate": "Sun, 13 Sep 2026 15:44:43 GMT",
+        "snippet": "Trump Downplays AI Concerns as CEOs Call for Slowing Pace&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg Tech"
       },
       {
         "title": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom - CNBC",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ydVhNMHFzRmctZVp2Sjlsd0tXMm5pNTN6UGoyczRpZlBUTjhITy1ybEQ4SDh0MWNZb09ldElzWEZWS3BBTVZwdnlzQXRBM0FFSzEzOXNCVlJneEFydmdXQWc1MVVCZlZRN1lyWG1KM3U0OXd4aUHSAXtBVV95cUxQSWlJd0JfRlNxTVIwNjEyaG5JQWZwYTRic0lfNFVha09oLVF0UGlyemVpOW1USGN5SlpiWXRiVUxSaVllTnZoaXhGZ3dpR0lkUUlIYTVUWkxTaDJYOUYzYXktbnVRNmgzeDJiWFNLWE5icW5UZTRxVzU2UXc?oc=5",
         "pubDate": "Mon, 14 Sep 2026 23:30:02 GMT",
         "snippet": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom&nbsp;&nbsp;CNBC",
+        "source": "CNBC Tech"
+      },
+      {
+        "title": "CNBC's The China Connection newsletter: Tech controls expand to employees - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWHRHSWZadnJabldBa042LUZoVmI3QzRtUGxQdy1JOFZJMjR4RVhmb25IejBzVGk5Y2pyajhVdVYyQ3B4YVo0YU81UndhYUhoVkpGWU04dzN2YkczUzRoRkVhbUJ6VWR6eWRXc1Fad3ZIM25YdzVDUHpmN1R2ZmNvMVplWUpHLUxnQS1NY2xHYlJxdmRxRm9pQzNoRmMzOFHSAaQBQVVfeXFMUGdrbV80cmUyYzZackJYT2xvTlNmSW04d1UzT1JlVjJzcmFXLXYtXzZubWgwWnAzZWpiRUFEdTBGWWMyb0Fja0N3UzBnVVUxWkFMSlBrMmVwTXg3Z2RmUjFDT25HZUtBZ0haMEdfLXBHZ1RqeE5zRjU3dFFSWWMtRWRKaG1CNXdiZUROaVN2YmVVbU9XZW5RWEFsR0taX1V5WEFLSlY?oc=5",
+        "pubDate": "Mon, 14 Sep 2026 23:00:01 GMT",
+        "snippet": "CNBC's The China Connection newsletter: Tech controls expand to employees&nbsp;&nbsp;CNBC",
         "source": "CNBC Tech"
       },
       {
@@ -351,6 +351,13 @@
         "source": "Reuters Banks"
       },
       {
+        "title": "China August bank lending disappoints as credit demand stays weak - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOamFEVFc5N25zQ0dlN0VNTWRab05rREJtQTEwTk9ScjdMS0hYOEVZRGNfZGNJVDZYaFIzRnVQVjhoS3ZuNzNDVngwN0RSdkJacmdDU3pHNC1PbTZXNFlLS1h0Q2JoUDI3X3c3dG50WHNkaXl5dUlqdHp5OW5CWnQwb2ZvN1N5eUxMNlM1NmhFdVRuQ2ZHY0xuSS1SMjZmc2Vjb2Y3anZ5RW1mZ3lwVEpVT1A1THFqZw?oc=5",
+        "pubDate": "Mon, 14 Sep 2026 10:37:34 GMT",
+        "snippet": "China August bank lending disappoints as credit demand stays weak&nbsp;&nbsp;Reuters",
+        "source": "Reuters Banks"
+      },
+      {
         "title": "Bank of America CEO sees at least 10% drop in Q3 investment banking fees - Reuters",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWRLalExTUhGMEdPaklvanpiMi02MXYxRlV4ZG5DcnBBZlMwWjhoUS01RjlZS1F4SUpuQ1V1U0haWkJISy1VRWZIbW5GWkpEV0FzWi1FcmRCTWxIbC0wMEJoNHZ3QmJPMXpaZHZHSkVKbmpzSnktZkw0emE1QjJsbGY4ZFhkR2RTRlFMNUFNR2wxZzlOUTZFaFRoRG5yVVpBMHZ1bGF1cHRsT2RpbHdMd01DdWJwUQ?oc=5",
         "pubDate": "Mon, 14 Sep 2026 19:07:02 GMT",
@@ -358,10 +365,10 @@
         "source": "Reuters Banks"
       },
       {
-        "title": "China August bank lending disappoints as credit demand stays weak - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOamFEVFc5N25zQ0dlN0VNTWRab05rREJtQTEwTk9ScjdMS0hYOEVZRGNfZGNJVDZYaFIzRnVQVjhoS3ZuNzNDVngwN0RSdkJacmdDU3pHNC1PbTZXNFlLS1h0Q2JoUDI3X3c3dG50WHNkaXl5dUlqdHp5OW5CWnQwb2ZvN1N5eUxMNlM1NmhFdVRuQ2ZHY0xuSS1SMjZmc2Vjb2Y3anZ5RW1mZ3lwVEpVT1A1THFqZw?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 10:37:34 GMT",
-        "snippet": "China August bank lending disappoints as credit demand stays weak&nbsp;&nbsp;Reuters",
+        "title": "ECB's Kazaks sees growing case for more tightening - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS096UGRhVERKb0haNDg3WFQyQkJDaC03MVdTWG9GUk4zckVfMXo0WEJiZzhOU0lENktmanNZRFdwRDM1dHVmOW9XS1g3RDNXYUxLSFEzTWhGc3dhYkZlOHFtTWxLSGtLQldUMkQ3d09mbUpHSkNweGw1bEtjSXp1bDJ2cE5kdTE5TVdLV3ljRlBFVzBPMmxVOGhzV3g2WkE?oc=5",
+        "pubDate": "Mon, 14 Sep 2026 06:03:00 GMT",
+        "snippet": "ECB's Kazaks sees growing case for more tightening&nbsp;&nbsp;Reuters",
         "source": "Reuters Banks"
       },
       {
@@ -376,13 +383,6 @@
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM1RqNjJBT1ZvTkI0UllKY0VjdHhIM0ZiRVpoR3FKb3pLSkFidkJqTVVYV0lyOGhENG55bWhqanpQVDc2ck5sVmNZQXZkRjVUU3VFZm1zUU1JdDBwNlBKWjFOcTVsWVBhbl80YjJLM0R6RERMdDJPaEVtTmxjaUUzVVFCY3NCTmtPaVhURXNuVUVKcldzWDVaNFdmN2xpb3VoRzZXaGFnNWUwQ3pSSmFvcm1RZ0VIUjIzNGdWMXhR?oc=5",
         "pubDate": "Mon, 14 Sep 2026 10:54:58 GMT",
         "snippet": "China central bank plans new metrics to rein in banks' long-dated bonds holdings, sources say&nbsp;&nbsp;Reuters",
-        "source": "Reuters Banks"
-      },
-      {
-        "title": "ECB's Kazaks sees growing case for more tightening - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS096UGRhVERKb0haNDg3WFQyQkJDaC03MVdTWG9GUk4zckVfMXo0WEJiZzhOU0lENktmanNZRFdwRDM1dHVmOW9XS1g3RDNXYUxLSFEzTWhGc3dhYkZlOHFtTWxLSGtLQldUMkQ3d09mbUpHSkNweGw1bEtjSXp1bDJ2cE5kdTE5TVdLV3ljRlBFVzBPMmxVOGhzV3g2WkE?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 06:03:00 GMT",
-        "snippet": "ECB's Kazaks sees growing case for more tightening&nbsp;&nbsp;Reuters",
         "source": "Reuters Banks"
       },
       {
@@ -421,10 +421,10 @@
         "source": "Bloomberg Banks"
       },
       {
-        "title": "Featured Audio - Bloomberg.com",
+        "title": "Bloomberg Radio - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5lcFJ4TW9mUjB6elZSWEdjRE94dDU3YllJbkp4U29neGtTRUVjMWhfZVEwX2w1TjYyT0dtZG9YZDJBTVFjSHc?oc=5",
         "pubDate": "Thu, 14 Jan 2016 01:23:40 GMT",
-        "snippet": "Featured Audio&nbsp;&nbsp;Bloomberg.com",
+        "snippet": "Bloomberg Radio&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Banks"
       },
       {
@@ -470,45 +470,45 @@
         "source": "CNBC Finance"
       },
       {
-        "title": "Japan\u2019s central bank set for pivotal moment on rates - ft.com",
+        "title": "Japan\u2019s central bank set for pivotal moment on rates - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVlrX2FtQ2F0RFB6dkhsbG1tVXNTZ0h2QWNnbUxFSGp1V1lzWEU1UmtQaUNncUJ3NDBEbHFScHRMTXh6dkJwNkZPYUpYREwxUWVxVmJQbnFCOXhFT25nMWFDSFZfYmJyaGYzTDFvM0w5dkY3RVBybjV1U1hRcnEwTkxvNjI?oc=5",
         "pubDate": "Mon, 14 Sep 2026 04:15:06 GMT",
-        "snippet": "Japan\u2019s central bank set for pivotal moment on rates&nbsp;&nbsp;ft.com",
+        "snippet": "Japan\u2019s central bank set for pivotal moment on rates&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
       {
-        "title": "Oil price surge revives prospect of Bank of England rate rise this year - ft.com",
+        "title": "Oil price surge revives prospect of Bank of England rate rise this year - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUGpvV1pfVEthT3BnTG9KOUlHdDhCN0pZMS1zNlFnaGo1a2hhTndCTTNGc2NFc2V6U0lHbm11LXpRZWVrNFFDOVlsSUV5c2VidGM1Q1k1d2VwQ3ZuZERnaGpXdU1kSVN5NDFFanFVbEg0VlJJZUt1Y1phWjFSb3pCbTlXTWo?oc=5",
         "pubDate": "Mon, 14 Sep 2026 04:00:12 GMT",
-        "snippet": "Oil price surge revives prospect of Bank of England rate rise this year&nbsp;&nbsp;ft.com",
+        "snippet": "Oil price surge revives prospect of Bank of England rate rise this year&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
       {
-        "title": "Brazil banking scandal engulfs Supreme Court - ft.com",
+        "title": "Brazil banking scandal engulfs Supreme Court - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbFJTZ3Z5YXVHNThzVFFhSjEwTjB6WnRieWZhSG5VVFJMZXk4bHp0dXF0eS1HeG5MT09lVXRYR2lrRVdzYzk0WWVOWjFxMmIwaVgyeDZCQ1Q4Zzk0RzVpZldrZUJRM3V6OUdwem1OYURDdGxOTUVNUzROYV9yaEt1el9fenQ?oc=5",
         "pubDate": "Sun, 13 Sep 2026 10:00:05 GMT",
-        "snippet": "Brazil banking scandal engulfs Supreme Court&nbsp;&nbsp;ft.com",
+        "snippet": "Brazil banking scandal engulfs Supreme Court&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
       {
-        "title": "US pressure on development banks to scrap climate finance goals - ft.com",
+        "title": "US pressure on development banks to scrap climate finance goals - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcmNnVnBWckxPZ0NkY2pmcTlLTGJPYndnZy1BQjh6dlJCWFpQdzVPdVphWjBROFhjdGVOX0Rra3NUZDhxcFctWHRlSmNwSXVVMlRNakpRRlZpLVduQ2ZlcE0zOWt0QXRMOTJrZFRidk0xSGc5Y1FiMVJvcVB0dlI3WDdCV1E?oc=5",
         "pubDate": "Sun, 13 Sep 2026 04:01:32 GMT",
-        "snippet": "US pressure on development banks to scrap climate finance goals&nbsp;&nbsp;ft.com",
+        "snippet": "US pressure on development banks to scrap climate finance goals&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
       {
-        "title": "European capitals barter over Christine Lagarde\u2019s successor at ECB - ft.com",
+        "title": "European capitals barter over Christine Lagarde\u2019s successor at ECB - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaFZtY3VnVUxmY1RxQzRNbDdpTXhVdXp0UTFJeWJaak9qQmlHYVVlN195Y0x3M0hqZXFpUzBGX3RCMlB6dGNRdF96OXZTQmxBRzJqOXF5Q2xucWhPT0RMTWlXYXJpYk5qU2lRSUZiSDJVc2cwaC05aGp3WnhOaGcxZUJQcXA?oc=5",
         "pubDate": "Mon, 14 Sep 2026 04:11:30 GMT",
-        "snippet": "European capitals barter over Christine Lagarde\u2019s successor at ECB&nbsp;&nbsp;ft.com",
+        "snippet": "European capitals barter over Christine Lagarde\u2019s successor at ECB&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
       {
-        "title": "Revolut handed nearly 700 customers\u2019 data to scammers - ft.com",
+        "title": "Revolut handed nearly 700 customers\u2019 data to scammers - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNalZITVVVNkdHNDRKTERjalRmQnpDWW5qTUZSRWMyd0dqYWwwUmVNWUQzR3REelhKRlVVaC1mclJucEMyTXJQYVQ2bllvRnlrZ3UyZG9iTEllbkZnZlhZXzVFa3NYdjNwZktMbk9EYUV6STFRU2NsYWN1ZVpLZm1PVVVibVM?oc=5",
         "pubDate": "Mon, 14 Sep 2026 20:24:47 GMT",
-        "snippet": "Revolut handed nearly 700 customers\u2019 data to scammers&nbsp;&nbsp;ft.com",
+        "snippet": "Revolut handed nearly 700 customers\u2019 data to scammers&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       }
     ],
@@ -598,45 +598,45 @@
         "source": "Straits Times"
       },
       {
-        "title": "CNA938 Rewind - Singapore DBS, UOB, OCBC banks record mixed Q4 2025 earnings - CNA",
+        "title": "CNA938 Rewind - Singapore DBS, UOB, OCBC banks record mixed Q4 2025 earnings - channelnewsasia.com",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOU5EeV9PYkM5OEtDQ3poWW40T1RGbXFXVkNOX0lWVUkyVm9neEFkNlRDaHVreVR2eE81Q0Z6TEo4ZlcyUFpWc0p4YndyRmprN0F4Vl9HaWtsYkNoakpKb1AxRlNKQlJIMGhTMVlCandJRWdjdGw4NlR3OS1pSkM2YVRIVk83UFVyMVhwQXZNRmtUbFA2eWh3OGhCa1NMUWZ0N3FMbmR6YnNUejloMXVNdlZ4cVo5OGg1cHBlQUVGT2oxTU5PdDJTam42MklJRmlfZ205Z1A4VEoxTHdISGFOdFFwTVBpRG5FU2c?oc=5",
         "pubDate": "Mon, 14 Sep 2026 12:16:49 GMT",
-        "snippet": "CNA938 Rewind - Singapore DBS, UOB, OCBC banks record mixed Q4 2025 earnings&nbsp;&nbsp;CNA",
+        "snippet": "CNA938 Rewind - Singapore DBS, UOB, OCBC banks record mixed Q4 2025 earnings&nbsp;&nbsp;channelnewsasia.com",
         "source": "CNA"
       },
       {
-        "title": "CNA938 Rewind - AI, advanced manufacturing, and the future of Singapore\u2019s economy: breaking down Singapore\u2019s ESR strategy - CNA",
+        "title": "CNA938 Rewind - AI, advanced manufacturing, and the future of Singapore\u2019s economy: breaking down Singapore\u2019s ESR strategy - channelnewsasia.com",
         "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQSUEyQzJ0T01ubmJraHpuaUR1M1d0NWQ2eE5XRTFjTml1VmJ1VjNtendqVXI2clNUT2ZHRDJPNi1oUGRzSHVKZjVPMTdMbXdMLUtJVG5hWWdlR0F1STIzamVFc2xubk5vSGJwSlpINUVpVVdaX1V1VkIxYTlURFRNazEtTDlYbWZOZXFrOXNjbElaSlhfcFVZSU40ZFJzVm40NWNvZzhhV0wyVUlIUzkwRnV5SmxLSFdyc2tLVm9Ua1FycnZpeDZ0WF9leEVreEVwVjJNVkhIZzlhb3cwd2RmM0l1VExRTEh6XzlGOVFYQmJxaHJyWElXOXJJdHdXMWx5YXdBT2pjV3J1ZjhuajRMVWs2UGVNNTA?oc=5",
         "pubDate": "Sun, 13 Sep 2026 12:35:21 GMT",
-        "snippet": "CNA938 Rewind - AI, advanced manufacturing, and the future of Singapore\u2019s economy: breaking down Singapore\u2019s ESR strategy&nbsp;&nbsp;CNA",
+        "snippet": "CNA938 Rewind - AI, advanced manufacturing, and the future of Singapore\u2019s economy: breaking down Singapore\u2019s ESR strategy&nbsp;&nbsp;channelnewsasia.c",
         "source": "CNA"
       },
       {
-        "title": "CNA938 Rewind - Mind Your Money - What a skills-first learning approach brings to the economy - CNA",
+        "title": "CNA938 Rewind - Mind Your Money - What a skills-first learning approach brings to the economy - channelnewsasia.com",
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdFZmV3B6UHhvWDFuWTBPemdIUnBMb0lKOWJ2WG9HWG9tNmFraWthMkJraHFkc254RUZ6R2RESGxTanRIQVZYTWxOWWl5QzNEekpFN2tpTUJoZmFNNmM0ckgwYkNod0gybUxBQW1zRnVlOEczUHFCeUJGRWhyR0FkcXJtZ2RRNy1nb2JwZDdvQ0hyU0syc0dnM3FoQkRhamlYVkZtaW1sTkJfZGlnVlRtUFZNSDJMZWlpZDhYSUh0QUotTjZSc2hLdHcxZDgycDBVaTZBeld6SHl0bHFRQ2EtYW01Y2VOSGxxOUQyNXZOSlZJc00?oc=5",
         "pubDate": "Mon, 14 Sep 2026 01:34:48 GMT",
-        "snippet": "CNA938 Rewind - Mind Your Money - What a skills-first learning approach brings to the economy&nbsp;&nbsp;CNA",
+        "snippet": "CNA938 Rewind - Mind Your Money - What a skills-first learning approach brings to the economy&nbsp;&nbsp;channelnewsasia.com",
         "source": "CNA"
       },
       {
-        "title": "CNA938 Rewind - DBS Q2 results beat forecasts with record S$3.08 billion profit - CNA",
+        "title": "CNA938 Rewind - DBS Q2 results beat forecasts with record S$3.08 billion profit - channelnewsasia.com",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYlNMQ0hWeFFzaUVYTGtHUTFZRXhYOUpJLUlZdkpxblpDUDVjdXJOOHo0dmMzd0R3MTBrSm52NXBBWjZQenZxRUp2MkI2aDVtRk5zRy01QUxIRk1KMVJmOGFmZGFpRDVSNjJTUjB6NWVMaUpoSDJoSEVwVWhZNUFmQVVWcFhPVGJjMkpMdmxiVUQ3UjlGaWx2dm5UVEhBbXJ0TkgwWWJzR0RYQlA3SXc4aUhiNlR0dVQ5VTRCTVpES1R1NW9TRjRYMHltRG9OdTlKZUhuNVJsNmx6MWtMM0tuY0J5VXEzdw?oc=5",
         "pubDate": "Sun, 13 Sep 2026 21:31:41 GMT",
-        "snippet": "CNA938 Rewind - DBS Q2 results beat forecasts with record S$3.08 billion profit&nbsp;&nbsp;CNA",
+        "snippet": "CNA938 Rewind - DBS Q2 results beat forecasts with record S$3.08 billion profit&nbsp;&nbsp;channelnewsasia.com",
         "source": "CNA"
       },
       {
-        "title": "CNA938 Rewind - Using AI in sports training \u2013 how athleticism is a numbers game - CNA",
+        "title": "CNA938 Rewind - Using AI in sports training \u2013 how athleticism is a numbers game - channelnewsasia.com",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSjBmS1FBYmlWbVhHUmYtMUU1OHdSUkItVUxNRWFGVEt2dDd0LUpUa05OdXpOM3FlcE04bWptWVRIZ0Jhckd6VEU5cy1sWnRWN3doVlY2SVY1eUZmazhHUlhDNmU3clF5bFNwV2VaZTM3ODNZQ2MyZ1VUOEZzT2NrUTdKV3NFMWxxLVdkVHhqXy1MeVVDd2JPTWhUM3ZJSXpsUURaUWhQdFRwbU5lWmhBb3c0VjFzc0ttRGJQQzJ3a08tTG54clNGSTVFbDBJaTE1YjNjOENBN3RUQmFwS0hCLTVnd0lfcU0?oc=5",
         "pubDate": "Sun, 13 Sep 2026 21:45:02 GMT",
-        "snippet": "CNA938 Rewind - Using AI in sports training \u2013 how athleticism is a numbers game&nbsp;&nbsp;CNA",
+        "snippet": "CNA938 Rewind - Using AI in sports training \u2013 how athleticism is a numbers game&nbsp;&nbsp;channelnewsasia.com",
         "source": "CNA"
       },
       {
-        "title": "CNA938 Rewind - Ukraine Under Attack - Megumi Lim's documentary \"NIGHT SHIFT\" - CNA",
+        "title": "CNA938 Rewind - Ukraine Under Attack - Megumi Lim's documentary \"NIGHT SHIFT\" - channelnewsasia.com",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSE1lcVJTNUtKbHhodHRzVzNESXQxbXQ5Ql9FTkZmV0kwMmU5UngxUXJ1c0Y4eGktSkJGZ2N0VXFXeHBLMk9uWVlscFFCS0JGaE94N0FpSGFjbndESEhYOUZuVjdzUVdWSGJ6eEgxQWlBc0NjdXMzaFlWMi02bGl6WnRHbFY1WEtTQkdfUWY0bTd0MHpFcjZsQlQyWnhUUjdhZjBjZEpvNXJ1MkVzejN3Z25DNWRVXzNKSmcxWDFHY3ozT28zNWJXWFB5aDZjRHVnV0VXNlNFNE1yZDU4ZFlPYy1LR0tfQQ?oc=5",
         "pubDate": "Mon, 14 Sep 2026 12:33:16 GMT",
-        "snippet": "CNA938 Rewind - Ukraine Under Attack - Megumi Lim's documentary \"NIGHT SHIFT\"&nbsp;&nbsp;CNA",
+        "snippet": "CNA938 Rewind - Ukraine Under Attack - Megumi Lim's documentary \"NIGHT SHIFT\"&nbsp;&nbsp;channelnewsasia.com",
         "source": "CNA"
       },
       {
