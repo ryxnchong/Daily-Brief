@@ -1,10 +1,10 @@
 {
-  "updated": 1789502775,
+  "updated": 1789504584,
   "quotes": {
     "SPY": {
       "label": "S&P 500 (SPY)",
-      "price": 757.44,
-      "pct": -0.4521
+      "price": 757.39,
+      "pct": -0.4587
     },
     "QQQ": {
       "label": "Nasdaq (QQQ)",
@@ -13,8 +13,8 @@
     },
     "DIA": {
       "label": "Dow Jones (DIA)",
-      "price": 521.3,
-      "pct": -0.6082
+      "price": 521.23,
+      "pct": -0.6216
     },
     "AAPL": {
       "label": "Apple (AAPL)",
@@ -23,8 +23,8 @@
     },
     "MSFT": {
       "label": "Microsoft (MSFT)",
-      "price": 496.914,
-      "pct": -1.681
+      "price": 497.12,
+      "pct": -1.6403
     },
     "GOOGL": {
       "label": "Alphabet (GOOGL)",
