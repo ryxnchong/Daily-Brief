@@ -1,6 +1,6 @@
 {
   "date": "2026-09-15",
-  "updated": 1789430880,
+  "updated": 1789433049,
   "tabs": {
     "global": [
       {
@@ -25,9 +25,16 @@
         "source": "Reuters"
       },
       {
+        "title": "Anthropic targets financial advisers with new Claude tool - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOako0N2w1bExjVVA0azZSLUI0QXdveUdDUWFnM0RKeVJVTEN4TlFlX0t5UHR6Z1FROWp2LVJUSjY4anRUakt0OTBUWkdFdjNKLTFDNmhPZ0RVY3BZSEZzLVFFUjZVdmtLSHk1bVZQRm1ObVJ6SGVSWGpJbXBBdS1EQ3lSMk4xNzNfVTJQT2NYaW1aUkV5c1plNDJNRXk2S3ZPMzA5Yw?oc=5",
+        "pubDate": "Mon, 14 Sep 2026 17:13:09 GMT",
+        "snippet": "Anthropic targets financial advisers with new Claude tool&nbsp;&nbsp;Reuters",
+        "source": "Reuters"
+      },
+      {
         "title": "Wall Street ends down, calls for AI slowdown pummel chipmakers - Reuters",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVB5TUc4VTc5MGdNMjVWcVYxUUszYjdXU3hrVnZXbVRCRm40Z3JBX3BhTElKaXVFQmU4SW82WWRwLVdxcGFTVVhPclllM25kSzR0MWdqUmU5YjQydl9MZDhLZ1MzQmF0b01UY3MxaWx0VkxOMjJUQzhmbHJPQjQzdXJMWkJ2OGs5R0ZQc2FjeVpEdjZkM2VqMC1aeGhXSm8?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 22:19:24 GMT",
+        "pubDate": "Mon, 14 Sep 2026 09:16:00 GMT",
         "snippet": "Wall Street ends down, calls for AI slowdown pummel chipmakers&nbsp;&nbsp;Reuters",
         "source": "Reuters"
       },
@@ -36,13 +43,6 @@
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmR4eUlzVVZXLUFSSEpiLUs3UkxJMDYwVVpsU2o1REJIOUFSTlN3U2VBV2NRZ3hUTUNzSy1KRTNlODFaTmh6bGgtTFpCM3BCWE13c250dlBDTW5XaS1rWHpUMjV0cFJiSkxqN3g4OTVVZmJKN1dKSXZhRHZ2bW1Lbndrc3UxRGhjNG9LY01lZklaajE4?oc=5",
         "pubDate": "Mon, 14 Sep 2026 18:25:51 GMT",
         "snippet": "Fed's table is set for a rate hike, a first under Warsh&nbsp;&nbsp;Reuters",
-        "source": "Reuters"
-      },
-      {
-        "title": "BYD to produce trucks in Europe in bid to become \"European company\" - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSk9sU2JTLXY3NTc2LXdCX3NYOE1nZ0RzajdoUFh6cXZ6MXJKNUZScVJoTUExTm9tdEtsRWJOSm9OenJNd1VMeDlGNWtBc1l4VDkta0NtQV9lUnZ4TmVuMDdOakVTUWdmYzM1WFZudGh6NGNtVFVvam5vdVRmbUtxVnhTZml0VnFpX2ZIVFR3ck8zRXpKRjBaSjdGbTJvZ0Z2YjVTamJkZ0VtVDJtMXJiajJGajBGbHU4N0t3?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 15:10:52 GMT",
-        "snippet": "BYD to produce trucks in Europe in bid to become \"European company\"&nbsp;&nbsp;Reuters",
         "source": "Reuters"
       },
       {
@@ -74,13 +74,6 @@
         "source": "Bloomberg"
       },
       {
-        "title": "Bessent Touts American AI Superiority, But Has Beefs With Its Champs - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQU1STmNGOUZoLTV6ZnY0M1hfdnhuT2lxOV9YM0ViTEFNVWU1Ny1aTGI3VEo4X2c0ZHEtWDd5RldkZ3ljVzducHREcXpiZkNNaDZLZGtDcW02UC1OTmZDajRLaU5SdlNUbDFOVkhaajdfczh1TEx0c3B3MG1YR3BCRFlDaEZ2SFJjcDhDTXpUWjNacXlkU1k5cVVxZGtJbGNpcXVQVU1tOVFNLURGa2VMUXl6YkhLMkNnaFlxdm9B?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 23:07:14 GMT",
-        "snippet": "Bessent Touts American AI Superiority, But Has Beefs With Its Champs&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg"
-      },
-      {
         "title": "A $7 Billion Gas Bill Sees Developing Asian Nations Sour on LNG - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVdWZC1ranJwdE5tODVMYTNpSFF2aGlFNnpqcEo3WTVKVEs0ckdBR0dFLUMwazdXSjFZUFR6TWZnTWFVV2JtUlNGVmVzcUU4bUROMnNZREtHaUlPRUVCQ2tBSXUxcExyQXliMmE5LW9xU2xJTGZQbU9uUTFuWFBHeUNRLWdOTnlKcjN2NnlqQnRTemVPSGVqZnpaaHNQa29ZM3NVbXE2MEZyWUExSGlxalY2WQ?oc=5",
         "pubDate": "Sun, 13 Sep 2026 23:00:00 GMT",
@@ -88,10 +81,31 @@
         "source": "Bloomberg"
       },
       {
+        "title": "Bessent Touts American AI Superiority, But Has Beefs With Its Champs - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQU1STmNGOUZoLTV6ZnY0M1hfdnhuT2lxOV9YM0ViTEFNVWU1Ny1aTGI3VEo4X2c0ZHEtWDd5RldkZ3ljVzducHREcXpiZkNNaDZLZGtDcW02UC1OTmZDajRLaU5SdlNUbDFOVkhaajdfczh1TEx0c3B3MG1YR3BCRFlDaEZ2SFJjcDhDTXpUWjNacXlkU1k5cVVxZGtJbGNpcXVQVU1tOVFNLURGa2VMUXl6YkhLMkNnaFlxdm9B?oc=5",
+        "pubDate": "Tue, 15 Sep 2026 00:37:14 GMT",
+        "snippet": "Bessent Touts American AI Superiority, But Has Beefs With Its Champs&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg"
+      },
+      {
         "title": "Supreme Court rejects Trump bid to lift block on mail-in ballots rule - CNBC",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYlNsY2FlM2t3blQwNy1WaHVjbTVUVUJzbGVfa3NZSmh2U2RBRnZKS3Y4b09vOGJaQVNwMlFJeVN4YWNFVlhrLUxDMi1SbWh4OEdXNkNsUll6dzRNMlFkdE5ESnRoSzZ6QnRVOEwwUXVfalpaMU1NWlJEempRcVViWjd4UXXSAYoBQVVfeXFMTlFQRkduZ3c2QmlkY1VWbmpldnlzX1kxa3kwQVh4UURvRW53NlIyUnVFZ2FHN2RtaHFqejVzdml5VzJZc1pIcGFPdFJFcjJXZldaR0lsVkFJZUhLcHo0aFdBUEJQSnFzXzhDbDA1YkE0bXlqX0k0YnZ3VTVQSmF2TVZoNjZ6MzRxNWtR?oc=5",
         "pubDate": "Mon, 14 Sep 2026 23:40:28 GMT",
         "snippet": "Supreme Court rejects Trump bid to lift block on mail-in ballots rule&nbsp;&nbsp;CNBC",
+        "source": "CNBC"
+      },
+      {
+        "title": "Tuesday's big stock stories: What\u2019s likely to move the market in the next trading session - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNclJDTl9CZlI5OGlfa19Ic05LcTg1YWtyV3YwRDdjVkRVVThBWlkxRi11dE1IZ1NFRnNBWTZCWDRxVkE2UkJJbHZWNHY3bzJ4MVBraFB6M0tyZUlFa0ZCVTJsQVl1T29DOW5SWFFXajhOZWM0RXlTcGVTMmRqV0x1ZW43RVpHNk9WN1B5LTlYNjdESWI1cnhCMjUxQQ?oc=5",
+        "pubDate": "Mon, 14 Sep 2026 23:17:09 GMT",
+        "snippet": "Tuesday's big stock stories: What\u2019s likely to move the market in the next trading session&nbsp;&nbsp;CNBC",
+        "source": "CNBC"
+      },
+      {
+        "title": "Jim Cramer explains why the stock market avoided a dramatic sell-off on AI concerns - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16b0JKeFpQZml2ZmRyYk1PUU9KOGt5dXZLTk9CbFhPNjl6em5FUmJ3X3ZLakQtR2lMNzBsNmNXV0JHR2FyUExPUXpCX2sxbGV3cWNmM0lHY3hDczFsM2RnbW0wUTZJNmtPdnNuQTZJS2FKVFVxS0tZcE02VkRwZnfSAYQBQVVfeXFMUGVSelk5S3JmTlNIM1ZVdk15SElJa08zVHdyMmRkNGh3MHZWbzA2TFRpYnVxZ1VLTjd2REZNZmpqaGxzektObXVocWFHemZQNEwwV291MEc5SDI4SW9SR2JzM0xkOXU1THZvRVRWSG4xaXpUZXR4WDB2MVdRMFFlU0VDcllM?oc=5",
+        "pubDate": "Mon, 14 Sep 2026 22:41:46 GMT",
+        "snippet": "Jim Cramer explains why the stock market avoided a dramatic sell-off on AI concerns&nbsp;&nbsp;CNBC",
         "source": "CNBC"
       },
       {
@@ -116,20 +130,6 @@
         "source": "CNBC"
       },
       {
-        "title": "Trump phones Nvidia\u2019s Huang at All-In Summit, calls data center opposition a \u2018hoax\u2019 - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRW4yR0xHdW04SS1fQzA2WG14dkRkQ1VMRmJORW02WHZHeFlxLXRBUzVCbW1mV2RpcHdhd3Npa1ZJeGJveUptZXMyRGpfQV9peUk4WklnQTBZaHdwcnpzMjRJLVNvaDlpRzV0TkZQU1k4cFdiNFJYVndlRkk0T2V0WXFRVE1CTTlabmJNRDQwU2hlc1RlY290V3dSeDNNQ2hrU2pBU2p30gGrAUFVX3lxTFBwZHdyMWRHcDFvZnQ1ZDlPbklQYjFxNzljSC1JQUpOdFd2RG9zQXdSaTNuMXlvUWhlb3duUEU2dEZXTmgyUFd6LXZsbTQ2N3Z1bEJnRlo4QUFJWlktWEdwY2Z2djdHT3JVV1hhYmc0Nk5RMFcxMC01eldLMFhJZC1DVWNTaUVtb2taYmdmdE5wX1JaTEJlb1dlWWM5ZjJTVUY0SFdibkhKdUlkTQ?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 21:26:21 GMT",
-        "snippet": "Trump phones Nvidia\u2019s Huang at All-In Summit, calls data center opposition a \u2018hoax\u2019&nbsp;&nbsp;CNBC",
-        "source": "CNBC"
-      },
-      {
-        "title": "Which matters more to stocks: the bond market or AI risks? The volatility gauge might offer an answer - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdmFIWG1qMktWVG9la3hFdFBRZG1nc1RXV3p6bFZuWUYwTl9nSEUwUTMwTDB5UnRFeGV4MlJ3alp2WG9OdU1KR3V3ekJhWmh4enRZcjVGWkdzN28zSG5UU09wbWtFSGxmZ1RsaHU3blZsMXVqTlQ5SVBHcjNETGRHVmh3NU1VbVpKNzF0bTVrRC1iUkx4WkliZTdQVnM2SmdlQVdLc3J1aGl6Ym1aUkV6TllNaWdZRE1RLWFUZG1yRlpSQzI5emk5VGRSbXRfZXJOZUHSAdcBQVVfeXFMUDZlMzhnZDVDcVNjSE1oV2toUlh3SGRYWEtnYm5KSEJHMk1KOEhDSWFLSW13cWp6d0hBcEZDMlB0azFKSkk0cFNVTm1idjVpRzNUMXpqS2w4ZTA0aXNmdjN1aXZoSHhPUnVxbVZZYlZGTnZLOEhRQzJybjV4aHlDMlRMNndGUUxhdWhXZ19tcGhvaXFqVmlkWElRRHpQR3hvV2l3Z0xnV2JDRnBVRGNLRUd0bXpfMmJaN3dVbUlzU3JIVVhlVEpxNHpOaUVnY0lQSE5JTEU0V00?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 18:01:37 GMT",
-        "snippet": "Which matters more to stocks: the bond market or AI risks? The volatility gauge might offer an answer&nbsp;&nbsp;CNBC",
-        "source": "CNBC"
-      },
-      {
         "title": "Automation is coming for the gig economy - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkVULVN1Qkt2ZTVST2FiWHpwNzU0ZFNTS0p0QjdGUllqV2VmWHRiVzlZUDJPUmczZGdscXo5bXd2aElwbGZiYzFDdDBIZjh2VFZ3ZUk5VVk4SERiYUFwOG1PcF9tQ0tDLWEyb0JWUmVrYjNXOHpaMDA4eC0tMjB6NW1fTDI?oc=5",
         "pubDate": "Mon, 14 Sep 2026 04:00:22 GMT",
@@ -151,10 +151,10 @@
         "source": "FT"
       },
       {
-        "title": "US tech stocks fall after big AI groups call for slowdown - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWtoSDV4bG9HZm83MmNTZ1BaT003NTM0ckdUNFBVRlItZE04YnU4eGtlY1gxdmMyRnFfai1hbGY3cGg5SThhaTVTOXRtUnRNYW5QUUlfYVVQVmI3YklUUTdWVWZ0MEJHNTZPc2haMWdoMmpMeVFZcGVseGpVdENoLUhCdmk?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 04:00:46 GMT",
-        "snippet": "US tech stocks fall after big AI groups call for slowdown&nbsp;&nbsp;Financial Times",
+        "title": "Stoltenberg reneges on Munich Security Conference top job plan - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOG9Zd0VQb3V3UG5oNHl2a3dkRGVZSFgzQWFJLVFUeHNFSmV2VWJheWI5QzFfelhtQ1d6alZoYUhoWnczZW02b3UwU1VDRno4aWVzRnJsOHJYSmd5UnRZSFFYRjJmNmoyRjdpNnE5VWdIdVA2SC1QN1ZZaV9ZZm1lX1oydmg?oc=5",
+        "pubDate": "Mon, 14 Sep 2026 14:42:36 GMT",
+        "snippet": "Stoltenberg reneges on Munich Security Conference top job plan&nbsp;&nbsp;Financial Times",
         "source": "FT"
       },
       {
@@ -165,10 +165,10 @@
         "source": "FT"
       },
       {
-        "title": "Donald Trump rejects calls from tech bosses for AI slowdown - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGpIWkFrLXNOMW52MlJQZno3UmNCMU5jMFVaNjRoOUZDSU1Hc2Q5MzRFaTd5ckVPS2FwR2hmVkNqRDhhcEYtZGxjNUhOLUZDWWR1YzBGY0dYYVI1ek5NVFd2d3hLNzlrN1JnbkE0Wmo5a3R1SUhJaHNzLWJ1Yk1Ib3lvc3A?oc=5",
-        "pubDate": "Sun, 13 Sep 2026 15:42:41 GMT",
-        "snippet": "Donald Trump rejects calls from tech bosses for AI slowdown&nbsp;&nbsp;Financial Times",
+        "title": "US tech stocks fall after big AI groups call for slowdown - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWtoSDV4bG9HZm83MmNTZ1BaT003NTM0ckdUNFBVRlItZE04YnU4eGtlY1gxdmMyRnFfai1hbGY3cGg5SThhaTVTOXRtUnRNYW5QUUlfYVVQVmI3YklUUTdWVWZ0MEJHNTZPc2haMWdoMmpMeVFZcGVseGpVdENoLUhCdmk?oc=5",
+        "pubDate": "Mon, 14 Sep 2026 04:00:46 GMT",
+        "snippet": "US tech stocks fall after big AI groups call for slowdown&nbsp;&nbsp;Financial Times",
         "source": "FT"
       }
     ],
@@ -265,10 +265,10 @@
         "source": "CNBC Tech"
       },
       {
-        "title": "Apple releases test of redesigned Siri AI before iPhone 18 hits stores this week - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ0FLeUE0dV9EVXFIbDYzVk12ejFrYWNvRDI4aktUUzlTWkFMUWU0TDVieXNNeklhaE5XN2VUNER3ZUdtVWc5d3lHakpNOGVhUHhfV2FOZnVFTW9VZ25MRGMtMVdudm4weDlOb3NuR1hoZTc2cllGcFRxSG5vMi1lY1NDVdIBiAFBVV95cUxNbkUxMGxGN29sWTBjVk5uUGJQNkozUVZjSzZJa3VEazFwcVJjbnNKUThkb3BaRUxoYmJVX04weFhGSm1rYVNoNDBlazdEeHkwNUZ2V1I1VGtZM1RyWlNiSmpPMHdnTzc2eHhaX2FGWk5vN1MtQnpsWDF2anZLMkpLdHFkOGFUbFpS?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 19:05:40 GMT",
-        "snippet": "Apple releases test of redesigned Siri AI before iPhone 18 hits stores this week&nbsp;&nbsp;CNBC",
+        "title": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ydVhNMHFzRmctZVp2Sjlsd0tXMm5pNTN6UGoyczRpZlBUTjhITy1ybEQ4SDh0MWNZb09ldElzWEZWS3BBTVZwdnlzQXRBM0FFSzEzOXNCVlJneEFydmdXQWc1MVVCZlZRN1lyWG1KM3U0OXd4aUHSAXtBVV95cUxQSWlJd0JfRlNxTVIwNjEyaG5JQWZwYTRic0lfNFVha09oLVF0UGlyemVpOW1USGN5SlpiWXRiVUxSaVllTnZoaXhGZ3dpR0lkUUlIYTVUWkxTaDJYOUYzYXktbnVRNmgzeDJiWFNLWE5icW5UZTRxVzU2UXc?oc=5",
+        "pubDate": "Mon, 14 Sep 2026 23:30:02 GMT",
+        "snippet": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom&nbsp;&nbsp;CNBC",
         "source": "CNBC Tech"
       },
       {
@@ -276,6 +276,13 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOamtMaEl3OW04aFdDZXY3Q0tDMnRWWHNna3h1ak5HTi1INUZIX0h6R1g1Z0JKOC1NSkR1R3VCVUFzTktFR0g0T2V4QzNRQkgtRlZ4YUltRGc0eGdITDhCY3N4M1VaRU5Nd2w1TWJXMnNSNTZPRHBkTUwwM0lUZkhmU1VzNnhtUXl2TTlPcGJ3c2NabEhmTDA3RGNaMGtKTmQzZG1hdm1sbzBDRHlmYXNZZ9IBtgFBVV95cUxQRk56b2o1TFpzTnZKNGpOVm5QeUxNZzk4SC11d1FGUnNNX1ltU0lTaGdYQjB4Qjl5aExrTjVJQ0xpWlVVQ2tqdGE4UU1tajBRZWM5NWVMVXJvcU1zZFFGX254NzV3V3RSLUVUR0E0VVc5REZxM01WbE9IZi1FWkNiaW5VbGJXbmtsdXQyS3Z4d0FNd2VlSDdJRlZDRDJZQnp1dmhyc2hQVDBBMENxaUlYc05IcHhfQQ?oc=5",
         "pubDate": "Mon, 14 Sep 2026 22:43:25 GMT",
         "snippet": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed&nbsp;&nbsp;CNBC",
+        "source": "CNBC Tech"
+      },
+      {
+        "title": "Apple releases test of redesigned Siri AI before iPhone 18 hits stores this week - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ0FLeUE0dV9EVXFIbDYzVk12ejFrYWNvRDI4aktUUzlTWkFMUWU0TDVieXNNeklhaE5XN2VUNER3ZUdtVWc5d3lHakpNOGVhUHhfV2FOZnVFTW9VZ25MRGMtMVdudm4weDlOb3NuR1hoZTc2cllGcFRxSG5vMi1lY1NDVdIBiAFBVV95cUxNbkUxMGxGN29sWTBjVk5uUGJQNkozUVZjSzZJa3VEazFwcVJjbnNKUThkb3BaRUxoYmJVX04weFhGSm1rYVNoNDBlazdEeHkwNUZ2V1I1VGtZM1RyWlNiSmpPMHdnTzc2eHhaX2FGWk5vN1MtQnpsWDF2anZLMkpLdHFkOGFUbFpS?oc=5",
+        "pubDate": "Mon, 14 Sep 2026 19:05:40 GMT",
+        "snippet": "Apple releases test of redesigned Siri AI before iPhone 18 hits stores this week&nbsp;&nbsp;CNBC",
         "source": "CNBC Tech"
       },
       {
@@ -290,13 +297,6 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXB3TkZVdU9UTnVaY2dxa3RaMkZ4Wk43TU1sRkVTVEdPaXJvQTFCNkVvY1p1NFdnZmxvUlJoa3VkSGNkRGhFeVhKdkVlX0FPV19uZjUzRXJFaUpRWmJxVE8xeTNIanpoUnJyOF9xMk1tY3NzMm5mNlRUb1JSMUkxVWk2TjIwWTZCaHpsUl9zZmp1WXNGNjhFeTljLUxiZjJHaXRzMlJzZFdJQk5KdnFPQw?oc=5",
         "pubDate": "Mon, 14 Sep 2026 19:21:38 GMT",
         "snippet": "Not all tech is under fire in Monday's selling, while investors seek refuge in defensive stocks&nbsp;&nbsp;CNBC",
-        "source": "CNBC Tech"
-      },
-      {
-        "title": "Is a 'SaaSpocalypse'-like sell-off coming for AI hardware stocks? Not so fast - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaEZBUzhySWR3WTkwY2ItRnR0SnBvVzhUVjlHeURnaFJBTzk3VTI3ZjRtcWdPVVlrNlBYWFFtTjNXUnNaYlNnX1NyUXlrekZQTzhkZWxsODIzaGZod1NFbzhkT1c1cWhGX2MxSGZUaUIyaUlqNmxyZnV5YTZveHpQWmUzWlhlMDdzZTV3T1haaVk1aGQ3S2daMW5MN3hhZlBicm1WdVo3RWNaRmNNUVNnRw?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 18:43:44 GMT",
-        "snippet": "Is a 'SaaSpocalypse'-like sell-off coming for AI hardware stocks? Not so fast&nbsp;&nbsp;CNBC",
         "source": "CNBC Tech"
       },
       {
@@ -428,6 +428,13 @@
         "source": "Bloomberg Banks"
       },
       {
+        "title": "Treasury hits Russia's VTB Bank with new sanctions over Iran ties - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaDlwYWhXMWJOc3FHSnAtRjdpR3NyQjBzcExta0hWamRLMzNDb0xNM21tQkZEdkx3R3lwcy1lVUNUSk13ZVFPOHo4RFFhUHY1RzZOQW9JZzdrVUFxUzdaNXJaa1gzR2xhNmh5am9yVFNqS3U5amg5RDlWTVotblV1SzJROUdUM1RweXhZRNIBkgFBVV95cUxNOUJKdlMwNjZyeWpER3g1REh4SkRwb3FnMlFfX2VOc0dvczh3cFNNM2xxbVo1WllIam1GblE0WE42ZDlWMzRBZExwVXdzbGIwSUtzdVQ3Szh0em5odjJsd0lBclZXcGtQNWZSWncwTmowc25Yamg1TS04SExnand1cm93UlhDVnpmamVTWDJZdTQwZw?oc=5",
+        "pubDate": "Mon, 14 Sep 2026 21:53:20 GMT",
+        "snippet": "Treasury hits Russia's VTB Bank with new sanctions over Iran ties&nbsp;&nbsp;CNBC",
+        "source": "CNBC Finance"
+      },
+      {
         "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide - CNBC",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeWE3eDV4Z3kyNzFnOHRQUWVOcHQyNVNBNXo3ZG1yTVJOZ2VZTW9xRXlIMGloOWx0Vm9kaHJNUTZldjFVUkpDUWVER292SFN3YnpqcVlFWFk5MU5LUVlyQjJ1YVZ6MUJ2RjRjX1NaaVVOZ2ZUVnFrUVYyUk0wRXVvbGNxMVhjODRGSTZj0gGQAUFVX3lxTFBoTjRMaDl1X3dzVjAwRVRzaTlZS1NlRHNzdTlmNGZsOGpRWkFITDlBUXBSd09HZkYxbGtFcjlhbXRZemZOMk9ndC1aX0lyal95MHNGNFRmUVJheXFSWV9VSzAzTmNjQXZBV0N2eDJ5SE9SUVBqdEVMS0w1ZU1PNTlTQUJEN0pWUFJpT0ZUZFdGbA?oc=5",
         "pubDate": "Mon, 14 Sep 2026 18:39:08 GMT",
@@ -460,13 +467,6 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMEtNU0dEOTY5dmFOY3hqVDhfaDNIN0hPOVpGRkdmclRjb1A3bWRleXUyQS1vZEJSdzFaVHc5QUNTbEdHTkFtdmdOVFNQajBJaXlqQWE2dl9lSFlQbGgzZ2h2Mi1lVFdDYWM3ZU5pcVpYSjRxSWFCeWVhcnJXVzRKVkV2UTZxWjk0c0ZZRnB3Zi14SV9jdEZvRnRZdVQ1d3JLRjJR0gGoAUFVX3lxTFB1UjBDT2tHTmdIZjlqdXZFaW4zSHJHZXJZY0U2eHl6eEUwNUpWQ1RueW8tLWxzYXpyUG5VaE1ScW5GSXU4aHhfQ2lyME41OTJNazM5aXlTZFM4R3VhVU5RSER4QzU4ejRNWVFZeUVqSmpYODlEdjBVdnpFWFZRMmQ0UGZlZ3NKRi00QXBPcGRkMzNiNzVDenJSRmo0N3NnUy14V2h3dVJuLQ?oc=5",
         "pubDate": "Mon, 14 Sep 2026 04:09:09 GMT",
         "snippet": "Gold falls to more than one-month low as oil rally, inflation data boost rate hike bets&nbsp;&nbsp;CNBC",
-        "source": "CNBC Finance"
-      },
-      {
-        "title": "Yen appreciation has carry-trade seekers looking at these two currencies - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LN1lvYTJxb3luQUxHdERyYlhGenJhNXVXaG92NVlUTWxSdlg1aHNVLWVyVW1fcFlNaUdhTHBDSDY0RlA4RUQ5dTBrN3d1UDEtQmJqSEIxVjRJZ3hyazJnM2UxbkxscWxhWjBsWDhXbk5MeFVxalpUNElR?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 07:10:37 GMT",
-        "snippet": "Yen appreciation has carry-trade seekers looking at these two currencies&nbsp;&nbsp;CNBC",
         "source": "CNBC Finance"
       },
       {
@@ -598,10 +598,17 @@
         "source": "Straits Times"
       },
       {
-        "title": "CNA938 Rewind - Singapore's economy is booming \u2013 but are all workers benefiting? - CNA",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRmNGOWtyemNMTGxzRDFwdUMyOTZtQ0lLT3hnY3dQS0x6THZ6UnNOQXlmaTVqUnFpU2NVc2JFcV95alNDZEI5TlZZeWMwT1JZOGhoRmVCZFdJTjh3U2t3WWh1aWZ5LVZHb3ZCSHNCVFJZMDNmZzRta19GcTIzYkU0QjJpVzFkUTZDcVFYZUkzajAwYU1rdnlpMHlqNW1NbXFfYzk3Rmw0TDdMTy1xajlRRmprZ183WHNfQWVGVTUwNldLSUFSck5JbzQ3TVJWeHFpclBGcEg5RmZyQ2VjU2ttdDdB?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 13:14:48 GMT",
-        "snippet": "CNA938 Rewind - Singapore's economy is booming \u2013 but are all workers benefiting?&nbsp;&nbsp;CNA",
+        "title": "CNA938 Rewind - Singapore DBS, UOB, OCBC banks record mixed Q4 2025 earnings - CNA",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOU5EeV9PYkM5OEtDQ3poWW40T1RGbXFXVkNOX0lWVUkyVm9neEFkNlRDaHVreVR2eE81Q0Z6TEo4ZlcyUFpWc0p4YndyRmprN0F4Vl9HaWtsYkNoakpKb1AxRlNKQlJIMGhTMVlCandJRWdjdGw4NlR3OS1pSkM2YVRIVk83UFVyMVhwQXZNRmtUbFA2eWh3OGhCa1NMUWZ0N3FMbmR6YnNUejloMXVNdlZ4cVo5OGg1cHBlQUVGT2oxTU5PdDJTam42MklJRmlfZ205Z1A4VEoxTHdISGFOdFFwTVBpRG5FU2c?oc=5",
+        "pubDate": "Mon, 14 Sep 2026 12:16:49 GMT",
+        "snippet": "CNA938 Rewind - Singapore DBS, UOB, OCBC banks record mixed Q4 2025 earnings&nbsp;&nbsp;CNA",
+        "source": "CNA"
+      },
+      {
+        "title": "CNA938 Rewind - AI, advanced manufacturing, and the future of Singapore\u2019s economy: breaking down Singapore\u2019s ESR strategy - CNA",
+        "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQSUEyQzJ0T01ubmJraHpuaUR1M1d0NWQ2eE5XRTFjTml1VmJ1VjNtendqVXI2clNUT2ZHRDJPNi1oUGRzSHVKZjVPMTdMbXdMLUtJVG5hWWdlR0F1STIzamVFc2xubk5vSGJwSlpINUVpVVdaX1V1VkIxYTlURFRNazEtTDlYbWZOZXFrOXNjbElaSlhfcFVZSU40ZFJzVm40NWNvZzhhV0wyVUlIUzkwRnV5SmxLSFdyc2tLVm9Ua1FycnZpeDZ0WF9leEVreEVwVjJNVkhIZzlhb3cwd2RmM0l1VExRTEh6XzlGOVFYQmJxaHJyWElXOXJJdHdXMWx5YXdBT2pjV3J1ZjhuajRMVWs2UGVNNTA?oc=5",
+        "pubDate": "Sun, 13 Sep 2026 12:35:21 GMT",
+        "snippet": "CNA938 Rewind - AI, advanced manufacturing, and the future of Singapore\u2019s economy: breaking down Singapore\u2019s ESR strategy&nbsp;&nbsp;CNA",
         "source": "CNA"
       },
       {
@@ -619,24 +626,17 @@
         "source": "CNA"
       },
       {
-        "title": "CNA938 Rewind - What happens if ships have to pay to pass through the Malacca Strait? - CNA",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaXNUZV9BU1ZLTTZYeVp3MF9oVmR1LUpKYlR5NHozdlhSckp2eVZSQ1dWaHpBZmdfZ2xYM2tjNTJkeV91RnoyQlUwQ0xBbWZkMm80V1c0a3UyTFNfRG9YX0pxclFUTVJpQkxKQi05SU90Mk5sT3ZYY1o5d2x6YnUzdmJtY3N0Z09rTkJpRzBLc1dYM21DNkxSRjZ1T0JieU1zanRtQXVWZXZMX0Qtb1Y3SUJpVWlFYkg0SEJZMVFLMGNLWDhoa25tVTA0QnZrWV9jRzFGNzhNRmZabGM0X09aZnZMNXA3WUhVNWc?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 12:45:10 GMT",
-        "snippet": "CNA938 Rewind - What happens if ships have to pay to pass through the Malacca Strait?&nbsp;&nbsp;CNA",
-        "source": "CNA"
-      },
-      {
-        "title": "CNA938 Rewind - OCBC\u2019s change of guard: Helen Wong retires - CNA",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTHNZblYteDk4c2t6TVoyYU9rZU9lRk9UMmZRT25oSTF3TF9vQlJ4anpobWV3bXpvQXZCVnM2U1NSbU1tQzNxU1UtUHo4bWZGUFc4c3ZMNm1RazF0dkdsWHNkOEk1S1k3dVRTanF6Nk1MVzF2QllBdE1HOVZCVG9PRFkwSW1DQ2VPY2ZjdUhpb3F1VmNkRFhTek1RTnZYMjkteDM5MmJrdnpJd3czN0NkbV91dVFZcDJiWXNGS3NfazlSa2gwa1JocVBBNnE?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 03:55:20 GMT",
-        "snippet": "CNA938 Rewind - OCBC\u2019s change of guard: Helen Wong retires&nbsp;&nbsp;CNA",
-        "source": "CNA"
-      },
-      {
         "title": "CNA938 Rewind - Using AI in sports training \u2013 how athleticism is a numbers game - CNA",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSjBmS1FBYmlWbVhHUmYtMUU1OHdSUkItVUxNRWFGVEt2dDd0LUpUa05OdXpOM3FlcE04bWptWVRIZ0Jhckd6VEU5cy1sWnRWN3doVlY2SVY1eUZmazhHUlhDNmU3clF5bFNwV2VaZTM3ODNZQ2MyZ1VUOEZzT2NrUTdKV3NFMWxxLVdkVHhqXy1MeVVDd2JPTWhUM3ZJSXpsUURaUWhQdFRwbU5lWmhBb3c0VjFzc0ttRGJQQzJ3a08tTG54clNGSTVFbDBJaTE1YjNjOENBN3RUQmFwS0hCLTVnd0lfcU0?oc=5",
         "pubDate": "Sun, 13 Sep 2026 21:45:02 GMT",
         "snippet": "CNA938 Rewind - Using AI in sports training \u2013 how athleticism is a numbers game&nbsp;&nbsp;CNA",
+        "source": "CNA"
+      },
+      {
+        "title": "CNA938 Rewind - Ukraine Under Attack - Megumi Lim's documentary \"NIGHT SHIFT\" - CNA",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSE1lcVJTNUtKbHhodHRzVzNESXQxbXQ5Ql9FTkZmV0kwMmU5UngxUXJ1c0Y4eGktSkJGZ2N0VXFXeHBLMk9uWVlscFFCS0JGaE94N0FpSGFjbndESEhYOUZuVjdzUVdWSGJ6eEgxQWlBc0NjdXMzaFlWMi02bGl6WnRHbFY1WEtTQkdfUWY0bTd0MHpFcjZsQlQyWnhUUjdhZjBjZEpvNXJ1MkVzejN3Z25DNWRVXzNKSmcxWDFHY3ozT28zNWJXWFB5aDZjRHVnV0VXNlNFNE1yZDU4ZFlPYy1LR0tfQQ?oc=5",
+        "pubDate": "Mon, 14 Sep 2026 12:33:16 GMT",
+        "snippet": "CNA938 Rewind - Ukraine Under Attack - Megumi Lim's documentary \"NIGHT SHIFT\"&nbsp;&nbsp;CNA",
         "source": "CNA"
       },
       {
