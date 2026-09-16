@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "updated": 1789573094,
+  "updated": 1789574813,
   "tabs": {
     "global": [
       {
@@ -39,10 +39,10 @@
         "source": "Reuters"
       },
       {
-        "title": "Nasdaq, S&P 500 climb ahead of keenly awaited Fed decision - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUtqeWNnZEJZT0IyaHpTajZTM3hWV0gwZUV1VkhQV21PUzJBQ0kzLWhxTk5iWUtNbTI1eUVWQnN1b2Y4T2RQSnhmc1pDcVVWYldOc19HSzRId2pZMHZFWHZrNHhnMVh3VGd4RkRSdDJGZ2ZJSzd6TWhiWWtUd1lWRkxzcklsRmJhOS1TcEZYMkRTQjhmakMyVDFtQQ?oc=5",
-        "pubDate": "Wed, 16 Sep 2026 14:09:14 GMT",
-        "snippet": "Nasdaq, S&P 500 climb ahead of keenly awaited Fed decision&nbsp;&nbsp;Reuters",
+        "title": "Warsh's words may matter more than the anticipated Fed rate hike - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0VZMTZPMGRVWVVTY0lVRERxMHhQdlNnb2NBOHROMDJETXBLVmJFTW12SmFybUloWGRfYm1ueDhEZHJuOWNPQXh3RHpDVllhRVpSUVFVeDJmMGFNNTM2RTRqMkVFaXdwTmM1eG1UeVhqLXNuYW5LMjZGYUFCYUV0djFqUTUxRkF2Vk9NeTh5VU44bENZYi1kaTBnS1NuVngtX1dIeEVtaw?oc=5",
+        "pubDate": "Wed, 16 Sep 2026 13:24:20 GMT",
+        "snippet": "Warsh's words may matter more than the anticipated Fed rate hike&nbsp;&nbsp;Reuters",
         "source": "Reuters"
       },
       {
@@ -167,12 +167,19 @@
       {
         "title": "Fed should defy Donald Trump with rate rise, top economists say - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVdob3AzUDBiZzZLRzFyQnZSZVhuTUxaT0ptay10LWtILU10RVkwTFZpa3dpRlQ1SUxzTm9GX0w5R1JHTkJXQ0MyYWlRUG5rRlc4Q3I1VGlocVhfU2RWQ0Z5TUFSM3J6ZjJ1SXRDM1dBWVBZOXQ3YnlBUkFaUTZzRlNFUTQ?oc=5",
-        "pubDate": "Wed, 16 Sep 2026 04:01:48 GMT",
+        "pubDate": "Wed, 16 Sep 2026 04:00:23 GMT",
         "snippet": "Fed should defy Donald Trump with rate rise, top economists say&nbsp;&nbsp;Financial Times",
         "source": "FT"
       }
     ],
     "tech": [
+      {
+        "title": "Microsoft AI chief calls out Anthropic's approach to AI consciousness - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXVwcmwwcUVVMFVOeHFOZHdJQlJHMlhwdGNYUl9FeEhKVFZjWWNDV0pGUnh3dVNQZi1BSDhHZUszWmtpbVpYdGNLWU01clRZTngtT2VpQ1lPVkFhSkVwVGVVR1N6T2RaczBvX2NJTmc0aU5GWEhZTVBIYmIwbnVEc0hSRWxzeUF2d0hQQUZCcVl3cEw2MVBVdmU1MDNTbUhwQ0loRzFPSXJBY1lweWlV?oc=5",
+        "pubDate": "Wed, 16 Sep 2026 14:05:58 GMT",
+        "snippet": "Microsoft AI chief calls out Anthropic's approach to AI consciousness&nbsp;&nbsp;Reuters",
+        "source": "Reuters Tech"
+      },
       {
         "title": "Apple considers Nvidia tech for return to server market, The Information reports - Reuters",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUItV2dPTnNzdl9Fd0RxZlFSWm5fTGwwMmpYc3hBYThTellLMWhESUprY3UyME5SdWtVNVBmWmpJbllMRkYyOGc4d3liVlYxdlgyX2JWYnRRWUluUWd0Tm1fY2ptd2w0MHNYNkZKS2FOR3ktSkxuc0FBUnYxc01sdGVXN1RfRVZ2Z1h1bzBPa0htT2tsYVRfVzV0a0F1Vnpua3RRT2FadUwwdnotaG5RcHItNlZadw?oc=5",
@@ -209,13 +216,6 @@
         "source": "Reuters Tech"
       },
       {
-        "title": "Spanish data watchdog publicises first AI agent-linked data breach report - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUtrSDJveHRTZDZNeXRVeHZvdjh0TWl1TUc2ZE1lMHpsb0VXWDRvbmVDUUNoSUJ4c3VvTDFQQi11RWpCckRvTDZjM0YtdFRfM3FpYVZjSXp1eXU3TzZKZGFmcElqdWxxMXpsYWNwRV9VSGxCV2FXSS11VFFWdE95eHd2NUw0SlM2cl9Tc1VJdmktLU1VVGtnbDZ0dmluMENkajVNZU1zNFFUbXFtc3A0UXAwSnF3azhUMmc?oc=5",
-        "pubDate": "Tue, 15 Sep 2026 21:07:15 GMT",
-        "snippet": "Spanish data watchdog publicises first AI agent-linked data breach report&nbsp;&nbsp;Reuters",
-        "source": "Reuters Tech"
-      },
-      {
         "title": "Apple Is Developing Enterprise Server for AI Age, Report Says - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaDVwN1duNE10dmI0YmxvdlBHTEpLekNzTjhTeklYVlNIVDZ5TDFsTW1hTTdWMjFJaGR5MVJwOUd0RmZhbjB6bTdkSXpKNVBZWE9nQXllVkdGbHNTSkJ0MnBaVy0zbXFXM0tuMlBmODRrUlNIRkNhOVc4eDlfVFA0T1NNVjVySUtwdmI3NkNBc1dMNnUwSm9nZnZoQ2J2Tl8zby1GdEo2TGdEcmFxSktXZg?oc=5",
         "pubDate": "Wed, 16 Sep 2026 13:34:10 GMT",
@@ -237,6 +237,13 @@
         "source": "Bloomberg Tech"
       },
       {
+        "title": "Fink Warns AI Pushback Will Make the Technology a Large-Firm Domain - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdE83dG9TYW1DNzhHU0loYndpblFma3lqdkYxa01qeXpuS1IwNFdVNzB5bXRmLXA1dmNIb1MwQ0Q4R3VSckh2NXNGUEgwUVQzMDA5aE10MFY1cU50TmtfMDVXNTI3UE9PM1ZSM2Jrenl0REhCd2Itb25jUHRPbGh4S2lDR3BzZ3BTWTViN2VHbVFTclBPR1YxZE1Zak9fQl83d3dXZVd5SVhBSHpSbEduZ1hkdmstSXVzaGc?oc=5",
+        "pubDate": "Tue, 15 Sep 2026 20:59:35 GMT",
+        "snippet": "Fink Warns AI Pushback Will Make the Technology a Large-Firm Domain&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg Tech"
+      },
+      {
         "title": "AI-Fueled Profit Growth Set to Flow Through Every S&P 500 Sector - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1pVbUxHTVJ5TEJ0bE0tUm90c19nLUMzSW0wWDFRRUI3Q09pTmJDSzVjdTdXUE5RSWU5SVZhd21tZm5XZHRXYkc3TzJabWJGQ19oOHN2ZDc1YlRYX1pwVmZzYThIbVc2MWRvR3o3N3VhQ21wMm1hSm02Z3NoVHNLcFhHMHpZRTl3X0FVMUVjQVJ0NllUTXoydGxzU1doZEZzdXZZQkRWTzg4a0hwX2E0TE9OelRuQQ?oc=5",
         "pubDate": "Wed, 16 Sep 2026 11:30:08 GMT",
@@ -248,13 +255,6 @@
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclZTSlhaV1RyUGk0T3VkR1lzWFByU21tRXJyZzIwU2J2Uno1YmR1b1R1QU9aOE5BQTJxQW1NNG9hNGRrMzFUcnU3ZVBncm1GV0x4eVNsQnJNVHNPNGVXYV9oY0hzS29zNGdrRUxMcGphZDVDWVZVUXdTUDFPMWhPNEFtVDJnYWpxelVmTkFnYXJ3OHk1MWpob3VWUUhEY3kyWjhuWkVMaTcxaHJNUkZneDVHSQ?oc=5",
         "pubDate": "Tue, 15 Sep 2026 02:26:00 GMT",
         "snippet": "ANZ CEO Warns of AI Risks and Job Cuts After Musk, Altman Alert&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg Tech"
-      },
-      {
-        "title": "SK Hynix Says Exploring Options After Report of Intel Tie-Up - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUGJ4clRVOGpDRDRSelNuU1dPWk1qVlg3WUd2UU15eWhLRDhYMGFsbHlxNmg4aVZyZ2pud29hT1JsM01DTHhvTWFRbDE0Q3oyMTVqTDhzemRhczVoMXBaMElsQ2hheldzRG1xWkJTQ1dDSUNFSFg2MVc0bjUwR3lxci0xWlF0UmtYMm03bU5BOHJELU1TNkJqcWJXVkNYYzBQNU1DOHZaYy1lSUFhWS1UQQ?oc=5",
-        "pubDate": "Wed, 16 Sep 2026 11:36:22 GMT",
-        "snippet": "SK Hynix Says Exploring Options After Report of Intel Tie-Up&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Tech"
       },
       {
@@ -379,10 +379,10 @@
         "source": "Reuters Banks"
       },
       {
-        "title": "JPMorgan expects investment banking, trading to shine in third quarter - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQUlHLUFMV1hHcjIyaTE5dXNSVVpfYzkyQUMxTWxvbzd6Sm9UWDR3UXZ2LWZHTE1hZUw2OUFBdDlfZHd2RGdoRHdXTFVHcThmanFwbzhNUkNNMDR6NlhRTkhvS0ZaRU12UlZkQkR6MURmbU5odE1Mc2FCSnlkaUJZWVg3QkVQd203UEJQME9rSWJIbTU0MFN0UURKWkExQUQ0aDF1dFpFWHM?oc=5",
-        "pubDate": "Tue, 15 Sep 2026 20:40:09 GMT",
-        "snippet": "JPMorgan expects investment banking, trading to shine in third quarter&nbsp;&nbsp;Reuters",
+        "title": "India's Nifty 50 closes at 5-month low on elevated oil prices, bond yields - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2s4aTJpYklfMHNQSW1pWWtPcGhCajI1eGE1RU5RRm0yWTJvNmkzZ2VZQURjbVBnZHlOSVJJdG1BanlVc1FXV2tYNUpCMXVVZ2g5dlVxYjdaQlViZXk2c1pMVEx3WEc2bHhOMjl3a0hUcXBjX0FXUGVSV3FpM0E5Y2dkRkRZTGtxOU81djBYYVY4Y1NvUlFmdW9BVWViQQ?oc=5",
+        "pubDate": "Tue, 15 Sep 2026 02:35:00 GMT",
+        "snippet": "India's Nifty 50 closes at 5-month low on elevated oil prices, bond yields&nbsp;&nbsp;Reuters",
         "source": "Reuters Banks"
       },
       {
@@ -400,10 +400,10 @@
         "source": "Bloomberg Banks"
       },
       {
-        "title": "Featured Audio - Bloomberg.com",
+        "title": "Bloomberg Radio - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5lcFJ4TW9mUjB6elZSWEdjRE94dDU3YllJbkp4U29neGtTRUVjMWhfZVEwX2w1TjYyT0dtZG9YZDJBTVFjSHc?oc=5",
         "pubDate": "Thu, 14 Jan 2016 01:23:40 GMT",
-        "snippet": "Featured Audio&nbsp;&nbsp;Bloomberg.com",
+        "snippet": "Bloomberg Radio&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Banks"
       },
       {
@@ -449,17 +449,17 @@
         "source": "CNBC Finance"
       },
       {
-        "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeWE3eDV4Z3kyNzFnOHRQUWVOcHQyNVNBNXo3ZG1yTVJOZ2VZTW9xRXlIMGloOWx0Vm9kaHJNUTZldjFVUkpDUWVER292SFN3YnpqcVlFWFk5MU5LUVlyQjJ1YVZ6MUJ2RjRjX1NaaVVOZ2ZUVnFrUVYyUk0wRXVvbGNxMVhjODRGSTZj0gGQAUFVX3lxTFBoTjRMaDl1X3dzVjAwRVRzaTlZS1NlRHNzdTlmNGZsOGpRWkFITDlBUXBSd09HZkYxbGtFcjlhbXRZemZOMk9ndC1aX0lyal95MHNGNFRmUVJheXFSWV9VSzAzTmNjQXZBV0N2eDJ5SE9SUVBqdEVMS0w1ZU1PNTlTQUJEN0pWUFJpT0ZUZFdGbA?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 18:39:08 GMT",
-        "snippet": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide&nbsp;&nbsp;CNBC",
-        "source": "CNBC Finance"
-      },
-      {
         "title": "The Fed is likely to raise interest rates as inflation persists. What that means for consumers - CNBC",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONzR2NnBtbXVOLWxnQlhkbkg5d3RhemtrU21LbDhNaWwxajZpMXA3eFM4ZXpTZlVzYUNiSG9IV3JMSHZpOWtiZ0JYWGxCdm40VEpadmU0dW9EU2QwWTczMWhKU1pCTUhMdXhfdFZjMGgzaDd2bXNmN2tMOWwtWVBvY0ZkdFE4Y3dxQlU5eW5BZkhuV00tTGfSAZsBQVVfeXFMT0E2cjJJeUpWNEpwd0h3OGptRlhyTVhYY3NlY0hRTzRVRXJoRFFjd0ZmakJ5N2FkNy1ZdzZVMGxXdTVicl9WX2NzMU5yemxSWlh4S2RmLVFKSUNWVjNlaVduXzR3Z01kOHlhOHF6WVlpYWFDUzI1aTlPaVRhTlJlSFBFWmh2RTNNNEJ2YlZsZDJoWmg5LWk1WFlKZGs?oc=5",
         "pubDate": "Mon, 14 Sep 2026 16:17:03 GMT",
         "snippet": "The Fed is likely to raise interest rates as inflation persists. What that means for consumers&nbsp;&nbsp;CNBC",
+        "source": "CNBC Finance"
+      },
+      {
+        "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeWE3eDV4Z3kyNzFnOHRQUWVOcHQyNVNBNXo3ZG1yTVJOZ2VZTW9xRXlIMGloOWx0Vm9kaHJNUTZldjFVUkpDUWVER292SFN3YnpqcVlFWFk5MU5LUVlyQjJ1YVZ6MUJ2RjRjX1NaaVVOZ2ZUVnFrUVYyUk0wRXVvbGNxMVhjODRGSTZj0gGQAUFVX3lxTFBoTjRMaDl1X3dzVjAwRVRzaTlZS1NlRHNzdTlmNGZsOGpRWkFITDlBUXBSd09HZkYxbGtFcjlhbXRZemZOMk9ndC1aX0lyal95MHNGNFRmUVJheXFSWV9VSzAzTmNjQXZBV0N2eDJ5SE9SUVBqdEVMS0w1ZU1PNTlTQUJEN0pWUFJpT0ZUZFdGbA?oc=5",
+        "pubDate": "Mon, 14 Sep 2026 18:39:08 GMT",
+        "snippet": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide&nbsp;&nbsp;CNBC",
         "source": "CNBC Finance"
       },
       {
@@ -521,6 +521,13 @@
         "source": "Business Times"
       },
       {
+        "title": "Too early to tell if Zika will hit S'pore economy hard, say observers - The Business Times",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU0FZV0U1RjVwTXhKZGhQY3J1NlZGTGxhbHBkV01YbkJxbFg2NFJfQTN2QnUwbUI2cFdaSU5qUWNJb3MwQTg0VDI1ZTR5bDFPc0R1T2FFSWt3ejBFbUsyaWJGTy13bE5MRDN0WjZ2bXFjZE43bzFURkFrcXE5SUNSRlZubGJ1ZXdmTGFrN3lRWW41aWZaYVFpNjRSbE5nUGpiaktvOE03WndnZzNSXzNWRW82SjNUcEpScEg5MUNkWjQ0Zw?oc=5",
+        "pubDate": "Tue, 15 Sep 2026 09:00:00 GMT",
+        "snippet": "Too early to tell if Zika will hit S'pore economy hard, say observers&nbsp;&nbsp;The Business Times",
+        "source": "Business Times"
+      },
+      {
         "title": "Singapore\u2019s covered bond boom is largely a DBS story - The Business Times",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY240dGlsekk5Z2tGaTZuYkt6dVBoZEpkV0hXNVhzT29KZHYtREVicFhXYy10Y1BNb3k1UVNDM2hxMTVsNzF3ejBZNExOb1RNR19YNnU4QzNsRlBVdmFvZGg4RUY1NVQxSFJpQWpIVnpXMEQ3ZHpJaHE5RnVISDJfTXFsZjBmYzhJZ3VuMTVHZ19WT0dXVHBKVHRlQ3ZjQQ?oc=5",
         "pubDate": "Tue, 15 Sep 2026 23:00:00 GMT",
@@ -546,13 +553,6 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMkpKZTVBUGxnV1VzRFUzSkRUSWZPcW0xX0YxWWJTbjRrYWg1aTIybTBaMWVrbFhfaE8zTHFnWFRIVDBuWDJKTl9RSmFpVDBfWG1KbHRzX0YyQmJYNHBtdVZ1cWU5YWc5RGNNaTJ3cEZHenhGWlYxY004WlhSd3lyQjU4WXZPVnJRb080bUxNMk9odjNMSndnWHFJb1NTRWVMQzIxM1Y5dlRKM21XZ0R2bGxWLWpfVHl1Nm9McVhycmZ2aTNCY2o0cw?oc=5",
         "pubDate": "Tue, 15 Sep 2026 02:10:00 GMT",
         "snippet": "China new home prices fall for third straight month as prolonged property slump weighs on economy&nbsp;&nbsp;The Business Times",
-        "source": "Business Times"
-      },
-      {
-        "title": "China\u2019s economic momentum stays weak as consumption falters - The Business Times",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTDR3VmF4RHEyaFEyd2JDSEJqYWFfaDhwbS00WGx4Tmt4WGdvTjVycU5fWWk4ekZzTFNXbTNpaDFoYWhCeXEydVpTaWU3TU5xYXpEeGxYRGpmZnhpUjJoT29JMTNMWVVqaVFXYWVUQmduYzQ0dGxvR2pZcDI0LXQ1T2YwUlpTRFlkdm1sY3NMOGZJS3QwUlZqcjdPY2NjQQ?oc=5",
-        "pubDate": "Tue, 15 Sep 2026 03:15:00 GMT",
-        "snippet": "China\u2019s economic momentum stays weak as consumption falters&nbsp;&nbsp;The Business Times",
         "source": "Business Times"
       },
       {
@@ -584,17 +584,17 @@
         "source": "Straits Times"
       },
       {
-        "title": "Guinness\u2019 alcohol-free beer launches in S\u2019pore, with new jerseys in tie-up with artist Tobyato - The Straits Times",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZmJvbWZPbm9taXZsVW1PbVpVMXcwVEVtdDhyQmJxSzJoaURNNUN5QjBXSm5reUlwMURjZ2xzUTZoUk1zQU9zMHdjV1VjaHU4LWpSaHZYWG1adk4tc3dDNkNfLWZzYXpmbGR5Sl9saHRNNEZkajMyU1lLV3RMbUNsWXdwRkdSVFBnZWpGYTFsNFk4LWNlRWlqS1JfdHRTT2U5bWlucVMyZGtoUUJ0WHpVQkdrX0NfdDEtOF92MHdtX1ZNSGV1V1pGeFFR?oc=5",
-        "pubDate": "Tue, 15 Sep 2026 08:34:00 GMT",
-        "snippet": "Guinness\u2019 alcohol-free beer launches in S\u2019pore, with new jerseys in tie-up with artist Tobyato&nbsp;&nbsp;The Straits Times",
-        "source": "Straits Times"
-      },
-      {
         "title": "Global AI stocks tumble as industry\u2019s biggest names sound alarm - The Straits Times",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNajZvZ1hrcVctMEtTSWhWcHFqMzRHcGRpR1J4cmkxNjEtY3VyaElsSnZLLU5JZkFpeVV0QTE2RlpiQ0Z4UkRWUFQyZVBBOTNVVS1YenhIZ1NxQU1PcnVnekhHeWswTm9Hb08wSElFYzdaQmR3NmJSU3hDTmIwQkQxOUxGV1JLNldwbjFpcmZpb2pBdzBVSGl1S1dzMzZkUmR5TmEzdUhpZGlDUW1QaFlMUkYwSXVjdmVHRkoxanJnaFNVSW8?oc=5",
         "pubDate": "Mon, 14 Sep 2026 14:17:00 GMT",
         "snippet": "Global AI stocks tumble as industry\u2019s biggest names sound alarm&nbsp;&nbsp;The Straits Times",
+        "source": "Straits Times"
+      },
+      {
+        "title": "Global AI stocks fall as industry chiefs call for slowing development - The Straits Times",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObkNxbERaaDRvTzRNN0JfTW05U1RfanRjanZLWWJHQm1fbjI1ZHVBN0ZDNzBEV0pySktNbTVSTHZTM1VGVGhlVEkzRGdnU0wtUFI3Vkk2aTBxeTNzOG5uMVVlUzRvVGhPWFhLeGo3MVFJbjA3aTBaclNYN2piaVZfU0dkcldxWXRSSzlIWFZuUjFIN210R0djTVI3cGhwQ2Vic0pIdGw4emd4azl3VGpzMW9uYzJ4RTAxazFxV2ExcldpVmwtVXV4VW5za3JtOUg2SS01V0VmdjhHd21yYkQ0?oc=5",
+        "pubDate": "Mon, 14 Sep 2026 14:17:00 GMT",
+        "snippet": "Global AI stocks fall as industry chiefs call for slowing development&nbsp;&nbsp;The Straits Times",
         "source": "Straits Times"
       },
       {
@@ -633,10 +633,10 @@
         "source": "CNA"
       },
       {
-        "title": "CNA938 Rewind - The Wellness Hour - All That Jazz creates direct route and scholarship opportunities to London\u2019s Top Contemporary School - CNA",
-        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVERNZG9FeVNNWU1tUjBEc1o5a1lyeTBCUXBrby1KbWlvSjVFbDVXc1Z5Y3hPLWtVZHVaNk9rNFZkbWtjSzlKdlJodWxCRTl6QW5DT3hyMHEwZ3RxWlNZUktaNmhqcHVNbFJodk9MYVJkeURhRTNYd3h3Z3VIU29hdkUzSDVTRWR6LUhKdTlWZnc2Um95TEtMZTVyanNSYjdvYTNtZ1lIcnpzNlduVUoyVjk4ZDQyNUVyeGhxb1pFeWZLNklXMjJEU1pVR1poNE40d3cyd3JQYURZZVpqVWhVMUZFX3dVR1JxV1NWQ0tQZ2N3Z1d6YmlvVWdMU0NTNV9oNU5fUGJ3?oc=5",
-        "pubDate": "Tue, 15 Sep 2026 20:10:55 GMT",
-        "snippet": "CNA938 Rewind - The Wellness Hour - All That Jazz creates direct route and scholarship opportunities to London\u2019s Top Contemporary School&nbsp;&nbsp;CN",
+        "title": "CNA938 Rewind - Travel Around South Africa with Dr Bernie - CNA",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcUhpUVoxVzRiMExLM1B4bk5JaWNzNUpVTDdya0t3Xzg2cGsyR3N5UFpnT1hNYkZxX0VJZVZoLWx6SUtUa05CQ053Rm9NNTBYUWNGdExsUlpwUDdUS3dIMGk4cXJfYkYtcDU5Vkt6N0N2amVZM1JfN1lZcTNOa2lQUl91WUJmb3NrMDQ3NDlBMkZiS3JZQ1V3dlNkQ05XLVBwLVhfMEJMRURUZEZwNmFSekNVQWNucHBZS3pwQm9ScmgwNGZrUzNTUlNkQmQ?oc=5",
+        "pubDate": "Tue, 15 Sep 2026 12:09:12 GMT",
+        "snippet": "CNA938 Rewind - Travel Around South Africa with Dr Bernie&nbsp;&nbsp;CNA",
         "source": "CNA"
       },
       {
