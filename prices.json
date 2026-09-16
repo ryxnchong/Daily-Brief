@@ -1,5 +1,5 @@
 {
-  "updated": 1789527922,
+  "updated": 1789529925,
   "quotes": {
     "SPY": {
       "label": "S&P 500 (SPY)",
@@ -18,9 +18,8 @@
     },
     "AAPL": {
       "label": "Apple (AAPL)",
-      "price": null,
-      "pct": null,
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
+      "price": 331.34,
+      "pct": -0.5224
     },
     "MSFT": {
       "label": "Microsoft (MSFT)",
@@ -79,43 +78,43 @@
     },
     "^HSI": {
       "label": "Hang Seng",
-      "price": 24626.14,
-      "pct": -2.567046594732493
+      "price": 24637.68,
+      "pct": -2.52138875788527
     },
     "^STI": {
       "label": "STI",
-      "price": 5646.84,
-      "pct": -1.4449449615420187
+      "price": 5649.0,
+      "pct": -1.4072461921624975
     },
     "D05.SI": {
       "label": "DBS (D05)",
-      "price": 77.04,
-      "pct": -0.593548387096766
+      "price": 77.0,
+      "pct": -0.6451612903225806
     },
     "U11.SI": {
       "label": "UOB (U11)",
-      "price": 41.42,
-      "pct": 0.5828071879553229
+      "price": 41.39,
+      "pct": 0.5099562894609054
     },
     "O39.SI": {
       "label": "OCBC (O39)",
-      "price": 31.3,
-      "pct": -0.15948963317384596
+      "price": 31.32,
+      "pct": -0.09569377990430984
     },
     "C6L.SI": {
       "label": "SIA (C6L)",
-      "price": 6.54,
-      "pct": -2.6785714285714244
+      "price": 6.51,
+      "pct": -3.1249999999999996
     },
     "Z74.SI": {
       "label": "Singtel (Z74)",
-      "price": 4.43,
-      "pct": -2.8508771929824537
+      "price": 4.41,
+      "pct": -3.289473684210515
     },
     "BN4.SI": {
       "label": "Keppel (BN4)",
-      "price": 11.14,
-      "pct": -5.593220338983052
+      "price": 11.12,
+      "pct": -5.762711864406792
     }
   }
 }
