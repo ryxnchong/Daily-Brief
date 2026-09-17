@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "updated": 1789679160,
+  "updated": 1789680940,
   "tabs": {
     "global": [
       {
@@ -25,10 +25,10 @@
         "source": "Reuters"
       },
       {
-        "title": "Wall St rebounds after Fed's first rate hike in years as oil, Treasury yields dip - Reuters",
+        "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip - Reuters",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkVra0Q0cjNkbjlDN0N2SENMZHYyeVVFSU1tcG5LOXhBTk5leFlZNjFNRGpad3NoWmhnaWZVd2I3N19oa2hQSERYZzBQWFcxaUJQNDZaSHMwVjFrNGlKbGRUNjg5TEt2WENpMUJiUFRVTjR6WlQyc0IzY2V2M05FanNlWExPdUZ2bTJFUlp4YW5HdTAwTExfNTI3MWkwVEVTMTRZUURlR01lVHA5?oc=5",
-        "pubDate": "Thu, 17 Sep 2026 19:43:26 GMT",
-        "snippet": "Wall St rebounds after Fed's first rate hike in years as oil, Treasury yields dip&nbsp;&nbsp;Reuters",
+        "pubDate": "Thu, 17 Sep 2026 20:53:08 GMT",
+        "snippet": "Tech leads Wall St to higher close as oil eases, Treasury yields dip&nbsp;&nbsp;Reuters",
         "source": "Reuters"
       },
       {
@@ -67,17 +67,17 @@
         "source": "Bloomberg"
       },
       {
-        "title": "Hong Kong Property Stocks Fall as Rate Hike Threatens Recovery - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObEtUYzAwQ0dueEpOYlFrZnBENFZ6Wk5pMWs5Sm1ndTBkemN2Zm5nMmd3RTQwYWR5NlRWSjRwdlpLcVAwRmlFVEJoMUNrc0h1S21nOF9SSnVnSEU4TEJjT1UwcGlRRjZEQmFxdW1Xa2x3MjlWdUtaNFVHU1Zwa2FJUFh0MkpJdmYwbGZxamxlUWZ0eEtrTDlxSEdWNGFBdFBpdEtmUGo0WHJoZ0tFVjNkN1BFMA?oc=5",
-        "pubDate": "Thu, 17 Sep 2026 04:21:00 GMT",
-        "snippet": "Hong Kong Property Stocks Fall as Rate Hike Threatens Recovery&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg"
-      },
-      {
         "title": "Nuclear Services Firm Holtec Is Said to Suspend US IPO Plan - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOU53dWF6SktDZUN5NnFBTFB0UzZURHMzdHRnOFBoOU1qbThtMzF0cmR2cEIxc04zUjFOSUt5cDVrTGdPaUlsc1I3aGxPdC1oLXBqcUYxeC1TQWJVd2ZhMk9JOFBJNk5xd0pwb0YzeWpoT0E4V2lETjN3aXktMVRnSzJFUXVaVXNxcFNoXzU5NVNyaGUzM0YtZmVUX3QtTEdndm9XTEZPQmpiNkE0SWFr?oc=5",
         "pubDate": "Thu, 17 Sep 2026 00:08:00 GMT",
         "snippet": "Nuclear Services Firm Holtec Is Said to Suspend US IPO Plan&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg"
+      },
+      {
+        "title": "Hong Kong Property Stocks Fall as Rate Hike Threatens Recovery - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObEtUYzAwQ0dueEpOYlFrZnBENFZ6Wk5pMWs5Sm1ndTBkemN2Zm5nMmd3RTQwYWR5NlRWSjRwdlpLcVAwRmlFVEJoMUNrc0h1S21nOF9SSnVnSEU4TEJjT1UwcGlRRjZEQmFxdW1Xa2x3MjlWdUtaNFVHU1Zwa2FJUFh0MkpJdmYwbGZxamxlUWZ0eEtrTDlxSEdWNGFBdFBpdEtmUGo0WHJoZ0tFVjNkN1BFMA?oc=5",
+        "pubDate": "Thu, 17 Sep 2026 04:21:00 GMT",
+        "snippet": "Hong Kong Property Stocks Fall as Rate Hike Threatens Recovery&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg"
       },
       {
@@ -174,6 +174,13 @@
     ],
     "tech": [
       {
+        "title": "Amazon enters AI safety fray, calls for \"rigorous testing,\" safeguards - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZlc0aEIyZmgxVURSZXZnVWNic05GQW9SVmI1Y1JvbGVtYzR6RmFvMTFKUTBFNWNOaENqckFIdjY3NXh2dWNkZF9UUUY3VXpNbEVPYnZhZnk0N2kwWFNfWS1lNzlEdXNvTlkzRXFmM1dpTHMyOG9GTVdwZ3FkZGt1UXUwUklrWEtaeUdSdVR0WWxCTHdYNi00WFVKbmZRMWJXRFhDblNNM01HQXpGVHVrVFhUUlpHUDRiT1pVbHMyVlc?oc=5",
+        "pubDate": "Thu, 17 Sep 2026 14:33:55 GMT",
+        "snippet": "Amazon enters AI safety fray, calls for \"rigorous testing,\" safeguards&nbsp;&nbsp;Reuters",
+        "source": "Reuters Tech"
+      },
+      {
         "title": "King Charles warns tech leaders of 'existential dangers' from AI - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFdPV3JrbjNYMUd3RXlUY3NwOU5RMTVheVM2eHRUQ2VFWnBVU2w2SnFqR05iaHBiZzE5MHlyc1ZhX1NSeWxHMmNLMEx4YkxBQjVZY1A4MllpU19lM0c5RHhnV3JTRkQzWGlDME1Cam9WdlVzTTVNclhxZm90akpuUHFkeW9INXdGbmdiUTBTNHBnZEVSNmxtRDNLUWNPQTh4N05qVmh4c01JUWM?oc=5",
         "pubDate": "Thu, 17 Sep 2026 17:40:59 GMT",
@@ -206,13 +213,6 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS083TTN6VWhFczdsMTRsUHA4cXFVdXBxaGE4YjJSeXVQbnhVZUxjdUszX29LaWJDS0Yyc3Npc25OMjRHRTlKbWtPNXNLRHAxWWZVLWZzbktOVWp4RDcwcVhLblYtWWVPLWw3SGZqVXVFR3JCRmZPY0pqVTdCaUZNbGkwY2xfSkVqX01rM3RCNElodEFOWWJzUmlCTVFOcDk3RlZIcQ?oc=5",
         "pubDate": "Thu, 17 Sep 2026 15:46:07 GMT",
         "snippet": "In Silicon Valley, AI data center boom meets local resistance&nbsp;&nbsp;Reuters",
-        "source": "Reuters Tech"
-      },
-      {
-        "title": "Amazon enters AI safety fray, calls for \"rigorous testing,\" safeguards - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZlc0aEIyZmgxVURSZXZnVWNic05GQW9SVmI1Y1JvbGVtYzR6RmFvMTFKUTBFNWNOaENqckFIdjY3NXh2dWNkZF9UUUY3VXpNbEVPYnZhZnk0N2kwWFNfWS1lNzlEdXNvTlkzRXFmM1dpTHMyOG9GTVdwZ3FkZGt1UXUwUklrWEtaeUdSdVR0WWxCTHdYNi00WFVKbmZRMWJXRFhDblNNM01HQXpGVHVrVFhUUlpHUDRiT1pVbHMyVlc?oc=5",
-        "pubDate": "Thu, 17 Sep 2026 14:33:55 GMT",
-        "snippet": "Amazon enters AI safety fray, calls for \"rigorous testing,\" safeguards&nbsp;&nbsp;Reuters",
         "source": "Reuters Tech"
       },
       {
@@ -279,10 +279,10 @@
         "source": "CNBC Tech"
       },
       {
-        "title": "Amid calls for urgent AI action from Congress, House heads home to campaign - CNBC",
+        "title": "House heads home to campaign amid calls for urgent AI action - CNBC",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPMnVvdTAzbXZhYVU4d2gzYUpnVnZpam03MHowUjA2UGVMOFhfaUpkaVhHWng3RmZESko4aHltS3ZlMUpxOWk0RjFWUFJJZzdVX2c5T0RyOUF4dkpiSFlUckROdkRCdWlfbk1XUWVmWmJ1bXo30gF6QVVfeXFMT2tKRHdnMmxfQ2FpUzdJVWdzaEs0X2Z3QnJIekc4VWlaejc4OGpybXdaSW5yZDhmTS1FMWlUMndTMnkyZ2oxdUlzUS1jbzNCQllJUDdoU0tVelZCUGdnbXZXTWNTaXZXdDlkb0pDYkU2ZVpLbHdMem1Gd3c?oc=5",
         "pubDate": "Thu, 17 Sep 2026 17:42:00 GMT",
-        "snippet": "Amid calls for urgent AI action from Congress, House heads home to campaign&nbsp;&nbsp;CNBC",
+        "snippet": "House heads home to campaign amid calls for urgent AI action&nbsp;&nbsp;CNBC",
         "source": "CNBC Tech"
       },
       {
@@ -293,10 +293,10 @@
         "source": "CNBC Tech"
       },
       {
-        "title": "Thursday, September 17, 2026: The Club's breaks down the AI trade after the Fed's first rate hike since 2023 - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORTdMTFBzOHNBWEhNV2ZiQ1Q3aEJUQm5RQ2EwaHNMcGxKXzRBTndWU2RCcDdOb19YcUdMUnhraXFuRXR2UXBsY3M0QWlxcGV4TjNGbnRFWkdCYlZDYmVHUjhxQWwyRXg0RXh4aEoxUl93bVRQOUZVR1o4Y3RBZmczY2dYRnlNcTFVTEs2d0U2NU5mTmpKZVhZOG55ZzgtNGFVd1ZUbXluSkZGU3JPN3pZeXA0dVp2S0JmeHI4NHp2cFNjSkxSaTRabldPOHlfNXJMWDlYa041Z3luYm1kcWVv?oc=5",
-        "pubDate": "Thu, 17 Sep 2026 14:46:00 GMT",
-        "snippet": "Thursday, September 17, 2026: The Club's breaks down the AI trade after the Fed's first rate hike since 2023&nbsp;&nbsp;CNBC",
+        "title": "What an Oscar-winning movie can teach us about investing through the AI slowdown debate - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYjRiM2lEd2N1ZHAyeDBIVXUwejYyb2NiNl9rTUJKLUFZUGh1RVdyUFdHY2JRVklIVzM3Q2pRRFlfaUtnM2cxbTF0RVJwTFBnZU1fTkt6TWpTbXJqdlRMZHJqcHlzajZIRFZ5MkdQTWo0Rk9qdjBPd3E4Nk1fb0JXY3hfdFdJMkFhZlF6TGprVmRQX01ZVE4wRzBpdXdXR2VPNXFLUUQtcHJDS0cxYkpTakdTdE9SbHFWWFZlRFAwajJHQQ?oc=5",
+        "pubDate": "Thu, 17 Sep 2026 20:24:36 GMT",
+        "snippet": "What an Oscar-winning movie can teach us about investing through the AI slowdown debate&nbsp;&nbsp;CNBC",
         "source": "CNBC Tech"
       },
       {
@@ -577,6 +577,13 @@
         "source": "Straits Times"
       },
       {
+        "title": "Tech leads US stocks to higher close as oil eases, Treasury yields dip - The Straits Times",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYlZtY1EwM2N2SG5vRjd2MmZaYWxfWjhEMUdnc21laHBSNjNfTTJ4cnhncjNKODR0M3E5alVRR01VSHhOMmI0aXlTZzB6dWNoRjhqT2xDa2toY051QldjMnc4OFZTNmN3anIwQkxJX1drTG9mM1paaWNxWnpjYjJIYUxESUxSM1hXN3U0SkxjNFVvcjdQLVRVME9zQmtlWE1vVlJlVU9wVTZmNWRheFdlNEJidDZVSzdzRWpGa01jZDYzS1k?oc=5",
+        "pubDate": "Thu, 17 Sep 2026 21:19:00 GMT",
+        "snippet": "Tech leads US stocks to higher close as oil eases, Treasury yields dip&nbsp;&nbsp;The Straits Times",
+        "source": "Straits Times"
+      },
+      {
         "title": "US aligns inflation policy with other central banks like Singapore\u2019s with first rate hike since 2023 - The Straits Times",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTGJMTTYxbldTTzhvRncyWW1yMGU2ZC1uMmZOaE1qdGRDUXJ3Wmt5WHJxQjRvdnNsNmJOZ0NnTTRzWTE3S1dPMm03OEVzT1Y5RktxN2dhbVAzR2w1bnVVX1lVTm9KUEZPRDZwVWVyOFBxa1hQLUpDekNaTjdqOUZ3SFY4eHBsZS1aX2ZUNE9ZLTkzNlFURVFDdk5rWm1rNXZGNHNHeENXSnNaZzNxcnM1NXB0TVd5ODF2dGlibTBaNXdNbmJwV1hjdHY3Q09sRlRRcVE?oc=5",
         "pubDate": "Thu, 17 Sep 2026 04:45:00 GMT",
@@ -588,13 +595,6 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNzN3YUQwd1RHN0hnaTBzTm5VUG05aHVnQWlKX1VIZDl5cm1obzFjM2hYeHhRNXRTbkxGa0dOek5LX3U4dnplWnBIYlEtT20tU0Ytb3pjX1FXTm9qUWZvZWhzaFBuTElyVEpKUFdBckU0dDlOdDdEUEx5M25xVzg4LTd6a3JrWml0TklBU3ZmSGJQZ2V6b05JZC13S2xwMTlCRHNnaFlJVHJXMTk4X1VnSlBibjF3ellkYTZtOVh3dDZwNlRHWDlWVTRR?oc=5",
         "pubDate": "Thu, 17 Sep 2026 12:50:00 GMT",
         "snippet": "Why did the Federal Reserve raise interest rates and how does it affect me?&nbsp;&nbsp;The Straits Times",
-        "source": "Straits Times"
-      },
-      {
-        "title": "Retailers slash prices on drinks like beer, tea without Return Right logo - The Straits Times",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxON0RRNldjdE9sbXN5ZklFbkxmVi1tLVFqZ0NaX25Vd3JITU9RYzl3TFpaS0hxSjU4aGIzZnc1T2lQU3V4QUpJRVBSLVdISzhnWTdLQ2FqNVppTHNUU2UxRldzdEFkWEE2UngwVjFGaVpsVkFsQXNiM1pyZngzOUMzVm80TnladWt0WGpvZkxMNlNLYkpqS3h6M0p6b2Q4THlNN3JvdWlqMi0tTkxyYWR4ZGZUVVk5VmV5UU5RZUlwMTNjZFB2SGZGb2lMS1R0M2dhRUhxTVV0eTFheVVUQ2ZN?oc=5",
-        "pubDate": "Tue, 15 Sep 2026 07:35:00 GMT",
-        "snippet": "Retailers slash prices on drinks like beer, tea without Return Right logo&nbsp;&nbsp;The Straits Times",
         "source": "Straits Times"
       },
       {
@@ -675,10 +675,10 @@
         "source": "Reuters SG"
       },
       {
-        "title": "Goldman Sachs sees slightly softer fixed income, currencies, commodities business, higher costs - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR2lWM0RvQ2IyX3Fyd3d1ZG5abFVMaXlEQ3Q2dnl3bHMxMUpZUG5adWY5dHIyeF9CUEFJOXU3WXEyTlBfWHFtcGd1Q0pDcWY4VGU5THJUT0VTcWgzV1g5bVR0MmQ0OXMzVUhZYWNHOTlQbHY0c1ZRUzdGcmR1Um5YYUFBMjk2SXA4d0gwa3A3dThxdmMzOW9WZGh4QnEzR3pnS3RTdnVUbS03aFQ2bUxkd1pRVUI0b1dHcUVKT190UktleURHQmE0M2hjYk5fZw?oc=5",
-        "pubDate": "Wed, 16 Sep 2026 21:59:39 GMT",
-        "snippet": "Goldman Sachs sees slightly softer fixed income, currencies, commodities business, higher costs&nbsp;&nbsp;Reuters",
+        "title": "Goldman Sachs asset arm raises $11.7 billion in private equity funds - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUkx3aUVwQjV0SUt2RWE4N09seFJ1NUJPQTk5UFpFTFI0YmxOTEdlQjdBaXpkekF4RWNici1sekd5bEFhb1dxc05ZQ1ROblR0Vm1kVGFzSjEyWHV3OEotTmNfSW4xUXE5NjBfZVdHUV9VN2ZCU0dZTVNYUUlpdGFHMTI3bDVFYWhwNGVWRkhkVzY1cFpMSkxhdkhQYWRfVjlBV1hfbUoyMm50V29hek1XVW55SUNaMFR1VTJv?oc=5",
+        "pubDate": "Tue, 15 Sep 2026 16:16:19 GMT",
+        "snippet": "Goldman Sachs asset arm raises $11.7 billion in private equity funds&nbsp;&nbsp;Reuters",
         "source": "Reuters SG"
       }
     ]
