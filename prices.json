@@ -1,5 +1,5 @@
 {
-  "updated": 1789675558,
+  "updated": 1789677410,
   "quotes": {
     "SPY": {
       "label": "S&P 500 (SPY)",
@@ -23,8 +23,8 @@
     },
     "MSFT": {
       "label": "Microsoft (MSFT)",
-      "price": 497.66,
-      "pct": 1.5011
+      "price": 497.75,
+      "pct": 1.5195
     },
     "GOOGL": {
       "label": "Alphabet (GOOGL)",
