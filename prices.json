@@ -1,10 +1,11 @@
 {
-  "updated": 1789931083,
+  "updated": 1789932824,
   "quotes": {
     "SPY": {
       "label": "S&P 500 (SPY)",
-      "price": 761.69,
-      "pct": -0.1193
+      "price": null,
+      "pct": null,
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     },
     "QQQ": {
       "label": "Nasdaq (QQQ)",
@@ -48,8 +49,9 @@
     },
     "MS": {
       "label": "Morgan Stanley (MS)",
-      "price": 202.58,
-      "pct": -0.4619
+      "price": null,
+      "pct": null,
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     },
     "BAC": {
       "label": "Bank of America (BAC)",
@@ -63,8 +65,9 @@
     },
     "WFC": {
       "label": "Wells Fargo (WFC)",
-      "price": 86.12,
-      "pct": -0.8862
+      "price": null,
+      "pct": null,
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     },
     "HSBC": {
       "label": "HSBC (HSBC)",
