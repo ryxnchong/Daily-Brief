@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "updated": 1789869957,
+  "updated": 1789871834,
   "tabs": {
     "global": [
       {
@@ -223,20 +223,6 @@
         "source": "Bloomberg Tech"
       },
       {
-        "title": "Trump to Name AI Czar While Rejecting Safety Risks as a Hoax - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONnpQSHVoTnh2Z2VyendUc2gzRHB2eGxIM3lDNHozZ25hM1Y4Tmx0azByeFRHdFpJbDZFN0t2QVRaSXhXamRXX0hZSnRORlJKeVMxOTRuMmVPdlNTNVlkc0dLY214WDhKaXB3SS1JLXJkclpwNV9uVkxycHMzU2t5V2xqTEZvVmZzOFQxUldnT1VmX1RlcUJzSjZhNmJjc3ozQkFkRGpLMmVZck9DbnN3cA?oc=5",
-        "pubDate": "Sat, 19 Sep 2026 18:02:53 GMT",
-        "snippet": "Trump to Name AI Czar While Rejecting Safety Risks as a Hoax&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg Tech"
-      },
-      {
-        "title": "India\u2019s New Chip Plan Draws $12 Billion in Investment Pledges - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT0Jrd2RFbDRoVE02blcxc0N6cmtNNGlyS1NFa3A2cng5XzZfWXFmVm5aWlBxU0V5a1VRZFZxbW1RV3pKNjVRNWtKTnpyNnJKYmhlYjM2b3JfQjFPVGVfaWM4UTMta2FjdXRKWkd0dFZodkVFOXlGYXcyRVlwbEZKM3pJN2poOE1nNDJFcHJXaHlwY0xwQkUyS1NXaUpfRGhPZEZaZFIzWmIwZ04wM2NmNQ?oc=5",
-        "pubDate": "Fri, 18 Sep 2026 02:33:00 GMT",
-        "snippet": "India\u2019s New Chip Plan Draws $12 Billion in Investment Pledges&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg Tech"
-      },
-      {
         "title": "Newsom Wants AI \u2018Kill Switch\u2019 to Rein In Tech Industry - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTQ3ejdRYU1ZWlcwbjQtV2o3Sm10R1l3WFpKdmpLMVMzb2h3QTAtY3ZYSlRveHpFYktaOVc4V0JzQlE2eVdkWTkzY010T3owcm53RmlNMW1tdGdXX25TUkdiY0NsVjdQdVFqWE96ajRmSm4ydmpZenY4YXM3QXEzY1hhLWxwT1FwOVpGSmItcG1NS2QwS2xKR1F2NWctMlJTUGl1UElIMTlwV0NJLTVj?oc=5",
         "pubDate": "Fri, 18 Sep 2026 18:32:54 GMT",
@@ -255,6 +241,20 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWTNNaGU0b0NYNWM4NVg1ZHhTdTBJaEJZQ0pRR1Bic2dvTmFhNXFPMHJzVHdfdElzQ2pSN042N01Sa1h1cGpVN3B2R0Y2VXgxYnlDRlZObWV0YWNKcEZLY1RmU2dPQUlxVGlIbGl0Y0tJT0VoTVlSdmR1VkpEbnJ5WHNTWWFsa1JPb201VlpVYWxTdUZQMk1zQzNoQ0tjNmNuWGZQbHlJTEwtTy1HRXdPN0Z3?oc=5",
         "pubDate": "Fri, 18 Sep 2026 15:02:00 GMT",
         "snippet": "Amazon in EU Crosshairs Over Suspected Price Curbs on Sellers&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg Tech"
+      },
+      {
+        "title": "Anthropic to Embed Accenture Evaluators to Test AI Safety - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVVtbUFaby1lZUlsVHdBeHcwVXhZcjFqel9PcF81MFlPOHY2YWFkcFMtclpRNWIxa1pfUmcxRTRReEM3SHI4cGV4ZGJ0MTJQYVQzRzk1enljNWdJNE9KMVIxMVBNSFdseUV6TTJ5MjRGVkp1U1NKbnktcjNzbENYYktYM1pOTi1zZDJtcGxCaVdQeFp5TTdyTHJLc1ctY2h1blZjcG1yTTRydEdRY0FKV05qQQ?oc=5",
+        "pubDate": "Fri, 18 Sep 2026 20:58:48 GMT",
+        "snippet": "Anthropic to Embed Accenture Evaluators to Test AI Safety&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg Tech"
+      },
+      {
+        "title": "China Opens Probes Into Four Online Travel Booking Platforms - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVG52U1lHUXZBaFhJdUpLVjljOWIyWEc1RFRxQi11dnpzUWZOdVFOaW1LN3Z2S3k0OWFtNHNjdklKcE5Lc1g1ZnFxanBXdUFuM2t1YmYtRmhJNXVYTzRYZ2pXVHF6RjdKbDlRcXNPQVBJa3RPVkxKSDU5TmRoQVh4cHM4X2RtZ0t1S3dNOTlPTzVpZGZvT2ZzUElmUkpMcTcwVXdRajlLb1ZBZTlyR3hQXw?oc=5",
+        "pubDate": "Sat, 19 Sep 2026 03:46:00 GMT",
+        "snippet": "China Opens Probes Into Four Online Travel Booking Platforms&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Tech"
       },
       {
@@ -279,6 +279,13 @@
         "source": "CNBC Tech"
       },
       {
+        "title": "Trump says he will appoint a new AI adviser, without providing details - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0JzTDFLNjd3ZEZPVjZQb1lCODZydlVBeVBKN2d3OGRudEk0c2xjbk1CbDloNFhrODIwQTJxTDdmTWRTU3dVaDc3VHFWTHpCT3JNN0RwdmRjUHBJUXdmc2VUSVNXeS1ObHNBUFRqTzF3amw3TGh1VDZhSGhXRnlTRnFEVW94VHJDcGg4cTNpSzd1MGRtZFA5X0Exd1p3RjgzZVVNdUJFOEJuQdIBrwFBVV95cUxQc1Y4Q1otQVNxcFlUTkt2RkJ2TExTLW5wcFlHSEx3ZDdEMFlDdmFDUE5mLWsxcTQ4SEtQRXJOUVMtTW5IT0NGMlJ4bXh1bFhLbjIza0RQdVhYYTAwNk9XOWh2dXJXVWtycnBsbmNTM1M1bkpXUVdfWHFrNFF4Q3Z5X1lWUHZMeGVjdHFnSnEyVC1BalNhNWxIS3JrdUxyRWVabnhQZnFlWmRnbTNIaVhj?oc=5",
+        "pubDate": "Sat, 19 Sep 2026 21:41:11 GMT",
+        "snippet": "Trump says he will appoint a new AI adviser, without providing details&nbsp;&nbsp;CNBC",
+        "source": "CNBC Tech"
+      },
+      {
         "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal - CNBC",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYMldnaER6UDBnQk16Y1ViUC1FbndnREdmZmZMZG9QeTlBTnJPN0QwMncyTUxSOTc5SVNQR21tZ3p1ZzVJYnl3N1Y3bVA5SElMVUdOLVdBdnRYRVZvVFVJUnF5SnhJZnpvSW9Vcm1EWmhqSXhH0gF6QVVfeXFMT3dmLVlOb2dWTFFFbVlNQndJRGNBQ1F2VWNlR1VLNHFlM3l4QUtDZ0hjMGhVVzVEQlpneEEwbC1ON0l1elB2ZTU2MkE0WmhTdXNJOVprNTV4eFZXS2F4QkhzemxtYlBvS05JOWdqUlVpTjYzMmU2azFBbHc?oc=5",
         "pubDate": "Fri, 18 Sep 2026 21:31:03 GMT",
@@ -293,52 +300,45 @@
         "source": "CNBC Tech"
       },
       {
-        "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObnh4czlpREt3SjNqZkhVb01vQVVJVTBiYlRhVlJ0Z0xiRnF4YnoyOU5YWXdDa05NS051aFFOS2E3ZmlxWDNpTHVoRjN2Mm5IYmVtQVM0ekpDT0UxR0Vjb0dLNHVWMnRlU1RhWlRxeWx2ZTNRYTFCTTNtLWdFMzJTRnFMc2VsQTZwV29iSkctZ3R2Smx4bnFkWjVWeUVNOVFCbHFtQtIBqgFBVV95cUxQVjZvU293cGh2VURVdGV6eUUyTlEwbWI3QzFESFFwajZHSnpuQktpaTZWSHU3ZFhsMWxFUmdrYVJmN0lOWnd4d1A5Qjd3eFkxWnk4ZkZQRVVhaF9WN3BtVzlETE12a0VuM0dYU1lSSW00UW1JNlNFMVc0VURJd18yMjZueDlrM2xmWlk1Qk1aSHp6SXRmS3dmTXJreWJRUVlfcExPUmZzLVIzZw?oc=5",
-        "pubDate": "Fri, 18 Sep 2026 13:23:58 GMT",
-        "snippet": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC&nbsp;&nbsp;CNBC",
-        "source": "CNBC Tech"
-      },
-      {
-        "title": "There are ways to protect yourself from your spying TV - The Verge",
+        "title": "There are ways to protect yourself from your spying TV - theverge.com",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QclRsOTktTVJJa3JWb1dOMUNHZVg5ZjNqUU56eTF6Z2RpQURxWkQ2djliOWYwNUh1RVR4VkZRTmJ2cVFEaVhBeDBVSVVPbmFQTDA3YWRsRE0tZVUwSlJfZGQzR3JYN3FuRW1BeDBURjA?oc=5",
         "pubDate": "Sat, 19 Sep 2026 13:00:00 GMT",
-        "snippet": "There are ways to protect yourself from your spying TV&nbsp;&nbsp;The Verge",
+        "snippet": "There are ways to protect yourself from your spying TV&nbsp;&nbsp;theverge.com",
         "source": "The Verge"
       },
       {
-        "title": "Gemini went rogue, hacked three companies, and Google hid it - The Verge",
+        "title": "Gemini went rogue, hacked three companies, and Google hid it - theverge.com",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcGpXTktURm1aS1ZPRmR2WjVjZlNhUlREcnU0dEVDRlFVckw0Y1g5OTVtZE5YMHVFRi1GSi1Dbmd6YWpDX2stbkQyeVJFcUJsbzJZVmFUREtFLTlBWWVjcUpoWS1RTG1iTGtFNldWWE1EN2tQTHJEUzkxWFBkQXVqX0hETlRTc1ZmMFpCcnpXOA?oc=5",
         "pubDate": "Sat, 19 Sep 2026 15:25:03 GMT",
-        "snippet": "Gemini went rogue, hacked three companies, and Google hid it&nbsp;&nbsp;The Verge",
+        "snippet": "Gemini went rogue, hacked three companies, and Google hid it&nbsp;&nbsp;theverge.com",
         "source": "The Verge"
       },
       {
-        "title": "Gavin Newsom is pushing for an AI kill switch - The Verge",
+        "title": "Gavin Newsom is pushing for an AI kill switch - theverge.com",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWVkdmlwMUNsZjZ5OUFOVnFINlgtbUFxQlpFQWFYbnB1QWEtbWJXRmdGcVZndnRCU0lfSklrOF8xR2FhS0VkTUp6SG1UZW04dDRLU2UxZ3FmN212cEMxWi03VDMwX2JtMTRvQm9mNVlaWEFaNmpQQTA0enBtaWFpN1ZfaUhjak0?oc=5",
         "pubDate": "Fri, 18 Sep 2026 17:04:51 GMT",
-        "snippet": "Gavin Newsom is pushing for an AI kill switch&nbsp;&nbsp;The Verge",
+        "snippet": "Gavin Newsom is pushing for an AI kill switch&nbsp;&nbsp;theverge.com",
         "source": "The Verge"
       },
       {
-        "title": "The AI Superintelligence Slowdown - The Verge",
+        "title": "The AI Superintelligence Slowdown - theverge.com",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS1ZFT3c1a0Jyb1YtbUxJQTdCemEzYmtIQVZkaDhVRl9BSjl1Mmw3Sjl3bFRnRzAwcXNVRkpDTk1KczI3REZ6TzV1ejdkV3VlSnphSzJVSDIwR0F0QlNqaDQzaE93N0UzRlc4MXptWUFlMTZDZm04WktqRUVxVFJVU0lFUVZXVFMzRmV3V2k4YW5ncjRZ?oc=5",
         "pubDate": "Sat, 19 Sep 2026 17:25:20 GMT",
-        "snippet": "The AI Superintelligence Slowdown&nbsp;&nbsp;The Verge",
+        "snippet": "The AI Superintelligence Slowdown&nbsp;&nbsp;theverge.com",
         "source": "The Verge"
       },
       {
-        "title": "OpenAI and Microsoft knew they were starting a \u2018doom loop\u2019 for the web - The Verge",
+        "title": "OpenAI and Microsoft knew they were starting a \u2018doom loop\u2019 for the web - theverge.com",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTEJxM29aQmFfZnVwMjE5QmFBTTJnZFp2dUhvV1Y1bFU4d1p6M1JfUWgweEVhd2tYZDNMRGVUNWlzU3pOcGR6Z2ZWWmJZWXdFc3hYXzFwMFRUUkt4RU92MEJTMFhzZlRCRmlfTHp1OXZXdVY5NHlVd0hBOWZ1dmJoRWRUMjNWcmhSLVpPU3phMl9OaHNoODQ4eVRZUTBCUnRqcy1OamRoZzN4eHJnQllUNmw0MFZaektLNjJxSWUyWklKWkNUUVluZA?oc=5",
         "pubDate": "Fri, 18 Sep 2026 21:07:24 GMT",
-        "snippet": "OpenAI and Microsoft knew they were starting a \u2018doom loop\u2019 for the web&nbsp;&nbsp;The Verge",
+        "snippet": "OpenAI and Microsoft knew they were starting a \u2018doom loop\u2019 for the web&nbsp;&nbsp;theverge.com",
         "source": "The Verge"
       },
       {
-        "title": "Security researchers used Claude to help them hack into OpenAI - The Verge",
+        "title": "Security researchers used Claude to help them hack into OpenAI - theverge.com",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX0E3SkFidDl4NTVoOG0tWmtNQm5KMkVzUFF6cE43U0tsbWFGdHFjVjZweS1oTl81LXhQSU83QU52UDF5a3lXYzlCZ0doS1h5UHBPWjUwaXdaeFZnMVloaDVSbkFUZ1AtaDBEOVlHdW52dExrTjVBU2VLZGNsWUc0RkhIbDNiUVExSUlOM1FoOUZVUQ?oc=5",
         "pubDate": "Fri, 18 Sep 2026 15:30:16 GMT",
-        "snippet": "Security researchers used Claude to help them hack into OpenAI&nbsp;&nbsp;The Verge",
+        "snippet": "Security researchers used Claude to help them hack into OpenAI&nbsp;&nbsp;theverge.com",
         "source": "The Verge"
       }
     ],
@@ -386,6 +386,13 @@
         "source": "Reuters Banks"
       },
       {
+        "title": "What Happened to the 1980s\u2019 Promise of Black Prosperity? - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWGRpdmU1X2REcGFYRk5tRHo3M0xzdkNEZU4tNkZMWTZBQk9WX0hwc09vYjJHUmVrTzd1QTlUaTVKU2pHZ3haQlZKQnZ1MnhOcTZXWDFvQmctaDNEWEhIZ1VSZmdvdmFuNkFudVJYMFd2MG45WWZoVWNaR1N3MGRPS3p0dndYdURNaXdFZmhlVWhCRnhlaE84Q3JudFM0bnhWbC05YmNjRDkyTG1ZRWJqc2pZeHI?oc=5",
+        "pubDate": "Fri, 18 Sep 2026 13:30:01 GMT",
+        "snippet": "What Happened to the 1980s\u2019 Promise of Black Prosperity?&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg Banks"
+      },
+      {
         "title": "Some of the Richest Americans Are Hiding in Plain Sight - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNelZHejFkU2V2dlpEa3lfb0EwMXdWVTUyTXJnM0MxRnZnRFFMRTVoQ3pfWDJhWkR6Tm9NTDJ6VUxGY3BuWkIwWlRXdE9KOV90UEJZZ3VMLWlaeGFWckZKcDRrQmpQU2JTeHJXbEJzMHhBOVlsbjN0UU9LeThQNjZHU24tVFlxcnQzSnZjOWt4WGIzVWJrd3N4bHBtZ0JuYmE4NmYxZXpGTlNzdTRzT2E0OERIbmVmNC1wd1RNQm1tS3BnZzlY?oc=5",
         "pubDate": "Fri, 18 Sep 2026 08:30:15 GMT",
@@ -418,13 +425,6 @@
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHVLQzBqZzVjallKbV9BMnFUR2NoT3R5MGQ4SHNTZzBsZnM2RFZ3SlJTbUFnRGpua1RQY2Z1bDFvSUZIT0pBV1Jpby12Y0NjcWxpbkFOd1pwYlAtc29LUnlsQkFOeVNiUWc5NlktamFPei1OZFFoNHlIdXVhZjlvVzZaVDh0cF82cFpmVVM2amcxS0xlREFibDZIR2dEMFZ6ZlJjbDhDQjdPZ1dfekVIWFFsYWFfN1REenNmVg?oc=5",
         "pubDate": "Fri, 18 Sep 2026 16:00:47 GMT",
         "snippet": "New York Developers Look North of Miami for New Florida Boom&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg Banks"
-      },
-      {
-        "title": "Air India CEO Weighs Folding Budget Unit Into Group to Cut Costs - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFcwR0RRdUwxdDZHcVZlVGxwTnZIdWhuSE9yaEhoRklsVDlpWlp3UWt2aXNvcW5FMjdER0k3c084RjZQWGtNcThZSS1MSVpKSXlBR1RmMi1xOFNaSV9QN0tOVFpacGRtVnJKZlc5WXdIaFF4Y1dDZDF4dGszV2tHU2RsaWhVWUpNZnJOMFhTT3J2MlBTcEl2V0hHYmFaazBCQ0lyVGNzXzhocWdnOHhYWkNvdTI0dw?oc=5",
-        "pubDate": "Fri, 18 Sep 2026 11:11:44 GMT",
-        "snippet": "Air India CEO Weighs Folding Budget Unit Into Group to Cut Costs&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Banks"
       },
       {
@@ -584,13 +584,6 @@
         "source": "Straits Times"
       },
       {
-        "title": "Costa Rica joins digital trade agreement founded by Singapore, New Zealand and Chile - The Straits Times",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVRyN2o4R2h3Z29kM3V6Mkt1OXBuTjB0ZHo0dnRzMDZiT2pBcWt1SHl1OUVUay1oRTM2S1dkMFpoTmZ2eUNVRUpwVlZ6NFNjOENOTFN3SDN5eXFHVEFLYVloOEo0blVtTDZlbG1TM3FTUUIwLWlJMUZSeTNXT3dTdUdkd3RXczFMdGJ1WHNQU25pVWZWT0tGTXBNRWk2QWQ5ZS1VbERhZ0g3V085U3JLYXlRQXlxY29ZX3c?oc=5",
-        "pubDate": "Thu, 17 Sep 2026 02:09:00 GMT",
-        "snippet": "Costa Rica joins digital trade agreement founded by Singapore, New Zealand and Chile&nbsp;&nbsp;The Straits Times",
-        "source": "Straits Times"
-      },
-      {
         "title": "Dyson\u2019s $699 toothbrush sees strong demand in Singapore, as users worldwide report device issues - The Straits Times",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXY0Qjk2ZFZvQVVMMjZHSHp5TDlDN21pbW5zdVcxbzRKRzVILVlVVFpSdFF0bmZ6MWFLNUJZeGNZamMySllkdVVzOGd6YUZzWWNvQWRwQm9RVXFmN014TWxERDZvX2g4OUpSeUZBdGFyOUhYY3lLWXVMLVZYUFFiOTRnUm5SMXhsd1Frak0zdXlFVEZBWHFzSWNKY2tUOVVTZjlpb1VwTEQ5VkNQX21uLTEtZlp6VkJoRDZtSE5PUU1lRXNaXzJKbVFob1I?oc=5",
         "pubDate": "Thu, 17 Sep 2026 10:20:00 GMT",
@@ -598,31 +591,17 @@
         "source": "Straits Times"
       },
       {
-        "title": "CNA938 Rewind - OCBC\u2019s change of guard: Helen Wong retires - CNA",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd3VPZ2NIYzFEN0hZWXhCaVI2Q1djdmpjbTEzS3BEZ3NXR1hYWjBXUDdLNHQzbnNSd01HUC1jZnZ1SWhPQUJ2c2NZT1M2NXZPNkRrTUJjSlY0NmJ2TFB6ejJDTVE5bXZPVzN6WGRuaUxoWG1SUzFaeEdSSzZ4cFlyN2hhQlpyZ293MDRZQUpDUHY0dWR3dklTTDE4OG9pNkVqWlNLTUZKRTBUN2dWeVRoN0dXWTQtdGF3ZUUxRWliQ0hHZjlCaVA2ZzA0XzQ?oc=5",
-        "pubDate": "Sat, 19 Sep 2026 17:22:23 GMT",
-        "snippet": "CNA938 Rewind - OCBC\u2019s change of guard: Helen Wong retires&nbsp;&nbsp;CNA",
-        "source": "CNA"
+        "title": "Why did the Federal Reserve raise interest rates and how does it affect me? - The Straits Times",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNzN3YUQwd1RHN0hnaTBzTm5VUG05aHVnQWlKX1VIZDl5cm1obzFjM2hYeHhRNXRTbkxGa0dOek5LX3U4dnplWnBIYlEtT20tU0Ytb3pjX1FXTm9qUWZvZWhzaFBuTElyVEpKUFdBckU0dDlOdDdEUEx5M25xVzg4LTd6a3JrWml0TklBU3ZmSGJQZ2V6b05JZC13S2xwMTlCRHNnaFlJVHJXMTk4X1VnSlBibjF3ellkYTZtOVh3dDZwNlRHWDlWVTRR?oc=5",
+        "pubDate": "Thu, 17 Sep 2026 12:50:00 GMT",
+        "snippet": "Why did the Federal Reserve raise interest rates and how does it affect me?&nbsp;&nbsp;The Straits Times",
+        "source": "Straits Times"
       },
       {
         "title": "CNA Explains: Why is the Fed raising interest rates again - and what does it mean for Asia? - CNA",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObGhEZjA1Q0NOc09STmNLU2RWMmlfS0FpU0ZWNzFTVFJUNnZ6YmM5allXRF9nRFd6UVJNNDRCUDI5Sk1HQ1BRTldzTV8wdmJfZGtUeFNlOEhMTWVob0dqekhtdVFYTE5tUHpVSXhBTlFvQ1NUQ2ZCYnNnaFZGdkRvaDdIc1F6eVJEbENSaVQwLTFrNjZpRW10ZGdPbXBVRnoydkc3am1n?oc=5",
         "pubDate": "Thu, 17 Sep 2026 06:01:00 GMT",
         "snippet": "CNA Explains: Why is the Fed raising interest rates again - and what does it mean for Asia?&nbsp;&nbsp;CNA",
-        "source": "CNA"
-      },
-      {
-        "title": "CNA938 Rewind - Eat, Drink, Singapore - MO BAR, Singapore launches its signature gin - CNA",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNY2RKRllfaFEydE5vbFJsSmdXY3RZQ29nRkNHSmo1dDNQaFJHVzdCUUtoWTlVUmtZaHl6STlDbTZSQ1NBSncwNDNFT3JINEtSbGtFcldHa3RmOFRGSUtULXlMV05xZlNzNmZBYzYtNjNaRXE1cjZLTjFrbEtxalF2ZXlOMzlGZG4waUFhVDRjUUNvSEZoVl8yUnlOWFB2Z0dvYWp5M1dqQWw5Y1ZoWTBPMkVfRU5hX1BWZm1Qby1GR1ROcTFPZzg2T1R5SjFmejl0ZUF1REZmQkJxMGJQa01LY0ZUTkJpT1VWcll6WkFVcw?oc=5",
-        "pubDate": "Sat, 19 Sep 2026 20:23:28 GMT",
-        "snippet": "CNA938 Rewind - Eat, Drink, Singapore - MO BAR, Singapore launches its signature gin&nbsp;&nbsp;CNA",
-        "source": "CNA"
-      },
-      {
-        "title": "CNA938 Rewind - Israel, Hamas agree on first phase of Gaza deal: Will it hold amid scant details? - CNA",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcm5fekxDUV9vdDhKRERpNVFhMlFGMmJ1RUJKdU5nYzlRUmdLLThrYkgtRlZZTHA5NE1KNXU2V0UyNWQ3bEhNQ2djanR3dk9aOG5ycDNlcnU3SmI4TjJWRENGS1lyS2FZTU1CQjJrRnoxbHp2MEdWQVdjcmhnaU1UeVVMamFCT2tKeW5OYzhyTkZtNDFoY0pXY1g5YWc4djhHVU14OUhNcFZabDRNRTZpenpnTmcwSE55VlgtSi1mdHZrSHJRZGxtQnJQR09SVkxqU0VOczNWMzN2c1h2NGJvNWtpM2dtNndMS1ZSNWhZYVY2WW03U3JzRW9ndw?oc=5",
-        "pubDate": "Sat, 19 Sep 2026 11:23:27 GMT",
-        "snippet": "CNA938 Rewind - Israel, Hamas agree on first phase of Gaza deal: Will it hold amid scant details?&nbsp;&nbsp;CNA",
         "source": "CNA"
       },
       {
@@ -634,9 +613,30 @@
       },
       {
         "title": "All Podcasts - CNA",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbDRweVJPQ3R4YVdMS0RnNXBIRjdXWXQxaUNMbk5HbkpXRzlXWTJXZ09XYWdzd004VGF0NHBaNDhBb284R1ZWeXF1ZFJLVDZCV1dLblJ3cUxEMzVqVUVLQ2ZrOExEdXo4cVlWSl9aREV4SDVsOTVsU0RoRUNoRTBkWlMyT2YtZzItMGhBUjhtTFJEXzZwU24wM0RTT09jRl95Y0RNM2pRaDhCUHlPVVJsVl9NQmR6S2ZsWE9yS002SWpfV1dG?oc=5",
-        "pubDate": "Fri, 18 Sep 2026 06:20:52 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGVPWC1oQjRJcjE2TW9IbG14REhZMGdfeTJoZ0xrNXpWajdqSlpmMWdDQjZlZkhGU1R4dWNpU1FqS1dzeWY1T2dhdHlWUlNDd204X09LeWU5eC0wdkhISEViNURlZTd3d0pHaGU2dFF3bTROMzEzb2F2OEpLU3VOSkRlNW9xdktGN0lubEJITXNScjRsRHZZdDR5bl9UdWhZejBvM2VjY3RNcTZCQ1FORkFRR0FRSUdC?oc=5",
+        "pubDate": "Thu, 17 Sep 2026 20:22:28 GMT",
         "snippet": "All Podcasts&nbsp;&nbsp;CNA",
+        "source": "CNA"
+      },
+      {
+        "title": "Commentary: Asia has to prepare before climate disasters, not just cope after they strike - CNA",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObW5CZllmZmE3a2RDdHlQaHdsXzJxTmVhQlBqMHVnYXJtRldhX1pQaExaYWpWNHdHZ0JLM3FlLXFibjJNRXgxTWJ3bzZWa3J1Q2R2UEVHa1RWOFlORXFCTWp2RUMzQVF0TzBETFJHY2R1UkhYamVhTWdDa0N4UUtjTkV3aWJ6ZGV5ZzVFOW9uLVFEb0tIbW9OZEVtcTVjMmI4bWc?oc=5",
+        "pubDate": "Thu, 17 Sep 2026 21:59:00 GMT",
+        "snippet": "Commentary: Asia has to prepare before climate disasters, not just cope after they strike&nbsp;&nbsp;CNA",
+        "source": "CNA"
+      },
+      {
+        "title": "CNA938 Rewind - Mind Your Money - How to spot a government impersonation deepfake - CNA",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYmtPWlYtZFU1VmZWYkh4ak1rc3Vsd0dPcWFNakRrbjlRalhiZVlOQU5QSlZtbS1uOXJ2dXFxMDJWT1hxZ2dJT21ESTRmaElnODh1ZDJEdTFFUnhKQmdlcHloREJsSkE3LXM3bHl4aE82OWQ1S2xVYmp6ZTk3TDU0ZEVWVVV5V0tyaFhSRkQybllaNzVvMEY0UF9RbGFRWmtnOWVVMFNoZXdub0hFaDJPVFJ3enZGV0w2X2kzeW5HbWExZ3JxWEdMSDRZMDB4UkRlbGstdDd5RlVHZ0xWV21UUGxOeDZ6LXRq?oc=5",
+        "pubDate": "Sat, 19 Sep 2026 01:32:34 GMT",
+        "snippet": "CNA938 Rewind - Mind Your Money - How to spot a government impersonation deepfake&nbsp;&nbsp;CNA",
+        "source": "CNA"
+      },
+      {
+        "title": "Thai monetary policy 'very, very accommodative', no change to growth outlook, central bank official says - CNA",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcDJQNVpfRm4zZEhnbDNza1Q2X2N2ckF1eXNuU2NuTUFBTDRxcEtVSXlHZklmSmtWUG1XSlFCeTBFRW1pTVFpeHlIMWxTUU9RUUNmcG5xNzh1TllGU2VKUEJrc3Vkc1dCdkR1aE9RTjNkTWpncjJsbmFlbjhsQzhMdDhCRDFoWUVlLXBqeTZOWG5FODRwUzZ0bUpORVh1YnZUdjBEMkpOVXFmdGdTU1ZIamZjRDc1QUlxVEdnWlQzRE9DUXM1ZjRwUzkwZFVrSWpXTklQaDZWNFNkdnRsYkE?oc=5",
+        "pubDate": "Thu, 17 Sep 2026 10:22:43 GMT",
+        "snippet": "Thai monetary policy 'very, very accommodative', no change to growth outlook, central bank official says&nbsp;&nbsp;CNA",
         "source": "CNA"
       },
       {
