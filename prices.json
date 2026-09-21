@@ -1,5 +1,5 @@
 {
-  "updated": 1790021143,
+  "updated": 1790022953,
   "quotes": {
     "SPY": {
       "label": "S&P 500 (SPY)",
@@ -8,8 +8,8 @@
     },
     "QQQ": {
       "label": "Nasdaq (QQQ)",
-      "price": 741.32,
-      "pct": 2.7542
+      "price": 741.47,
+      "pct": 2.775
     },
     "DIA": {
       "label": "Dow Jones (DIA)",
