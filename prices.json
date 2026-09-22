@@ -1,5 +1,5 @@
 {
-  "updated": 1790107520,
+  "updated": 1790109428,
   "quotes": {
     "SPY": {
       "label": "S&P 500 (SPY)",
@@ -13,8 +13,8 @@
     },
     "DIA": {
       "label": "Dow Jones (DIA)",
-      "price": 517.98,
-      "pct": -0.3463
+      "price": 518,
+      "pct": -0.3425
     },
     "AAPL": {
       "label": "Apple (AAPL)",
@@ -28,8 +28,8 @@
     },
     "GOOGL": {
       "label": "Alphabet (GOOGL)",
-      "price": 351.231,
-      "pct": -1.0533
+      "price": 351.16,
+      "pct": -1.0733
     },
     "NVDA": {
       "label": "Nvidia (NVDA)",
@@ -48,8 +48,8 @@
     },
     "MS": {
       "label": "Morgan Stanley (MS)",
-      "price": 200.22,
-      "pct": -2.8624
+      "price": 200.18,
+      "pct": -2.8818
     },
     "BAC": {
       "label": "Bank of America (BAC)",
