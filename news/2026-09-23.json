@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "updated": 1790177967,
+  "updated": 1790179574,
   "tabs": {
     "global": [
       {
@@ -132,8 +132,15 @@
       {
         "title": "The battle between the Fed and Trump - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUNLdHRQTUpsQTdOZEN1WTRteHNWZ0g3Q09GcmNOMEp5aG1Nb3NwYkNPaHlzRGV4a0pEa2V3cUp1ZFEzdXdzc3RyalhHTUdiN09ORnVoOUhpUWhaOENzNzhMTUtjdURaOTFIUm1fWjB1WnlldnVxbnpKNGtOWDBLd2dscks?oc=5",
-        "pubDate": "Wed, 23 Sep 2026 09:46:10 GMT",
+        "pubDate": "Wed, 23 Sep 2026 04:00:29 GMT",
         "snippet": "The battle between the Fed and Trump&nbsp;&nbsp;Financial Times",
+        "source": "FT"
+      },
+      {
+        "title": "Pick a stock, just not any stock - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3VkxJTkpTX1ZGYlVhamtJcS1qTVNPZ0JOYWl4N2xFLV9XZURiVDJ5M3BlNEJud1Z3N1V1dHNib2g5MGNycHlJY1EwRWNPUFNPdnk1OUhNSkVoMG1rSnFMTFJHRE1VOXBBbW1OLVRrQlI?oc=5",
+        "pubDate": "Tue, 22 Sep 2026 12:08:58 GMT",
+        "snippet": "Pick a stock, just not any stock&nbsp;&nbsp;Financial Times",
         "source": "FT"
       },
       {
@@ -163,13 +170,6 @@
         "pubDate": "Tue, 22 Sep 2026 04:58:12 GMT",
         "snippet": "China\u2019s share of global container exports soars to 40%&nbsp;&nbsp;Financial Times",
         "source": "FT"
-      },
-      {
-        "title": "Oil tanker costs hit record $1.2mn a day as Iran war disrupts shipping - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQblBGUC11R2xqZnlQZklfcW1DUFV6VlNQRnFmVWt5QnZ1WjdXUVBhVzBRd2YxejJoSEk3eVhzVnE0WTZSOW1Edi1mNHlXQmt0RnpoNC1xSHo3eUp3bDhvTWtBVXlHdDZodVN6czBrRVd5VFhMVFpFSF9TNU14ZDdjZThZaFo?oc=5",
-        "pubDate": "Wed, 23 Sep 2026 04:00:29 GMT",
-        "snippet": "Oil tanker costs hit record $1.2mn a day as Iran war disrupts shipping&nbsp;&nbsp;Financial Times",
-        "source": "FT"
       }
     ],
     "tech": [
@@ -181,16 +181,9 @@
         "source": "Reuters Tech"
       },
       {
-        "title": "Amazon rolls out new agentic AI for third-party sellers - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNno1MXBaZ3JtY05ZWHpfU2RsV0JuU3Zlb3hlN2RiaExrSHdEbE5wNGZjZUhINUNJQkdBR0pTM0xQUFhHZjdMdmEwSGtOcDRVcjJ1dFJNU1ZqMWlzbFpDZFhUVTlGaDFpTENaRjhKSDk0YWFiX05VOUZNbVVqRGhSemt6MHpabV8xbHNHSkZwbGRWVy1XdFdGZlVUVS1iMEJCNUNkd2stYUU2TnZ6Ny1LSXZB?oc=5",
-        "pubDate": "Wed, 23 Sep 2026 13:03:43 GMT",
-        "snippet": "Amazon rolls out new agentic AI for third-party sellers&nbsp;&nbsp;Reuters",
-        "source": "Reuters Tech"
-      },
-      {
         "title": "Verizon to invest $70 million in AI training effort - Reuters",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbTBjNFp0WEJlQTNmMVR2eEJWd2RhMVpJak1ybXNLWVlWTVhZU19VQVJpb3lMaWFET2N6djc3U2cxdDdacFprVDhrWHJ6T0pNb1RJOUdxc0cwUHhqdHA4RGE5dHpTaGRyVVBwbTh6RkpzLXZuajlfX094OUdZQ21JZTBJUUZQUHFqQUVvU0ZRQTI5UWUtLVcySzFLMHJoNlUzVzB3YWZn?oc=5",
-        "pubDate": "Wed, 23 Sep 2026 12:03:22 GMT",
+        "pubDate": "Wed, 23 Sep 2026 14:26:36 GMT",
         "snippet": "Verizon to invest $70 million in AI training effort&nbsp;&nbsp;Reuters",
         "source": "Reuters Tech"
       },
@@ -202,25 +195,25 @@
         "source": "Reuters Tech"
       },
       {
+        "title": "Amazon rolls out new agentic AI for third-party sellers - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNno1MXBaZ3JtY05ZWHpfU2RsV0JuU3Zlb3hlN2RiaExrSHdEbE5wNGZjZUhINUNJQkdBR0pTM0xQUFhHZjdMdmEwSGtOcDRVcjJ1dFJNU1ZqMWlzbFpDZFhUVTlGaDFpTENaRjhKSDk0YWFiX05VOUZNbVVqRGhSemt6MHpabV8xbHNHSkZwbGRWVy1XdFdGZlVUVS1iMEJCNUNkd2stYUU2TnZ6Ny1LSXZB?oc=5",
+        "pubDate": "Wed, 23 Sep 2026 13:03:43 GMT",
+        "snippet": "Amazon rolls out new agentic AI for third-party sellers&nbsp;&nbsp;Reuters",
+        "source": "Reuters Tech"
+      },
+      {
+        "title": "AI is changing how Americans choose snacks, says Conagra - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZzdET25wSmdMWG0wWnhfWmtNZ0NtY2ZLMGxaT1FkLURxVnc4NEd4WG9yUFVrQzlYMTAxU0NhZW5TSHUyTVd5SWdnS2Y2VXlnZG44RGt5U0NWR3hXMmtsQURZOFhlclM4ZmZJN0pVeFlRcUFiclNRN2dFS3FPRkZMM1dkd2VRRk8tT1JRZmZkMW5jajB4cHNzTFN0RXBVakdqZEU5bFFGbHU3TURqX1E1empSNWZYRm8?oc=5",
+        "pubDate": "Wed, 23 Sep 2026 11:45:54 GMT",
+        "snippet": "AI is changing how Americans choose snacks, says Conagra&nbsp;&nbsp;Reuters",
+        "source": "Reuters Tech"
+      },
+      {
         "title": "Google faces UK push to put AI assistants on Android, Chrome choice screens - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcWZJZElTNTJobDdXcWk2T241R0JyNWNPalMzRUQtQjhVLUtCRllKMno3MWNEMkRnMHctdnhWVDU4SHM3b0hTaUcwUkl2MThZZWRjb0pLRzN0c2ZEb19TNmg0ZUVDLUhMS3dpS3E3c1ZzNS1JUXZ1dHIxYkVKSmlxQmo5M2NaRnBQRnNuS29vWTBrTFNPeXE0bVl6RjEyd28zZktKdG9rbmlhSm1rQXlOWWlmRE9HV1J4?oc=5",
         "pubDate": "Wed, 23 Sep 2026 10:15:53 GMT",
         "snippet": "Google faces UK push to put AI assistants on Android, Chrome choice screens&nbsp;&nbsp;Reuters",
         "source": "Reuters Tech"
-      },
-      {
-        "title": "OECD expects AI boom to help offset Middle East energy shock for now - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUjhCamFjUEdaSHhrSGlUR3hEaHhoczQtY0d1Q19lNWhsTUdtX0Rxb2FkbjdUSDlmOVlZZ19rdjZ2NDFrT3YyYmt6WG1WdEYtUVBjaWxuVTR1Sk1KYjJxVEppbjZtQ0hfVVpLM1UtV3pqTHJMWkR5ekNLMUczR18tekM4NXJrdHFYOXBCUTdOdjlLVTdjVDZkSThPSm84UXVDMWFLVWZ1OU1oRWRhUGc?oc=5",
-        "pubDate": "Wed, 23 Sep 2026 08:05:32 GMT",
-        "snippet": "OECD expects AI boom to help offset Middle East energy shock for now&nbsp;&nbsp;Reuters",
-        "source": "Reuters Tech"
-      },
-      {
-        "title": "Data-Center Bet Makes ESDS One of India\u2019s Best New Listings - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQmlId3VWajE4cTd2Vl8yb2tWMGtwTXRDa3RqOTVGNzE3blRZWTEzWnotZVBUVE4yak1DbWlDOEtWamY0T053dnJkQlU2ZFhKOEdWenhzNy1jd1RacWZGNU5DWlBkSEc2aHV0ZXRqVXJ5cVBkdUZIOHFLRDJNRVJaMGhuNEN5eGxGQzZZV2ctMEZUWHZDdkI5VVU4TFJEaG45bU9DUEFVVnNFLWdaUUhv?oc=5",
-        "pubDate": "Wed, 23 Sep 2026 02:00:00 GMT",
-        "snippet": "Data-Center Bet Makes ESDS One of India\u2019s Best New Listings&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg Tech"
       },
       {
         "title": "BC Sues OpenAI Alleging Failure to Warn Before Shooting - Bloomberg.com",
@@ -234,6 +227,13 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0VyMUVUXzRtenVFYzdKVDFKRktKWW1fYW4tSktzdmttY3h0TUZYcGQwd2d4RldmbHg0bUwxQXBlVG5YWTVfUmYwYi1jS0pDLUhNWTFMR2h3VHJnUmxqQjF6QlRzaXpVMjJIaE5VQ2g4Wk1lWXRYY2EyemxDaFRxcTAtLVdTYXBwbHgtTGh5bFl0WlQ4d3lDTGdqVTZwbVlZbXl3ZHlmdXBuMEY3VVBvRExhUDltZw?oc=5",
         "pubDate": "Tue, 22 Sep 2026 23:19:02 GMT",
         "snippet": "SB Energy Plans to Start IPO Marketing After SEC Review Finished&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg Tech"
+      },
+      {
+        "title": "Data-Center Bet Makes ESDS One of India\u2019s Best New Listings - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQmlId3VWajE4cTd2Vl8yb2tWMGtwTXRDa3RqOTVGNzE3blRZWTEzWnotZVBUVE4yak1DbWlDOEtWamY0T053dnJkQlU2ZFhKOEdWenhzNy1jd1RacWZGNU5DWlBkSEc2aHV0ZXRqVXJ5cVBkdUZIOHFLRDJNRVJaMGhuNEN5eGxGQzZZV2ctMEZUWHZDdkI5VVU4TFJEaG45bU9DUEFVVnNFLWdaUUhv?oc=5",
+        "pubDate": "Wed, 23 Sep 2026 02:00:00 GMT",
+        "snippet": "Data-Center Bet Makes ESDS One of India\u2019s Best New Listings&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Tech"
       },
       {
@@ -314,13 +314,6 @@
         "source": "The Verge"
       },
       {
-        "title": "OpenAI wants to consult elite mathematicians about how to not fumble again - The Verge",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWFd2bjVXZGlMRVdRR1J6OUlqcmtPM3dELXhRT29zeHFvVUY3cjJBNTdVWnRRZWJ3aGpXRVNRcVZySlFWYVFnX0FrVGhZQmZtcDh0YTBtNGRKaDByMVJxZE4tdzJDSElBRDF3T2swTkp0ZFRsc0J3bVQxQkpuNFJTVlB0dTlSdExOM1RZMEZ0Yk50QlNIcGhB?oc=5",
-        "pubDate": "Wed, 23 Sep 2026 00:17:00 GMT",
-        "snippet": "OpenAI wants to consult elite mathematicians about how to not fumble again&nbsp;&nbsp;The Verge",
-        "source": "The Verge"
-      },
-      {
         "title": "Nvidia\u2019s new driver is ready for Control Resonant and E-Day. - The Verge",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ0o4a1hMaEhVaUk2aWZPb3FQd0JLRHdRRGk0a3ZWUEdlTEhHckhBVGt5cG9aM2I3OWgwakpDZnB6X0pNYUpLWHc3ZzNZMHd1TEdHUE1vVFFMc1h3Rk9jMFhQTEtJUkU3UjlqeG5DTmZBVkVuenB4TVdzVnR5cHhiRkx0WXhNVUNWYzZGdTIydU5iU09pbjhuVldyNkxFQjQtVkduZFBNcTZxdw?oc=5",
         "pubDate": "Tue, 22 Sep 2026 13:00:00 GMT",
@@ -335,6 +328,13 @@
         "source": "The Verge"
       },
       {
+        "title": "OpenAI wants to consult elite mathematicians about how to not fumble again - The Verge",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWFd2bjVXZGlMRVdRR1J6OUlqcmtPM3dELXhRT29zeHFvVUY3cjJBNTdVWnRRZWJ3aGpXRVNRcVZySlFWYVFnX0FrVGhZQmZtcDh0YTBtNGRKaDByMVJxZE4tdzJDSElBRDF3T2swTkp0ZFRsc0J3bVQxQkpuNFJTVlB0dTlSdExOM1RZMEZ0Yk50QlNIcGhB?oc=5",
+        "pubDate": "Wed, 23 Sep 2026 00:17:17 GMT",
+        "snippet": "OpenAI wants to consult elite mathematicians about how to not fumble again&nbsp;&nbsp;The Verge",
+        "source": "The Verge"
+      },
+      {
         "title": "OpenAI launches faster and more efficient GPT-6 Sol and Luna models. - The Verge",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ0FsM3N5SjNhM05mRUpVYndIYldocFpxNGxlZUI0WTNDdFoxNS01WXRHeWdzQ0dFQzY1SWRRT0l4VGhSZTlXOXdOanVGaV9ZYXNHc2hRWjZ1UVdFN1Ntbk1NUlBpay1fNUYzMjhTd21EekdyMVZObXRWRWx4ekIyZzVUUkhfMG5LRlltalhZazhWeVJoVW5iekM5REJ0cWw5UGdsb1N4Ul85YldNUUVmZVBhV1RVRTJDYXhoMloxd2tCNENj?oc=5",
         "pubDate": "Tue, 22 Sep 2026 19:13:45 GMT",
@@ -344,10 +344,10 @@
     ],
     "banks": [
       {
-        "title": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDlYaXB6UFVtWndZUGJsNy1FQzRrM203TUc1RDA0VTZ5Y0FaZ0JHVnV0dzVKMHJkSGowOUFYVUs5N1Y2QWJibzhJZEJpbk8xUmxja1o2ME9tY0hfZjRCOGFGWjVVcmVza2F2VGdvNzJjRnVlY2tzeTdIWWUxREVrNkJYRWRPazhzcG00b0NNYzJDRjlQRmhFV3JlQWNZS2lJWFZfeV9VMmdrdmJiZ0xWNlVkblM2Qk0?oc=5",
-        "pubDate": "Tue, 22 Sep 2026 15:20:52 GMT",
-        "snippet": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks&nbsp;&nbsp;Reuters",
+        "title": "UBS dealt blow as Swiss upper house backs tougher 90% capital plan - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSTFXYUd1X3B5Rnp4bkVwcmtZUjBTNEp6amtJNXVyRXBka3drbFJBR2E2S2g1Uko0cUpWa1VmRzVTczhQMS1tY2lSdzM1Wm5TSzM2ckpTWkllcF9RaXJ5UElUemVGWVoxVW5PR0hXd09DVHQxZi1DU2hOU21jNDgycU9mNzg4eW5JNlJSdXVVclI0aHdOWVd3d1h4ZUFUOFNQNUVRRDZmeEdVWHJGLVJHZ2pjME9uc2xxN1E?oc=5",
+        "pubDate": "Wed, 23 Sep 2026 11:58:12 GMT",
+        "snippet": "UBS dealt blow as Swiss upper house backs tougher 90% capital plan&nbsp;&nbsp;Reuters",
         "source": "Reuters Banks"
       },
       {
@@ -358,10 +358,17 @@
         "source": "Reuters Banks"
       },
       {
-        "title": "UBS dealt blow as Swiss upper house backs tougher 90% capital plan - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSTFXYUd1X3B5Rnp4bkVwcmtZUjBTNEp6amtJNXVyRXBka3drbFJBR2E2S2g1Uko0cUpWa1VmRzVTczhQMS1tY2lSdzM1Wm5TSzM2ckpTWkllcF9RaXJ5UElUemVGWVoxVW5PR0hXd09DVHQxZi1DU2hOU21jNDgycU9mNzg4eW5JNlJSdXVVclI0aHdOWVd3d1h4ZUFUOFNQNUVRRDZmeEdVWHJGLVJHZ2pjME9uc2xxN1E?oc=5",
-        "pubDate": "Wed, 23 Sep 2026 11:58:12 GMT",
-        "snippet": "UBS dealt blow as Swiss upper house backs tougher 90% capital plan&nbsp;&nbsp;Reuters",
+        "title": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDlYaXB6UFVtWndZUGJsNy1FQzRrM203TUc1RDA0VTZ5Y0FaZ0JHVnV0dzVKMHJkSGowOUFYVUs5N1Y2QWJibzhJZEJpbk8xUmxja1o2ME9tY0hfZjRCOGFGWjVVcmVza2F2VGdvNzJjRnVlY2tzeTdIWWUxREVrNkJYRWRPazhzcG00b0NNYzJDRjlQRmhFV3JlQWNZS2lJWFZfeV9VMmdrdmJiZ0xWNlVkblM2Qk0?oc=5",
+        "pubDate": "Tue, 22 Sep 2026 15:20:52 GMT",
+        "snippet": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks&nbsp;&nbsp;Reuters",
+        "source": "Reuters Banks"
+      },
+      {
+        "title": "Deutsche Bank Q3 investment bank revenue likely flat to slightly down, CFO says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMlhwUEhJOTA5ZkNmN01HdFQtVml3SU84WEpRMmlQc21UNUhaQmhFdi1mS3JsS1JGTldhNVdVMUR6SktpTmZILUVaNUtveGJlQUFIVzdqMl9pR0ZVT1A4SktTdHppNmhKYzNGaFdxamlVeFg4RjB6MGNHVENfNi1GXzROZEhId2NWVUQ3M1VaaFhXV3pxNUc0N1d4Y05Sc3ZoWjR6US12M091bk40Ui0xQVlPU0R3bTduTjl0dElhSXdKR3h4U2JR?oc=5",
+        "pubDate": "Wed, 23 Sep 2026 07:25:43 GMT",
+        "snippet": "Deutsche Bank Q3 investment bank revenue likely flat to slightly down, CFO says&nbsp;&nbsp;Reuters",
         "source": "Reuters Banks"
       },
       {
@@ -376,13 +383,6 @@
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEhRT0NHV1hIcElfc0ZNTkd6MmFBb0I1bFZaaGsyTXNfbUF3c2JsZ0gtbnJiS1BNVmF6ZGdmeDhjeG9HeFp6TmRmcUo4c1NPYVNORXR5T0FjengySmhmbndCODZmUVJlWWx4dHU3SE5odjc1cDFXamRuT1FCX1hSTHBkZHdoSXFNcEcyYy1rYWJzcUVhT3dmSkdJcXFmVjNUSXNNcnJYTjlGZVlSa3Zr?oc=5",
         "pubDate": "Mon, 21 Sep 2026 16:11:51 GMT",
         "snippet": "Bank of Canada says new US tariffs could slash fourth quarter growth&nbsp;&nbsp;Reuters",
-        "source": "Reuters Banks"
-      },
-      {
-        "title": "Deutsche Bank Q3 investment bank revenue likely flat to slightly down, CFO says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMlhwUEhJOTA5ZkNmN01HdFQtVml3SU84WEpRMmlQc21UNUhaQmhFdi1mS3JsS1JGTldhNVdVMUR6SktpTmZILUVaNUtveGJlQUFIVzdqMl9pR0ZVT1A4SktTdHppNmhKYzNGaFdxamlVeFg4RjB6MGNHVENfNi1GXzROZEhId2NWVUQ3M1VaaFhXV3pxNUc0N1d4Y05Sc3ZoWjR6US12M091bk40Ui0xQVlPU0R3bTduTjl0dElhSXdKR3h4U2JR?oc=5",
-        "pubDate": "Wed, 23 Sep 2026 07:25:43 GMT",
-        "snippet": "Deutsche Bank Q3 investment bank revenue likely flat to slightly down, CFO says&nbsp;&nbsp;Reuters",
         "source": "Reuters Banks"
       },
       {
@@ -407,13 +407,6 @@
         "source": "Bloomberg Banks"
       },
       {
-        "title": "JPMorgan Plans to Double India Finance Hub Business in Two Years - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd1RzWGdSS2JNcnNzV3JzNm1rcEltTWtOdlM3ZXZYNkZVWGxVME1wUlBMeGhrN09NQ1lxS1lPUGZBZGhOSmczeXJrVVFXSFpERW5WYjlJZDhmaW5teUlPeXVCWHFodW1LU2t3WXctV0h3N1JiZnpDdlpCVXZXUFNXRlhNUWN3M2hVVDdzY1dtejdCUkJkWlIyTmtFY3JPV3hYeENxbUxaSVltTHgxeEFDTXBMaEx1QQ?oc=5",
-        "pubDate": "Tue, 22 Sep 2026 13:42:26 GMT",
-        "snippet": "JPMorgan Plans to Double India Finance Hub Business in Two Years&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg Banks"
-      },
-      {
         "title": "NSE Pays 20 Banks 1.86 Billion Rupees in Fees for India IPO - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHMwdDVFVVhibU1HUjNCWFM0SFZMM25DQndTTjBxQXdTV3ZsclExTEpEOEJXUjRGRkQyM0YxQjVTUjQ0WlZwNEgzbzRoZm1ab1kwLUE0SWlvOHlCVnBOcVdLTVJqOHFkWjE1Rkx0dUN0emlNUXN6dTBtanJVOE4tUGt3ZHdSRGFGY250a3o4ZlA5MGVxbXkzQmRZZjIwTV9WSlNZUDZFaHFQX25QdVJN?oc=5",
         "pubDate": "Tue, 22 Sep 2026 09:13:59 GMT",
@@ -425,6 +418,13 @@
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMkxIZlJ0QkNDYkpjemQ1cjJlaTVOdGRnb1gtU3k1Sm5wVU8wQTVhdlhfaDdNUnNQdFpVU3JzajNBYmkxY2ZoV012akRrd0pxMWozYU5FUEcwWmJ6c3NlUGdhNVptR25QcmFHdVRlbUxwM1pfVDF0M2NzSmhlR3VMX1d3RVQ1VV9LREJzR2hVdUFvbnBwLW9EdjVyaWpJSUdNQ0VyLVNzNXNUS2pWZklYQVh1SkM4U3M5QWJIWmpwdEUtUnRLM2c?oc=5",
         "pubDate": "Tue, 22 Sep 2026 14:27:47 GMT",
         "snippet": "Netflix Gets Second Downgrade in a Week on Engagement Concerns&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg Banks"
+      },
+      {
+        "title": "Bitcoin Jumps to Over $84,800 After ETF Flows Turn Positive - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLXd3ZThtR3N0aHpmdFh6QmdXS0ZJSG1ORHJFQXFocFd5bG9uX2dUbmJTQ0ItMExxNThVZHdxa1Etekd0V0hmd1B6LTNVbEVzbTQ5R25oWm5ZeklleGdGeGdpemxLdFBTb2MzRHFQUFAtQmdYZk5CYkgzSG1BSllacnZCN05wc18tbDk1aVZqOFgzWmlPbERGNzZmOWtGanh1alVJel9ZZldxQ0RIV2dtMQ?oc=5",
+        "pubDate": "Mon, 21 Sep 2026 20:28:52 GMT",
+        "snippet": "Bitcoin Jumps to Over $84,800 After ETF Flows Turn Positive&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Banks"
       },
       {
@@ -479,21 +479,28 @@
       {
         "title": "Rivals Revolut and Nubank go head to head in bid to crack US banking market - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ0ttSVh3Nkl0SEdYdXhMRVQ5U1ZPbUtwNHVmV0JPZW5hM1pFLU9DVHdGYVlJMVV3OXlfTVZTbnlHbkFVWkZxYzNlNUpCRmxBVk54Q0gwaWUwUGVOWDkzV05pV0VUeEI5LVdQVGtmVFVxcVZJbS02cDlqYXNyUVJwWDQ0Rm4?oc=5",
-        "pubDate": "Wed, 23 Sep 2026 04:00:48 GMT",
+        "pubDate": "Wed, 23 Sep 2026 04:00:19 GMT",
         "snippet": "Rivals Revolut and Nubank go head to head in bid to crack US banking market&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
       {
         "title": "What AI should learn from the banks - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS2UtNUZPbHdWR1dlekEwOXNnRVNjU1RubDlhbFZfU1ZJaWpBd1lXOC1jWl91OXFnYUI1Wk1LcThwa2M2Q0dYV29Ydl9EdDZyMDVweDl4aFMweTlXLTJKSjRMVXFVN0hKWVIyS0FGM3BoSkJ0QTR5VjhlYzRjUDZZUW00SDk?oc=5",
-        "pubDate": "Wed, 23 Sep 2026 04:00:48 GMT",
+        "pubDate": "Wed, 23 Sep 2026 04:00:09 GMT",
         "snippet": "What AI should learn from the banks&nbsp;&nbsp;Financial Times",
+        "source": "FT Banks"
+      },
+      {
+        "title": "Swiss lawmakers back tougher bank capital rules in blow to UBS - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcUc2dmVIdjhXbjNXblRvVC1fWjJBU24xQkEtZkxXUVlDUTBIOURUOG14VW1RVVBWNmFIbjVZb09rdDVnSDZyYkQ0cU14cTZnS1VpZEdidmpwQ2lGR0NNTUQ1b2UxZC15VFlaeVNaTWxYMVdiY0lJd0JQQnJWNHRYY1Uzdmc?oc=5",
+        "pubDate": "Wed, 23 Sep 2026 08:22:15 GMT",
+        "snippet": "Swiss lawmakers back tougher bank capital rules in blow to UBS&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
       {
         "title": "Global banks warn UK windfall tax will trigger shift away from London - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUmhqSk5IUnJQbkNSaWNQWGJYOVVPZjlOd2pBeHdEWFNITUJMNGxzYUhTYlhqc3V2NzJmd0lsaU45bF9nVUQyc3BRWElNejBRanJoMFl1Z0dqem5sUlUydnpvaGFfOVlIZXRzM0hzU29rcmtfZnRVelNQbkd0QXZfWFNSUko?oc=5",
-        "pubDate": "Wed, 23 Sep 2026 04:01:38 GMT",
+        "pubDate": "Wed, 23 Sep 2026 04:00:29 GMT",
         "snippet": "Global banks warn UK windfall tax will trigger shift away from London&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
@@ -502,13 +509,6 @@
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSUpkYlJlV0hFbDItVk5RMGhSS1BFcWxKcWt0aERLR0c3UzVPcW9BSUg1S0M5cGlJTGlEZ3dqQWI0eGVfZlV0U2xQNWZfS3p0Z01vTFBRY2txYzJJRUhKWnd6N2I3Mk9kRHVLTFdXbk1QS0g4RHRqUWlTS3BYUDc3RWlXM3M?oc=5",
         "pubDate": "Mon, 21 Sep 2026 20:00:08 GMT",
         "snippet": "Kremlin-backed forgery scheme moved $6.9bn through global banks&nbsp;&nbsp;Financial Times",
-        "source": "FT Banks"
-      },
-      {
-        "title": "Banks and fintechs gear up for fight over funding of high street hubs - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQXR6UmliMWd4MVFKdnNsd0d6MlltblFNMTZ5LWpNdmtDT2poNXh4MDI1cTRzc0kyekhFcENUa2RkZUhOSjRqcWJlal9qMDNhcDR2b2xVVEk4U0pjOV9KVkZIVXFubUxIblNvTGd1MU84WkdhNGpDaU4tZlZjcDhGdWFOUU8?oc=5",
-        "pubDate": "Tue, 22 Sep 2026 08:58:33 GMT",
-        "snippet": "Banks and fintechs gear up for fight over funding of high street hubs&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       }
     ],
@@ -556,38 +556,38 @@
         "source": "Business Times"
       },
       {
-        "title": "Singapore labour market expands in Q2 even as retrenchments rise and job vacancies fall - straitstimes.com",
+        "title": "Singapore labour market expands in Q2 even as retrenchments rise and job vacancies fall - The Straits Times",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeGQ0dnN1LUhRcGlvdHZmYUFuZTYzVkI3UG1OaHlOSThpUkpCckk0WUwySTlkdG5jbm51VmNaOFh3YTVocXd4Q05rQ3N5QWJ1aVI3ZDVNOVlMenRhSjNJWEljNGE4WHNhLVB0anAtTGJoSnJ0WVp4ekVlNzNmYUp1TkJPQzRTZFl4YVhlWUpGcmRaeW5jLVF2Q2lUYWJsQVRBejFmcTAyMUZaQ2g5RjlXNlViMl9xTGYzWTJEbXlMQTFYUUFRbFE?oc=5",
         "pubDate": "Mon, 21 Sep 2026 04:00:00 GMT",
-        "snippet": "Singapore labour market expands in Q2 even as retrenchments rise and job vacancies fall&nbsp;&nbsp;straitstimes.com",
+        "snippet": "Singapore labour market expands in Q2 even as retrenchments rise and job vacancies fall&nbsp;&nbsp;The Straits Times",
         "source": "Straits Times"
       },
       {
-        "title": "Asian and European stocks gain as oil slides, AI buzz lifts tech - straitstimes.com",
+        "title": "Asian and European stocks gain as oil slides, AI buzz lifts tech - The Straits Times",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWWE4eHB4U3hHbDctaTR5d3FMWUp0eVNWSlRKTXpfY3N4U2h1OUF2ZjhJSERTNTdMdkkyUUNhUXlhUzk4bldIdGFLcmJTcjk4TjBBREZ2Uk4yekt1N21jdUVjR1hpVE42VzAwSVBhVWxPdlRualZQRlJBRTVfRHFNeTFYVjRZS1l0TUJfZHJqMGNKR21PeHVrMTRuNjExT2NWQnNJ?oc=5",
         "pubDate": "Wed, 23 Sep 2026 10:49:00 GMT",
-        "snippet": "Asian and European stocks gain as oil slides, AI buzz lifts tech&nbsp;&nbsp;straitstimes.com",
+        "snippet": "Asian and European stocks gain as oil slides, AI buzz lifts tech&nbsp;&nbsp;The Straits Times",
         "source": "Straits Times"
       },
       {
-        "title": "Singapore\u2019s labour market has a new vulnerable group: Credentialed workers - straitstimes.com",
+        "title": "Singapore\u2019s labour market has a new vulnerable group: Credentialed workers - The Straits Times",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN2x3UTRVRkhUSVNMUlItUWkxWVNkLWVnS0RsbGZ4R1gwdG1aV2NFSkxLREQtQzZsZWd1T0hORDlXcTJwbDh5SUxhWUVDeXlFRE1pbzFLZmV4QnYxenRnVzR6RkpJXzd3aEVyWTE4NFBJRERGVjF4SzJyYTQ0M0gzQU8wczZkMTY4VGs3cGE5TFBQYzZ5czlERGF4SDluQ3RidWppT1pTam5BNURiekloSjN0SHpRa3RtSzRWcS16LWlCX1haTzd6bFBR?oc=5",
         "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-        "snippet": "Singapore\u2019s labour market has a new vulnerable group: Credentialed workers&nbsp;&nbsp;straitstimes.com",
+        "snippet": "Singapore\u2019s labour market has a new vulnerable group: Credentialed workers&nbsp;&nbsp;The Straits Times",
         "source": "Straits Times"
       },
       {
-        "title": "32 companies, 6 individuals bag accolades at Singapore Corporate Awards 2026 - straitstimes.com",
+        "title": "32 companies, 6 individuals bag accolades at Singapore Corporate Awards 2026 - The Straits Times",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmdoQ2FIN0Z6XzhkT3lIcERtNXVjU2YyS2NMd2RGaGFCMktWcVB5QkI4amJJRUtqdlpqeEtwdWM3MnhXeW9lNVpLN1BFdE14WG04N3lDOEIya3JHTk9KdUtwRndwYUpiUGVCR085V1NLS0EyT0ltMHZiMF84QUpVLUtDUS1NRUI5bUVBeUwxU1J1c2F5NU5FR3RaUlI1RURfSDVnVHFKa2Zub2ZkSFI1TnJ4dw?oc=5",
         "pubDate": "Tue, 22 Sep 2026 08:50:00 GMT",
-        "snippet": "32 companies, 6 individuals bag accolades at Singapore Corporate Awards 2026&nbsp;&nbsp;straitstimes.com",
+        "snippet": "32 companies, 6 individuals bag accolades at Singapore Corporate Awards 2026&nbsp;&nbsp;The Straits Times",
         "source": "Straits Times"
       },
       {
-        "title": "AI safety warnings rattle tech stocks: Should Singapore investors worry? - straitstimes.com",
+        "title": "AI safety warnings rattle tech stocks: Should Singapore investors worry? - The Straits Times",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMk4wa0QzbWQ0d1dSMHVmdHNBRU9ONWhUYVY5N2QwcmFwMjI0STVVZHBnY3hsZzBNZEx5ZjFodUR0SEJDWlVhTkkwLVc2ZXZ3X2UxZ0luWVdBc3VINi12WnpGTU12WFEwdEthQUhnZHlxaUdaVkxwcmRVLWJqVm92Um1ZZ1JpWU9oakNlemkwOWxMRlFGd0RaWll5WlV3TU9zM3hUMzI5Szl5Tk5qY2hBbk5uLUdoRUM1OHVuaGc1VTRCMnA1?oc=5",
         "pubDate": "Mon, 21 Sep 2026 09:00:00 GMT",
-        "snippet": "AI safety warnings rattle tech stocks: Should Singapore investors worry?&nbsp;&nbsp;straitstimes.com",
+        "snippet": "AI safety warnings rattle tech stocks: Should Singapore investors worry?&nbsp;&nbsp;The Straits Times",
         "source": "Straits Times"
       },
       {
@@ -612,6 +612,13 @@
         "source": "CNA"
       },
       {
+        "title": "Wealth Wise - What it takes to be in the gig economy - CNA",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2VBcHVyRFI4bUZYM1BiQ2lLRndEbmxUS2VyRHVYRDBZSVo5SVlOUXRMUGlKYTZGbHNDTE84M1dSZVRHenM5cFczb2hsZFFiQnRTNGJOcE9LWkNxQjR3LTdLdHQ2ekNaRkpWRkdBUEV1dlc2YTJaaXIwVTN5SlRnMU9DQkE3V1B3dHhfZFBncmhJTXRoSW5EdGtBYWtGQQ?oc=5",
+        "pubDate": "Wed, 23 Sep 2026 03:52:17 GMT",
+        "snippet": "Wealth Wise - What it takes to be in the gig economy&nbsp;&nbsp;CNA",
+        "source": "CNA"
+      },
+      {
         "title": "Wealth Wise - Soaring high in our aviation sector, but could there be headwinds ahead? - CNA",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYjlfdk95aGJTY2NYdGVKQlN5eHZlYjJ1d1l1MlZ3ZUMxdlE2aktwZEUweThqal9FYUVLeHJyQ2lrX1FwSEVsUi1RQ092QjVweEhfWl83UWVwa294aHdIYjN6NGY3cWR1VElXNWo3RjdOUE9yQXAzdjNpY2VabnJjYlRESVJOMHpMQjVpNUg5QWQ1NHg5WnJOamdtTE54RHNMTy1oV2l2UHl5ejEtQWZUTUxwcnFGWEtQb1BFOXJGZURuaDhESG03b3FZYjE?oc=5",
         "pubDate": "Tue, 22 Sep 2026 17:50:23 GMT",
@@ -623,13 +630,6 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbTNBeldEbVozZXRKZ3kwc191WXlBWFFWR0lQcTFqbTQtdWFDYVBacVNpNHA5QzkydFhQR01BYlpqVUdST3M5U04wbWNSZ01zNkxabTY2VjZrXzFRVm1abmFleF9nMko4Mi1WYW52a0MtZEJxbHYtTTJFSFl1RkFvWThxeWwydi1Dci1sYmFWeFpDSFdmRkZz?oc=5",
         "pubDate": "Tue, 22 Sep 2026 05:00:00 GMT",
         "snippet": "MAS warns of fresh global shocks and AI pullback, but says Singapore firms and households well-buffered&nbsp;&nbsp;CNA",
-        "source": "CNA"
-      },
-      {
-        "title": "CNA938 Rewind - #TalkBack: Speed over safety \u2013 the new investing mindset of young Singaporeans, bored with the SGX - CNA",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUlBzei1pWTE3RVVINHBwYUIwUHdGSXdSZWRIcGdsaUllcTBBQ1RHSmV4Q01QMHZQd3RVZGxxT1dHRUE1SUloOHdROVR5ZE85WWtLZWpXUG8wQVE5aE41ZUxoUmZ0Wkw5UDd3c09TbHhDTUVGQ1ZRQVp0X3M5a0tLZTc2b3dDUWVjVzBJemY4Ri12Z2t1YXUxdm1JbHpkYnRaLTRKWnFnQ0Rua250MVZZV01EREtSbnUyaUxiampYMkFfeHBNb2xjSGRidC1ZLU1tc2tPSE0yWkpZTEJ4eG81OUtxTUswdHpaWXlVdDlMb09NX095Y0JtdG42XzVfOFNnV2c?oc=5",
-        "pubDate": "Sun, 20 Sep 2026 16:22:14 GMT",
-        "snippet": "CNA938 Rewind - #TalkBack: Speed over safety \u2013 the new investing mindset of young Singaporeans, bored with the SGX&nbsp;&nbsp;CNA",
         "source": "CNA"
       },
       {
@@ -654,6 +654,13 @@
         "source": "Reuters SG"
       },
       {
+        "title": "Goolsbee rejects idea of Fed cutting rates to help US finance its debt - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTVJQSF9lWXNmVTFmcEhDTk5aNHZUSXpGaHVvdURFQi1OeTdpU1ZlTGZIVk1HaDlIcWVkeVJENXhTRjVhT2xfanE3a1diNk81aUVxekgzLUN1VHVHWnE2WTVNS3ZLaWh6ZXg1T0l1WVY0NFRweGpYOTBwVXNCeTg1MHZIWmFOenN6dWhUTHl0X1ZrNEUxeTViRFRXUnU3RzBhMjJJcmZVNjhVbjhTdmc?oc=5",
+        "pubDate": "Mon, 21 Sep 2026 13:36:04 GMT",
+        "snippet": "Goolsbee rejects idea of Fed cutting rates to help US finance its debt&nbsp;&nbsp;Reuters",
+        "source": "Reuters SG"
+      },
+      {
         "title": "Grab execs buy back shares after stock hits 3-year low on Atome deal - Reuters",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNazRaaUFRTUpuVl9HSUZaWVU5OFFSdnBsVTJ1VlA2dnpZcVEzbjRZV3pOZE5tQnRsWU5qME1YbkRRQmxSRnRyaW5kc3lpOXFWZ2xRRmlPQnpELVVsZ0hjSWN3SlJ6TUNQdmh2UF84ZklEal9XNlBzQlNnYTVBV2JaZFZWUG5ka19HWHV0dEtyc1RiWnYzbGFvM0g3ZWk4ZDQxdDNLX0FvOF90RnJoU3IwMThxQS1OVmVVTGZMWlBR?oc=5",
         "pubDate": "Wed, 23 Sep 2026 07:31:15 GMT",
@@ -665,13 +672,6 @@
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQzkxemNQamVGbTdQZURLXzI4VFN5R2RpRDFJVEc0QXZjcmVaSVdyY1BDU01NZl85X1NxSVRMaHQxajdFcWE0YkE4VzlMVjZLQ3BzRWIyZkgtdjVyTmlWN2Y3VkJQRHh4MEE2RDNfWjd2Vks3bWhjOVhjaU5uUWk4S050bnBqSTdWSFlEXw?oc=5",
         "pubDate": "Mon, 21 Sep 2026 07:00:00 GMT",
         "snippet": "High stakes, low bars&nbsp;&nbsp;Reuters",
-        "source": "Reuters SG"
-      },
-      {
-        "title": "Wheat buyers brace for higher costs as Russia-Ukraine war drags on - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUswVEozejNqc18tLUlqcnBVXzNDVDNkZHQyN25BdDhqYTVBN2NTNnVoODNxLTI0bXg3d00wWXY1NW1yUVpuM1FDLWFsZVYzVFVwbkNqbzdBd0JHaDk1UGg5NXVFQ2g2MFZwalBpYW9GRURiMVB4cnd5RWd3cXpmcktIalFsNFBxTU1YNTRBakx1NXRBaEJJWlo0Q280X1FIcFR3cWxfTTVsV2ZIUlBmX25na0E2U0JhdTF6M2dQMA?oc=5",
-        "pubDate": "Wed, 23 Sep 2026 04:10:10 GMT",
-        "snippet": "Wheat buyers brace for higher costs as Russia-Ukraine war drags on&nbsp;&nbsp;Reuters",
         "source": "Reuters SG"
       }
     ]
