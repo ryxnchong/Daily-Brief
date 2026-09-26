@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "updated": 1790413537,
+  "updated": 1790415411,
   "tabs": {
     "global": [
       {
@@ -18,13 +18,6 @@
         "source": "Reuters"
       },
       {
-        "title": "Oil prices slide about 2% as US, Iran explore path out of war - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3EzX3oydnQxRk5Ld1BKbk82ek14ZVdyLVpTdldjdEpqeDJfTVZ2Q0F1TnhvaWlhR1p0Z3hScDV0S2Z1UFR5OXhKSWk3NmtqTzd0SkJfa2RLRFpOOUlEcE5mR1d4Z21Td2FCQVZqNHV1eDloQkplT1NHaHhyTDlqOG5DYlFFdnRERThxNU0yX29LcTRyal9pMHQ4ZzNoU0VKZkdHN2hFYjhCZUpZZ3d2am11SDJYYVBiN0JxWVBtczNRYkh1?oc=5",
-        "pubDate": "Fri, 25 Sep 2026 01:11:00 GMT",
-        "snippet": "Oil prices slide about 2% as US, Iran explore path out of war&nbsp;&nbsp;Reuters",
-        "source": "Reuters"
-      },
-      {
         "title": "Airbus shares dip over quality flaw in best-selling A321neo jet - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVldySnN6ZnE5bFFtYXdodUlVX3hKLUI4emJjcEc0YmZVMUsyaTZPMjB5aWFjQkFoZmNLOEtwWldFclJfclFmT3B1YkRJZzBYd0NfN2xWUjJJQ2N6aDQ2aE1sd2ZJQTV1LTZMYW5ITWVrMzFWTlU5YklCaE9hR1FCQ183d0cxTDFXWXlhNUEwOG1ZNGpMWUZ6c3V1ZjY0bnM3S3FDbHZrU2RxTlVoMDV6ZFpCYzJVd1k5N1E?oc=5",
         "pubDate": "Fri, 25 Sep 2026 15:25:02 GMT",
@@ -36,6 +29,13 @@
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbWZqSDVjdjZZaURFZ3VZNzlrRzdIZzE1MDRPNkNlQjRsbmlzLWdzUTRqTEFVdnNCS1czRkNrbVZTbzFHa1B2Nm51ZWRKSUUxMm41M05DWWw5WlQwZWhsR0duLVMzS1lXekZ1enFyS0VpcHRUTTduUVZtVnhXRDZRTVpHN0ZfUnhjUVVCbkNMeTAtZHdmOVpwUXpyZDNDY00zRVVyM1dyVG5fMTJ6RzE5XzBFTHU2YTNtMDdmdjh3?oc=5",
         "pubDate": "Thu, 24 Sep 2026 23:00:36 GMT",
         "snippet": "Oracle triggers 'force majeure' on data center project over power delays, source says&nbsp;&nbsp;Reuters",
+        "source": "Reuters"
+      },
+      {
+        "title": "Oil prices slide about 2% as US, Iran explore path out of war - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3EzX3oydnQxRk5Ld1BKbk82ek14ZVdyLVpTdldjdEpqeDJfTVZ2Q0F1TnhvaWlhR1p0Z3hScDV0S2Z1UFR5OXhKSWk3NmtqTzd0SkJfa2RLRFpOOUlEcE5mR1d4Z21Td2FCQVZqNHV1eDloQkplT1NHaHhyTDlqOG5DYlFFdnRERThxNU0yX29LcTRyal9pMHQ4ZzNoU0VKZkdHN2hFYjhCZUpZZ3d2am11SDJYYVBiN0JxWVBtczNRYkh1?oc=5",
+        "pubDate": "Fri, 25 Sep 2026 01:11:00 GMT",
+        "snippet": "Oil prices slide about 2% as US, Iran explore path out of war&nbsp;&nbsp;Reuters",
         "source": "Reuters"
       },
       {
@@ -174,6 +174,13 @@
     ],
     "tech": [
       {
+        "title": "China, US agree to $30 billion tariff cut, AI dialogue during Xi visit - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5",
+        "pubDate": "Sat, 26 Sep 2026 08:39:43 GMT",
+        "snippet": "China, US agree to $30 billion tariff cut, AI dialogue during Xi visit&nbsp;&nbsp;Reuters",
+        "source": "Reuters Tech"
+      },
+      {
         "title": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges - Reuters",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5",
         "pubDate": "Fri, 25 Sep 2026 20:37:00 GMT",
@@ -206,13 +213,6 @@
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFppWUc2LTE4NzBfY2prVG11cG9PQ1VyaFB6QkYzVGoyLWV5alVORkZraFREc3FBbmIxTThVay1nQnZZRXhvQ1JyQXpQeU1uY3NmYkt4eWtlSlZvZF8yR3o0LUtRZGFXWFkzdVdBTXJveUdqNG1PTTdHS25wQ0xOR0R3dWNCZFQ3Snlwcjc0S0FHYXg3RkhsMWFoMW5GX0hWWFFFQUJzZnptVjJXUUhR?oc=5",
         "pubDate": "Fri, 25 Sep 2026 13:51:28 GMT",
         "snippet": "Microsoft revamps Copilot with code generation, agentic AI tools&nbsp;&nbsp;Reuters",
-        "source": "Reuters Tech"
-      },
-      {
-        "title": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazZwSUsxTDltUG1palRCRG1iQnVRWFQxSGRoVFNKbnVoWExJYk13bVFFMEtkSndpTlh5eVNGYVJlTXpWSmtJZXpTVXRDazdBaUw1eFlUcjdob21NWF9hT2NNWDllOW1fc0lHdjBrQVBmeXY0ZWJLS25xdEJZMFJMUkVsa3NwRS0xSG1LUGVJVkVuSEVOVDlQR2pwWnZjRzliZXNQSTdyREhFVlBuQ185VEYxUWRab01zcThMWUtvOFI?oc=5",
-        "pubDate": "Fri, 25 Sep 2026 09:48:00 GMT",
-        "snippet": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies&nbsp;&nbsp;Reuters",
         "source": "Reuters Tech"
       },
       {
@@ -414,17 +414,17 @@
         "source": "Bloomberg Banks"
       },
       {
+        "title": "Citigroup Targets More Than $3 Billion Banamex IPO, Taps Banks - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb012MXl2ZWRrUEF4MjgxZnMwOVhTcnNkcXNrZGMxVHA3R2phRmRFMzBHRWt5bnNHNHhJRzJXNUtlTzVJVnVsNHMyMDQ5SWd0NmJqVmhDaWNGQ3k2WWhmY0RGMHBaU1cxTnNtQ2RXTk1OTXJHY2t5eXZaeUJoT2FHeEg5aW90dTlOU2pPZGQ4elBkOEVvQ1M3TFY1bHlEdVFrOWJWZzRWR1BfWTZGWC1mbQ?oc=5",
+        "pubDate": "Fri, 25 Sep 2026 21:57:31 GMT",
+        "snippet": "Citigroup Targets More Than $3 Billion Banamex IPO, Taps Banks&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg Banks"
+      },
+      {
         "title": "Markets - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pNktuQlgwVHhZeDU2dy1rU1VSOVhXNzlOZlJlbmxhTHJISGc4bW44c3p5elhUaG1iRnlMTFE1VXgtRmtGM0JlTA?oc=5",
         "pubDate": "Sat, 26 Sep 2026 05:27:52 GMT",
         "snippet": "Markets&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg Banks"
-      },
-      {
-        "title": "Tech Titans, Trump Fete China\u2019s Xi at Lavish State Dinner - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQmEtSmJMdVJnYll6OTBhQ3NvV1FmX195dWhZUDVsUVRHYTJmbG9BM3E4eXV5VXItMlN5SnZZcFdTb3Y3OFNHSFRPdjlvSkR6QkgwR1lQM21BVWhOdmp3a1BIUHRTc2h6dGN4REdoU21CbWY0WFd3Z2M1T09kZ2N2dDkxeE5pNWhDeFRXSXRybTFBQ3M5REpqSGxRMzVmN0JQNWhLY3J4djhQNHRMZjZJZC13am50QQ?oc=5",
-        "pubDate": "Fri, 25 Sep 2026 01:08:00 GMT",
-        "snippet": "Tech Titans, Trump Fete China\u2019s Xi at Lavish State Dinner&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Banks"
       },
       {
@@ -663,7 +663,7 @@
       {
         "title": "Japan's bond 'falling knife' stalls repatriation rush - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRG1BRVp6QjNMSmVsZEcwN1pwVDZDX1RoR2tBUG1DT2hhMFBQUHFhTnZZcWlOSHJVRThKamhGRkpFeWkyTFJaUG10ZW9tWDNSRzJUN3FDQnA1Qzd1aV9sS3hlUWtlSjJ3S0NQbXFISDN0Umc4Mnp0cDJQMVRsUEZjQS1hMnR5RTVqdlYyZE5fOWZQM0xxaDBsX2QwSUJHWnRkZ3d5OXN3dVQ?oc=5",
-        "pubDate": "Fri, 25 Sep 2026 03:33:00 GMT",
+        "pubDate": "Fri, 25 Sep 2026 14:56:13 GMT",
         "snippet": "Japan's bond 'falling knife' stalls repatriation rush&nbsp;&nbsp;Reuters",
         "source": "Reuters SG"
       },
