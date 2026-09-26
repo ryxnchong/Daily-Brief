@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "updated": 1790402826,
+  "updated": 1790404895,
   "tabs": {
     "global": [
       {
@@ -25,6 +25,13 @@
         "source": "Reuters"
       },
       {
+        "title": "OpenAI's models accessed public US Census, SEC data, Bloomberg News reports - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT3ZERzdwNHhFVVVqTDBCVF82eHRrdXpSZDNuQl92TWdZRzVKUHZsQm82dUI4MFhaN1BLRHlzTml2ODNrTEdnaWxkY0VKLUY0M3J0VGVWeDZ2RU1TZmdPV2VzTk80VGRrckdybk5za2xuZU9UUEV1dUE5dUUyYTBtVnRmOEk4NFNkaTJhVFFyb1BJOVRSeW55cTZfSWN5Q1FoWDRWTUE0b2h6ZXJTYXU1TDVmRkxrZXNH?oc=5",
+        "pubDate": "Sat, 26 Sep 2026 00:29:00 GMT",
+        "snippet": "OpenAI's models accessed public US Census, SEC data, Bloomberg News reports&nbsp;&nbsp;Reuters",
+        "source": "Reuters"
+      },
+      {
         "title": "Oil prices slide about 2% as US, Iran explore path out of war - Reuters",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3EzX3oydnQxRk5Ld1BKbk82ek14ZVdyLVpTdldjdEpqeDJfTVZ2Q0F1TnhvaWlhR1p0Z3hScDV0S2Z1UFR5OXhKSWk3NmtqTzd0SkJfa2RLRFpOOUlEcE5mR1d4Z21Td2FCQVZqNHV1eDloQkplT1NHaHhyTDlqOG5DYlFFdnRERThxNU0yX29LcTRyal9pMHQ4ZzNoU0VKZkdHN2hFYjhCZUpZZ3d2am11SDJYYVBiN0JxWVBtczNRYkh1?oc=5",
         "pubDate": "Fri, 25 Sep 2026 01:11:00 GMT",
@@ -36,13 +43,6 @@
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbWZqSDVjdjZZaURFZ3VZNzlrRzdIZzE1MDRPNkNlQjRsbmlzLWdzUTRqTEFVdnNCS1czRkNrbVZTbzFHa1B2Nm51ZWRKSUUxMm41M05DWWw5WlQwZWhsR0duLVMzS1lXekZ1enFyS0VpcHRUTTduUVZtVnhXRDZRTVpHN0ZfUnhjUVVCbkNMeTAtZHdmOVpwUXpyZDNDY00zRVVyM1dyVG5fMTJ6RzE5XzBFTHU2YTNtMDdmdjh3?oc=5",
         "pubDate": "Thu, 24 Sep 2026 23:00:36 GMT",
         "snippet": "Oracle triggers 'force majeure' on data center project over power delays, source says&nbsp;&nbsp;Reuters",
-        "source": "Reuters"
-      },
-      {
-        "title": "Senate approves mental health legislation for US pilots, air traffic controllers - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQ28xOGtlN1NwQzRrSV85clBSVnYtTTBiZTg0YTBWSV9KSTJjeGRiY1p5WHI1QUFjNVljTGJncmZKODNmdnNIcEZ6RmNIT1pnWnJyVGJCcjc0OTczbHUyOUtpUkw4cUZQRkF1bXhxTVpLU1M3d1laMVRCVE9xQTVBZWV0YnlzdDhIVndMUktaSVpDSWFzeUdxZ2ZGLThNRExiUHgyRTRqb2twZVZzcWN2aVp2QnZET2RxSUVhV2ktZWUtVWFFenNuTmQtM0NjYXdYSmNtV1hpckVka2toSEhCNkNLWXg?oc=5",
-        "pubDate": "Fri, 25 Sep 2026 19:13:57 GMT",
-        "snippet": "Senate approves mental health legislation for US pilots, air traffic controllers&nbsp;&nbsp;Reuters",
         "source": "Reuters"
       },
       {
@@ -202,17 +202,17 @@
         "source": "Reuters Tech"
       },
       {
-        "title": "Anthropic investor Lonsdale says AI firms stoking fear to sway policy - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY0pITmhQTFBGY3ZXalk4UWRpNWp4ejNIMTBNZlNFd1hOSDgyMFNxeGl3ZEFjOGxHX0k3RVdscS1VNzF2elA5bW9BZGd2UDZhc3BFNkJpRTFTd3BBVVdfM2ZIQi1IeWs2Nk5PYWNKRHpFOUhEa3JkRGMzNWlUaS1KTFRuMzRxeTdVZGNlYnFiSUN1V0Z6NDJPVkY2Z0JOaXhIRXYzTVNiVGxNUzRrcklpZU1qcE5jWjFMbFl1Y1B5UEJoaHc?oc=5",
-        "pubDate": "Fri, 25 Sep 2026 18:55:20 GMT",
-        "snippet": "Anthropic investor Lonsdale says AI firms stoking fear to sway policy&nbsp;&nbsp;Reuters",
-        "source": "Reuters Tech"
-      },
-      {
         "title": "Microsoft revamps Copilot with code generation, agentic AI tools - Reuters",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFppWUc2LTE4NzBfY2prVG11cG9PQ1VyaFB6QkYzVGoyLWV5alVORkZraFREc3FBbmIxTThVay1nQnZZRXhvQ1JyQXpQeU1uY3NmYkt4eWtlSlZvZF8yR3o0LUtRZGFXWFkzdVdBTXJveUdqNG1PTTdHS25wQ0xOR0R3dWNCZFQ3Snlwcjc0S0FHYXg3RkhsMWFoMW5GX0hWWFFFQUJzZnptVjJXUUhR?oc=5",
         "pubDate": "Fri, 25 Sep 2026 13:51:28 GMT",
         "snippet": "Microsoft revamps Copilot with code generation, agentic AI tools&nbsp;&nbsp;Reuters",
+        "source": "Reuters Tech"
+      },
+      {
+        "title": "Anthropic investor Lonsdale says AI firms stoking fear to sway policy - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY0pITmhQTFBGY3ZXalk4UWRpNWp4ejNIMTBNZlNFd1hOSDgyMFNxeGl3ZEFjOGxHX0k3RVdscS1VNzF2elA5bW9BZGd2UDZhc3BFNkJpRTFTd3BBVVdfM2ZIQi1IeWs2Nk5PYWNKRHpFOUhEa3JkRGMzNWlUaS1KTFRuMzRxeTdVZGNlYnFiSUN1V0Z6NDJPVkY2Z0JOaXhIRXYzTVNiVGxNUzRrcklpZU1qcE5jWjFMbFl1Y1B5UEJoaHc?oc=5",
+        "pubDate": "Fri, 25 Sep 2026 18:55:20 GMT",
+        "snippet": "Anthropic investor Lonsdale says AI firms stoking fear to sway policy&nbsp;&nbsp;Reuters",
         "source": "Reuters Tech"
       },
       {
@@ -251,10 +251,10 @@
         "source": "Bloomberg Tech"
       },
       {
-        "title": "Elon Musk Aims to Double Colossus 2\u2019s Nvidia Chips by Year-End - Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbXBxTEhITGFuWVlDRnZwR091R2poVktlRXFWc19zQkJocmtoakN4WDVkaEpIR2pudThGSDVpYVNjYjN5azE3dHdMUWNnamwzcmVVNTh1RE41U3ZpZXBPVzhweWs1QWN5WFZvRTVtaFZhOGRSa1Y4MmIwX2pjcF9ZRUJTZVhfeVU3SnhOdWwzM0F6Zm5lOWJmZlZDZnpjU3A5ZEFwVE9zUFBxeEd5OUlnX0x1NA?oc=5",
-        "pubDate": "Fri, 25 Sep 2026 06:04:00 GMT",
-        "snippet": "Elon Musk Aims to Double Colossus 2\u2019s Nvidia Chips by Year-End&nbsp;&nbsp;Bloomberg",
+        "title": "Ex-DeepMind Researcher Who Worked On AlphaGo Seeks Funds for Startup Working on AI Reasoning - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWFFBbXYyY0loMV92c25XUUhPaXRuZ2lrRl9DZlJ1Rnc5cFJZLXRPRmJoWVZDMUk4OUdGclF4NTk0TVZkY2ZudkVIY0FlblNpNVU0LW1NV1Jnek0tbjRFUTlDWUVqWHphM0gxVFZaMnoyNUNGQVRRdk1NNE0wX0VJM1N1UHB1ZUpvT0pRUjBuZDFZMlR5MGpqTlZ5UGFpZkNVb3lNdzE5S2l6V3hMY2Njd3ZxREktUUJ4aXR2cTZTaUVEbk92?oc=5",
+        "pubDate": "Thu, 24 Sep 2026 11:21:26 GMT",
+        "snippet": "Ex-DeepMind Researcher Who Worked On AlphaGo Seeks Funds for Startup Working on AI Reasoning&nbsp;&nbsp;Bloomberg",
         "source": "Bloomberg Tech"
       },
       {
@@ -358,13 +358,6 @@
         "source": "Reuters Banks"
       },
       {
-        "title": "EXCLUSIVE: Japan's SMBC in talks to increase stake in Vietnam's VPBank, sources say - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZllrR2pKM3RVdDR0Nlh4aTViSlF3YmM3ZUZpb185VEZyY1lGMlplOFpXeVlERllWX29vN0JyQ0JzREkzb0dHWE1tWWhvSkJFU3dPdTYtODZhQ1A5cDlTSG1RSnJxYklIMlc0eUFUbHdfd1BLTUc0bVNIdDRGQklCT2JoNEEwcXVyYzNmQnNUVng5MGVqcHlqVFVpTUdUWmNIX045bjFvOVFjWkdHWHpXVU4xUQ?oc=5",
-        "pubDate": "Fri, 25 Sep 2026 06:50:26 GMT",
-        "snippet": "EXCLUSIVE: Japan's SMBC in talks to increase stake in Vietnam's VPBank, sources say&nbsp;&nbsp;Reuters",
-        "source": "Reuters Banks"
-      },
-      {
         "title": "Prosecutors seize bank accounts of Montana firm linked to Tether - Reuters",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNU91X3U4cXNRUy1hYk0zOG1OcjZVbVhUTnI0cXljT203dUhNaDhUdjR6VmNRQWRmWmVwb0l1X1BxOC1nU1poTnJQekhKYzV1V2ZjaDFpcnRSQ0o5c05yclFUbmpqMExnMmhzY25zM1k3b3pwMnRESXVMRFlnWUpTUUllQURrVGNYMWhGNHlwemFIb3Z5dWlaZDQxVktnUTZ5MFJOeTY3M3M3MHJKRENvOVBzVGY?oc=5",
         "pubDate": "Fri, 25 Sep 2026 20:01:36 GMT",
@@ -383,6 +376,13 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdkZuc3lTTVVuR3UyYTJndlJ1OU5ZcExuOVROdERXZUR1cXRaTDdPNWtabV8tdHFrdVctSkJEM0E2aUVDNzNKbmdTZk9aQm5YMnhoMmlCOGlzNWRTRFRqYmJJZ3JZNXAzcm4waklHdU0zR2pKeTV1WlZoaXdaUUYwVFJUUV9RNFpzeEMxTy11dzhpSWNuYTBaNnk0UnVOTExWa29JZWN3Q29HNVhrcmNuR1lB?oc=5",
         "pubDate": "Fri, 25 Sep 2026 16:54:03 GMT",
         "snippet": "France can't count on ECB to fix debt woes, central bank chief says&nbsp;&nbsp;Reuters",
+        "source": "Reuters Banks"
+      },
+      {
+        "title": "BoE's Bailey says high energy prices make it harder to leave rates on hold - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDRSZ0xWNi0wd0VYckRXb0FQNDE1bDdVUWhxbnJ6eWlNYXlhUk81cW9TOGctTmxKMmwzN3dpZzljalluaEtUa0tvVnZlYk96T08xVjNZb1ZGcWlFeHRDcmpFR1RxX2w2dE5yanlSeWtoVXJfWFBVX2s1LVdtN2tOUFgtV2ZveVNsMFFuZHczQ1VOV0pzTnZWMWUtSnI0TlRaTDgxUkJsMG43REZsbm0ya3ZB?oc=5",
+        "pubDate": "Fri, 25 Sep 2026 11:21:02 GMT",
+        "snippet": "BoE's Bailey says high energy prices make it harder to leave rates on hold&nbsp;&nbsp;Reuters",
         "source": "Reuters Banks"
       },
       {
@@ -556,45 +556,45 @@
         "source": "Business Times"
       },
       {
-        "title": "Online trading didn\u2019t kill the remisier; it\u2019s helping them make a comeback in S\u2019pore - straitstimes.com",
+        "title": "Online trading didn\u2019t kill the remisier; it\u2019s helping them make a comeback in S\u2019pore - The Straits Times",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN0cwMzdqY3hGZV9Ia2hsWEx5XzJjczBQdmxuc2k5VEJZYmo3ZDZKd1k3RGtLU0YyQzBtYlNrMGRTVS1CUk1rN0VVTmdHUG1MZDUwdW5td2NiZDFHX1gtaW9ZQmNLRlpKa1ZPcHRVTVJVNFZ4cTAtcnAzWVBoUVZxYUJRVTdUZXVwUUxFd2pUU3pyX3N0d1o3WjVMcDdGTThSYXVBQThxS29NdTZMTFhMOGd0bzBialNRSmx4QW1tWkJWNUVDS2RFZ3hFaFkwQ212cmc?oc=5",
         "pubDate": "Fri, 25 Sep 2026 03:30:00 GMT",
-        "snippet": "Online trading didn\u2019t kill the remisier; it\u2019s helping them make a comeback in S\u2019pore&nbsp;&nbsp;straitstimes.com",
+        "snippet": "Online trading didn\u2019t kill the remisier; it\u2019s helping them make a comeback in S\u2019pore&nbsp;&nbsp;The Straits Times",
         "source": "Straits Times"
       },
       {
-        "title": "\u2018Semiconductor sector poised to take off in India\u2019: More Singapore firms show interest - straitstimes.com",
+        "title": "\u2018Semiconductor sector poised to take off in India\u2019: More Singapore firms show interest - The Straits Times",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdk9YT1Q2YXg0UGlRdU1KQW4xZTE3R29aWlhxRGhoNUN6RTkwcUc4RUNLOFd0MVBWWUVyWS1NSGM0eV9DckxlNGUtbENTYXQzTXNJX25xLUtrM3l4alI2YjdHWTRMMkEyREpKRllLX25jZXU0UmNrcDJEQmZDWWFqU3dPSVl6dWF5Wng1dFAxdk80MzZteWJNTmpXY3Rjbjg0LXBzeGN2YkJRakJ0NXA5WFFLaGF5ZTdTYUxhSnBVNG14S2xjbndB?oc=5",
         "pubDate": "Thu, 24 Sep 2026 21:00:00 GMT",
-        "snippet": "\u2018Semiconductor sector poised to take off in India\u2019: More Singapore firms show interest&nbsp;&nbsp;straitstimes.com",
+        "snippet": "\u2018Semiconductor sector poised to take off in India\u2019: More Singapore firms show interest&nbsp;&nbsp;The Straits Times",
         "source": "Straits Times"
       },
       {
-        "title": "ST journalists win SGX award for creative, experiential storytelling - straitstimes.com",
+        "title": "ST journalists win SGX award for creative, experiential storytelling - The Straits Times",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSm5EQ3kxUzFtdjltZThULWhOemVJellYeVJxRFB0dmJaRE55aVVvWWNrT0pwX0dFaDhGdTE3dnJ4LXN5VEVFN3BDeG12Wm9uaGFnVUVWMzhJclAxSG5seHFFWGx4TDQwRGNaOEQtd1I0UFRVVHlHZVFHRzFfd00tbWlXUW9Ec29NanZrUWp6cV91WGxWZmYtcHhfZTZEdTJqeEJ0c2ZNZThDYVBRQnZ0WUVXeWFhQU5PWHpFZE1MT1hUaHRv?oc=5",
         "pubDate": "Thu, 24 Sep 2026 14:30:00 GMT",
-        "snippet": "ST journalists win SGX award for creative, experiential storytelling&nbsp;&nbsp;straitstimes.com",
+        "snippet": "ST journalists win SGX award for creative, experiential storytelling&nbsp;&nbsp;The Straits Times",
         "source": "Straits Times"
       },
       {
-        "title": "Leapmotor B10 goes the distance in a crowded electric crossover market - straitstimes.com",
+        "title": "Leapmotor B10 goes the distance in a crowded electric crossover market - The Straits Times",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFVTdVd0YVE1Ync2VHdaeERfYmV0RW40RldjUTZOaTk5YndWNHNoZmFxblpWNHk0YWFkR1l6TzRFQWQ2VjJnTXBOSjYydWxyMm9UNzRNV2YteXdHZkk1YWwwdUVERHMwZEYyMTdoYXVLbFgzYU5LZWZ5WjdNUkhEbGRYMVJvTXV2MG1oVUFQT0VzSGI0eGdKckpLQ1YxazhvdGd0WGxidFVkRkUwTjRQSjBzWQ?oc=5",
         "pubDate": "Fri, 25 Sep 2026 07:15:00 GMT",
-        "snippet": "Leapmotor B10 goes the distance in a crowded electric crossover market&nbsp;&nbsp;straitstimes.com",
+        "snippet": "Leapmotor B10 goes the distance in a crowded electric crossover market&nbsp;&nbsp;The Straits Times",
         "source": "Straits Times"
       },
       {
-        "title": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies - straitstimes.com",
+        "title": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies - The Straits Times",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc2xRNUIwU01NVkpxa0FyUXJzdWxfT1p4MnRnd2IteV9MVUFNZVJqTkFIMEM1STYyYncxcFpPbmJMdGJfa05YeDlnOFp0di1ySGVUMEhIQ1h3VExYdlR5WGlNVmtSQUFlcXR6a2tFWjlHS3I5TkVETlhvLVlqc3NnVVBidjdwN2lxaEphLWYyOUxTX1ZHUjZkRExuSVltVnk2R0FjbmFON1JDMWhOWHpYNEphN0NVUTkzaThCU2xldFhzUQ?oc=5",
         "pubDate": "Fri, 25 Sep 2026 21:02:00 GMT",
-        "snippet": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies&nbsp;&nbsp;straitstimes.com",
+        "snippet": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies&nbsp;&nbsp;The Straits Times",
         "source": "Straits Times"
       },
       {
-        "title": "Ng Teng Fong General Hospital, first to repurpose dialysis water to water plants, given PUB award - straitstimes.com",
+        "title": "Ng Teng Fong General Hospital, first to repurpose dialysis water to water plants, given PUB award - The Straits Times",
         "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZ1BRakhSa2RfdDZxbFZfZ3REV0dfLWlzbEpjdm5nd2F2dDdpanJiQlpBdGdfMndBSEtsVmk3N29GekZHeWIxcTM1R3MtSDRibFQ1aG9QM2ViSTBIb3h5b3ZyWmtRTHYwMnNJb2Y3UEJsLVItYUx5SnhFd01kUGVrTFlKV1I3X2FYS0UxQTZWcUttWjhlNm91ZFgtcHEyYk1wUVo3TlR0R1kzY0k4R0gtcHRYV3M0em5LRUswR3l0ejFjSjFQaWxjU19qTUgzWnZEcEpVeXY4b3g3bmZGOFdoWDJhWURyb3hYd0ZQdldWdnRTX2YtY21zOUV4Yw?oc=5",
         "pubDate": "Fri, 25 Sep 2026 11:30:00 GMT",
-        "snippet": "Ng Teng Fong General Hospital, first to repurpose dialysis water to water plants, given PUB award&nbsp;&nbsp;straitstimes.com",
+        "snippet": "Ng Teng Fong General Hospital, first to repurpose dialysis water to water plants, given PUB award&nbsp;&nbsp;The Straits Times",
         "source": "Straits Times"
       },
       {
