@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "updated": 1790415411,
+  "updated": 1790417141,
   "tabs": {
     "global": [
       {
@@ -8,13 +8,6 @@
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWZXVWk2TzhjZzVySHppeGZuYlJOd3FjeHc0dnZ3Zk1NcnZYc3JZSTRiNTlRazZyR1FrWlh2UmI4VmFhaXhVS2RrcDlTNW05enVRbmNMaDRLSy1UWjc1b2Jkc0Fud2UxY2JleVRYWld1cjN1VU1yY0UtSVN6TjBBaTRvRkpFY3BkaU9ERjFHN3BfWWRNNC1ReFI2bFR6bXFxRzJxWi15RjRLVFNrMjI5M2t2VS1qOTBxT0J6R1d0LWxZOERK?oc=5",
         "pubDate": "Fri, 25 Sep 2026 19:55:00 GMT",
         "snippet": "US appeals court rules against Kalshi, says states can regulate prediction markets&nbsp;&nbsp;Reuters",
-        "source": "Reuters"
-      },
-      {
-        "title": "Talk of US export ban on diesel deepens US crude futures' discount to global benchmark - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOakktX2lMSTlPSnViWHdvbUxHTm14WGIwOGR5dzk2LThBRGJoMklPZXFIRlc2YlUzYWRLaGJMd21hREl5QnVsQXFnYVFhSDFsdnJhcy1wWGtaemRiS3RveDNxWHd0QUNnS1lmcjhEcFhXMTNSUjZySkhMZmxzU3ZVT2l6UnduUnUzT0JlQVdPUFN2cmhjNDdUT2JqU21zXy0tN1BFM2NNMUJmQTdVSFJjQnduaXA4dWl6MlMycm90U3UyUXQ3WVBj?oc=5",
-        "pubDate": "Fri, 25 Sep 2026 22:49:11 GMT",
-        "snippet": "Talk of US export ban on diesel deepens US crude futures' discount to global benchmark&nbsp;&nbsp;Reuters",
         "source": "Reuters"
       },
       {
@@ -29,6 +22,13 @@
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbWZqSDVjdjZZaURFZ3VZNzlrRzdIZzE1MDRPNkNlQjRsbmlzLWdzUTRqTEFVdnNCS1czRkNrbVZTbzFHa1B2Nm51ZWRKSUUxMm41M05DWWw5WlQwZWhsR0duLVMzS1lXekZ1enFyS0VpcHRUTTduUVZtVnhXRDZRTVpHN0ZfUnhjUVVCbkNMeTAtZHdmOVpwUXpyZDNDY00zRVVyM1dyVG5fMTJ6RzE5XzBFTHU2YTNtMDdmdjh3?oc=5",
         "pubDate": "Thu, 24 Sep 2026 23:00:36 GMT",
         "snippet": "Oracle triggers 'force majeure' on data center project over power delays, source says&nbsp;&nbsp;Reuters",
+        "source": "Reuters"
+      },
+      {
+        "title": "Talk of US export ban on diesel deepens US crude futures' discount to global benchmark - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOakktX2lMSTlPSnViWHdvbUxHTm14WGIwOGR5dzk2LThBRGJoMklPZXFIRlc2YlUzYWRLaGJMd21hREl5QnVsQXFnYVFhSDFsdnJhcy1wWGtaemRiS3RveDNxWHd0QUNnS1lmcjhEcFhXMTNSUjZySkhMZmxzU3ZVT2l6UnduUnUzT0JlQVdPUFN2cmhjNDdUT2JqU21zXy0tN1BFM2NNMUJmQTdVSFJjQnduaXA4dWl6MlMycm90U3UyUXQ3WVBj?oc=5",
+        "pubDate": "Fri, 25 Sep 2026 22:49:11 GMT",
+        "snippet": "Talk of US export ban on diesel deepens US crude futures' discount to global benchmark&nbsp;&nbsp;Reuters",
         "source": "Reuters"
       },
       {
@@ -158,17 +158,17 @@
         "source": "FT"
       },
       {
-        "title": "US mortgage rates breach 7% as affordability pressures mount - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlFsM1hhM3Bfd3BrdEhVeUg0Rm9lQy1IRU1KMThETHJrQjNtcVdxcldUdnJDMHZnb3BnSmVPZVNFcmFtQ3pfMjRLMjMxVWtnSlhBeGc4MWcxNHFlVDVuSEstYlZjUGdyd2JPUGo0czk2NkFlR2dfYUREd29iV2wxU25XX3Y?oc=5",
-        "pubDate": "Thu, 24 Sep 2026 16:12:59 GMT",
-        "snippet": "US mortgage rates breach 7% as affordability pressures mount&nbsp;&nbsp;Financial Times",
-        "source": "FT"
-      },
-      {
         "title": "Trump is not going to drop Canada - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONG51NnRQR2lBdjA3US04NDhBNExTTWRYZ1Z6VGtrTzdUeW1LZmFaNGMxbTRFaW5IZnhYNEpLTnFGMVdPbDZNNmpUZkZZSzlycF9zYUVyUDE3aHkxV1haMFRSelowUEtNb19FRDlBeG9lSjJNLV84aWx6cXJfeUFzX1N3a2Q?oc=5",
         "pubDate": "Fri, 25 Sep 2026 13:00:07 GMT",
         "snippet": "Trump is not going to drop Canada&nbsp;&nbsp;Financial Times",
+        "source": "FT"
+      },
+      {
+        "title": "Submit a question: What\u2019s next for the global economy? - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOejVQTkY4SnZCM0E4ZlFldXZYdjFoRE8ydFhjSDI4OW0yYVduY2pyQllFOG1nci10aFFnSmVRT2RtSVF4VlhnbWplYTNXSWJUZUdrWDVJWTRyTjU0SU1Ua0dsMGNJeDF3R2k2d24wMjY5eWdMWFBOWm4xR2NVMUlEOWRqZEw?oc=5",
+        "pubDate": "Fri, 25 Sep 2026 15:53:34 GMT",
+        "snippet": "Submit a question: What\u2019s next for the global economy?&nbsp;&nbsp;Financial Times",
         "source": "FT"
       }
     ],
@@ -244,17 +244,17 @@
         "source": "Bloomberg Tech"
       },
       {
-        "title": "Morgan Stanley Rushes to Check Fallout After Deal List Leak - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2VnWmt0WlJsN0ZfdkcyQng1M0xaRDVibEZCQ0NiOUk5eUY3YWNCN1B2bTZHUHl6TWV6cDdQYk1ZME5admpxb0ZSM2hsU2pCWmpubkF4SXB5c2tqcnljTDNyeWxEMF9MUFM4NmhtRjRNTkxUSk5xZGRBaHd5anVQWVo3ZDBmRndxVmYzNFVnZTlyaDZZM0gyV0FSTG83LURPSV9vclpvbllCNExmaGJ2cUx3?oc=5",
-        "pubDate": "Thu, 24 Sep 2026 10:01:15 GMT",
-        "snippet": "Morgan Stanley Rushes to Check Fallout After Deal List Leak&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg Tech"
-      },
-      {
         "title": "Elon Musk Aims to Double Colossus 2\u2019s Nvidia Chips by Year-End - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbXBxTEhITGFuWVlDRnZwR091R2poVktlRXFWc19zQkJocmtoakN4WDVkaEpIR2pudThGSDVpYVNjYjN5azE3dHdMUWNnamwzcmVVNTh1RE41U3ZpZXBPVzhweWs1QWN5WFZvRTVtaFZhOGRSa1Y4MmIwX2pjcF9ZRUJTZVhfeVU3SnhOdWwzM0F6Zm5lOWJmZlZDZnpjU3A5ZEFwVE9zUFBxeEd5OUlnX0x1NA?oc=5",
         "pubDate": "Fri, 25 Sep 2026 06:04:00 GMT",
         "snippet": "Elon Musk Aims to Double Colossus 2\u2019s Nvidia Chips by Year-End&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg Tech"
+      },
+      {
+        "title": "Bitget Hack Pushes North Korean Crypto Haul Past $1 Billion - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTE1XSWM0dHZXSUNnNEdvZTBaRDhBUmFFUzlQOEtJOFRadDdvZUhOVTE0Yy1FcTRGWTZOLXVicG53dFhfS2wwRjVLZmFDdzBOcjdqaHRveGpfTVhQd003ZEw3Um5DUTROTFMzME8xWkE3SzZYUVBrZkdUNmp0a2dUNWZGVDM1N1piM0RkSjVBbkx1TnFwYl95QWJjTHJqd3FxY2xBZEUxSGFfVkE3akE?oc=5",
+        "pubDate": "Fri, 25 Sep 2026 15:59:43 GMT",
+        "snippet": "Bitget Hack Pushes North Korean Crypto Haul Past $1 Billion&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Tech"
       },
       {
@@ -300,45 +300,45 @@
         "source": "CNBC Tech"
       },
       {
-        "title": "Google is sending an AI satellite into space next week - theverge.com",
+        "title": "Google is sending an AI satellite into space next week - The Verge",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdThqVkpxQ0dqWkhidzhPdnEyaUhtUE9HLTBjZjhNaGJQa3ltbVI5ZzlxUUMzYVFmZkNYN0F4Q09nUzVaWGt4bFh0RXMwcWlFTHE1MWtEYjNVNlkwMnFIQjBXaF91TkFYX0F3NjR2enc0bnNZb294TnZWQ3V1YkRfWjZidmlvdmlPZnc?oc=5",
         "pubDate": "Thu, 24 Sep 2026 14:15:17 GMT",
-        "snippet": "Google is sending an AI satellite into space next week&nbsp;&nbsp;theverge.com",
+        "snippet": "Google is sending an AI satellite into space next week&nbsp;&nbsp;The Verge",
         "source": "The Verge"
       },
       {
-        "title": "Muse will apparently let you download its entire filesystem - theverge.com",
+        "title": "Muse will apparently let you download its entire filesystem - The Verge",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZzQtOFBMd1Vsa1hjT2Eyblk3S1Btbk0zb21IWUpSRmFFTW1nOVh0ZERfT3RfYWpnb3ZfLXN5WHJuSXBOZ1daRk5yVDU3ZGpfRVY0UXBTc051TXBkT2toRHZpaWkwdGdjcWhKU0g1SklXYzM1bGloR0ExV2syV2hqUTViSEhndjFsWlln?oc=5",
         "pubDate": "Thu, 24 Sep 2026 17:14:12 GMT",
-        "snippet": "Muse will apparently let you download its entire filesystem&nbsp;&nbsp;theverge.com",
+        "snippet": "Muse will apparently let you download its entire filesystem&nbsp;&nbsp;The Verge",
         "source": "The Verge"
       },
       {
-        "title": "Meta is going to let you build games with AI right on your phone - theverge.com",
+        "title": "Meta is going to let you build games with AI right on your phone - The Verge",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qeXJibDVIaHRxSmc5Q1pQeWFPcEdzeTVyd1hTaXQ4aGQtWVZzV3VsQmgwMk16QW42UUwzR1ZFamNtYWJfa2c0YnBydV9peXJrZk8zSjZrRElBTXVVeE84QWw3TWJTRFkzLUFnc285YVFiYWN6S2x4dTZQQXBFUQ?oc=5",
         "pubDate": "Thu, 24 Sep 2026 17:52:29 GMT",
-        "snippet": "Meta is going to let you build games with AI right on your phone&nbsp;&nbsp;theverge.com",
+        "snippet": "Meta is going to let you build games with AI right on your phone&nbsp;&nbsp;The Verge",
         "source": "The Verge"
       },
       {
-        "title": "Gemini 3.8 Live with Live Avatar gives Google\u2019s AI a face - theverge.com",
+        "title": "Gemini 3.8 Live with Live Avatar gives Google\u2019s AI a face - The Verge",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52cFhVWm8zb1IteG1tOUhib0VlN05Yd3RrVWI2eFJQcUtUMVRvQ2lhSzNKS0JDSnc2ejVkd2JCMUVOOTJiUVFiZ3dCU0NRV3RxZG03SWpIZXlLemhPbm84YlZOU25VenZrX0M1WDM4YmkzSWhMVmZFTDZCaw?oc=5",
         "pubDate": "Thu, 24 Sep 2026 19:59:26 GMT",
-        "snippet": "Gemini 3.8 Live with Live Avatar gives Google\u2019s AI a face&nbsp;&nbsp;theverge.com",
+        "snippet": "Gemini 3.8 Live with Live Avatar gives Google\u2019s AI a face&nbsp;&nbsp;The Verge",
         "source": "The Verge"
       },
       {
-        "title": "Gemini can now call businesses for you so you don\u2019t have to wait on hold - theverge.com",
+        "title": "Gemini can now call businesses for you so you don\u2019t have to wait on hold - The Verge",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRTNwMXQ4a0NQYXc4aUlDaW5OUkF4UGVnQ25Uc1NOTU5BeVN2ZUMzTi1XSHR6a0oxQ3hMYm03dnFoaHZXT09jNFdfcFMyWjlfRmRZUmN3d1dvb2ZrbFJXSDA3dndlNXJyRU5OOG05cHAxVFVzeUJYTmNsbVNxdmRYeUpnSFZTa3J4OXRpb1dqeEQ5QTVvRHpUdW53?oc=5",
         "pubDate": "Thu, 24 Sep 2026 16:04:31 GMT",
-        "snippet": "Gemini can now call businesses for you so you don\u2019t have to wait on hold&nbsp;&nbsp;theverge.com",
+        "snippet": "Gemini can now call businesses for you so you don\u2019t have to wait on hold&nbsp;&nbsp;The Verge",
         "source": "The Verge"
       },
       {
-        "title": "Meta\u2019s Muse AI Charms can interact with each other - theverge.com",
+        "title": "Meta\u2019s Muse AI Charms can interact with each other - The Verge",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zdFE4WjgtMnNwNU9RWUlrcHU3enlMMm0tY21EZk9yemhWOFhXSHVSM2RhblNxalU1NTF4dmRDbDZVeE5aXy1QVDlIc1lFbllEX0RpRXdkWDhUaExfQVpvd1BNY2RYQlRnRUQ1cl82WjZBRUcyMFBrUFFvNmh3UQ?oc=5",
         "pubDate": "Thu, 24 Sep 2026 13:31:43 GMT",
-        "snippet": "Meta\u2019s Muse AI Charms can interact with each other&nbsp;&nbsp;theverge.com",
+        "snippet": "Meta\u2019s Muse AI Charms can interact with each other&nbsp;&nbsp;The Verge",
         "source": "The Verge"
       }
     ],
@@ -484,13 +484,6 @@
         "source": "FT Banks"
       },
       {
-        "title": "Rate rise \u2018increasingly likely\u2019 if energy price shock persists, says BoE official - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVGhmUU1BWEdKenFOc09SaWFwUFNrNTlDemU0R0ExZTZFOGRWZHVOSEdRdUtyRkM0LVJNQlZTT3pwTjNwOGV2NHJ1bHVGUmlscnNGZ2RnMmxiaEM4YTltTkpydXlsVHd0SlhENE1ueHZrSkZTVkpsZWNhVE5OUEFraHR0Rzk?oc=5",
-        "pubDate": "Thu, 24 Sep 2026 09:54:56 GMT",
-        "snippet": "Rate rise \u2018increasingly likely\u2019 if energy price shock persists, says BoE official&nbsp;&nbsp;Financial Times",
-        "source": "FT Banks"
-      },
-      {
         "title": "UK bank tax receipts jump 20% following surge in profits - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOalJUQ3FSMmdnX2dlOXAyVXV5VDZ1c0VJamsyejlaNE9uQ1h3Uy1uR2JJdVZpUkdsT00yQVJZYnJkeDdpdlBMUWJpSnFrTVBZakdwN3NpNXA1RUZFMHBCV2JQdWEyb25ZZ2VvMUlKY0JMNm9WeG9LYlVBZXp3aEthSnFWWHY?oc=5",
         "pubDate": "Thu, 24 Sep 2026 10:34:37 GMT",
@@ -509,6 +502,13 @@
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVjhxcHNBWFFKSTlDR212MTZpTVN1aE5Vb1VzTVh4cmVzbnlHeGI1UEltd0llSUQ0WEJpWVZabTh2TFdRWEZrQ3RwNDItUWRSWjl6MXFZX0hlQmZtR2RYazNvMkxpcWpQOU1YX1VSSEpid21lR2hSbTB2TFg4X3RPTTFZRkU?oc=5",
         "pubDate": "Thu, 24 Sep 2026 21:00:05 GMT",
         "snippet": "New Delhi becomes lobbying battleground in fight over Tata&nbsp;&nbsp;Financial Times",
+        "source": "FT Banks"
+      },
+      {
+        "title": "HSBC axes $26,000 perk for Hong Kong bankers to join members\u2019 clubs - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYmZYUEhOMjBFLVpFeTlHek9CeXdYVHdnQkVwOWlIejRfX2MtUlhpNTNWV2pLeWkyZVdnVGZqaVVJRzRzRkZMQkNPVGlLVXlpUFFQbXRHUV9oZmpWVTRkU3QtanQ2LU1WeVNGYUY2S3pVZzBsY1ZMRXA3d3hmRldhdkFEUW4?oc=5",
+        "pubDate": "Thu, 24 Sep 2026 14:58:14 GMT",
+        "snippet": "HSBC axes $26,000 perk for Hong Kong bankers to join members\u2019 clubs&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       }
     ],
@@ -647,17 +647,17 @@
         "source": "Reuters SG"
       },
       {
-        "title": "Explainer: US diesel exports ban would hurt global fuel markets, analysts say - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcFVnODdXSGNuNWJSMGVVTjMySl9oT2l0enUxVmFDaVc2S3RYMG1mMndUTWF3U0RaYXdNNGZ0aWN0WlpjYjc5NGU4alB2MTk2eFBtWktwZFFvUG15NlpicEwyd0hLb181cVh2Z09kRmNjLWoteHQ4ZDQtRjJ4LThRQS0xSlE5VGxpNGJHNEljMXlXcXlWdFoya1c0YW9ZWkxya3BsVTJvTERZYTU3dHBrXzln?oc=5",
-        "pubDate": "Wed, 23 Sep 2026 23:02:05 GMT",
-        "snippet": "Explainer: US diesel exports ban would hurt global fuel markets, analysts say&nbsp;&nbsp;Reuters",
-        "source": "Reuters SG"
-      },
-      {
         "title": "US Fed plans to raise bank oversight thresholds, sources say - Reuters",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWp2cWtUeTRqUnMtdGU0NElzbE9lV2N5QllabnBYYlhyRVk5TnU4ckJhSUc3aVZmRmxadmVoRTBsM2xfSWdpR19JMlVLMlg4eG1SdDdaSXRvT1RKNE5kS3d6NjgwS2l3ZGxqSW5Tc2x3RFJQYm1nV3RTN3NpZVBPbzhjekxzdlp0djdiNHVFckt5UDFCY2Ixajc0bVhaSkNDUEJvYm9iUWprUkFINVpGWGdR?oc=5",
         "pubDate": "Fri, 25 Sep 2026 17:19:23 GMT",
         "snippet": "US Fed plans to raise bank oversight thresholds, sources say&nbsp;&nbsp;Reuters",
+        "source": "Reuters SG"
+      },
+      {
+        "title": "Explainer: US diesel exports ban would hurt global fuel markets, analysts say - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcFVnODdXSGNuNWJSMGVVTjMySl9oT2l0enUxVmFDaVc2S3RYMG1mMndUTWF3U0RaYXdNNGZ0aWN0WlpjYjc5NGU4alB2MTk2eFBtWktwZFFvUG15NlpicEwyd0hLb181cVh2Z09kRmNjLWoteHQ4ZDQtRjJ4LThRQS0xSlE5VGxpNGJHNEljMXlXcXlWdFoya1c0YW9ZWkxya3BsVTJvTERZYTU3dHBrXzln?oc=5",
+        "pubDate": "Wed, 23 Sep 2026 23:02:05 GMT",
+        "snippet": "Explainer: US diesel exports ban would hurt global fuel markets, analysts say&nbsp;&nbsp;Reuters",
         "source": "Reuters SG"
       },
       {
@@ -675,10 +675,10 @@
         "source": "Reuters SG"
       },
       {
-        "title": "China's purges of top military commanders spur questions about war-waging ability - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeGdEYlV3dUljYzl4TGkwYXJ4elVTYjlKV0Vydm1SSHJydTdPT0N5OWd4c3AwTks1bF9SakVHcXdmclFkWXhkZTVyUnZ6cnZIMTQ4WDd1RzBUY080UTV1YUN6OEx5WlJRTFNOUFBiWENlZFJROVFiVlFxaWhlcG9FZ2F1Ylc3VURrOFdMU2tkS0lmY1BUYU5hNjhPNjN2bUhYQ2dpWnVJQVpoNjFNY3UwZ1pHc3JIVHV0Uk1zUi1SbVhlQ1VpYW1VNWV5cUhfZm1aM0hJTmVkRQ?oc=5",
-        "pubDate": "Wed, 23 Sep 2026 13:43:47 GMT",
-        "snippet": "China's purges of top military commanders spur questions about war-waging ability&nbsp;&nbsp;Reuters",
+        "title": "Data center IPO hopefuls brave tougher market as investor scrutiny grows - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNUI2bktTU0d4N3ZCQWY5MXJJblQtWHJvLTJJU19EZFQydzI4QWdKNDRhR0ZVVTdUQzVXYkpSMDFQTmZveThyT0NseElNd3M3UGhrWXI0bTFfSVNMaUh2UTRUZi1JYjlycmdIc1JZRFRhNUhpWUNMcmRqcUVvYjlxUldRbnlpU0ZfSmZZbjNlNE96UnIxSUw0VmtvQXIzWW45b05JTk5TNU5pZEhIODBnbmF5NXZ3a05FSmFLUG5PM2hkdDA?oc=5",
+        "pubDate": "Fri, 25 Sep 2026 19:35:53 GMT",
+        "snippet": "Data center IPO hopefuls brave tougher market as investor scrutiny grows&nbsp;&nbsp;Reuters",
         "source": "Reuters SG"
       }
     ]
