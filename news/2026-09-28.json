@@ -1,6 +1,6 @@
 {
   "date": "2026-09-28",
-  "updated": 1790563204,
+  "updated": 1790564810,
   "tabs": {
     "global": [
       {
@@ -8,6 +8,13 @@
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZVBWUjdTSkRRcUtpSUp6djB6M1NoZHpMQmlsRXBpU3R2Z0ZuT2dOa09tYzBoQ1hQbXFGbVJGa3c2TmFiZ0JaUF85cU15bXVOcTBKdUgyYWdoUGRJT1htcmZEN0NJMGJlT0JtWHBPQjZJeDhiMzlQWFBYWFl3WDRMNE5nem12bkFobF8yMFJMaTZ4bkZwRVVQbEUwZG5UY0lXR1VZTnRFNVhZSkcxYnkxT3hsQTZlOF9UaEt4Q1VTem1PUURnQjdFRWViN0QtSzBVb0tlcFFpUnFFSFBMMnc?oc=5",
         "pubDate": "Sun, 27 Sep 2026 22:02:38 GMT",
         "snippet": "Iran-linked diesel price spike makes electric trucks cheaper than diesel in key EU markets, environmental group says&nbsp;&nbsp;Reuters",
+        "source": "Reuters"
+      },
+      {
+        "title": "Stocks cautious in Asia as oil gains, yields rise - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNjVwRkxEMEdFMlBlSmpIbDZEZ3dDclNNLVVBLTBya2k1VlpyT00xM1VBeFZ2cmNheUplNXJDYy1Vam9FYWdibUxrWmFLd1ZIUU9LRGhhX09yQkQ0OXF6dW5MZ0Qwc0dXNF9fU3ZBR2NwU3R5eGNWdnpPMW1heVpsUkpGNA?oc=5",
+        "pubDate": "Mon, 28 Sep 2026 00:50:00 GMT",
+        "snippet": "Stocks cautious in Asia as oil gains, yields rise&nbsp;&nbsp;Reuters",
         "source": "Reuters"
       },
       {
@@ -39,13 +46,6 @@
         "source": "Reuters"
       },
       {
-        "title": "US consulate builder in Milan to pay $35 million over labour probe - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbzNpd051YmVtWG1CajVjZ1NPTzhzNVJ6aG5uc3p4SXBIZFBDdlhPZmMySXlNWVNaY21wUXNFZnJ0aVA5bklra0E2SVJxT0k1QkZtQ1N6bVZXdEtwblFES2xWNGhpU0ZUU3JhZkRXM2xkc3YzUmMtRFJLV1lWNFZyWFdJcndhMm4zVE9XeGdTMG9oR0tqNGwxOXloQzhNRjE3dXBDQ0h2a1RPN09RNmJUak0xbnQ1ME1nTjBR?oc=5",
-        "pubDate": "Sun, 27 Sep 2026 05:02:00 GMT",
-        "snippet": "US consulate builder in Milan to pay $35 million over labour probe&nbsp;&nbsp;Reuters",
-        "source": "Reuters"
-      },
-      {
         "title": "The Bond Market Is Getting Closer to Sounding Alarm on Economy - Bloomberg",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTFrYzFvbDRlX0l0RU82NG1VZElManl5VkJCNk9FbUNfakVQaDlqYVZFWjUzWHpOWlJIeEtTRUw0bVZDN09XbzJEY2wwZmRWQ3hVaUhEaWpRNl9XSFFJTlN0QVg0aVd0NUhNcGdPWXdoVnh1MHhsYUFMRXFETElzS1E1eWdZWWFzaFhORzdSZXVWQlNhWE9zbTNkS09MWnBpQUNZS3JoUTRZTFd3ZWhWVUtKWQ?oc=5",
         "pubDate": "Sun, 27 Sep 2026 19:00:00 GMT",
@@ -74,18 +74,25 @@
         "source": "Bloomberg"
       },
       {
-        "title": "Billionaire Charoen\u2019s Asset World Targets $1 Billion REIT IPO - Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTHc2OVFkd0swaDhJRlZNSE8wQm1CeEN5VlZVMlR1dkdCWkI5VUc2OEJHSlN2c3gzQ3VzWlBMR1dWTXFWZW5qdXhSMktpZkM4OWd0SGc0ZmRGQllJVlV4SnF1UDNPa0pETlhvZnBZQ0RIQ2RqV0NOT3FZTlBfUXZoY1FFdHVEeXJHUEpSdmVlZ0JnckFhZ3ZlUTdnT2ladjVtLWFRTUhoeTJIXzdKdzlxdA?oc=5",
-        "pubDate": "Sat, 26 Sep 2026 02:42:00 GMT",
-        "snippet": "Billionaire Charoen\u2019s Asset World Targets $1 Billion REIT IPO&nbsp;&nbsp;Bloomberg",
-        "source": "Bloomberg"
-      },
-      {
         "title": "China\u2019s Economic \u2018Regime Shift\u2019 May Sow Risk for the World - Bloomberg",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUx6cTQxcHZqVnVMX2MwVHpiRjZFamNGNnFCV2pBVVFuTlZwaVVyaWxjWXFOdzlNcUM3bm5CdkR1RHhydnNEcG1mZ1o2SmExeWUxaW1xNjBXeTZxNU5YSzJKX2tXM3NtNml4aUpQalZDUWVxcFJ4aHFTVzBxeW9QRE83REpBYl90VmQyOTVpSEtNcFVsSzBpR3lyZXBHb2hsS0dKX19TVGUxTFVmTmwtVDZVMUZpdw?oc=5",
         "pubDate": "Sat, 26 Sep 2026 10:45:01 GMT",
         "snippet": "China\u2019s Economic \u2018Regime Shift\u2019 May Sow Risk for the World&nbsp;&nbsp;Bloomberg",
         "source": "Bloomberg"
+      },
+      {
+        "title": "Bangladesh Targets Up to $1 Billion in Debut Sovereign Bond Sale - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkxnTHkwZVJWY0VFTEdYVzVpbXRqXzdJdjhrV0c4VndZNVVZeE9PYUtqV01TcGZ4eDVSUmtXSGY1VnpPS0t4NW9nOF84dFJsU2N0eC14YXQyZ1FibUh4aWV4WklzMWkzWG5mYTdFY1Z3N0NDeXN0VENPdTNKTk1qemhJaGl4SFhuaW5uZnU3UC13eUpONDBJVnp6Z1dFRG9wd0NHTThoeEpQc045LVdySDVmX2c?oc=5",
+        "pubDate": "Sat, 26 Sep 2026 18:21:18 GMT",
+        "snippet": "Bangladesh Targets Up to $1 Billion in Debut Sovereign Bond Sale&nbsp;&nbsp;Bloomberg",
+        "source": "Bloomberg"
+      },
+      {
+        "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcUtrM3NvQksyb1liLUJJRi1QNG5LSzhGdEV1OUhQYmFTdHFlMTExOTl3MHF0RG0zUHNMUjBpd1ZYQ0R0bEUtWjF0NmRQYmtvb2s3NnBDWW84a0V2Nm4yTFM1SmtvTU1XQVdtUDRQanhGaTViZmdEZl9UakZiVWNid2FBQ0xNNGNfTEdtd1FGazJmaVc3TFR0aHZ4Zjd1cGZOVWludjZFQlhIUm9CSi1rYlhqblZGbGxFYm4yYVNfNzFKRFY5TVHSAcsBQVVfeXFMTVZZSUhXY0I3V2tfbW9RaXgyRDkwUWxMSDJfbUZZR1ZaUUZnTm81c2hDNDhBYW54RE9VLWlhU1NtY0FXMWc0Mkh1TExKNzFfS2RfbXdDZDRWU2FmWEpoZERyNTVGeUpSVjNrLTNweHIwa0hyLXowMUhVOGN3MmFsM1BtRnRxSTloV3U1TTlXdWZ3TWJ4WV9PbnVxLTFucU53S0Q4a3cxamM5eTllVDdYRDlXajlxTmF6U2paazBDSW1jU3IxcFVTU1lLbTA?oc=5",
+        "pubDate": "Mon, 28 Sep 2026 01:40:00 GMT",
+        "snippet": "China posts weakest industrial profit growth this year, expanding 4.2% in August&nbsp;&nbsp;CNBC",
+        "source": "CNBC"
       },
       {
         "title": "Northern Star shares pop as Australian gold miner rejects $27-billion takeover proposal - CNBC",
@@ -102,6 +109,13 @@
         "source": "CNBC"
       },
       {
+        "title": "Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nREFXWWx6MEZHN2E1ZlY5dVRXbE1VUEx3bVJ0MXBlYWs1ak9LVlMxR3ZFXzZzWG11YUthQ3g1eENnMWtlMlFyeElrQ2E5bEpqbHkzYUlxMXZwX2I4LW12WVdwMDdadlVtZUhDMFRDQlZCdnR6TDVQbW1rZXVIZ9IBgwFBVV95cUxQSDlVM29MMHdJa3RCZ2FvRWlZeWxERHlHZ3JLRmIxUWFSb2xYUWFmRDJTUi1UYjIxZkJZTWFvcEQzdWMzTDU4S1BEdUZkeUhDNjcybDFNTHUyenc0a21LeXBmTUxoYXRZRUwtcG5TNUlRRnNnQ19PVURVMU9Pb0hSb1Zjdw?oc=5",
+        "pubDate": "Sun, 27 Sep 2026 21:38:59 GMT",
+        "snippet": "Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms&nbsp;&nbsp;CNBC",
+        "source": "CNBC"
+      },
+      {
         "title": "Here are the 4 big things we're watching in the stock market in the week ahead - CNBC",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX0p2MmpQNG1lWktLTzV3eDhjN21jN2pjV0VEM3V6SDhZVlE5N0JvVFJvbHJVaE9iOVN1ZzhDSkgwNFYyTWp2aGh3VlBsNjZieDVwc2pta1pRem1xYVdDY1ZlR2JXOGxhVHowQTlzTEstTHJlbUZoeFVxRlZ3eVIwRDRZWG5wRmJHWHIzQlZMeHdqODdqd2J0Q1lwVFJZbXVKWVA2cC1DOHlzSUZrQllsM2ZreFA?oc=5",
         "pubDate": "Sun, 27 Sep 2026 16:13:03 GMT",
@@ -113,20 +127,6 @@
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOHBKUmRybGt2SXBxRE9PS21SR2RtYzdRcUtMWldYRmRrdXBFVWhZRDFIUTdaVzd4czRFZkxoQkpPcnYxMjItdVBIZ1dVc2Q0aEtyMFh4clFremphUWVoOGQtRVdSVzRtbkhrN2tTQzg4em43WnVocHd5UUFMRTl5bkZiN0NqcDZuRC01TURoRHpUX3RJLUHSAZsBQVVfeXFMUFN0NTBJc2dyX0ZhSmhFNjNETDBDNWVGNFBINnB5aUozdEhWbFBNQ3FjZWowZS1ha1pya3Y5M2hWTW9tSEN1NjA2T3RaOGlpTnowLWRWQlRmU2JjMlNnRm9keS1KRXozZFlBNkNpUUtvODFUUk9yVnFxUVE1NnJxdUZGSVlHMjVKRlcyZVlSdE5WcUY0TWNTdVJ2dHc?oc=5",
         "pubDate": "Sun, 27 Sep 2026 11:32:35 GMT",
         "snippet": "Wall Street money takes back over from small investors as driving force of the stock market&nbsp;&nbsp;CNBC",
-        "source": "CNBC"
-      },
-      {
-        "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ETGE2S1ZqMWk4djE5R3c5YnV6VGV0eUZqN0ZaNXZDaXlMY2RUcWNWdDI3V0stY2JrZXVMWjRzTUhGZ3dOTk8zSkUtY1ZmZlRiazkyYUVaYUZFdVlaT210WWdRYUlpa09yclZhb3JDWEVoQdIBd0FVX3lxTE12NGNnN0FJaVdSRWRVR0tQcklzNlRMTTBpSjFOcVB4OGhCeFBIWkUzUENxSXlpQThkY1FZX3F2NjRZSVhJaWVleHkxbDQtd3N4OVlkWVZuQ3FkYk02VjA4WTU4ZGdHUFdQWkxrYjlOVzNrRzZBQkhV?oc=5",
-        "pubDate": "Sun, 27 Sep 2026 14:33:22 GMT",
-        "snippet": "Meta's Muse agent is attacking one of the economy's most profitable weak spots&nbsp;&nbsp;CNBC",
-        "source": "CNBC"
-      },
-      {
-        "title": "Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVU1TSVRCVjFmV0ZuQmtsNTBuZkpZb2JKVU5EaHMyeDZaUHdIQzhOZno0QzdUeHRaVV9ibFJIQU1pWnRTVHA2b21XR3VhYmNPenl2eEhYYUhXSkc2TFI3UUI1S2dqZnJ1SEp6eEJEWnh2bUdGeWlhQnVRb1dQenFvcVgxenRWbmFJYTczRzJ1aTlnLTdLRHZSOHFQTkRMcTJneEUyT3JFd9IBrAFBVV95cUxOZEZodUZKbjI5T01UanZ3NWtBSE9NMFQ4UGhESDl1SDJ5WFdISWsxeFF1NFRDZ04wMmswUHdBOEtKbkZSS1JPa2RMemxtTW5tZ1lHWmhycFNWRGdValNMcUx2VElIc3BTYUVvVVNCQ3BWVi11aE15UDloODY2T1E5b1dLRUNpZ1h5cTBiWXRaSkx2bHZuTDBLUXlXamFNTmxxZkVTUHVkSTA2Z1Rk?oc=5",
-        "pubDate": "Sun, 27 Sep 2026 13:30:02 GMT",
-        "snippet": "Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table&nbsp;&nbsp;CNBC",
         "source": "CNBC"
       },
       {
@@ -251,10 +251,10 @@
         "source": "Bloomberg Tech"
       },
       {
-        "title": "OpenAI Sandbox Failure Allows AI Agent to Gain Internet Access - Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY0F3c3p0WjVTZ3FiVkMtcm1NOFhiQmVZZGpVSmhTbEEwMF9BTWI0czFyR05FV3hzdzZsc2JfdXpkTm9tWEx6VURHXzBuSUtQcnhQZGRWM3ZTZ2t6RUkzazlMUHQxaTF0eE1IVFRRY3ZzVk5TcDlFSXkwNEIycVBpQ2ZETFh1VU9vSnlnU3Y4ZWtIQkdWTTRDM2FyMTJZQUlGS1Z3WEdybEJsd1puZUExZnBB?oc=5",
-        "pubDate": "Sat, 26 Sep 2026 04:29:00 GMT",
-        "snippet": "OpenAI Sandbox Failure Allows AI Agent to Gain Internet Access&nbsp;&nbsp;Bloomberg",
+        "title": "China Tech Needs AI Catalyst to Close Valuation Gap, BI Says - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV1RlbzlQYTF4SEQtVW5YNVgxdmtkQ0pzZU5ZTzlidTU3UGE4ZG1HS1NSemJhU0w5WlRVVXpWbkd1RlZ1SXNhSGI1Ri1WWmlNSUt0cWlDclpXX0x6TUZPVF9JTWp2WFJTdFdiT0pFTlFZbkhUYldQV2lvU21UYktRbmpQbFRSOG9Vbm11UTNNek1ZNDZ1OUU1RzFnX2dnUmZfSng2MXI2Y25WX3Q0NGxB?oc=5",
+        "pubDate": "Mon, 28 Sep 2026 00:33:00 GMT",
+        "snippet": "China Tech Needs AI Catalyst to Close Valuation Gap, BI Says&nbsp;&nbsp;Bloomberg",
         "source": "Bloomberg Tech"
       },
       {
@@ -300,45 +300,45 @@
         "source": "CNBC Tech"
       },
       {
-        "title": "OpenAI pauses training of its \u2018most capable models\u2019 - The Verge",
+        "title": "OpenAI agents tried to \u2018bruteforce\u2019 a UN website - theverge.com",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVRjTmdjdnpYT3VIdE14OEh1QmNSc041UkN6NFVuMjJlUFBQdVlVVTB1TFVwenFWa01BMFJMd0VGNnJ0b0x6RXJ1ck52VUUwMDYzWEloQlFFa0NObmVHUklDTnFwdklsaTRXc09EUlNWamdNM3Bkd3cxbnptUXVzWHZ6MEgtUVhjM0I1UzZnN2tRMVBwaFJXdXJGOA?oc=5",
+        "pubDate": "Sun, 27 Sep 2026 17:21:07 GMT",
+        "snippet": "OpenAI agents tried to \u2018bruteforce\u2019 a UN website&nbsp;&nbsp;theverge.com",
+        "source": "The Verge"
+      },
+      {
+        "title": "OpenAI pauses training of its \u2018most capable models\u2019 - theverge.com",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzRTdHFhUnFrX3hvZW1ZT0x5NTlpajNJQlhPRmZKUGRfREEtN0ZBVkFYM3pJOGpzeUYwNzh1dV9vVUF0VWE1U0tpZlByQUV5U2lEaFNQMG1rWEVQRUd0OFZFalkzSm93VWRIMGpiOF9JVkNSNVBLN1ctVkRxQ0gtQWQyNFNWdk1j?oc=5",
         "pubDate": "Sat, 26 Sep 2026 16:34:59 GMT",
-        "snippet": "OpenAI pauses training of its \u2018most capable models\u2019&nbsp;&nbsp;The Verge",
+        "snippet": "OpenAI pauses training of its \u2018most capable models\u2019&nbsp;&nbsp;theverge.com",
         "source": "The Verge"
       },
       {
-        "title": "Apple hit with $5.7 billion in damages over haptic patents - The Verge",
+        "title": "Apple hit with $5.7 billion in damages over haptic patents - theverge.com",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeVJUTnRNZlE5RmtjSmlfZEVuVXVrVU9YRm1VYWdvN3FDbkhlTDlwWmFCRHZfVk8tdTdLZGR5MGNIb0lsbEtBamRkR2RhU1JROER6VWZ2NnUwTTVmZjZuYU9wTHBTcjhsSFVOcEJCSDV3ZGsxMUl4RHc2Y1hVa1pwQkpxek10Z2h3RjFxM201OXhnZG9ldzRpLS12aw?oc=5",
         "pubDate": "Sat, 26 Sep 2026 21:30:01 GMT",
-        "snippet": "Apple hit with $5.7 billion in damages over haptic patents&nbsp;&nbsp;The Verge",
+        "snippet": "Apple hit with $5.7 billion in damages over haptic patents&nbsp;&nbsp;theverge.com",
         "source": "The Verge"
       },
       {
-        "title": "Control Resonant is a great game \u2014 it\u2019s even better when you read everything - The Verge",
+        "title": "Control Resonant is a great game \u2014 it\u2019s even better when you read everything - theverge.com",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaEg0SWNHWEdRSTFkaTNrOEJVRS16eFRreXFVSXFYekVKT2l2b3dkTXhRMFFWWG42N0R1WHdjYmlQWVk5NXZXNE52V0lSaHNmX2lJVXltRkFNZUxma1Z2Q2tBemR1TXZRUjljdG1mVHJ1WDN5R3YtVy1hTnVUclIyVjRXRVY5NDA5MW1OTWZ0TEUwQm16QlE?oc=5",
         "pubDate": "Sat, 26 Sep 2026 13:00:00 GMT",
-        "snippet": "Control Resonant is a great game \u2014 it\u2019s even better when you read everything&nbsp;&nbsp;The Verge",
+        "snippet": "Control Resonant is a great game \u2014 it\u2019s even better when you read everything&nbsp;&nbsp;theverge.com",
         "source": "The Verge"
       },
       {
-        "title": "Can \u2018eSUV\u2019 e-bikes really go from trail to town? - The Verge",
+        "title": "Can \u2018eSUV\u2019 e-bikes really go from trail to town? - theverge.com",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU1U4c3R2aGk1bVF0QTdIeENJSENjb1BXMF9CN21uQVF3QW1QTlE1Z0ZxMEZuNFp5M3dSbnc1MmprVi1leHI3ZW5Wb3J0M2lhTG5fVjJVZnNFMkpNaTc4U2hGYThOZUpZb3dOd05XMGxrWGloMl9oU3FnbW94QXBuczI2WGxnX2JXai1tN3RDb2xXUjg?oc=5",
         "pubDate": "Sat, 26 Sep 2026 07:00:00 GMT",
-        "snippet": "Can \u2018eSUV\u2019 e-bikes really go from trail to town?&nbsp;&nbsp;The Verge",
+        "snippet": "Can \u2018eSUV\u2019 e-bikes really go from trail to town?&nbsp;&nbsp;theverge.com",
         "source": "The Verge"
       },
       {
-        "title": "Maybe don\u2019t let Muse run your Facebook Marketplace account. - The Verge",
+        "title": "Maybe don\u2019t let Muse run your Facebook Marketplace account. - theverge.com",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3pxRDZsMDg1RXZBMUNRaGJ6dEk2NFIxRkQtODhhSXJ0NDVheU1ISy11TmdndV8xRWE4aVpacDRGblNsOWFZRTlHZmFjNlJTVEtyUWdqWExlY1RWX2dHdFBlY00wRlhFNmYwUTZzbU9saXRDdmgtdmo2UjZOVkMtbmhDYkRSa3ZCUlZtYzFKeWtReXBVSE14NEFzQQ?oc=5",
         "pubDate": "Sun, 27 Sep 2026 20:54:58 GMT",
-        "snippet": "Maybe don\u2019t let Muse run your Facebook Marketplace account.&nbsp;&nbsp;The Verge",
-        "source": "The Verge"
-      },
-      {
-        "title": "Big Tech is too cowardly to run ads for the \u2018Musk\u2019 documentary. - The Verge",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmZKdkNsZmVHbDBLUDlTdVN0V1p2UnFteGVDcXRoOVV1ZUc1YkJZOEMyZ2xhV0hmSWFQd2pqX25mZ1I3d1NVNnEyMUFfdVlzT3p1LUpzNWFzem5TUUhiYkFEV1liMXNXVDhyNjNiTGxXQ2NqRlJ3QUsxenpWQ2J3dFNkM1RmeDZIa2R6TGw0NGJiUnBhZXpRRlYzSTZpOVBhcC1JT1BfLWZLeVp0ZXE4eEVlMlB0ZjNpZE1Ccw?oc=5",
-        "pubDate": "Sat, 26 Sep 2026 14:31:12 GMT",
-        "snippet": "Big Tech is too cowardly to run ads for the \u2018Musk\u2019 documentary.&nbsp;&nbsp;The Verge",
+        "snippet": "Maybe don\u2019t let Muse run your Facebook Marketplace account.&nbsp;&nbsp;theverge.com",
         "source": "The Verge"
       }
     ],
@@ -372,17 +372,17 @@
         "source": "Reuters Banks"
       },
       {
+        "title": "Dollar firms as US-Iran tensions lift oil, hawkish Fed bets build - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGN6Yy1FQUFsN3Z3US1YZWg2amxMczRubW9XaV9vWHJTc0JYbGN6YjhiX1hlWG5CZUdJbEVpcmwwTmdMT3EtTTNqRENIM25PSWY2RUhFVnBkTFBhY3d5VnlJY3NqWHhTSm8xN1FXY0lsVjBjN0JfQXI2Zml5WTNEcW9wMExxT21BbDVETDJZOFFrY0RXMGkwTUJHaTgzS2k1SHBQTVNhTlN5VVJVTllz?oc=5",
+        "pubDate": "Mon, 28 Sep 2026 01:35:00 GMT",
+        "snippet": "Dollar firms as US-Iran tensions lift oil, hawkish Fed bets build&nbsp;&nbsp;Reuters",
+        "source": "Reuters Banks"
+      },
+      {
         "title": "Israel revokes diplomatic status of Dutch diplomats in Ramallah - Reuters",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3pkY0Zia2l4Qm1yYmVVUzlQZWpYc1dnWkZJRllIREhJTy1PNWxPYXByWGdPNDVYNVN2bWx5cWxPNnFINDhIVWhEaW5BRk9qNjVJS3ExdVM5SW9MTmJ0UkJJTzFHS2Fvam5rMVhsZzZsVmZnWXFFVzFDTk05UW96V0IxNFpydV9nTEREeFJSamlqeTJWX0h0Mjl6U2ZWUG41eWtoekJiZE1Pa0dOaUZOaA?oc=5",
         "pubDate": "Sun, 27 Sep 2026 19:42:29 GMT",
         "snippet": "Israel revokes diplomatic status of Dutch diplomats in Ramallah&nbsp;&nbsp;Reuters",
-        "source": "Reuters Banks"
-      },
-      {
-        "title": "Japan's corporate services inflation hits 2-year high - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOckhuSjBSeXYxT0JkaDJPZmF2cThESzJvaEE5dHBWWEpZVFVvbGdkTlhfa0NKOGllU1AxWTBHRzdDdFhTN2VWM1h6TUVEeTNWdmt6Z0FEajR4V1JMckFZZm9wbG1Hckh6d2NuTHhGTGRLbDlSeGhoQ21JNURHcjFkbVZROU9FMVVvNVBqYWprbGk2ci1vaHA0YmU0emluY09xRHNOd3ZTdG15Vlk?oc=5",
-        "pubDate": "Mon, 28 Sep 2026 00:29:00 GMT",
-        "snippet": "Japan's corporate services inflation hits 2-year high&nbsp;&nbsp;Reuters",
         "source": "Reuters Banks"
       },
       {
@@ -563,17 +563,17 @@
         "source": "Straits Times"
       },
       {
-        "title": "Spot electricity prices have hit a 2026 high. Will this raise my household bill? - The Straits Times",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZExIWno2djNmcHQ1THdTdl9rU082OHE5QkdHWHNRR2ctNWM0MGowdVcyYXZMUWdUYjVVbGVEU2dscDBFT013WGVqcmgzN2xwOXFvR2llaE9uT0d0NFctbnFROXdRWVMzTWlnUEMzbG03RHBXOHdpSmZtb041ek9OcEp1YnBiaHM4RUV3U0lra0RjLU1hZEplQXJiV3RqeFV5LXNYTkRiVXRibDhSZ1VfZkUxUHhsSm8?oc=5",
-        "pubDate": "Sun, 27 Sep 2026 21:00:00 GMT",
-        "snippet": "Spot electricity prices have hit a 2026 high. Will this raise my household bill?&nbsp;&nbsp;The Straits Times",
-        "source": "Straits Times"
-      },
-      {
         "title": "Stocks cautious in Asia as oil gains, yields rise - The Straits Times",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ1NoSTNEZEx0SGY0aW5YLWRERHZkZkFEWGFRVWdwRlhadE5fM3p4bHhFaGpjbjJ4cjZXZnNiTXRHT2RDR1E0b0dZTVBqMmJTNWVSV1k1cEZndjBTWE9HYjZRNTh5NVhiMjJlNmVYSldsSld2MGVpR0ZneUF1RmlPX05CU3RQc0E3YXBpN19jaw?oc=5",
         "pubDate": "Mon, 28 Sep 2026 01:20:00 GMT",
         "snippet": "Stocks cautious in Asia as oil gains, yields rise&nbsp;&nbsp;The Straits Times",
+        "source": "Straits Times"
+      },
+      {
+        "title": "Spot electricity prices have hit a 2026 high. Will this raise my household bill? - The Straits Times",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZExIWno2djNmcHQ1THdTdl9rU082OHE5QkdHWHNRR2ctNWM0MGowdVcyYXZMUWdUYjVVbGVEU2dscDBFT013WGVqcmgzN2xwOXFvR2llaE9uT0d0NFctbnFROXdRWVMzTWlnUEMzbG03RHBXOHdpSmZtb041ek9OcEp1YnBiaHM4RUV3U0lra0RjLU1hZEplQXJiV3RqeFV5LXNYTkRiVXRibDhSZ1VfZkUxUHhsSm8?oc=5",
+        "pubDate": "Sun, 27 Sep 2026 21:00:00 GMT",
+        "snippet": "Spot electricity prices have hit a 2026 high. Will this raise my household bill?&nbsp;&nbsp;The Straits Times",
         "source": "Straits Times"
       },
       {
@@ -619,10 +619,10 @@
         "source": "CNA"
       },
       {
-        "title": "Regional flavours find new expression at Odette and five restaurants across Asia - cnaluxury.channelnewsasia.com",
+        "title": "Regional flavours find new expression at Odette and five restaurants across Asia - CNA Luxury",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ2xqbGxfQ2Faazh6RVA2VS1YR2lLcWxudnVXM0dJQWZINDJqR29ZOTlFY0RMV2E3VHNSQldkYmxxdHBUWXotLXZkbFlELWsyMktyejg0OEppMVgxVDdFX0d4N3RMVlFqeDZ1dkU2TGRXbGcwbk9XamY4c19ueThCSkxmTHJTZVJ5Z1RTaTZFR0lqVUlsNzVMaE50a2hUMkt6aFA5WTItRURvY0d4RjVLQnJiZEZkUTNzYUZsS3JvWEFqSXBpZWlqcVlrN0hzT1E?oc=5",
         "pubDate": "Mon, 28 Sep 2026 01:29:49 GMT",
-        "snippet": "Regional flavours find new expression at Odette and five restaurants across Asia&nbsp;&nbsp;cnaluxury.channelnewsasia.com",
+        "snippet": "Regional flavours find new expression at Odette and five restaurants across Asia&nbsp;&nbsp;CNA Luxury",
         "source": "CNA"
       },
       {
