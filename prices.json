@@ -1,5 +1,5 @@
 {
-  "updated": 1790625898,
+  "updated": 1790627977,
   "quotes": {
     "SPY": {
       "label": "S&P 500 (SPY)",
@@ -58,13 +58,13 @@
     },
     "C": {
       "label": "Citigroup (C)",
-      "price": 131.32,
-      "pct": -2.2043
+      "price": 131.31,
+      "pct": -2.2118
     },
     "WFC": {
       "label": "Wells Fargo (WFC)",
-      "price": 80.815,
-      "pct": -2.5973
+      "price": 80.81,
+      "pct": -2.6034
     },
     "HSBC": {
       "label": "HSBC (HSBC)",
