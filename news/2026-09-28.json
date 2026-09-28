@@ -1,6 +1,6 @@
 {
   "date": "2026-09-28",
-  "updated": 1790556319,
+  "updated": 1790557590,
   "tabs": {
     "global": [
       {
@@ -8,6 +8,13 @@
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZVBWUjdTSkRRcUtpSUp6djB6M1NoZHpMQmlsRXBpU3R2Z0ZuT2dOa09tYzBoQ1hQbXFGbVJGa3c2TmFiZ0JaUF85cU15bXVOcTBKdUgyYWdoUGRJT1htcmZEN0NJMGJlT0JtWHBPQjZJeDhiMzlQWFBYWFl3WDRMNE5nem12bkFobF8yMFJMaTZ4bkZwRVVQbEUwZG5UY0lXR1VZTnRFNVhZSkcxYnkxT3hsQTZlOF9UaEt4Q1VTem1PUURnQjdFRWViN0QtSzBVb0tlcFFpUnFFSFBMMnc?oc=5",
         "pubDate": "Sun, 27 Sep 2026 22:02:38 GMT",
         "snippet": "Iran-linked diesel price spike makes electric trucks cheaper than diesel in key EU markets, environmental group says&nbsp;&nbsp;Reuters",
+        "source": "Reuters"
+      },
+      {
+        "title": "Oil rebounds after Trump rejects Iran peace deal - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3FBcU1hWkxSdzlSbHdGdkJEbDR0REJsckozLWtuZGRwbXJvNU1kVnFMendhelM2Q3plNUFlUm1yZTljZDFiMEQwZjVDcWt2X011c193RWUtWTVlcEE4bjBKSWtYZ1A5MnhXS2hUSlVCN0lPcjhTRmNBc2V4ZERrclRaVW45NUl0cmtsb1g2d0s3SFB5NDRPc0lnRzVSZHZ2S0E?oc=5",
+        "pubDate": "Sun, 27 Sep 2026 22:25:29 GMT",
+        "snippet": "Oil rebounds after Trump rejects Iran peace deal&nbsp;&nbsp;Reuters",
         "source": "Reuters"
       },
       {
@@ -22,13 +29,6 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2EyakRfYnN4VnV2MFRsWmF1MXRHQXBObVl0c29NMEJoRUFoS0JCUVlWaEF5T1dqb3VHRHNLOWsyVXFoa2ZfcGpSdE8xRWVZNmJoWGhWVUVsbWEzRF9Tb01sQmgzaHVfTFAwLWtXMWRRWGtvdUlFYlFET2Y0eHJJT2c3cUJJcU1VYnZmMEpKc2dJYlVuaEk0UnFhYzA0dDg5WTY5bFJBNVhhOEttNThlTE93Y0VLQQ?oc=5",
         "pubDate": "Sun, 27 Sep 2026 05:50:00 GMT",
         "snippet": "South Africa reels from two shootings that kill 27 in one night&nbsp;&nbsp;Reuters",
-        "source": "Reuters"
-      },
-      {
-        "title": "Oil rebounds after Trump rejects Iran peace deal - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3FBcU1hWkxSdzlSbHdGdkJEbDR0REJsckozLWtuZGRwbXJvNU1kVnFMendhelM2Q3plNUFlUm1yZTljZDFiMEQwZjVDcWt2X011c193RWUtWTVlcEE4bjBKSWtYZ1A5MnhXS2hUSlVCN0lPcjhTRmNBc2V4ZERrclRaVW45NUl0cmtsb1g2d0s3SFB5NDRPc0lnRzVSZHZ2S0E?oc=5",
-        "pubDate": "Sun, 27 Sep 2026 22:25:29 GMT",
-        "snippet": "Oil rebounds after Trump rejects Iran peace deal&nbsp;&nbsp;Reuters",
         "source": "Reuters"
       },
       {
@@ -88,46 +88,53 @@
         "source": "Bloomberg"
       },
       {
-        "title": "Here are the 4 big things we're watching in the stock market in the week ahead - cnbc.com",
+        "title": "Here are the 4 big things we're watching in the stock market in the week ahead - CNBC",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX0p2MmpQNG1lWktLTzV3eDhjN21jN2pjV0VEM3V6SDhZVlE5N0JvVFJvbHJVaE9iOVN1ZzhDSkgwNFYyTWp2aGh3VlBsNjZieDVwc2pta1pRem1xYVdDY1ZlR2JXOGxhVHowQTlzTEstTHJlbUZoeFVxRlZ3eVIwRDRZWG5wRmJHWHIzQlZMeHdqODdqd2J0Q1lwVFJZbXVKWVA2cC1DOHlzSUZrQllsM2ZreFA?oc=5",
         "pubDate": "Sun, 27 Sep 2026 16:13:03 GMT",
-        "snippet": "Here are the 4 big things we're watching in the stock market in the week ahead&nbsp;&nbsp;cnbc.com",
+        "snippet": "Here are the 4 big things we're watching in the stock market in the week ahead&nbsp;&nbsp;CNBC",
         "source": "CNBC"
       },
       {
-        "title": "Wall Street money takes back over from small investors as driving force of the stock market - cnbc.com",
+        "title": "Wall Street money takes back over from small investors as driving force of the stock market - CNBC",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOHBKUmRybGt2SXBxRE9PS21SR2RtYzdRcUtMWldYRmRrdXBFVWhZRDFIUTdaVzd4czRFZkxoQkpPcnYxMjItdVBIZ1dVc2Q0aEtyMFh4clFremphUWVoOGQtRVdSVzRtbkhrN2tTQzg4em43WnVocHd5UUFMRTl5bkZiN0NqcDZuRC01TURoRHpUX3RJLUHSAZsBQVVfeXFMUFN0NTBJc2dyX0ZhSmhFNjNETDBDNWVGNFBINnB5aUozdEhWbFBNQ3FjZWowZS1ha1pya3Y5M2hWTW9tSEN1NjA2T3RaOGlpTnowLWRWQlRmU2JjMlNnRm9keS1KRXozZFlBNkNpUUtvODFUUk9yVnFxUVE1NnJxdUZGSVlHMjVKRlcyZVlSdE5WcUY0TWNTdVJ2dHc?oc=5",
         "pubDate": "Sun, 27 Sep 2026 11:32:35 GMT",
-        "snippet": "Wall Street money takes back over from small investors as driving force of the stock market&nbsp;&nbsp;cnbc.com",
+        "snippet": "Wall Street money takes back over from small investors as driving force of the stock market&nbsp;&nbsp;CNBC",
         "source": "CNBC"
       },
       {
-        "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots - cnbc.com",
+        "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots - CNBC",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ETGE2S1ZqMWk4djE5R3c5YnV6VGV0eUZqN0ZaNXZDaXlMY2RUcWNWdDI3V0stY2JrZXVMWjRzTUhGZ3dOTk8zSkUtY1ZmZlRiazkyYUVaYUZFdVlaT210WWdRYUlpa09yclZhb3JDWEVoQdIBd0FVX3lxTE12NGNnN0FJaVdSRWRVR0tQcklzNlRMTTBpSjFOcVB4OGhCeFBIWkUzUENxSXlpQThkY1FZX3F2NjRZSVhJaWVleHkxbDQtd3N4OVlkWVZuQ3FkYk02VjA4WTU4ZGdHUFdQWkxrYjlOVzNrRzZBQkhV?oc=5",
         "pubDate": "Sun, 27 Sep 2026 14:33:22 GMT",
-        "snippet": "Meta's Muse agent is attacking one of the economy's most profitable weak spots&nbsp;&nbsp;cnbc.com",
+        "snippet": "Meta's Muse agent is attacking one of the economy's most profitable weak spots&nbsp;&nbsp;CNBC",
         "source": "CNBC"
       },
       {
-        "title": "Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table - cnbc.com",
+        "title": "Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table - CNBC",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVU1TSVRCVjFmV0ZuQmtsNTBuZkpZb2JKVU5EaHMyeDZaUHdIQzhOZno0QzdUeHRaVV9ibFJIQU1pWnRTVHA2b21XR3VhYmNPenl2eEhYYUhXSkc2TFI3UUI1S2dqZnJ1SEp6eEJEWnh2bUdGeWlhQnVRb1dQenFvcVgxenRWbmFJYTczRzJ1aTlnLTdLRHZSOHFQTkRMcTJneEUyT3JFd9IBrAFBVV95cUxOZEZodUZKbjI5T01UanZ3NWtBSE9NMFQ4UGhESDl1SDJ5WFdISWsxeFF1NFRDZ04wMmswUHdBOEtKbkZSS1JPa2RMemxtTW5tZ1lHWmhycFNWRGdValNMcUx2VElIc3BTYUVvVVNCQ3BWVi11aE15UDloODY2T1E5b1dLRUNpZ1h5cTBiWXRaSkx2bHZuTDBLUXlXamFNTmxxZkVTUHVkSTA2Z1Rk?oc=5",
         "pubDate": "Sun, 27 Sep 2026 13:30:02 GMT",
-        "snippet": "Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table&nbsp;&nbsp;cnbc.com",
+        "snippet": "Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table&nbsp;&nbsp;CNBC",
         "source": "CNBC"
       },
       {
-        "title": "This key part of the stock market could be headed for a meaningful breakout - cnbc.com",
+        "title": "This key part of the stock market could be headed for a meaningful breakout - CNBC",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVmtwU2d1elFHWmNCdkxMQUg3dzZ5dmJ5c25kclRqWUtJanU0bm1Zb3lPRHhodUpCNTZ0VGdZRkVMQVhfczdQUGMteGM5M0FwYi1fdXFFOHQ1TnYtX2pFWUZKNEFXQ3BlNjZ0dE1EaHNNenhBR2xNaU5lMGZrb2w0N2xObmZSRzFsTW9ldHQwS1g3bF90RTFhajVpWHJCS1VpXzE3MTRETFl6aHhoNFBrSnJB?oc=5",
         "pubDate": "Sun, 27 Sep 2026 11:27:11 GMT",
-        "snippet": "This key part of the stock market could be headed for a meaningful breakout&nbsp;&nbsp;cnbc.com",
+        "snippet": "This key part of the stock market could be headed for a meaningful breakout&nbsp;&nbsp;CNBC",
         "source": "CNBC"
       },
       {
-        "title": "Trump says men arrested at UK air base used by U.S. forces were looking to do 'big damage' - cnbc.com",
+        "title": "Trump says men arrested at UK air base used by U.S. forces were looking to do 'big damage' - CNBC",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHI5TXNGWFZCdEpwTHpLTzJUTXdrYlJra1NXV25qOXVrVm1Kb2h2UHltUFVDXzZqSDdxS2lQUHc0Y1NTVW5fUi1rbHBwdlNEOUZJWl9ORWdlNkRwb2NTUzdtaVpmcUJVRHdPUWVROWNwS1BnVkVjcmI5LTBRbTZ0d2ItUlpEc0t5VFh3OFB6V2JscF8tUG5pcXIwX0JxZ2ZE0gGmAUFVX3lxTE9YbHBmTDhyaW5sYnVUZ1NLcUVXVlhQa3BIQWxNUEEyMUxGZDFmRk1SOE5mSGptZEIzRlBVdWdBSWxnMHZOUlVvUXhLTU1IdWl2M3QzeUVKTlFFYWlMNTBuTHR3aTR2eFpMRFVlb2FQbUdlLUEycjRSS014dDlvYXYzcG5nVmpkaG53TTU1Y2dIaFJqdURlWWZXOWE4UHNMaU1nQzZLcFE?oc=5",
         "pubDate": "Sun, 27 Sep 2026 09:26:39 GMT",
-        "snippet": "Trump says men arrested at UK air base used by U.S. forces were looking to do 'big damage'&nbsp;&nbsp;cnbc.com",
+        "snippet": "Trump says men arrested at UK air base used by U.S. forces were looking to do 'big damage'&nbsp;&nbsp;CNBC",
         "source": "CNBC"
+      },
+      {
+        "title": "Private credit turmoil eases as investor withdrawals slow - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQV9IODg0UThEZGVPcWp0eFpVVnQySmszWG9PbW5wNXhXcmhSczVXSS02TXBVdHo2WTN2clZzQjRhUThXYm5kTVRKR2QyNFAtMlctZ2hWaXJFd2FKcUVZbzlYalZIVW5LZTJYT2ZLREwwbUJoOENlS1VWVWt1YzlPR3FPbG8?oc=5",
+        "pubDate": "Sun, 27 Sep 2026 04:01:32 GMT",
+        "snippet": "Private credit turmoil eases as investor withdrawals slow&nbsp;&nbsp;Financial Times",
+        "source": "FT"
       },
       {
         "title": "Burnham to revive Help to Buy scheme in bid to aid first-time buyers - Financial Times",
@@ -137,10 +144,24 @@
         "source": "FT"
       },
       {
-        "title": "Foreign capital flows into US stocks hit record as appetite for debt fades - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3M3ckgzUlJNU0tHclZub1BfQXFCWlJpNnNUbWZMcGJXLTFLM3dZbE1TVWczMDNRMGFfZ3k0SzdKeFhrUHJOV2QyazhCV1hqTFZkZk9ySU51bWt2WFpGZlFNMXhnU29PNVVBWVdwcnBsbzJxTm05bzlubUludnQtNjJPdWI?oc=5",
-        "pubDate": "Sat, 26 Sep 2026 10:00:04 GMT",
-        "snippet": "Foreign capital flows into US stocks hit record as appetite for debt fades&nbsp;&nbsp;Financial Times",
+        "title": "Will US jobs data add to pressure on Fed policymakers? - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFFNUlR4Rk5lQWxWYkJvcnAzWUNMVnRCRmZ4OHozcXExU0tBTG9ZSXl4cUczeUVpanRlamlSTnY1N1FPZVY1bGRveGExTXJ5OUVlVjZ0Y2J6WWZETkZPWmZsLWpHenFzUWE3ellKSDhwQVZwenQ4Wl9idWkzZVltS0RCNjQ?oc=5",
+        "pubDate": "Sun, 27 Sep 2026 11:00:02 GMT",
+        "snippet": "Will US jobs data add to pressure on Fed policymakers?&nbsp;&nbsp;Financial Times",
+        "source": "FT"
+      },
+      {
+        "title": "Big dreams and tiny revenue are the new norm for AI IPOs - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmxFc0Vta2dpMDA3eEN6ZW03RmtYNUkxejFsVlk5WG83aUJsRHBfUDJiSnB3UVBEengtNTFXWEZlVUg2Y2dBaTZuUXhNam1WMVF4akFtRHJRaE4ydHEwV0ZtaXYyRElQbjMzRmRzY0F6MzBuLV9nVW9fWXdrUnVBeVNLb3M?oc=5",
+        "pubDate": "Sun, 27 Sep 2026 04:03:52 GMT",
+        "snippet": "Big dreams and tiny revenue are the new norm for AI IPOs&nbsp;&nbsp;Financial Times",
+        "source": "FT"
+      },
+      {
+        "title": "Gold-rich Nicaragua hands Chinese miners rights to a tenth of its land - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1U0SW5CR0tnQzJ2RHBISXVYSi1jN3F6VnFxTHVBZk56Ql9oY3I5VlNnX0c1eXdhOFB3a01YOFRLUkh4SklRNzZ3U0xqMDFKSFY3cDNwbmZUeldHaWdIRnd1UEs4ekdzbFRvNDB2UUxVNlFJNjhuOGl3eE00czVYTFlCVjc?oc=5",
+        "pubDate": "Sun, 27 Sep 2026 04:01:14 GMT",
+        "snippet": "Gold-rich Nicaragua hands Chinese miners rights to a tenth of its land&nbsp;&nbsp;Financial Times",
         "source": "FT"
       },
       {
@@ -148,27 +169,6 @@
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOHZZYnlhaWVzek84ZW9zM19SWXUwclB4TFExMVktOG9YWGdMbzlNaE01Yi1hOF9TS2xSMW4zcWhmdGFtRVFxaHBubW55cDd3R21PYzd1MVl6bXFvdkpEdGkxazVENHNmQXctejJrQUp0dFBoSk5ZSmpVbjVaaUJTQVlId18?oc=5",
         "pubDate": "Sat, 26 Sep 2026 09:01:19 GMT",
         "snippet": "Monzo in talks with Brazil\u2019s Nubank about sale&nbsp;&nbsp;Financial Times",
-        "source": "FT"
-      },
-      {
-        "title": "Northern Ireland in tense stand-off as protests block Orange Order parade - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc2JtbzR6RGMxd2h4dU1NOVQ4QXJfS1JOWFkzcUJKbl9VV0hZR1B4QzRlMWhZMnMxN2NKOUYwb1Z0bVpLSFhmRlZmQzEyRGhCWDUwMkZyT2g4Nk1uNTE3RWdfOVJtZmJocVR3dVl5dVJtb3had042X3lIY0NMWkFYVEM5UEs?oc=5",
-        "pubDate": "Sun, 27 Sep 2026 21:25:55 GMT",
-        "snippet": "Northern Ireland in tense stand-off as protests block Orange Order parade&nbsp;&nbsp;Financial Times",
-        "source": "FT"
-      },
-      {
-        "title": "The UK\u2019s IMF bailout has things to teach us 50 years on - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcllGV2RIQ3Z1N1JqcldaU24xdlE2RDBuSklDLXpuVmNNbUc2Q2x2QUx6TXBBQkROQTRLNGJjdTh0R0tXRjhXNGJQQ3luRXpoT0dxUlpZbGs5M1c4bmh6R0tYMlNWMGhsZ1Etd29hTTlLTEFuSjBXVzRMcTBoQk1SMUZYNDE?oc=5",
-        "pubDate": "Sun, 27 Sep 2026 08:30:35 GMT",
-        "snippet": "The UK\u2019s IMF bailout has things to teach us 50 years on&nbsp;&nbsp;Financial Times",
-        "source": "FT"
-      },
-      {
-        "title": "The India shock: exporting workers to the world - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcVQ0QmFUZXZwdEg1OHRQUW9FejlFMlVUN21UX2F2d29oaW04eGhFRjhSS21xbTcxVnFRVGk4OG1xV0JUdjVxSnpOVEhjaXBMaW5RSTdFcXNLR3FveDJPSm1URF9uRGFHanUzSEFsU3owQkNRVlBFQi1ZSi1oQWhUQmV3OWQ?oc=5",
-        "pubDate": "Sun, 27 Sep 2026 11:00:02 GMT",
-        "snippet": "The India shock: exporting workers to the world&nbsp;&nbsp;Financial Times",
         "source": "FT"
       }
     ],
@@ -258,45 +258,45 @@
         "source": "Bloomberg Tech"
       },
       {
-        "title": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports - cnbc.com",
+        "title": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports - CNBC",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jZEI2VHA5Qk14QVQ4QmdUNFp1LTV5WEQwTFdkRXl0aGxaRktjTDZBMWFGdld6QzJVNFFLYktCMGpqTERWblVoUTlpQzJ1aTZ3dGJPMmZDeFJIUWVYYnBOdEtjbFVoRTJTMTk2MHplVm1hWllwTFkyOVQ3YkJVZ9IBgwFBVV95cUxOSkk1U3N6bkJFck1HLUhwUVdFblh4STlXQ09BQ2ZwLXBwbnVWWVoybko1THZQZVRhWWpsWlBYcVd5MFd1NE1jYktOZTZ3WmdjTURib2U0YzZEUF94ekhPRDR5N2tfcGhadkpvTXVMMzl3bnM0clJyNkVuS0FrV2pKdy13SQ?oc=5",
         "pubDate": "Sun, 27 Sep 2026 18:16:49 GMT",
-        "snippet": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports&nbsp;&nbsp;cnbc.com",
+        "snippet": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports&nbsp;&nbsp;CNBC",
         "source": "CNBC Tech"
       },
       {
-        "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots - cnbc.com",
+        "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots - CNBC",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ETGE2S1ZqMWk4djE5R3c5YnV6VGV0eUZqN0ZaNXZDaXlMY2RUcWNWdDI3V0stY2JrZXVMWjRzTUhGZ3dOTk8zSkUtY1ZmZlRiazkyYUVaYUZFdVlaT210WWdRYUlpa09yclZhb3JDWEVoQdIBd0FVX3lxTE12NGNnN0FJaVdSRWRVR0tQcklzNlRMTTBpSjFOcVB4OGhCeFBIWkUzUENxSXlpQThkY1FZX3F2NjRZSVhJaWVleHkxbDQtd3N4OVlkWVZuQ3FkYk02VjA4WTU4ZGdHUFdQWkxrYjlOVzNrRzZBQkhV?oc=5",
         "pubDate": "Sun, 27 Sep 2026 14:33:22 GMT",
-        "snippet": "Meta's Muse agent is attacking one of the economy's most profitable weak spots&nbsp;&nbsp;cnbc.com",
+        "snippet": "Meta's Muse agent is attacking one of the economy's most profitable weak spots&nbsp;&nbsp;CNBC",
         "source": "CNBC Tech"
       },
       {
-        "title": "Debt-hungry AI companies face increased risk as bond yields spike - cnbc.com",
+        "title": "Debt-hungry AI companies face increased risk as bond yields spike - CNBC",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdzNYWDdhN2lVRjBIZE9sdE92U1FQaDVXSDFmNm9SVEViZ3RIcEVkZnRCZGlFTmtpSUpOWHJmTF9URHQ3SWZGQ0FPcjV1cV9WQjFtZW14NUItaVBVZUJqM3BfcUNWU2pPc21hTUNWMnFBRTFmeVM0YjRoakZnSW14ZmwybkFQdW9XQmpKdC04NXNoekFmQ1NKMUxPZmhvRFJkY0F0Ni1B0gGrAUFVX3lxTE4wRTk3M2x2R04yRnc5MnVCWm9wZjNzSDRhX081cU5pRHItaEtKbExRT1RWeDZneEFTcmZlZ1l0VEpTdmpac181blNucXFQVlVZTm5oenJjbEc1QlVMQUZkNzFMV1l3V2llbEc3bnVYTUVnTlRfZjFXSkJjakY2ZWpnbXIwRVVfZ2JVREt4QmtoLVA5LXpabjNRblVBSzJkRVJubm5QblVJN2ZQTQ?oc=5",
         "pubDate": "Sun, 27 Sep 2026 11:00:01 GMT",
-        "snippet": "Debt-hungry AI companies face increased risk as bond yields spike&nbsp;&nbsp;cnbc.com",
+        "snippet": "Debt-hungry AI companies face increased risk as bond yields spike&nbsp;&nbsp;CNBC",
         "source": "CNBC Tech"
       },
       {
-        "title": "This may be the \u2018missing piece\u2019 for investors looking to boost AI exposure - cnbc.com",
+        "title": "This may be the \u2018missing piece\u2019 for investors looking to boost AI exposure - CNBC",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcHN3SEFWbHJOVGVWRktRZnZubEh5TzhxZFJRUkFweXRFNEVpTXByVExnS2lRMlZNcUZVN1FvQUxocGNLWEt5Z2FYSVpybUEzNFFmVUgxeUZXQkZOTDhudGNwM281cy03YWk2dFlwNHNzUmNLRTRneTZrMEl5VkFXcllGaEljM1N6QlE0RnNBUjNKa3dSNlHSAZsBQVVfeXFMUEZYWGpHRk40NG52am1hLVhfLUVaN1h2cGNhUkJubUtDWWhqTE5GTTNObG5YMlZ2M2VvSlNVcGFDeGNoeWd1Tm1fb2tOT3lla3VMcFhCNUdxOVQ3ZFBrY3FXSHNZdDVSSU1QX0RTcEhhbXA1R3V0Zm11ZlVXa1YtYmx5ZlBhX1ZPUm8yVXFXcG5uSDA0dElTYm1sbFk?oc=5",
         "pubDate": "Sat, 26 Sep 2026 15:00:01 GMT",
-        "snippet": "This may be the \u2018missing piece\u2019 for investors looking to boost AI exposure&nbsp;&nbsp;cnbc.com",
+        "snippet": "This may be the \u2018missing piece\u2019 for investors looking to boost AI exposure&nbsp;&nbsp;CNBC",
         "source": "CNBC Tech"
       },
       {
-        "title": "China wants in on U.S. AI data center boom. Here's why - cnbc.com",
+        "title": "China wants in on U.S. AI data center boom. Here's why - CNBC",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lQ0p4dkRYalpYNmpfS3dvc3U5ZFI4aW9IVHcxVDBqUTlKZlJodU5ZVC10cmxEN0hwYnRWU0ZESXczcTdKZGRVREVqU2tYeWNieVB3VjFWWkFRcHRiVGx5bmg5ZE9nOEJ0YVNVdWhB0gFzQVVfeXFMTWYyb29FMElKZ3JvbmF2WVNOUjdtUURCN09KMXBNTDZsY19PMDFaNkpFUGVFY1RkNVlqY3p5aHFuSEJIQV82S1doZU9iQTVDR2k5eHRPVHFGamRHZXVLd2sySHdRNm1NdUI5YnltTlZ3RG1xdw?oc=5",
         "pubDate": "Sat, 26 Sep 2026 12:00:01 GMT",
-        "snippet": "China wants in on U.S. AI data center boom. Here's why&nbsp;&nbsp;cnbc.com",
+        "snippet": "China wants in on U.S. AI data center boom. Here's why&nbsp;&nbsp;CNBC",
         "source": "CNBC Tech"
       },
       {
-        "title": "Inside AT&S and the race to make the critical layer beneath AI chips - cnbc.com",
+        "title": "Inside AT&S and the race to make the critical layer beneath AI chips - CNBC",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMG10LUtTNmJYUmxHYlR6T2QtRTU2MkhUWFAyY2VPSzI1Vk5jYkxqMGxwT3B2NVlKdGNtWnZDeXczeDhaSTJmcmJlSGhYNmlfMktic1huNG9mdVBpcWRPbnpuaGFpWXpNaHJPODcyVFlZVXVQSnVEQ0FzS3Jpbi1YMg?oc=5",
         "pubDate": "Sat, 26 Sep 2026 22:00:00 GMT",
-        "snippet": "Inside AT&S and the race to make the critical layer beneath AI chips&nbsp;&nbsp;cnbc.com",
+        "snippet": "Inside AT&S and the race to make the critical layer beneath AI chips&nbsp;&nbsp;CNBC",
         "source": "CNBC Tech"
       },
       {
@@ -328,17 +328,17 @@
         "source": "The Verge"
       },
       {
+        "title": "Maybe don\u2019t let Muse run your Facebook Marketplace account. - The Verge",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3pxRDZsMDg1RXZBMUNRaGJ6dEk2NFIxRkQtODhhSXJ0NDVheU1ISy11TmdndV8xRWE4aVpacDRGblNsOWFZRTlHZmFjNlJTVEtyUWdqWExlY1RWX2dHdFBlY00wRlhFNmYwUTZzbU9saXRDdmgtdmo2UjZOVkMtbmhDYkRSa3ZCUlZtYzFKeWtReXBVSE14NEFzQQ?oc=5",
+        "pubDate": "Sun, 27 Sep 2026 20:54:58 GMT",
+        "snippet": "Maybe don\u2019t let Muse run your Facebook Marketplace account.&nbsp;&nbsp;The Verge",
+        "source": "The Verge"
+      },
+      {
         "title": "Big Tech is too cowardly to run ads for the \u2018Musk\u2019 documentary. - The Verge",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmZKdkNsZmVHbDBLUDlTdVN0V1p2UnFteGVDcXRoOVV1ZUc1YkJZOEMyZ2xhV0hmSWFQd2pqX25mZ1I3d1NVNnEyMUFfdVlzT3p1LUpzNWFzem5TUUhiYkFEV1liMXNXVDhyNjNiTGxXQ2NqRlJ3QUsxenpWQ2J3dFNkM1RmeDZIa2R6TGw0NGJiUnBhZXpRRlYzSTZpOVBhcC1JT1BfLWZLeVp0ZXE4eEVlMlB0ZjNpZE1Ccw?oc=5",
         "pubDate": "Sat, 26 Sep 2026 14:31:12 GMT",
         "snippet": "Big Tech is too cowardly to run ads for the \u2018Musk\u2019 documentary.&nbsp;&nbsp;The Verge",
-        "source": "The Verge"
-      },
-      {
-        "title": "Pok\u00e9mon card resellers have turned collecting into an online blood sport - The Verge",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbVlfVGZSQkgzMnB2R3VPUDBLckdyT3Z2MVgycjNEZXFWX01qWEtDd2thUVJmYVB0akNPdjhJUmlZMHljdU12UWhQZDMyVHIwZGRxS210TnAxQTMzdGdZZV94UTlyeWp4Y2ZYMzhOaWVjV3NELUhYV1ZBU295R3I0bloxVlJxN19JOEE?oc=5",
-        "pubDate": "Sat, 26 Sep 2026 12:00:00 GMT",
-        "snippet": "Pok\u00e9mon card resellers have turned collecting into an online blood sport&nbsp;&nbsp;The Verge",
         "source": "The Verge"
       }
     ],
@@ -421,94 +421,94 @@
         "source": "Bloomberg Banks"
       },
       {
-        "title": "Blackstone Cements Shift From Star Dealmakers With Baratta Exit - Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaVpQamF1aldGVjJ6Uks0UW9wVVpRTFVBSWpBclZudEF0bnRoNUh1TWhIcmZDdmxfMkZCQ1d0Y0xXNldmbnVKSmlxUXZqOG9ORzlQUmx6WnYzUmx4emVudU81RmhfaTNJNm1BbExEQkY3cm9DMHpURXRfeHhPWWpncFNDSVhZd3hGMm9seVowNWUzOUFjZDFMQUZEaDlHVUdGMkQyY0t3NVFOZWZ5LUc2SDJPVUc?oc=5",
-        "pubDate": "Sat, 26 Sep 2026 01:43:00 GMT",
-        "snippet": "Blackstone Cements Shift From Star Dealmakers With Baratta Exit&nbsp;&nbsp;Bloomberg",
+        "title": "White House Signals It Won\u2019t Ban Diesel Exports, Senator Says - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeE51RkNZOFFsUDY0cTh3eXRmUEp1eGtNaFJ6Qkd2VFRwX1VLQnB0eUg5al9vTlVNNnZPUE1tdThNSXBRUUVoX2p0T2pNNUhoNnZwczZyOW9lNDlaRW9hNk5EbmVDRmF4d3MtVU5weUpaLTNMSEZiS1JmWC13QmtPTzE2ZXJMaW1NTUZRSmF4bUR5czdHdmF3S1B5ZFFBakJna3JZTkhxTXRZd1JKUk9IaQ?oc=5",
+        "pubDate": "Sat, 26 Sep 2026 02:35:00 GMT",
+        "snippet": "White House Signals It Won\u2019t Ban Diesel Exports, Senator Says&nbsp;&nbsp;Bloomberg",
         "source": "Bloomberg Banks"
       },
       {
-        "title": "Nvidia and these other stocks are on sale, Bank of America says - cnbc.com",
+        "title": "Nvidia and these other stocks are on sale, Bank of America says - CNBC",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUjQxOVFhR3ZKMmxDSG9CSGMtTHctdFFuTmF2Q1lST2c0dTdNNFEtcHVyX0duMTlHcnI1eG12Tk5QdVByRXF4OWR5UDA5TGFpbHo5SG1ZWk9tVHJndy1XZjcxaDhjbE5fNXJENm1xbnBsLWdrNy1KU0U0WUpwbzliSGJvUW9rZk9ERDFUX2U3YUttbkFzNjQ2OUZINXJ0WC1N?oc=5",
         "pubDate": "Sat, 26 Sep 2026 13:43:15 GMT",
-        "snippet": "Nvidia and these other stocks are on sale, Bank of America says&nbsp;&nbsp;cnbc.com",
+        "snippet": "Nvidia and these other stocks are on sale, Bank of America says&nbsp;&nbsp;CNBC",
         "source": "CNBC Finance"
       },
       {
-        "title": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway - cnbc.com",
+        "title": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway - CNBC",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWhtYURtTU1MRlMyMWp4Zk96WlBRMVdlQ0Qtc3ZvdUxTZTk0Mm9NSVA2U09KSzh5bTNjRUc5aUpmQ1RYOUN4bVBFbHREcHpacDBPRjd5dWpoMHdkVFcwNVphakFtcFZCQW9BZFJTUVFReUJUUkNWX242WG5yU1psTUZsd3o4V0Ru0gGOAUFVX3lxTE91ZU1hVXVmZWJCdnRLN1NpZFZkazBjT21nSHFobmZMV2VlZjFSTWtXX2FmV29UU0RMS01LVUkxRm5jMU5PZGwxRU92aThOemhKRTU1cDBobDZobWNKd1dhY01DQTh5MkxickRzTzB1aDZURkdVWGNfU1NaalV1WURUblBzX25WSEN4N3ZEZUE?oc=5",
         "pubDate": "Sun, 27 Sep 2026 05:00:02 GMT",
-        "snippet": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway&nbsp;&nbsp;cnbc.com",
+        "snippet": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway&nbsp;&nbsp;CNBC",
         "source": "CNBC Finance"
       },
       {
-        "title": "Debt-hungry AI companies face increased risk as bond yields spike - cnbc.com",
+        "title": "Debt-hungry AI companies face increased risk as bond yields spike - CNBC",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdzNYWDdhN2lVRjBIZE9sdE92U1FQaDVXSDFmNm9SVEViZ3RIcEVkZnRCZGlFTmtpSUpOWHJmTF9URHQ3SWZGQ0FPcjV1cV9WQjFtZW14NUItaVBVZUJqM3BfcUNWU2pPc21hTUNWMnFBRTFmeVM0YjRoakZnSW14ZmwybkFQdW9XQmpKdC04NXNoekFmQ1NKMUxPZmhvRFJkY0F0Ni1B0gGrAUFVX3lxTE4wRTk3M2x2R04yRnc5MnVCWm9wZjNzSDRhX081cU5pRHItaEtKbExRT1RWeDZneEFTcmZlZ1l0VEpTdmpac181blNucXFQVlVZTm5oenJjbEc1QlVMQUZkNzFMV1l3V2llbEc3bnVYTUVnTlRfZjFXSkJjakY2ZWpnbXIwRVVfZ2JVREt4QmtoLVA5LXpabjNRblVBSzJkRVJubm5QblVJN2ZQTQ?oc=5",
         "pubDate": "Sun, 27 Sep 2026 11:00:01 GMT",
-        "snippet": "Debt-hungry AI companies face increased risk as bond yields spike&nbsp;&nbsp;cnbc.com",
+        "snippet": "Debt-hungry AI companies face increased risk as bond yields spike&nbsp;&nbsp;CNBC",
         "source": "CNBC Finance"
       },
       {
-        "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots - cnbc.com",
+        "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots - CNBC",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ETGE2S1ZqMWk4djE5R3c5YnV6VGV0eUZqN0ZaNXZDaXlMY2RUcWNWdDI3V0stY2JrZXVMWjRzTUhGZ3dOTk8zSkUtY1ZmZlRiazkyYUVaYUZFdVlaT210WWdRYUlpa09yclZhb3JDWEVoQdIBd0FVX3lxTE12NGNnN0FJaVdSRWRVR0tQcklzNlRMTTBpSjFOcVB4OGhCeFBIWkUzUENxSXlpQThkY1FZX3F2NjRZSVhJaWVleHkxbDQtd3N4OVlkWVZuQ3FkYk02VjA4WTU4ZGdHUFdQWkxrYjlOVzNrRzZBQkhV?oc=5",
         "pubDate": "Sun, 27 Sep 2026 14:33:22 GMT",
-        "snippet": "Meta's Muse agent is attacking one of the economy's most profitable weak spots&nbsp;&nbsp;cnbc.com",
+        "snippet": "Meta's Muse agent is attacking one of the economy's most profitable weak spots&nbsp;&nbsp;CNBC",
         "source": "CNBC Finance"
       },
       {
-        "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here - cnbc.com",
+        "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here - CNBC",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdjRseTh3M19YMmZMRzZwNmNzU2lKOXBaQWZFY3h6NmljdHFJbk1MaHBrSHdnUHYzQ3Z2emhBZUV0eGNDT21JcVIwaE84d0diZHpTTmxydzZhaElHSVR2VHV4RzVMS0RKUktMMU1RaDhxQ08zTER0UDkyMVVUX1p5ZXRaZTltWmNzdHVGOGotdjB3OVNCbGtvV3A5Z3ZyU05QVGNWSVB3WmzSAa4BQVVfeXFMUEZ0RlpZaDh6bGxuVzVZalpuRHEyMEM2ZnE3SGxpUHdQbXZPcVBYRkJkYzhITFVHa091bUZ0eldHbW9tTTRlRW5kU0ZPTFctNjk2TC1WaHA2Qm9kNV9TX1F1b0R3NFlUblFtek95a3dVVzk3QlFGbjZaSWVkZDBBTjdRRE5RMS12ZUxITldWalVwRU9sT3Nsc1hLdGNrQi1MSktCM0cwSThjX1ZPY3JB?oc=5",
         "pubDate": "Sat, 26 Sep 2026 13:30:06 GMT",
-        "snippet": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here&nbsp;&nbsp;cnbc.com",
+        "snippet": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here&nbsp;&nbsp;CNBC",
         "source": "CNBC Finance"
       },
       {
-        "title": "Inside AT&S and the race to make the critical layer beneath AI chips - cnbc.com",
+        "title": "Inside AT&S and the race to make the critical layer beneath AI chips - CNBC",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMG10LUtTNmJYUmxHYlR6T2QtRTU2MkhUWFAyY2VPSzI1Vk5jYkxqMGxwT3B2NVlKdGNtWnZDeXczeDhaSTJmcmJlSGhYNmlfMktic1huNG9mdVBpcWRPbnpuaGFpWXpNaHJPODcyVFlZVXVQSnVEQ0FzS3Jpbi1YMg?oc=5",
         "pubDate": "Sat, 26 Sep 2026 22:00:00 GMT",
-        "snippet": "Inside AT&S and the race to make the critical layer beneath AI chips&nbsp;&nbsp;cnbc.com",
+        "snippet": "Inside AT&S and the race to make the critical layer beneath AI chips&nbsp;&nbsp;CNBC",
         "source": "CNBC Finance"
       },
       {
-        "title": "Monzo in talks with Brazil\u2019s Nubank about sale - ft.com",
+        "title": "Monzo in talks with Brazil\u2019s Nubank about sale - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOHZZYnlhaWVzek84ZW9zM19SWXUwclB4TFExMVktOG9YWGdMbzlNaE01Yi1hOF9TS2xSMW4zcWhmdGFtRVFxaHBubW55cDd3R21PYzd1MVl6bXFvdkpEdGkxazVENHNmQXctejJrQUp0dFBoSk5ZSmpVbjVaaUJTQVlId18?oc=5",
         "pubDate": "Sat, 26 Sep 2026 09:01:19 GMT",
-        "snippet": "Monzo in talks with Brazil\u2019s Nubank about sale&nbsp;&nbsp;ft.com",
+        "snippet": "Monzo in talks with Brazil\u2019s Nubank about sale&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
       {
-        "title": "Poland\u2019s central bank trapped in \u2018political contest\u2019 - ft.com",
+        "title": "Poland\u2019s central bank trapped in \u2018political contest\u2019 - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVW5wRzFidjJQQnF4ZHhqcnJ4X2QwaXFUcFBNUUZ0WF83UjZZLW5WSHZEUlUxSHNiNi1UN2ZkNHNodFhSQzQzVjZkT2NyS21EcHgxNTlaYndMeWlVRVdrTkNvdG9IalRfb3VfeFhrVHU5dVdKSjNtcjhWWkxEUFV1RjUzQmw?oc=5",
         "pubDate": "Sat, 26 Sep 2026 04:37:28 GMT",
-        "snippet": "Poland\u2019s central bank trapped in \u2018political contest\u2019&nbsp;&nbsp;ft.com",
+        "snippet": "Poland\u2019s central bank trapped in \u2018political contest\u2019&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
       {
-        "title": "How to pick the perfect car for a road trip (and not wreck your bank balance) - ft.com",
+        "title": "How to pick the perfect car for a road trip (and not wreck your bank balance) - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1URWM3Y3N5LTlxY2tEdG1XREs4UUl3dTRhbVlWTjFFbUdDTUxESVlaQVNWZnMyMjFUNTBWdlVwWExEWXdKZ2NNUXNJTjdOaklmN2hfYlZ6SGRtZ0VqdEpEa2k4Q2E1Y0VxVVdiRXVGT0Q?oc=5",
         "pubDate": "Sat, 26 Sep 2026 04:00:49 GMT",
-        "snippet": "How to pick the perfect car for a road trip (and not wreck your bank balance)&nbsp;&nbsp;ft.com",
+        "snippet": "How to pick the perfect car for a road trip (and not wreck your bank balance)&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
       {
-        "title": "Are you the \u2018digital PA\u2019 for your parents? - ft.com",
+        "title": "Are you the \u2018digital PA\u2019 for your parents? - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMm1IcUFpTk12Nlc1aVFscmFJUFRNRldodE5JM3M1UEZzLXktVm56MFVuNGdKb1Q2RktMcThHQzJwQUptUjQ0LTRXNzhBMVpCYUZNSUpRWjB5bk5ESjNBdjBxMGFnOHFjLTBxSFV4Z0djcTJNWXYyelJFUnNPQzkzaVZTOE4?oc=5",
         "pubDate": "Sat, 26 Sep 2026 04:01:19 GMT",
-        "snippet": "Are you the \u2018digital PA\u2019 for your parents?&nbsp;&nbsp;ft.com",
+        "snippet": "Are you the \u2018digital PA\u2019 for your parents?&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
       {
-        "title": "JPMorgan and the broking fetish for conviction calls - ft.com",
+        "title": "JPMorgan and the broking fetish for conviction calls - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KMXhxdnNRWC1wX0x5cUdYYnpEOVFqZkRsVy1fdnpwYkY4Z1EySVczcjhOclVQSnlhRUREX2JJeGUwM184OUQ1bWFlVW84WWtJc2N6TmlYaWV1QmV0NFRoblF2cGxPUmNPYmFIS3hDaUM?oc=5",
         "pubDate": "Sat, 26 Sep 2026 04:00:49 GMT",
-        "snippet": "JPMorgan and the broking fetish for conviction calls&nbsp;&nbsp;ft.com",
+        "snippet": "JPMorgan and the broking fetish for conviction calls&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
       {
-        "title": "Will US jobs data add to pressure on Fed policymakers? - ft.com",
+        "title": "Will US jobs data add to pressure on Fed policymakers? - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFFNUlR4Rk5lQWxWYkJvcnAzWUNMVnRCRmZ4OHozcXExU0tBTG9ZSXl4cUczeUVpanRlamlSTnY1N1FPZVY1bGRveGExTXJ5OUVlVjZ0Y2J6WWZETkZPWmZsLWpHenFzUWE3ellKSDhwQVZwenQ4Wl9idWkzZVltS0RCNjQ?oc=5",
         "pubDate": "Sun, 27 Sep 2026 11:00:02 GMT",
-        "snippet": "Will US jobs data add to pressure on Fed policymakers?&nbsp;&nbsp;ft.com",
+        "snippet": "Will US jobs data add to pressure on Fed policymakers?&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       }
     ],
@@ -549,17 +549,17 @@
         "source": "Business Times"
       },
       {
-        "title": "Bonds, oil, AI and copper - Decoding divergent signals in a shifting global economy - The Business Times",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYW5iSUwxeDc1WkxmN0hEQkxHZ1RhTW0yT2Q4WExuVUFXeE9pRnpSVzE5aGQzUzBkbXZ1OW4zNENJMGxXOE1nUERoVm9mNzJydVQxdE9yeW5udHMtUG5DMTFYc2xPZzQ3QmtkVDgwTkxGbmM3N0EySFdRdU1aMS12Q2hNWDFyOEcyQ3ZWLXRtUnhVOHdnTXVmdXY5SWtaeHRWaTZXZHZQR2VNM1kzamljVlNnMFBHLU0?oc=5",
-        "pubDate": "Fri, 25 Sep 2026 09:46:00 GMT",
-        "snippet": "Bonds, oil, AI and copper - Decoding divergent signals in a shifting global economy&nbsp;&nbsp;The Business Times",
+        "title": "The bond market is getting closer to sounding alarm on economy - The Business Times",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNGZyb1EtWkxMc2JQbEZNdGVXemc1bHdKUXg1WkxCd2dfb1pYSVNnam1mRmJRWkdEUHRnbWs4V2ZRUnRUd05INDNtNzh5QUppUmFjTWR5R1pTckY1R1c2bnBIMl94c0pETjV5RDltYUVKcnFGWnExa29wNjkxLUtjbHU2enYyQnI5ejg4NW94REJZX1dZeldkVW1kMFA?oc=5",
+        "pubDate": "Mon, 28 Sep 2026 00:39:00 GMT",
+        "snippet": "The bond market is getting closer to sounding alarm on economy&nbsp;&nbsp;The Business Times",
         "source": "Business Times"
       },
       {
-        "title": "Keppel, Starhub discuss M1 deal; Grab execs buy shares after stock falls: Markets this week - The Straits Times",
-        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNOFlSS21DZFJVUlBXcnBpLUpLRVUycEhldjBVVVlmWkZmcmxqUTBNU25sUDlqYXg4Y09taTFuU2UwclZqQWZQeThPR0xnanYzTHc3cWdES0RNZEtTc0txdE02dWF1NGNFTksxNkstdEhQRTBKSmlEQl91RjFueHZwc0ZWX0dGWVBZSjJpTnhBTlJ6c2x6VlRncGJGZ01EZDEyX2FfdUtCcXB3MVNSYUUzc2szRGUzdTZ0SkZVV2FJZ2t5MVJ0MU9KazhKbFdoS29DdGRmSjlBRWloR254QmFWNTR4M3NVVi1nZE03QkQzd0FnLTFLUHpPUFc5TkNWZHBFS0M1eEN3?oc=5",
+        "title": "Keppel, StarHub discuss M1 deal; Grab execs buy shares after stock falls: Markets this week - The Straits Times",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdFlJa1dBVk42blQwUUx3bGNya0NoeUVuaklBVUpRajEzZzhhci1kV1FtWnl6blVBQUl4ZmpMb2k0Y2JCY0gwN2JRMTdwOVhwdjdpU2szYlA0UzV5SnJ4QVhBVG8xMElybFg5Y2M1Sk5BY0IxTWZiaFlEVzFGWWNyeGl6SHVTUHlEUGREdHZHQk1rdm93OWdxcnBmUG1xenRqWUhtVS10TElYMWFxbi1iMFRTWlRQN2p2SWJaNjJMRERWZE9LNzlMR1cxVGJHWjJLU2RhaWFlTUstQWZzd2FNeGowWEhUamhIalE?oc=5",
         "pubDate": "Sun, 27 Sep 2026 04:00:00 GMT",
-        "snippet": "Keppel, Starhub discuss M1 deal; Grab execs buy shares after stock falls: Markets this week&nbsp;&nbsp;The Straits Times",
+        "snippet": "Keppel, StarHub discuss M1 deal; Grab execs buy shares after stock falls: Markets this week&nbsp;&nbsp;The Straits Times",
         "source": "Straits Times"
       },
       {
@@ -598,45 +598,45 @@
         "source": "Straits Times"
       },
       {
-        "title": "AI is creating an economy that can grow without needing more workers. Should we be worried? - channelnewsasia.com",
+        "title": "AI is creating an economy that can grow without needing more workers. Should we be worried? - CNA",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOGpZSWZBWHJaekp1Vy1oVzVfM1ktaThqdzZwLWhCcEwtU295WWg2UXRNNEJtVGpTN2JlbmNrMDIxMGx1NjdURW5SdU9kM2thd0ZlT1Azd3dEZnRvb0FOWnVpSGFydHZENWNNMHU4YzUyTkxEQUpmX3R3NXRSTGpsQzFTQTZpd2RiTFJKMVhYVWhvUklBWEE?oc=5",
         "pubDate": "Fri, 25 Sep 2026 13:30:00 GMT",
-        "snippet": "AI is creating an economy that can grow without needing more workers. Should we be worried?&nbsp;&nbsp;channelnewsasia.com",
+        "snippet": "AI is creating an economy that can grow without needing more workers. Should we be worried?&nbsp;&nbsp;CNA",
         "source": "CNA"
       },
       {
-        "title": "CNA938 Rewind - Brexit: Where is the UK economy, 10 years and 7 PMs later? - channelnewsasia.com",
+        "title": "CNA938 Rewind - Brexit: Where is the UK economy, 10 years and 7 PMs later? - CNA",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQXVUM2JhaUxnNHlINy1KbUlheW8tcnpVcUFTUUtsMVIzV0FKY296cEczY0NCWnpQSTVYaEhxb2J2Y2pHblhmWi1yaURXWFpUV2lxTW5Kd2hZZDdxaVh4OHp5MEZETk12VmtoYWQ3NzlFVGJHeVVSZ2tqaTdSaENsWGlXWXV0TlcydzdweDZNS0tGSHg3cHlXV25tRkNPRVZaeWZoejFFRkF1ejNVbVdvdHFWLWFHcHBpWm9HZXROYjZvRGx4b3N1VlFqOG9iNlI4WGVHNDhUTkZYdw?oc=5",
         "pubDate": "Sat, 26 Sep 2026 19:40:12 GMT",
-        "snippet": "CNA938 Rewind - Brexit: Where is the UK economy, 10 years and 7 PMs later?&nbsp;&nbsp;channelnewsasia.com",
+        "snippet": "CNA938 Rewind - Brexit: Where is the UK economy, 10 years and 7 PMs later?&nbsp;&nbsp;CNA",
         "source": "CNA"
       },
       {
-        "title": "Man to be charged after allegedly starting fire in front of mosque - channelnewsasia.com",
+        "title": "Man to be charged after allegedly starting fire in front of mosque - CNA",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM0ttelREbU9TOUNxUU90enh2c1AxbGZQYmxsZlpkdmRCSmx5RFBYbUJSZjE4c3VMWktOVEtlM05XeE5ZeEc1bENWYVVyZldkUl9jV3dpVUE5cTY5eXMxVmkyVkptMDFUOHB2a3NTYk5MQW5CQmluRWY3QnRRWi1KU0hEcDF4UjQ1Ymo0T2ZHMGJ2cG1KVTB4Tk9FT1g?oc=5",
         "pubDate": "Sat, 26 Sep 2026 00:43:00 GMT",
-        "snippet": "Man to be charged after allegedly starting fire in front of mosque&nbsp;&nbsp;channelnewsasia.com",
+        "snippet": "Man to be charged after allegedly starting fire in front of mosque&nbsp;&nbsp;CNA",
         "source": "CNA"
       },
       {
-        "title": "CNA938 Rewind - #TalkBack: Speed over safety \u2013 the new investing mindset of young Singaporeans, bored with the SGX - channelnewsasia.com",
+        "title": "CNA938 Rewind - #TalkBack: Speed over safety \u2013 the new investing mindset of young Singaporeans, bored with the SGX - CNA",
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWHZ5bUx4cHUyWmRaZlgxV3FacnBEX3BkcERxSEpEenFKeGx4SEZCZ2J0UmJzZXhQeEhMM2wzcTdoeHhaOG5IdnJtTzJHV0RCTXN6elpqdFE1UlRON1ptdVZwdkNLRTI4WkdxM2NCdVpYNlZTOFE0MFpCZ0huOU50Qy03cTVOVzFtbW4wZUFTdnItelNuN3RneC1QY0pTaS1xZm9fa0lCSW1RMzlFb2FwTHQ3UVNMVi05UURSV0VxNkg0S3RtOGg4T29KSnpacVJUN0kwSHNnWEI4YU5sSW5RWExjWUh2bE1LLUtSd2ZibXdJdFZRZjFVTGxDSUhhTmdZ?oc=5",
         "pubDate": "Sat, 26 Sep 2026 12:37:55 GMT",
-        "snippet": "CNA938 Rewind - #TalkBack: Speed over safety \u2013 the new investing mindset of young Singaporeans, bored with the SGX&nbsp;&nbsp;channelnewsasia.com",
+        "snippet": "CNA938 Rewind - #TalkBack: Speed over safety \u2013 the new investing mindset of young Singaporeans, bored with the SGX&nbsp;&nbsp;CNA",
         "source": "CNA"
       },
       {
-        "title": "CNA938 Rewind - BTS is back after seven years; can it spark a new concert economy boom? #SGToday - channelnewsasia.com",
+        "title": "CNA938 Rewind - BTS is back after seven years; can it spark a new concert economy boom? #SGToday - CNA",
         "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVXpRWDRDbTUzb2NXejg0d1F3LWRZenk3b094ay1WNzRDQWpWLU9oUm9XMUNacUlTTTlIY2MxUUlNSDBnQ0dkdE5EUGRCdG9pdmJBT3Y4a3dOZWdBYzdMVEZVNFJiMDhfcDRUaGlQc0hjTklfSnU4eG9KNEZDckI2Ni12QkRwM3JwRF90UXhMNUh1QW9kYUhVUFVtcno0LV8xbmppdGNrNkxGVUU2SEs2a0Jzalc2OG0wMnU0MGtrS01qZzFFN1RJeHduM2pXc3hWTkxQRXZKbGx3bVhOVUV1czRaQXhyRDdUc2N4cXk4eHJzelZ2c0xKMm5iNA?oc=5",
         "pubDate": "Sun, 27 Sep 2026 02:22:17 GMT",
-        "snippet": "CNA938 Rewind - BTS is back after seven years; can it spark a new concert economy boom? #SGToday&nbsp;&nbsp;channelnewsasia.com",
+        "snippet": "CNA938 Rewind - BTS is back after seven years; can it spark a new concert economy boom? #SGToday&nbsp;&nbsp;CNA",
         "source": "CNA"
       },
       {
-        "title": "Ugly, weird and selling fast: China\u2019s unconventional consumer craze - channelnewsasia.com",
+        "title": "Ugly, weird and selling fast: China\u2019s unconventional consumer craze - CNA",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWVBUdHUxZ2FINjJ4T3VTU0J3NkN1SDQwZDdvMl80SF9KalByeV9pbGlLdElfSFB4OEtZYXhTalRIU1ctLWtQem1oNkljT3ZQbTNSYm1fNjFBQUN6eTFyR3Rka2dhX2RzWFhMQ1FoQXRDWVlQdEM2SjhTbEx6N1UtMzYzTnhZSUgwTklCbmYxenVrWGZSSzJmYms3dUI2eFlQMUtJVEJzWWJidEhHSV9GQTRxWUFPYWt1N0dwUktqY3ZOWl9reURlSzR0OWo0WEE?oc=5",
         "pubDate": "Fri, 25 Sep 2026 01:55:00 GMT",
-        "snippet": "Ugly, weird and selling fast: China\u2019s unconventional consumer craze&nbsp;&nbsp;channelnewsasia.com",
+        "snippet": "Ugly, weird and selling fast: China\u2019s unconventional consumer craze&nbsp;&nbsp;CNA",
         "source": "CNA"
       },
       {
@@ -651,13 +651,6 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMTNwcGhraFRMVUZVc1RaWDB5Y0QtX09FM0Nyc1NyTlVXdENGWktSU2JLMjNJSHEwLVZlQkVpXzlRNDV4c19UWHY2b3hTMEg0ajdCdkRSUkYtdTBhR3pCNm5zMXdsSGp0UDlRUG53eU9JS3hKbUR5RG44NnJDZ3l6N3NpcGQxbEF2VDdCMHlXeEstMnRTVzVkMnBDN2c1Z1A0ZUxNXzJMZ2UydFh4WF82cA?oc=5",
         "pubDate": "Fri, 25 Sep 2026 22:57:39 GMT",
         "snippet": "WTA roundup: Leylah Fernandez surges into Singapore semis&nbsp;&nbsp;Reuters",
-        "source": "Reuters SG"
-      },
-      {
-        "title": "Prozorova says physio pressure led to withdrawal from Singapore Open semi-final - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQWEzQ1dBbGRXQ0w2Nm11OW5pR3hlc0F4SmlFalZWT3dLdHZHSDF4dWMxb2Ztb0hoRFZ1aVRvczhoX3pTbWhUR2FiNDJFdG9heTcyVnBwVWgtbmlKeEQxazd2S2k3YXY4OWhlV3JHdy1GUTVkRXVGTGlDV2pkMU1RQkJBSFRZeUg0cFNNMG9XVmpQcVJIVk5zX005Q0NCeTBKc1pwX21lMm9WM2VuTHZNZ285cmVOSWIyTXFfWFhR?oc=5",
-        "pubDate": "Sat, 26 Sep 2026 09:31:17 GMT",
-        "snippet": "Prozorova says physio pressure led to withdrawal from Singapore Open semi-final&nbsp;&nbsp;Reuters",
         "source": "Reuters SG"
       },
       {
@@ -679,6 +672,13 @@
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRG1BRVp6QjNMSmVsZEcwN1pwVDZDX1RoR2tBUG1DT2hhMFBQUHFhTnZZcWlOSHJVRThKamhGRkpFeWkyTFJaUG10ZW9tWDNSRzJUN3FDQnA1Qzd1aV9sS3hlUWtlSjJ3S0NQbXFISDN0Umc4Mnp0cDJQMVRsUEZjQS1hMnR5RTVqdlYyZE5fOWZQM0xxaDBsX2QwSUJHWnRkZ3d5OXN3dVQ?oc=5",
         "pubDate": "Fri, 25 Sep 2026 03:57:35 GMT",
         "snippet": "Japan's bond 'falling knife' stalls repatriation rush&nbsp;&nbsp;Reuters",
+        "source": "Reuters SG"
+      },
+      {
+        "title": "Data center IPO hopefuls brave tougher market as investor scrutiny grows - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNUI2bktTU0d4N3ZCQWY5MXJJblQtWHJvLTJJU19EZFQydzI4QWdKNDRhR0ZVVTdUQzVXYkpSMDFQTmZveThyT0NseElNd3M3UGhrWXI0bTFfSVNMaUh2UTRUZi1JYjlycmdIc1JZRFRhNUhpWUNMcmRqcUVvYjlxUldRbnlpU0ZfSmZZbjNlNE96UnIxSUw0VmtvQXIzWW45b05JTk5TNU5pZEhIODBnbmF5NXZ3a05FSmFLUG5PM2hkdDA?oc=5",
+        "pubDate": "Fri, 25 Sep 2026 19:35:53 GMT",
+        "snippet": "Data center IPO hopefuls brave tougher market as investor scrutiny grows&nbsp;&nbsp;Reuters",
         "source": "Reuters SG"
       }
     ]
