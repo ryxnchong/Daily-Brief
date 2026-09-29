@@ -1,80 +1,80 @@
 {
-  "updated": 1790698065,
+  "updated": 1790700076,
   "quotes": {
     "SPY": {
       "label": "S&P 500 (SPY)",
-      "price": 762.92,
-      "pct": -0.3514
+      "price": 763.44,
+      "pct": -0.2834
     },
     "QQQ": {
       "label": "Nasdaq (QQQ)",
-      "price": 736.85,
-      "pct": 0.0434
+      "price": 737,
+      "pct": 0.0638
     },
     "DIA": {
       "label": "Dow Jones (DIA)",
-      "price": 510.69,
-      "pct": -0.6478
+      "price": 511.19,
+      "pct": -0.5506
     },
     "AAPL": {
       "label": "Apple (AAPL)",
-      "price": 330.7,
-      "pct": -2.2754
+      "price": 331.35,
+      "pct": -2.0833
     },
     "MSFT": {
       "label": "Microsoft (MSFT)",
-      "price": 508.38,
-      "pct": -0.165
+      "price": 508.62,
+      "pct": -0.1178
     },
     "GOOGL": {
       "label": "Alphabet (GOOGL)",
-      "price": 338.68,
-      "pct": -1.1875
+      "price": 339.28,
+      "pct": -1.0124
     },
     "NVDA": {
       "label": "Nvidia (NVDA)",
-      "price": 230.21,
-      "pct": 0.5899
+      "price": 230.35,
+      "pct": 0.6511
     },
     "AVGO": {
       "label": "Broadcom (AVGO)",
-      "price": 357.54,
-      "pct": 2.2799
+      "price": 357.05,
+      "pct": 2.1398
     },
     "JPM": {
       "label": "JPMorgan (JPM)",
-      "price": 333.48,
-      "pct": -0.924
+      "price": 334.38,
+      "pct": -0.6566
     },
     "MS": {
       "label": "Morgan Stanley (MS)",
-      "price": 191.64,
-      "pct": -1.0328
+      "price": 192.3,
+      "pct": -0.692
     },
     "BAC": {
       "label": "Bank of America (BAC)",
-      "price": 54.77,
-      "pct": -1.2619
+      "price": 54.95,
+      "pct": -0.9374
     },
     "C": {
       "label": "Citigroup (C)",
-      "price": 130.31,
-      "pct": -0.7616
+      "price": 130.73,
+      "pct": -0.4417
     },
     "WFC": {
       "label": "Wells Fargo (WFC)",
-      "price": 80.21,
-      "pct": -0.7425
+      "price": 80.42,
+      "pct": -0.4826
     },
     "HSBC": {
       "label": "HSBC (HSBC)",
-      "price": 99.81,
-      "pct": -1.354
+      "price": 99.98,
+      "pct": -1.186
     },
     "GS": {
       "label": "Goldman Sachs (GS)",
-      "price": 905.32,
-      "pct": -1.1961
+      "price": 907.59,
+      "pct": -0.9484
     },
     "^HSI": {
       "label": "Hang Seng",
