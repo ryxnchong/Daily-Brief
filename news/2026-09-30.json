@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "updated": 1790739666,
+  "updated": 1790741227,
   "tabs": {
     "global": [
       {
@@ -25,6 +25,13 @@
         "source": "Reuters"
       },
       {
+        "title": "Faced with US ban, Canadian booze makers see yet more hurdles at home - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNDZ1cVBHMzJMU3V4RGtpR3F4LUZ4dWVUTFI1Z0FhNDJHUkRJSlFMc2haTXI5R0pSRzBKek1IdV9CaDQwOVczb1dFOGF0a2d1a3dZVXdSMmlhQVhkaWRqd1QxUk9CRjRnSzF0SlJUMUlyWUFEZDR3OV9CUmtOMEhuTHdFdWYxTG5qc0N5MXMwRWNST0s2YmJrbk90al9OWmNCOUFtanBqWnkxck4yZmJr?oc=5",
+        "pubDate": "Tue, 29 Sep 2026 23:35:52 GMT",
+        "snippet": "Faced with US ban, Canadian booze makers see yet more hurdles at home&nbsp;&nbsp;Reuters",
+        "source": "Reuters"
+      },
+      {
         "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates - Reuters",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlVEOVNvOG5SeC1zaU9PX2U0SDJReDlrdHRQVld5X3BEVHFYX1pPOVNtelBSeFhjNGF5bkxZaHVSS1pLOVduZTBFVnR6a3E5bGZmWktsdnhZZUo4Q2tNNThBSFlnTnBDbWZCd3hYOFJrVkYtbkd2REhaQ0JfV290YWxaTnBuYlNiaG9Cc25KMlppTzZyVnd1alF4dFppSjdiZExOZkdpaGJJYWZFcE00VzNDQ3NEYjA?oc=5",
         "pubDate": "Mon, 28 Sep 2026 17:44:41 GMT",
@@ -36,13 +43,6 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOEdVVjZrQUYxODVCRnlNM21CNEQyOVVnUHRiTG83dDZ1MEwwbHFXRlJqR293dTc3WFdMRTBlR3oyTjZKaGMyaHdGM3ZfSTRCcm1jS1ZTSWdQdnJpZ0VwNDRlNEFpcFgzOEZiVDVrUzV2dWdIU1VsQ0E4UW4xdnZwdEhreXNMT3NYVEZGOXc5cXZEWTd6TTdJemRpdUdsX0JqdFVSQ0tRVDVuTHpDdUo4UXlTSkVDaVpIcEpzY3h4ODdnRmFXLUk2aWdTbw?oc=5",
         "pubDate": "Tue, 29 Sep 2026 23:01:00 GMT",
         "snippet": "Robinhood to allow 24-hour weekend trading of US stocks as industry shifts to wider access&nbsp;&nbsp;Reuters",
-        "source": "Reuters"
-      },
-      {
-        "title": "Battered bond market braces for a new era of interest rates - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUFJEcnNjUGNwM1N4MlNkdG1pZ0VwVmt4cWhUZ2t0UkN4aHlRNzVyR3hCd2dUMG1FRWszT05VOUN4MUhDSGhXQUhIamhNWWJJNUpGXzZWcFc2Mk5Hcl9yNXBaaWVDVDlZQWg0d2xIRGl0RFhqWjJlR1ZORGlrNXRmdGZxSF9URFQ3Zzc5d2dER1g4U3hvZDZXMHNKVlhFaGRBRmRKRVJR?oc=5",
-        "pubDate": "Tue, 29 Sep 2026 04:47:00 GMT",
-        "snippet": "Battered bond market braces for a new era of interest rates&nbsp;&nbsp;Reuters",
         "source": "Reuters"
       },
       {
@@ -130,45 +130,45 @@
         "source": "CNBC"
       },
       {
-        "title": "China unveils mortgage subsidies to boost economy - Financial Times",
+        "title": "China unveils mortgage subsidies to boost economy - ft.com",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTnJjY21ZMDE5X3ptQTVVb0VZdnhGcXdLVzRrODJHU0lkdVp6bV9pS1pfZjFBWUhUVm9Mc1ZnazJ3VkNLdkY5aE5QOUt6TkxiUXdTREQ2SF9RQVBBNS14R3N0Vy1QLXBhSEZFbHZ1VUFQWHdzUjVna29QeWcwbkc1Y1FUV2M?oc=5",
         "pubDate": "Tue, 29 Sep 2026 14:08:45 GMT",
-        "snippet": "China unveils mortgage subsidies to boost economy&nbsp;&nbsp;Financial Times",
+        "snippet": "China unveils mortgage subsidies to boost economy&nbsp;&nbsp;ft.com",
         "source": "FT"
       },
       {
-        "title": "Average UK diesel price set to reach \u00a32 a litre within days - Financial Times",
+        "title": "Average UK diesel price set to reach \u00a32 a litre within days - ft.com",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcFVmWTBPUFgwOHBEd2JjVnNLOG9MUXItYjJvMnVzakxiRF9pdmNGWWRxV1VfTTNrMThVdDhfb1hkNUduUllZajdscFdWOVNCbTRzNDZpSUhyS0JWV0RteXVlWUVrQ1k4U1pNYW9lOTRXaWZnTnB1cy1wX1E4TmVueU9QV08?oc=5",
         "pubDate": "Tue, 29 Sep 2026 12:34:12 GMT",
-        "snippet": "Average UK diesel price set to reach \u00a32 a litre within days&nbsp;&nbsp;Financial Times",
+        "snippet": "Average UK diesel price set to reach \u00a32 a litre within days&nbsp;&nbsp;ft.com",
         "source": "FT"
       },
       {
-        "title": "US 30-year Treasury yield hits highest since 2002 - Financial Times",
+        "title": "US 30-year Treasury yield hits highest since 2002 - ft.com",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc3ZpSzBpNDlDRVpTcFpkQVFuRXFTdEJKQWdrU1RkVkQ4eWxRY3UxYS1PeTBCaGQwZmNMOUdTcU1WeC1SOGp2OG1fU2VRUTBMSFVTd1ZDRHJybnlIcnZ1bW1YM3dqazluakIxS0h0VGFMUWZwTXJTaURtaDB3R1dNNkpUM3A?oc=5",
         "pubDate": "Tue, 29 Sep 2026 15:20:54 GMT",
-        "snippet": "US 30-year Treasury yield hits highest since 2002&nbsp;&nbsp;Financial Times",
+        "snippet": "US 30-year Treasury yield hits highest since 2002&nbsp;&nbsp;ft.com",
         "source": "FT"
       },
       {
-        "title": "Erdo\u011fan bids to contain fallout from Turkey\u2019s $18bn stock market scandal - Financial Times",
+        "title": "Erdo\u011fan bids to contain fallout from Turkey\u2019s $18bn stock market scandal - ft.com",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0xvd0V6Z2pnOHhTZFdLbjJna3NqYmhKT08tb2FJcnZuOFVWTVpUOHZOVTFLMV91VlVIWkplb1NKZFNOR1BnWFYwSVRZSW5DUFNnN1VKZVlXMXdUNGVpLU84clBNT3Z6NXRtY0NwZmQtV2NlSXZwYWQ0TFVpZFphaG5iN3E?oc=5",
         "pubDate": "Mon, 28 Sep 2026 20:57:06 GMT",
-        "snippet": "Erdo\u011fan bids to contain fallout from Turkey\u2019s $18bn stock market scandal&nbsp;&nbsp;Financial Times",
+        "snippet": "Erdo\u011fan bids to contain fallout from Turkey\u2019s $18bn stock market scandal&nbsp;&nbsp;ft.com",
         "source": "FT"
       },
       {
-        "title": "AI hyperscalers are transforming debt - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFB2ZC0tQzM5QllZMExaN0FBZUZWeU1fZE95OTVpSnBmOG12a09rVHFlcTRxWEpGRmlWbFJiUl9waktTNURPbEZVcnlLVnpPN0M0Q2kyRTBVZjRSWVM2YnNoMl81Y041bzdKNVZVUHpOUGY4RVVlR0lZMzFBN1djWkJGSUc?oc=5",
-        "pubDate": "Mon, 28 Sep 2026 08:00:02 GMT",
-        "snippet": "AI hyperscalers are transforming debt&nbsp;&nbsp;Financial Times",
-        "source": "FT"
-      },
-      {
-        "title": "Dangote\u2019s $16bn oil refinery blocked by Kenyan court - Financial Times",
+        "title": "Dangote\u2019s $16bn oil refinery blocked by Kenyan court - ft.com",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdS0xbXZ1UXlGTWFfMnpCUVB3RjBjZWktelA2a042U0tBS2FiVDNyLWktMy02LUlFQjkwZC10cEdzS0pFc2VRdGliSXR4d1dsaVFZMjc0ck9qMVFWT2tGZkEyd3NtcktRTG1HcDN5ZGRjYlAxdlF5VVVEM01nS2w3WVM5WFY?oc=5",
         "pubDate": "Tue, 29 Sep 2026 12:14:57 GMT",
-        "snippet": "Dangote\u2019s $16bn oil refinery blocked by Kenyan court&nbsp;&nbsp;Financial Times",
+        "snippet": "Dangote\u2019s $16bn oil refinery blocked by Kenyan court&nbsp;&nbsp;ft.com",
+        "source": "FT"
+      },
+      {
+        "title": "\u2018No definitive timeline\u2019 for David Solomon to step down as CEO, says Goldman Sachs - ft.com",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEdmcFNFYVoySHVad2xjdU0wSmpVeFZOY01la3JsM29TQU9sWXdoQ3ZLMDFLTjU3TzA0Tk1Jb2Zia1pESDZ2aThKTEdpaUp3aEdLd19BdlFWb2U2eTVyOVpCRnR0SmNQSEsxTWJzWE9xTzlMYjVNcFNmbmF6RVJnWl9IM0Y?oc=5",
+        "pubDate": "Tue, 29 Sep 2026 02:29:14 GMT",
+        "snippet": "\u2018No definitive timeline\u2019 for David Solomon to step down as CEO, says Goldman Sachs&nbsp;&nbsp;ft.com",
         "source": "FT"
       }
     ],
@@ -216,6 +216,13 @@
         "source": "Reuters Tech"
       },
       {
+        "title": "Nvidia Debuts System Designed to Stop AI Agents From Going Awry - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXp5U1NScVBhb29ldkZHSmNLS1pYVHBvRGhXTHNuSDh2QXpkY2hUeDBqTjBFekpaOVA4YW9vcEo0endNWjhDb2dSQ0V1NVJGNTZUMEowT0dlX2liaEE3VmV0UGtpdHRHNGhvSUlERTkyY3BaU0o3cUhCdlktdUxOcHljY21yTUY3ekJoclh2SWJQd0kwV05ua0ItdzNkTklTS25YWUU2ZkZ5RFRNUC03bEp5Wko?oc=5",
+        "pubDate": "Mon, 28 Sep 2026 21:32:43 GMT",
+        "snippet": "Nvidia Debuts System Designed to Stop AI Agents From Going Awry&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg Tech"
+      },
+      {
         "title": "MSCI Launches AI Value Chain Indexes as Hedging Demand Grows - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaWNSYUd5QnF3bTllUWh4Nl8tSERTZG1INzd4ZW9McFFKMlFLeDNyU1RaQlhlUDlENWFtcVlub1ZNRkhlcWp5eGVrWnN3blJpWHFYT2Ffem5JUTREX2txQ2J5ZEl6NGQxeGhUZ2VXaWQxeGhTUmc3cWduaHdDaF9hLUl1djZfMTlfSE10cjF5UTV2U21YNndZZURFZ211SEtBOWtsdlRXVjNoYkZ1bWttQQ?oc=5",
         "pubDate": "Tue, 29 Sep 2026 02:59:00 GMT",
@@ -227,13 +234,6 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQzM3ck5ac0Z0NjdzUmc2aWFLa0NwRXlGNW9rM1pDZjNhZUs1YkFMOW5KUEdKVG92ZFZfRDRzY2dFUEVlaWd0ZmtWNWhEUzExRU9rdTdxU1hSRE9lVFd4emJTZFRiWUlGTXpSdFdsd2c2Z2xXR29TN3RrOG9fN3Z6QXAwWWxXRUFTTll3WkJydlhtVkFySTBtTkxmb1hpMldPUWhJNUFB?oc=5",
         "pubDate": "Tue, 29 Sep 2026 19:03:47 GMT",
         "snippet": "Are We Losing Control of AI? What\u2019s Driving New Fears&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg Tech"
-      },
-      {
-        "title": "Nvidia Debuts System Designed to Stop AI Agents From Going Awry - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXp5U1NScVBhb29ldkZHSmNLS1pYVHBvRGhXTHNuSDh2QXpkY2hUeDBqTjBFekpaOVA4YW9vcEo0endNWjhDb2dSQ0V1NVJGNTZUMEowT0dlX2liaEE3VmV0UGtpdHRHNGhvSUlERTkyY3BaU0o3cUhCdlktdUxOcHljY21yTUY3ekJoclh2SWJQd0kwV05ua0ItdzNkTklTS25YWUU2ZkZ5RFRNUC03bEp5Wko?oc=5",
-        "pubDate": "Mon, 28 Sep 2026 21:32:43 GMT",
-        "snippet": "Nvidia Debuts System Designed to Stop AI Agents From Going Awry&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Tech"
       },
       {
@@ -328,17 +328,17 @@
         "source": "The Verge"
       },
       {
-        "title": "Honor\u2019s Magic 9 Pro Max has a big camera and a bigger battery - The Verge",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUtzSUFWX2ZySl91clQyMjlNbVVXMXMzVEprTFFWVkFlVllhUUdoeVhlT2dpTjBnb2xtbGlBeG5MYnEwclpTalVNbE9YWmhaUWJRRVlMWE1fanotNGNyNHZXRm84djlqTDJvQUplMTlVR0ZpeUtlN2o1azJlaDBtTzludjNsTjRFclZDWVdBajR2bnJFZlpyQ2xjWk9KcTdYZGs3MTgwUQ?oc=5",
-        "pubDate": "Mon, 28 Sep 2026 08:00:36 GMT",
-        "snippet": "Honor\u2019s Magic 9 Pro Max has a big camera and a bigger battery&nbsp;&nbsp;The Verge",
-        "source": "The Verge"
-      },
-      {
         "title": "Bose starts adding Auracast to its headphones - The Verge",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wZ3VyRzlTV3Zpa09zVENyNnJKWnVWeEs0SVpuQ1dNcFBYVUd2empkYWV5T1lLOGdqa3l0bU0yejYtUmZ6ZDQ2azVMWjVjRVBDLW1jc0tVaTFmTENsZ0tOTWhrVkVwQUVabDlEeW5SQk52empoWDcybk91N1hwUGM?oc=5",
         "pubDate": "Mon, 28 Sep 2026 19:31:24 GMT",
         "snippet": "Bose starts adding Auracast to its headphones&nbsp;&nbsp;The Verge",
+        "source": "The Verge"
+      },
+      {
+        "title": "Honor\u2019s Magic 9 Pro Max has a big camera and a bigger battery - The Verge",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUtzSUFWX2ZySl91clQyMjlNbVVXMXMzVEprTFFWVkFlVllhUUdoeVhlT2dpTjBnb2xtbGlBeG5MYnEwclpTalVNbE9YWmhaUWJRRVlMWE1fanotNGNyNHZXRm84djlqTDJvQUplMTlVR0ZpeUtlN2o1azJlaDBtTzludjNsTjRFclZDWVdBajR2bnJFZlpyQ2xjWk9KcTdYZGs3MTgwUQ?oc=5",
+        "pubDate": "Mon, 28 Sep 2026 08:00:36 GMT",
+        "snippet": "Honor\u2019s Magic 9 Pro Max has a big camera and a bigger battery&nbsp;&nbsp;The Verge",
         "source": "The Verge"
       }
     ],
@@ -470,166 +470,173 @@
         "source": "CNBC Finance"
       },
       {
-        "title": "Barclays waters down return-to-office mandate after staff backlash - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxWURsWTYwUmxyY25KX1Z4ajRLSHVjLWdzR18zeU41RFlkTzBaN0hrdzdpeTdjQ1hqNjM1eEpjdGxKbEhabzJFOUhMbU83ZXpxaHZORmctaUpHT09XMHA2Y3ktMFRtdHNsY1lyVFJsX3U?oc=5",
-        "pubDate": "Tue, 29 Sep 2026 14:12:01 GMT",
-        "snippet": "Barclays waters down return-to-office mandate after staff backlash&nbsp;&nbsp;Financial Times",
-        "source": "FT Banks"
-      },
-      {
-        "title": "Breaking a central banking taboo - Financial Times",
+        "title": "Breaking a central banking taboo - ft.com",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0p0c3I4OXVpTkxKdTctb0pVTHhBbDhoY2FMMlZZejNnSmdwZDhUSzdfTFk4dHlScE1ZTzhyRXdUQnktSmFaRWlSU3NxbHcyWktiN3VSb2VNWDRDN2ppdXU0ZkdFMDJGajFqZG55OGhoQkg1LU9JdGtKcGtnTmg1VzNOeFg?oc=5",
         "pubDate": "Tue, 29 Sep 2026 11:30:08 GMT",
-        "snippet": "Breaking a central banking taboo&nbsp;&nbsp;Financial Times",
+        "snippet": "Breaking a central banking taboo&nbsp;&nbsp;ft.com",
         "source": "FT Banks"
       },
       {
-        "title": "Australia raises interest rate to highest level in 15 years - Financial Times",
+        "title": "Australia raises interest rate to highest level in 15 years - ft.com",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObjUzamZVNzI1cFFYbmpJRkphYlkzN0RnQ2c2QkpacG1OT2w5SS0xZHdGalhmT2prOWhpb0RJR3NLSkh0dl9yem5YOWRnMVV0SE9CdWw5b3F4bWhqbXZOc084VXVPMGZESE01MmVPQWgzeVplcEN4NmRMZnB5YmExcERZNHo?oc=5",
         "pubDate": "Tue, 29 Sep 2026 05:18:56 GMT",
-        "snippet": "Australia raises interest rate to highest level in 15 years&nbsp;&nbsp;Financial Times",
+        "snippet": "Australia raises interest rate to highest level in 15 years&nbsp;&nbsp;ft.com",
         "source": "FT Banks"
       },
       {
-        "title": "HSBC moves to bolster Hang Seng by cleaning up balance sheet - Financial Times",
+        "title": "HSBC moves to bolster Hang Seng by cleaning up balance sheet - ft.com",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2ZSZjZoTXE4Z1hSR3JINjdiSkNwaXlES2JDSm14Ykh4a2pQQVlGcmFndFYzOGJsQlFPMDFkdjAzSTVzQkVIUGRpMTQ2T3dNYURsdkFoalFweWpkdVl6SkF6c1A5QzY1V2FrZWZYMGdjSmctQ3oyWnpGd2RRSWZyaFRnR1I?oc=5",
         "pubDate": "Mon, 28 Sep 2026 21:00:08 GMT",
-        "snippet": "HSBC moves to bolster Hang Seng by cleaning up balance sheet&nbsp;&nbsp;Financial Times",
+        "snippet": "HSBC moves to bolster Hang Seng by cleaning up balance sheet&nbsp;&nbsp;ft.com",
         "source": "FT Banks"
       },
       {
-        "title": "UniCredit\u2019s Andrea Orcel moves to seize control of Commerzbank within months - Financial Times",
+        "title": "UniCredit\u2019s Andrea Orcel moves to seize control of Commerzbank within months - ft.com",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN3lMS0pjdmhCd29XdnNtWWh0VC1DVUpqWWhKV2N4enNxbmVpbFpBbGc5ZElFOUZONDR4YjNpWk5RV0w3cnlJQU94WW9SRk14eEFLOWp4dzNBZjNLVjVpOW1mVGhFYmhLcU9rdTNreTY3NzloNU1QWWJ4OUxRSTVJTkQtWHA?oc=5",
-        "pubDate": "Tue, 29 Sep 2026 04:00:30 GMT",
-        "snippet": "UniCredit\u2019s Andrea Orcel moves to seize control of Commerzbank within months&nbsp;&nbsp;Financial Times",
+        "pubDate": "Tue, 29 Sep 2026 04:01:49 GMT",
+        "snippet": "UniCredit\u2019s Andrea Orcel moves to seize control of Commerzbank within months&nbsp;&nbsp;ft.com",
         "source": "FT Banks"
       },
       {
-        "title": "Why a \u00a310bn Monzo takeover could be good for the UK - Financial Times",
+        "title": "Why a \u00a310bn Monzo takeover could be good for the UK - ft.com",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQXBnNk9GNEZROUhGeXpxNWl6dmV0R1AwNDVCcVNham84T1NYVVlFT2VuZ3M4T0kwTHZxRkliaTFiTnNFRW44QkxOYmpoTE9sQ3dvTElVbEJNRGFKX1dzUWlLSmUzUlVFMWhDWERBQUhmX3luaTMyU0JNQjdJWVhRajlnTUE?oc=5",
-        "pubDate": "Tue, 29 Sep 2026 04:00:31 GMT",
-        "snippet": "Why a \u00a310bn Monzo takeover could be good for the UK&nbsp;&nbsp;Financial Times",
+        "pubDate": "Tue, 29 Sep 2026 04:01:15 GMT",
+        "snippet": "Why a \u00a310bn Monzo takeover could be good for the UK&nbsp;&nbsp;ft.com",
+        "source": "FT Banks"
+      },
+      {
+        "title": "European banks push to recapture fees from BlackRock and Vanguard - ft.com",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUWVZbmdZYnM2M01CemcwWWtwdGQ2SzNpcUZxeTRQX0lyelBoYmQ3cG1tb1E0d1MtaHVhaUVpekY2MHVhaDJzT190ZldFSTFjZDM3U2hPZ2RnbHZHanQzWW9vd3paUzcyQ0pYRWFDZ0kxbkNtQ3UtaFNZODNBZDgyM1E0V2I?oc=5",
+        "pubDate": "Tue, 29 Sep 2026 04:00:12 GMT",
+        "snippet": "European banks push to recapture fees from BlackRock and Vanguard&nbsp;&nbsp;ft.com",
         "source": "FT Banks"
       }
     ],
     "singapore": [
       {
-        "title": "MAS allocates S$1.45 billion to five asset managers in third EQDP batch: Chee Hong Tat - The Business Times",
+        "title": "MAS allocates S$1.45 billion to five asset managers in third EQDP batch: Chee Hong Tat - businesstimes.com.sg",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd1ljdGVvYURFRnZWWjM1cUs0VF9OR2Y2WjY0bjZNcXNIS2lBb2J0aUJGa25IMTVPRHhhZTlVZlVGV3RuOHRmWkNrTG82bVM5Mi0xUEozbC05SHVmNDJZb3FZenNqbmd0OUJGNFpMS2NLLUlhQ2YxRWJKWjBGRU9LTWtNTlBFUkhwR0QybktLMWRCenNTZWp1STJ1TUs3bl9SbkllSDkwdG1QRGxEOVJXcmpEUHdUVlkzeFl5b3hqSm82TG5xemF3Ug?oc=5",
         "pubDate": "Tue, 29 Sep 2026 03:07:00 GMT",
-        "snippet": "MAS allocates S$1.45 billion to five asset managers in third EQDP batch: Chee Hong Tat&nbsp;&nbsp;The Business Times",
+        "snippet": "MAS allocates S$1.45 billion to five asset managers in third EQDP batch: Chee Hong Tat&nbsp;&nbsp;businesstimes.com.sg",
         "source": "Business Times"
       },
       {
-        "title": "Daily Debrief: What Happened Today (Sep 29) - The Business Times",
+        "title": "Daily Debrief: What Happened Today (Sep 29) - businesstimes.com.sg",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWFF3cUZaamxFZmplbkt1TUVQdmVia2d4QnNGdmFtX2x1UzVmUEFHbU51ZXF4Y19wbHZMNmRoM2JET1IzSWJRNVo5MW1sNWJCdEYxQ0V1TVJrbC13NElNbWxJZkFXZ1NnZzlDN2xTTGVpdXlnMmY4OEZkQl9Vam5GZWZkcUVnS2Y1ank5UHZrTTlBdzNnV3BYaQ?oc=5",
         "pubDate": "Tue, 29 Sep 2026 10:45:00 GMT",
-        "snippet": "Daily Debrief: What Happened Today (Sep 29)&nbsp;&nbsp;The Business Times",
+        "snippet": "Daily Debrief: What Happened Today (Sep 29)&nbsp;&nbsp;businesstimes.com.sg",
         "source": "Business Times"
       },
       {
-        "title": "Singapore's factory output growth accelerates to 15.4% in August, but undershoots estimates - The Business Times",
+        "title": "Singapore's factory output growth accelerates to 15.4% in August, but undershoots estimates - businesstimes.com.sg",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUW9EQmI4UmxjRU1jejZ3MmljMHFyUC1yVlp3aDV2T2gxMnVXMWJMWVotbV9ucmlmcnU2VzR2OGhXc1ZwUlZsSVNRcURtU0ZiemMyN2k3ajMtXzdSbVg1NEVNOUEtLS1vNWdrOHM2TDlFcTR0TjNtbnBQck4zbDhLYjZpeGpKNDQ4VUFwdjhJRmhuQzFOQV9qOGcwNDJFRm1HRE41QTdya0lHYzRKcEZWQjgtUC1NOW96ekF4OEFn?oc=5",
         "pubDate": "Mon, 28 Sep 2026 05:00:00 GMT",
-        "snippet": "Singapore's factory output growth accelerates to 15.4% in August, but undershoots estimates&nbsp;&nbsp;The Business Times",
+        "snippet": "Singapore's factory output growth accelerates to 15.4% in August, but undershoots estimates&nbsp;&nbsp;businesstimes.com.sg",
         "source": "Business Times"
       },
       {
-        "title": "China set to boost economy, stabilise housing market as slowdown threatens growth target - The Business Times",
+        "title": "China set to boost economy, stabilise housing market as slowdown threatens growth target - businesstimes.com.sg",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ0paVnp1d3dIZzhlcGxwaGJia1g4dFJqR3lqTHdOQjhCdzVQdUVvX0tUT0hOckFacDlsakJCeDFQVHVKdmlaMnV1dmpGVGNlejNUeERhZVJaQTYxdnhEMUgyeTBOd2p1dmZUZFlxc3VsclR1TF84Qkd3WmFhLUtHNTI0em4xQ084UGg5OUl4bWxudm1RTWZ1TVg4OUhIajFzbXJzZXlfM1d4bkVZaU90YjBONk1RMXpHWVIxY2Z0c2VpNDEzZWtB?oc=5",
         "pubDate": "Tue, 29 Sep 2026 04:53:00 GMT",
-        "snippet": "China set to boost economy, stabilise housing market as slowdown threatens growth target&nbsp;&nbsp;The Business Times",
+        "snippet": "China set to boost economy, stabilise housing market as slowdown threatens growth target&nbsp;&nbsp;businesstimes.com.sg",
         "source": "Business Times"
       },
       {
-        "title": "Number of listed companies an 'outdated metric' of Singapore market's success: SGX chairman - The Business Times",
+        "title": "Number of listed companies an 'outdated metric' of Singapore market's success: SGX chairman - businesstimes.com.sg",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU1pBQnhHeUxrSXpuS1BWTzVfTjQtbnBqa05IMzc5UWtfZW5DSzNYN3hyaUxIelVyX1NtN3F5ZDh2RU41N3VhY1l5S2Jxczl1dkVndTBQOVVuS3loUHNUT1VGN3BHVTJieEdja3ljSDVzaHdkT0NrY0Z3YnFGWmxPNEJTM1pjdDhmbUVyYzA0WXlJcGVVOVhhc21TSXhzS3hqaEZEb0FzOWNMR1pCOHRyUUxuVG5zSDhqS1JxT0tmZXZueThsNl9aUA?oc=5",
         "pubDate": "Tue, 29 Sep 2026 09:26:00 GMT",
-        "snippet": "Number of listed companies an 'outdated metric' of Singapore market's success: SGX chairman&nbsp;&nbsp;The Business Times",
+        "snippet": "Number of listed companies an 'outdated metric' of Singapore market's success: SGX chairman&nbsp;&nbsp;businesstimes.com.sg",
         "source": "Business Times"
       },
       {
-        "title": "The bond market is getting closer to sounding alarm on economy - The Business Times",
+        "title": "The bond market is getting closer to sounding alarm on economy - businesstimes.com.sg",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNGZyb1EtWkxMc2JQbEZNdGVXemc1bHdKUXg1WkxCd2dfb1pYSVNnam1mRmJRWkdEUHRnbWs4V2ZRUnRUd05INDNtNzh5QUppUmFjTWR5R1pTckY1R1c2bnBIMl94c0pETjV5RDltYUVKcnFGWnExa29wNjkxLUtjbHU2enYyQnI5ejg4NW94REJZX1dZeldkVW1kMFA?oc=5",
         "pubDate": "Mon, 28 Sep 2026 00:39:00 GMT",
-        "snippet": "The bond market is getting closer to sounding alarm on economy&nbsp;&nbsp;The Business Times",
+        "snippet": "The bond market is getting closer to sounding alarm on economy&nbsp;&nbsp;businesstimes.com.sg",
         "source": "Business Times"
       },
       {
-        "title": "MAS appoints five new asset managers, to inject $1.45b to boost Singapore equities - The Straits Times",
+        "title": "MAS appoints five new asset managers, to inject $1.45b to boost Singapore equities - straitstimes.com",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcnIyYzZQVnMzQ1FKNFJOTFpwYWdBYmJyaE5YcU0wb3phcndjTl90QkZzelNJRGRYYUJlX3k4c3VwSkZ5My1pTGRTUlRtcnN0bnY2TE1Ua3lwVUZpNXdHUzJFTHNxM2YxdWxwMmhOV2p0OUhnTlZSaFg0SjNqbW1YbmVZdjJERnNFUXNldl84ZVd2N1dMUEtXdFUyYURiVU5OMFk3VVVrR01JTnZETmM0M2VYT2MzdlJ2SEU0eXh4dnVZUFhlUmV1OE9KR0hlT3NJV0E?oc=5",
         "pubDate": "Tue, 29 Sep 2026 03:00:00 GMT",
-        "snippet": "MAS appoints five new asset managers, to inject $1.45b to boost Singapore equities&nbsp;&nbsp;The Straits Times",
+        "snippet": "MAS appoints five new asset managers, to inject $1.45b to boost Singapore equities&nbsp;&nbsp;straitstimes.com",
         "source": "Straits Times"
       },
       {
-        "title": "New dining options for all SIA passengers; next-gen seats and in-flight entertainment system in Nov - The Straits Times",
+        "title": "New dining options for all SIA passengers; next-gen seats and in-flight entertainment system in Nov - straitstimes.com",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPN1Z2OXFhaW1pTGVBTzlyQ25hRVo4d09iSFFDY3duWVdFalVybElicFdVVV9CMElmZEFXaGVseDg1TzkzVzNySWhmSTYzYXhUdUFXWnh2ODFmSzN3aEhkOFBlT0FwWjk5OEVzTUgwNVpCY3NqRjJRWnFfN2ZYSUxMbWpLMjBTZjhkUEtDVGludnBFdWdxelpsbUliY2FBZFpROEFOUEpqb2JBeXQ1eXVCZ1ZINmRxM2V4NGVfUkJ1OW03aDhGY2pxbTF0WTlEU0htQWhsVA?oc=5",
         "pubDate": "Tue, 29 Sep 2026 02:00:00 GMT",
-        "snippet": "New dining options for all SIA passengers; next-gen seats and in-flight entertainment system in Nov&nbsp;&nbsp;The Straits Times",
+        "snippet": "New dining options for all SIA passengers; next-gen seats and in-flight entertainment system in Nov&nbsp;&nbsp;straitstimes.com",
         "source": "Straits Times"
       },
       {
-        "title": "Investors must take risks on young S\u2019pore companies for future economy to thrive: SGX chairman - The Straits Times",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOG1oYjdMSURLZ1oxa1BPajRicjBpTHQ3bW1HSmR3Nm9McWRhNUs2aS1sLWxHQjVjRzRXR2Q0VTN6OG85ZXFVM2hBNlVoZEN4R0lhcHkyRWFUZXFyS3VZOTltdDBVWnM3N0kxcWc5Vko0TmdsSW4yNmUwTUowTFdxM0hoRWhTZFdOMDJqYkRSc0NSd3V6dGNWUnZya1FMSExxU2NYYUtialJldU9sVFBtZDlXVnR0elBtdGpaUTJ4QzdpWmlYVkVPdlRn?oc=5",
-        "pubDate": "Tue, 29 Sep 2026 09:47:00 GMT",
-        "snippet": "Investors must take risks on young S\u2019pore companies for future economy to thrive: SGX chairman&nbsp;&nbsp;The Straits Times",
-        "source": "Straits Times"
-      },
-      {
-        "title": "Robinhood to allow 24-hour weekend trading of US stocks as industry shifts to wider access - The Straits Times",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbU1mM0d0YmFON2tlaWUtSmltbzFIa01fckRiU1JZTjlENjlFRktsSUdXM0pkQlIxUFFrbDlCdlRLbFNyT2JsblpicWpyTVpWVmhjUkllV0lyWnhyX1A2NGtFRThER2IzN1JDYmdkckIwcnNuaEdtSlQ0YXJnSzZVUGJaNDNIY1RJLTM3ZFJ2ZkVWZlZyQnFmMmVYbFZBSGhiY2pZTnd1U1dtQy1QbzVtNnRmanpHRXNVa3Zyb1FVWk5Gd3RQUGlJV0QxNFlVWEdaUDV6cDQ1bkxZZEQ3NGN2ZjNLS294YlE5SWplUzdYN2JxTkFScUtPMzRXcw?oc=5",
+        "title": "Robinhood to allow 24-hour weekend trading of US stocks as industry shifts to wider access - straitstimes.com",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeWpuUW8wYlBHYi16QXV6cUI5UEFGeXIwTkFnY2dzdVNJcDdScHBqRTF3SGlsYnlOQ2xJWW85TXB4aUxEaFdIbHlLY1lBWGhVYXlodkN1aHdfeEhIYkc3QzBSNnUzalFkaUxfVXBTUkZzdmloNjF1bjZMV0lmQzBvakh3YUdkTDlMTDZQeUU1Q2FNQTcxT2N6Njg2bS1MbFZKX2s2TExVX0pocy1feEJmN1VNbzhwQ0tvR3dTTVVFUlRZYlZ4ei1aYVZYM2hDMVNkTDY5V3cxNF90WVdoOXRZ?oc=5",
         "pubDate": "Wed, 30 Sep 2026 01:20:00 GMT",
-        "snippet": "Robinhood to allow 24-hour weekend trading of US stocks as industry shifts to wider access&nbsp;&nbsp;The Straits Times",
+        "snippet": "Robinhood to allow 24-hour weekend trading of US stocks as industry shifts to wider access&nbsp;&nbsp;straitstimes.com",
         "source": "Straits Times"
       },
       {
-        "title": "Equities end slightly lower as bond yields hold near multi-decade highs - The Straits Times",
+        "title": "Investors must take risks on young S\u2019pore companies for future economy to thrive: SGX chairman - straitstimes.com",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSGlZX0xYbjROM29keGNMR2RIVVVnWmVqNE01Ym5MQld5b3hwdVczdlYtRHZFejgxM0gtcUVyd2ZkTlc4ZjZmc29WSS1lZzRSQklPeTRfdzVHbldkTUxYU0R3WGdKUHZLN3lfYUYtMmFTbGVYRXhfMm1LOU1hUGhXLXlZZFE3VjNQX0FJVWlHbjlkZlJ3YlFCTFNfLWZjWklKNTJYSVdrTW9haThKWEMxMEdYYjQ3QU5zQmwyNkJ4RFNDcUZvaTFOSVpaR0JDOHFEYlJnbzFSblBHVGYxanJiajBlS0E3UQ?oc=5",
+        "pubDate": "Tue, 29 Sep 2026 09:47:00 GMT",
+        "snippet": "Investors must take risks on young S\u2019pore companies for future economy to thrive: SGX chairman&nbsp;&nbsp;straitstimes.com",
+        "source": "Straits Times"
+      },
+      {
+        "title": "Equities end slightly lower as bond yields hold near multi-decade highs - straitstimes.com",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ1g1djkyV2NKLXBXYS1NbG5tRE0tSlNabXVJSkRVR25FbzNxWDBZd0ZucmhUQTFVbTgwZlFLdlhMMnBDYU5DQ0pSeUhHOEhnbEVMLW13dTZKZU9DVzRNOV9wRElHZHlHOTdZQ0tPS3NLMXpwY3V3YnZEWDVJR1JhZ3NlSFQ2Y0ZuNXkxMU1FbXhoQWJUckZwblRyMTNDX0IzVnVXZC1Vb3NPOEJNc2dkWU45ckRwMHlpdzlNUXU3NFEyZlNoRUE?oc=5",
         "pubDate": "Tue, 29 Sep 2026 22:22:00 GMT",
-        "snippet": "Equities end slightly lower as bond yields hold near multi-decade highs&nbsp;&nbsp;The Straits Times",
+        "snippet": "Equities end slightly lower as bond yields hold near multi-decade highs&nbsp;&nbsp;straitstimes.com",
         "source": "Straits Times"
       },
       {
-        "title": "Stocks slip in Asia as oil climbs, bonds retreat - The Straits Times",
+        "title": "Stocks slip in Asia as oil climbs, bonds retreat - straitstimes.com",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ1NoSTNEZEx0SGY0aW5YLWRERHZkZkFEWGFRVWdwRlhadE5fM3p4bHhFaGpjbjJ4cjZXZnNiTXRHT2RDR1E0b0dZTVBqMmJTNWVSV1k1cEZndjBTWE9HYjZRNTh5NVhiMjJlNmVYSldsSld2MGVpR0ZneUF1RmlPX05CU3RQc0E3YXBpN19jaw?oc=5",
         "pubDate": "Mon, 28 Sep 2026 01:20:00 GMT",
-        "snippet": "Stocks slip in Asia as oil climbs, bonds retreat&nbsp;&nbsp;The Straits Times",
+        "snippet": "Stocks slip in Asia as oil climbs, bonds retreat&nbsp;&nbsp;straitstimes.com",
         "source": "Straits Times"
       },
       {
-        "title": "Singapore Airlines unveils new and refreshed in-flight dishes, including poached lobster and beef short rib sambal percik - CNA Lifestyle",
+        "title": "Singapore Airlines unveils new and refreshed in-flight dishes, including poached lobster and beef short rib sambal percik - cnalifestyle.channelnewsasia.com",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc0VobVYzbXhINDZGSE9rclpVZG5uZTIxQmQzbGUwbk1YbGx2Vm9TT2FySGNxV0JCYUQ1VUFMS1FNOGhsS1pCR3BIZmxyQjhiTF94anh1RGpPTXREWU05YUVxNmxSREJhcWpzWVZob3Z3Mjg1bjUzM2YxVGRYd01IM0RlRWw4eHYwczZmMFNlbmtEN1RwWEpsTElnanhjZGwxX1J3SjM0TQ?oc=5",
         "pubDate": "Tue, 29 Sep 2026 04:32:00 GMT",
-        "snippet": "Singapore Airlines unveils new and refreshed in-flight dishes, including poached lobster and beef short rib sambal percik&nbsp;&nbsp;CNA Lifestyle",
+        "snippet": "Singapore Airlines unveils new and refreshed in-flight dishes, including poached lobster and beef short rib sambal percik&nbsp;&nbsp;cnalifestyle.chan",
         "source": "CNA"
       },
       {
-        "title": "Regional flavours find new expression at Odette and five restaurants across Asia - CNA Luxury",
+        "title": "Regional flavours find new expression at Odette and five restaurants across Asia - cnaluxury.channelnewsasia.com",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ2xqbGxfQ2Faazh6RVA2VS1YR2lLcWxudnVXM0dJQWZINDJqR29ZOTlFY0RMV2E3VHNSQldkYmxxdHBUWXotLXZkbFlELWsyMktyejg0OEppMVgxVDdFX0d4N3RMVlFqeDZ1dkU2TGRXbGcwbk9XamY4c19ueThCSkxmTHJTZVJ5Z1RTaTZFR0lqVUlsNzVMaE50a2hUMkt6aFA5WTItRURvY0d4RjVLQnJiZEZkUTNzYUZsS3JvWEFqSXBpZWlqcVlrN0hzT1E?oc=5",
         "pubDate": "Mon, 28 Sep 2026 01:29:00 GMT",
-        "snippet": "Regional flavours find new expression at Odette and five restaurants across Asia&nbsp;&nbsp;CNA Luxury",
+        "snippet": "Regional flavours find new expression at Odette and five restaurants across Asia&nbsp;&nbsp;cnaluxury.channelnewsasia.com",
         "source": "CNA"
       },
       {
-        "title": "CNA938 Rewind - Trump\u2019s Greenland tariff threats: What\u2019s at stake for Europe and the global economy - CNA",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNU3NITWpHSFRlMUMwYk9IdHJrUnJwYjBlWVZhdzlKMnNoTUIwMzM3NS1WVVM2dlB5R1F3aTFXRUUzeHl2UEl1OTlVclEtTzhFcVNMMjd6cDNpVVoyaHlpVmtwUS1EQ0tjV3FvYUxjUG9EM3FLYTlCRExjMzdUQVRnUWVhM3BrMEEzQ0U3QnNoWkdYQjhjR0F0TDZ6bll4WFg3SEd2WUt5Sk9iTjFRYkVVMmg3bnhXLWZQd25BRmtUQ3RYRGRDQ3l3TE52dVpvbzVPTzl3VE9XQnBlRUxJdVpZR2RHbkQyRTVkbmt4QnVMT0NSbFlONVE?oc=5",
-        "pubDate": "Tue, 29 Sep 2026 17:33:42 GMT",
-        "snippet": "CNA938 Rewind - Trump\u2019s Greenland tariff threats: What\u2019s at stake for Europe and the global economy&nbsp;&nbsp;CNA",
+        "title": "CNA938 Rewind - Trump\u2019s Greenland tariff threats: What\u2019s at stake for Europe and the global economy - channelnewsasia.com",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQREw4OWQ2RmlDRlppd3BjbGZjZkFrR3NNWmw3UlV3ekE0dkIxcmZBdHRwV0NUa1VkUTktc3dNSjhsZFFDR3VITlI1NVp0em81MlFaNXh0eTV2MEN3RHdwTjBYZ2VQUWFlemYtSFRLcllWMDM3amt0QThpYk1NQjYwQnZRdTFGbXRtOVFDM2w3dkNTTjFyV0ZTeTF0WC1kN0Nkem1pbkg4U1NPX25pWE9CNnh6MktNbTBZYXRvM2ZJNGlFaHhDRWhDcy1hTFIwQ0hPYjJEbS1aUk5kWVRqaW5SQ2NKSDhQY21rX3NNSkJyVXAyQV9JalE?oc=5",
+        "pubDate": "Tue, 29 Sep 2026 20:59:07 GMT",
+        "snippet": "CNA938 Rewind - Trump\u2019s Greenland tariff threats: What\u2019s at stake for Europe and the global economy&nbsp;&nbsp;channelnewsasia.com",
         "source": "CNA"
       },
       {
-        "title": "CNA938 Rewind - Phishing-proof? Testing Singpass' new passkey - CNA",
+        "title": "CNA938 Rewind - Phishing-proof? Testing Singpass' new passkey - channelnewsasia.com",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbGxGTnZSdkVYZ1FEcmIxV01zbWkxTVFvV1hNM2thckZ2b3JRWTBGMGI0aXpjTnNSUDFYaE9mdE1taGlCbEZhNmlGMkZjRTBnVTlEeEN4Q080MjZFcUhTY1MxdkxrQ2x5VDBSZHVNQ3EzVFZlLVJ5MFJpdTBfUFpUY1BEdDIxM0RfUHVlVk9DTnR0eEhCbDB1LVFLTEp2MXR3ell3cEhaUG0xbmdBeHVkTm94S19raW5wdGo3eWRKUmo2XzhBQWlKZmRTcTlUUGVfOXhwbQ?oc=5",
         "pubDate": "Tue, 29 Sep 2026 16:52:48 GMT",
-        "snippet": "CNA938 Rewind - Phishing-proof? Testing Singpass' new passkey&nbsp;&nbsp;CNA",
+        "snippet": "CNA938 Rewind - Phishing-proof? Testing Singpass' new passkey&nbsp;&nbsp;channelnewsasia.com",
         "source": "CNA"
       },
       {
-        "title": "CNA938 Rewind - Market Watch (8/7): Asian markets down led by a sharp 5.3% plunge in South Korea's Kospi #SGToday - CNA",
+        "title": "CNA938 Rewind - Market Watch (8/7): Asian markets down led by a sharp 5.3% plunge in South Korea's Kospi #SGToday - channelnewsasia.com",
         "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUFgwV3d3TThDQ3lCZS1rQTR4NWNENXBmQnBPSUQ3QUlFNUlpZWZMeXlzVFNvTlduTXhXcC02RGl1S2tILW5pY29DcG9JbTREbkJBRmdzcWlpbl9oTDNvOVpXdnNoQ0NjblItZjQzSjRlUmhmbHF3OUxEUmtvcFR0dEladjl2eDN0S3NrVmg5a3psQTBlanhPRm9BM0lrZnJSMmY0a1lBLVhUWHVkdDlpRkFRMm94dWJ5M0wzSTNSQURNZTAybXZvVG80b2dzS3ducWNEdlFZUTc5ZklJd2tQNjdaYTNzcHJGWUdsclhpVERlaERySGlFSVFSYUYyaWNESkZnd1FVVVBQWkU?oc=5",
         "pubDate": "Tue, 29 Sep 2026 10:03:03 GMT",
-        "snippet": "CNA938 Rewind - Market Watch (8/7): Asian markets down led by a sharp 5.3% plunge in South Korea's Kospi #SGToday&nbsp;&nbsp;CNA",
+        "snippet": "CNA938 Rewind - Market Watch (8/7): Asian markets down led by a sharp 5.3% plunge in South Korea's Kospi #SGToday&nbsp;&nbsp;channelnewsasia.com",
+        "source": "CNA"
+      },
+      {
+        "title": "MAS appoints 5 asset managers with S$1.45 billion allocation to support Singapore stock market - channelnewsasia.com",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS2xKSXkzYXRoMmRzdjdiRWFqWTA2a2tCYnlsUFdVdXB6UTB5VHR3TTVkVDdrRjM2clVpcUpVMlFOcU5IRll2eW1YWWZTbGNkU2Q0d0JqS2g1Ml9kWFRsTUctUnV2b1hFSVZBcHduUkczbjYyM0JRVkh4cy1yblZ6Q0pYLWhTcktUZTFLMU5iRzYzaHF3RHEwV0I2YmVHLU44R0ZZTjRmMC1iYUZrTjJJ?oc=5",
+        "pubDate": "Tue, 29 Sep 2026 09:10:26 GMT",
+        "snippet": "MAS appoints 5 asset managers with S$1.45 billion allocation to support Singapore stock market&nbsp;&nbsp;channelnewsasia.com",
         "source": "CNA"
       },
       {
@@ -668,10 +675,10 @@
         "source": "Reuters SG"
       },
       {
-        "title": "China to cut tariffs on US farm goods, but list excludes soybeans - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcS1oNDFMWG5pMzdiVDYzYlpoWmx2dXh2Z3FDbUJ5T09CbEFBV251Rkc2cFZTcnlPTDZ6N2hJbThrNTRrc255d0NZUWJhendkbXBNc3M4cWRWV1RaVkg3ZXg5Q2ZQVEZxWW1hX1V3UjJUOEJMZGlCRXJEdUpvZzUtQzdreVY5azNfSGxwakVfZFJOa0F0Y1NDWVllMHhaZEQybjRTdg?oc=5",
-        "pubDate": "Mon, 28 Sep 2026 13:59:48 GMT",
-        "snippet": "China to cut tariffs on US farm goods, but list excludes soybeans&nbsp;&nbsp;Reuters",
+        "title": "Dollar set for September rise, mainly at euro's expense - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXZZWnNiSFFfUWVOeFNjX3hjdGxCOHRmWlR4NnMxT1NZUHFLN1pVYV9MajdTTkljQWVOZm55UDR0MTdaN2hScW41Y1Y4TGoxSi1kZTZNdmNpVkFIa2VUSklhSzZPNVdVRUQ3WkNOZG8yUHBiQUVwajlCVGJ2TG1XYlY4R3ZtTmkxWEEyQUoxZmtyQ09JelJfZWlUUQ?oc=5",
+        "pubDate": "Wed, 30 Sep 2026 01:31:25 GMT",
+        "snippet": "Dollar set for September rise, mainly at euro's expense&nbsp;&nbsp;Reuters",
         "source": "Reuters SG"
       }
     ]
