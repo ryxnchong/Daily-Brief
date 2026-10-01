@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "updated": 1790888752,
+  "updated": 1790890881,
   "tabs": {
     "global": [
       {
@@ -39,11 +39,18 @@
         "source": "Reuters"
       },
       {
-        "title": "VIEW Bond markets take a drubbing again, 10-year Treasury yields highest since 2002. - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTmFGbFF2aHRBRzZrcjZKTVN5clpFRHM3ekNTNnlSQjl0M0R0dmJpdzVjYlRHeC1IN3FnTGcxSWg0ZVFyZy1IcU83LXhmLW5idk00R1JJc281ZzUwSDhRY01PSVdoY21JNHByRmtpclFKMVdsVFZ5NkpPc0RONjl1Tk5vek1KMTFSb1k1dTNZOWt4R2h1eUF1WUhRX0NIOWZHc3VVc2xVaHdoRGNoYXpmdzNEdlJlZHhZdEVjaDhwTWd5YkEtOFFqaw?oc=5",
-        "pubDate": "Thu, 01 Oct 2026 09:15:44 GMT",
-        "snippet": "VIEW Bond markets take a drubbing again, 10-year Treasury yields highest since 2002.&nbsp;&nbsp;Reuters",
+        "title": "ECB focuses on inflation, not bond spreads, Nagel says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOHZQZHNWRjJnT0JEQ0pvTE5pR0hzdDNyZlNfLUJ3cV90ekxuTzVJdWZ4NjJjSXMxUlF0N0JlSTV2aGRIX0RYZ2NpVHJnWkg1S0x0N2xpZnhrUjYxUFVPUlE1Z1g4MGowQ21ZcGxaV0VmUmtqSEMtVkR6MEtuVVBMRjhqY3RmT25hdXRINE42UXdCdFd5N1dVUzJvV3FjOUtiazBnUQ?oc=5",
+        "pubDate": "Thu, 01 Oct 2026 13:51:59 GMT",
+        "snippet": "ECB focuses on inflation, not bond spreads, Nagel says&nbsp;&nbsp;Reuters",
         "source": "Reuters"
+      },
+      {
+        "title": "Opening Private Markets to the Public - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaHZwZDhuSmtwQlZVV1o4Q3F5WGxOaE5USmNGeGszNTJQMkJSeXZ5TEcwS2QtNEZySGVva1dGU3hpT3k4bjdzZ2dPOTlJbEVxWEU0YzFGaGhiazVjek43LXo4SU9Sckg5UzFPOHB4VldsSEpXcFRqN0QwX0FVdGVkRlY1SHZnMzhuYm9qTHNucEx0NWpUS3F1Rkhn?oc=5",
+        "pubDate": "Thu, 01 Oct 2026 17:58:20 GMT",
+        "snippet": "Opening Private Markets to the Public&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg"
       },
       {
         "title": "Stocks Fall After Manufacturing Data as Oil Climbs: Markets Wrap - Bloomberg.com",
@@ -53,17 +60,17 @@
         "source": "Bloomberg"
       },
       {
-        "title": "Stocks and Bonds Pause Ahead of US Data, Micron: Markets Wrap - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1BTMzZVQ0JJLTF0VnV4LWV6S3l6OXFVZWVITnl6QmpHNmR0eDUwWWNBYTZ1b2xYNmhSLTRaUXk4cjlpcjQ5NkU4Ry1hdnI3ckQ1TXFkY0ZXNjdzMXVwTmZEYnRURmhEdUxXYWdvNl9lbXBDSmRyYzRpZEVzNWFlenAtMFQxMURBdkRKVS1jTUJDU3hL?oc=5",
-        "pubDate": "Tue, 29 Sep 2026 22:12:50 GMT",
-        "snippet": "Stocks and Bonds Pause Ahead of US Data, Micron: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg"
-      },
-      {
         "title": "UK Is First Big Economy With 6% Bond Yield Since Euro Crisis - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTEF1eDdWMFdtMk9wSFluby1oY0hVMFJGSTNGZEdvS2JUQzlKQWVac2pOQkpLbFc4RnJsSXpCeFpnanlrczE3RlBKd0xXbXppVUJpT1I3T0tsOV9LWlVDMnNXbjlpMUU5UVY3dnhiQy1xTGVaWXJKT3RsRW10a1lMaHU3aWhMdEVNZ2s4bWxnQldPSXBhZmw3QkhMNjRxU2NFZk1HYzdpVWFRRFduejdF?oc=5",
         "pubDate": "Thu, 01 Oct 2026 07:26:55 GMT",
         "snippet": "UK Is First Big Economy With 6% Bond Yield Since Euro Crisis&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg"
+      },
+      {
+        "title": "Stocks and Bonds Pause Ahead of US Data, Micron: Markets Wrap - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1BTMzZVQ0JJLTF0VnV4LWV6S3l6OXFVZWVITnl6QmpHNmR0eDUwWWNBYTZ1b2xYNmhSLTRaUXk4cjlpcjQ5NkU4Ry1hdnI3ckQ1TXFkY0ZXNjdzMXVwTmZEYnRURmhEdUxXYWdvNl9lbXBDSmRyYzRpZEVzNWFlenAtMFQxMURBdkRKVS1jTUJDU3hL?oc=5",
+        "pubDate": "Tue, 29 Sep 2026 22:12:50 GMT",
+        "snippet": "Stocks and Bonds Pause Ahead of US Data, Micron: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg"
       },
       {
@@ -81,53 +88,53 @@
         "source": "Bloomberg"
       },
       {
-        "title": "SK Hynix Mega-Listing Maintains US IPO Momentum in Third Quarter - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORFBLYW5BRFlRWU13RmFqbGRDUFgyanAwUXFMSEppeWFxeFJYUE9rLU5Bb0RaQXNSUVBHMHJYdmxVbDJxd2k2emJockU1dEdqTVhtb0otRjlQdEh1dGp0cWRIMHdpR0cxQWkyd0IycWxXeTZnVHNRUWk4LThURmlpN0VNLVZ1d2FjaFR4azczWDRmeHpEaWVGM0JfMVNkTkI5bVNUZkRpTDFhLXBSS3ZtdGt4Umh4UQ?oc=5",
-        "pubDate": "Thu, 01 Oct 2026 13:00:57 GMT",
-        "snippet": "SK Hynix Mega-Listing Maintains US IPO Momentum in Third Quarter&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg"
-      },
-      {
-        "title": "One of our most recent defensive buys cleared a hurdle and its stock jumped - CNBC",
+        "title": "One of our most recent defensive buys cleared a hurdle and its stock jumped - cnbc.com",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX2JaUk1kWE9xcW1GNFZFRHQxVnhQWHVZQWdMT2lfaW8zcm92SVFLbFdYbGNhYldudWRsRTFjdldLUjZKaFFyamFsVG9JczBTNTM0SlluNWlULWpReDE3aE9IU0JoYTQ5YlZLN2dtbGpMSlVGaHhnNmNaNUJhcHI4cExhX2tmdWJ4cWFPaWt3OFJEaDVEenktS1FZbFNkalZHWURTZnRzUTRJdk9CT0dVX0Fn?oc=5",
         "pubDate": "Thu, 01 Oct 2026 18:45:17 GMT",
-        "snippet": "One of our most recent defensive buys cleared a hurdle and its stock jumped&nbsp;&nbsp;CNBC",
+        "snippet": "One of our most recent defensive buys cleared a hurdle and its stock jumped&nbsp;&nbsp;cnbc.com",
         "source": "CNBC"
       },
       {
-        "title": "Stocks making the biggest moves midday: Accenture, Synopsys, United Therapeutics, Vicor and more - CNBC",
+        "title": "Stocks making the biggest moves midday: Accenture, Synopsys, United Therapeutics, Vicor and more - cnbc.com",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVFI2VjlfaDc5cHo1LU10MGYwMjl0V0VYTkFfVGsxSjNBaEFEQ3E2SVhQb2RIWDlBSTg4MHhraTFYU0tsdFV5NXVfZVlDRTkxaWVpTXFBT1pYcjlVODVLeE9JMENuZjVjZW96MGVhOU8tVXJ4ai1zUm9KTjg0RUF1VFY0NmF1T1VwUDFoNG44WHl0eFd3ekVIM0oyRQ?oc=5",
         "pubDate": "Thu, 01 Oct 2026 16:48:57 GMT",
-        "snippet": "Stocks making the biggest moves midday: Accenture, Synopsys, United Therapeutics, Vicor and more&nbsp;&nbsp;CNBC",
+        "snippet": "Stocks making the biggest moves midday: Accenture, Synopsys, United Therapeutics, Vicor and more&nbsp;&nbsp;cnbc.com",
         "source": "CNBC"
       },
       {
-        "title": "SEC proposes investor exam to expand private market access \u2014 here's how it could work - CNBC",
+        "title": "SEC proposes investor exam to expand private market access \u2014 here's how it could work - cnbc.com",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXNDOWJYVGRsOTBEdkRoYlpEOWR2UzBhZUJyWEpSYzRkbGtwdDJ1TW1SR1U4YjR5YjZqaERoR05RdW9LVmNKOW1hTUpRUzRQbld1ODJWUVBEMFU5SVB4dGljV214MnFRcFRxTWk2eU41QTBYcGhUTlB4UlFGUi1YNk9icC1qaW8w0gGOAUFVX3lxTE9Xb3VlQlhoZHJuenR1ZlZfLUlxWnVFRUM2bGF4R3ZlNmtpLVVXX3Atc1dQZnlmQWJER0U5S2NHVktHdDZjeFg4UjV4OURFdUZ2bC1KaTU2bjBLR3pwUmdCdzc2LVAxdjNvS3ZaSlNHektnRDFfeWVkUjBYVVRxc2dqMFlGLUpjZE5iTElFRXc?oc=5",
         "pubDate": "Thu, 01 Oct 2026 12:40:35 GMT",
-        "snippet": "SEC proposes investor exam to expand private market access \u2014 here's how it could work&nbsp;&nbsp;CNBC",
+        "snippet": "SEC proposes investor exam to expand private market access \u2014 here's how it could work&nbsp;&nbsp;cnbc.com",
         "source": "CNBC"
       },
       {
-        "title": "Racehorse market breaks records riding high on tax breaks, stock market gains - CNBC",
+        "title": "Racehorse market breaks records riding high on tax breaks, stock market gains - cnbc.com",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZVh4eW9aUDZTYmlRaGtVYlFrNzlXSlZaMHVHY3Y4YVRWbnFvV1RJakNfcnIwWDdPMWk0U2ttSEg4SU5pRGZqakMyc3BzNjE3WFFvWl9Ea0ZOOTQ4U0xxaDNoS1hSUVZpVlRueVZ1RWlNbHluOW5qeDB0R1BCcFk5UjhtU0Z5Szltckc4dWxqTlJyQUFzWmN4TjhDUlZ0ZWZfX0pv0gGoAUFVX3lxTE9EdXhyT0ZRWTlGMWhBVHRpMTFBb2NDWGJHSElIM2p0bGpmSkNBTy1wVG9uUmZ5UFp1ZUh4aUNFcWZuOVZpbUpBdVRxckVnSDFnUTlIcHZ2Qlh3UmdIWHdyQmVJUnZtTFRwaVA3bzdidU01ODJacC0xbHBJVjd0QXlfSGM0RmNJbDlDT2VYRExYbTFVOTk1eXhxWmFoNjBKN2lKWEVaMWVROA?oc=5",
         "pubDate": "Thu, 01 Oct 2026 13:19:21 GMT",
-        "snippet": "Racehorse market breaks records riding high on tax breaks, stock market gains&nbsp;&nbsp;CNBC",
+        "snippet": "Racehorse market breaks records riding high on tax breaks, stock market gains&nbsp;&nbsp;cnbc.com",
         "source": "CNBC"
       },
       {
-        "title": "Next OpenAIs and Anthropics may come straight to retail market. Here's what to know before investing - CNBC",
+        "title": "Next OpenAIs and Anthropics may come straight to retail market. Here's what to know before investing - cnbc.com",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUhZTnRka1ptVm9DWUJvaFNYandUN2NoMHNPUnR3M21YcFo5TUstMlhmek85a0JYcGh4MlR0OFU4eHlOWXY5VkxPOEhDY0Nhak5lLVlXQUlJWmpXaXZ0eFUxUVBhdXZiajZjdUFNOGFtXzI5QzR3a29uRzAwQi04SUJydi1pb2R4aDJv0gGQAUFVX3lxTE5MLXVBQ2hmdTRmZ0wta3MtdkpZLWlZOG0yOU9UTzJCVDIxQTN0bzZyLWRGQXFuV2ZQeWVVdW9jdWpwQ0ZTeFJjaHhablVTOXBiOTlKdkJMSUpYNm0tUFFJVUZGTXBWZXBEa2lWZ0g2VXRrMjAtWFpaQkpHM3JSZ2lKLVZRR0xZTnE1OFIyX19HTQ?oc=5",
         "pubDate": "Thu, 01 Oct 2026 16:50:28 GMT",
-        "snippet": "Next OpenAIs and Anthropics may come straight to retail market. Here's what to know before investing&nbsp;&nbsp;CNBC",
+        "snippet": "Next OpenAIs and Anthropics may come straight to retail market. Here's what to know before investing&nbsp;&nbsp;cnbc.com",
         "source": "CNBC"
       },
       {
-        "title": "Nike stock drops as revenue falls short of estimates, China sales plunge again - CNBC",
+        "title": "Nike stock drops as revenue falls short of estimates, China sales plunge again - cnbc.com",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84OXJNenNBbzFadXhuTlJDcFBraV9PcjRXb3EwT3dZSWNHSXp4TmdfR1N6UndTU3AxejM4UTFEcTVRZjhHazViblQ0SFV3a1JfTnF1UDlSVWo2dXhBUTFXcUxmUS11RS12Y0RwbVFJb9IBdEFVX3lxTFB5N292Y2FSbjl2RHhjcERWWHFHVHdSYjJDSF9DT2RYZlZLMG9RWjlSdS1NZlFQS3NVOTlsRVpVXzFSWGpHWFdwXzE4UEhGQUVoRktTMmJLYUVNWEFiZVR5SEZiT3E3R2VxRS1rMkpnb3FUd3pa?oc=5",
         "pubDate": "Thu, 01 Oct 2026 16:00:01 GMT",
-        "snippet": "Nike stock drops as revenue falls short of estimates, China sales plunge again&nbsp;&nbsp;CNBC",
+        "snippet": "Nike stock drops as revenue falls short of estimates, China sales plunge again&nbsp;&nbsp;cnbc.com",
         "source": "CNBC"
+      },
+      {
+        "title": "US oil industry warns diesel prices will not return to normal for a year - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnk4RmFqdFB5aVFybnhkdkMzY2FYOTRTa0ZIUmdpVktCT3B4Z0tlTDV2S3VPeTBJTEwway1WOUVOOUNrMElzLW85a1ZiV2cyOUVRb3N5MVhTZHZTZVB4alVkdTRKVlhHSGg4TDNoN0xLUWJFRnVZYmZ2OEJDeHMzZlNnVHE?oc=5",
+        "pubDate": "Wed, 30 Sep 2026 16:20:52 GMT",
+        "snippet": "US oil industry warns diesel prices will not return to normal for a year&nbsp;&nbsp;Financial Times",
+        "source": "FT"
       },
       {
         "title": "UK economy grows faster than first estimated in second quarter - Financial Times",
@@ -155,13 +162,6 @@
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGlVUkdYU191anlHVmJYMmFhZ05DVXRkbmtOUGVMSE9CcVNUeDJGemROM01tQjhUeVZ3TUNBOWlIRXczQkJoQUh4UHBCaEVCc3dvd0g1Q1k5elVwbHQ3WVhzLTF4cm5RWDVZUHJGUU1RM052NkhBR29vdG84VkpCZGlwUkQ?oc=5",
         "pubDate": "Thu, 01 Oct 2026 04:17:41 GMT",
         "snippet": "Eurozone borrowing costs surge in global bond rout&nbsp;&nbsp;Financial Times",
-        "source": "FT"
-      },
-      {
-        "title": "US oil industry warns diesel prices will not return to normal for a year - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnk4RmFqdFB5aVFybnhkdkMzY2FYOTRTa0ZIUmdpVktCT3B4Z0tlTDV2S3VPeTBJTEwway1WOUVOOUNrMElzLW85a1ZiV2cyOUVRb3N5MVhTZHZTZVB4alVkdTRKVlhHSGg4TDNoN0xLUWJFRnVZYmZ2OEJDeHMzZlNnVHE?oc=5",
-        "pubDate": "Wed, 30 Sep 2026 16:20:52 GMT",
-        "snippet": "US oil industry warns diesel prices will not return to normal for a year&nbsp;&nbsp;Financial Times",
         "source": "FT"
       },
       {
@@ -239,7 +239,7 @@
       {
         "title": "Accenture\u2019s Tech Clients Helped Quarterly Revenue Beat Estimates - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0JONVQ3TU1xa3dkdkhjM0JFajVNM3FkOXVrNzNFMDh3SHRfZlNhWURwRm9jTjVNYUtfUlNIOWt1R0tPVEd0MkU0SzJ6bDJ5WmJmUjNfdzFvamw4clkyaGR5bTNGVGc3ZmpjX1lMSl9qVWhWWndrbzVPSFhlUG5vZnZwSkZRR2w2OWNhbFZzMjNrYU1EdkJLT09RRjhsY282clFwRkpNYjYydw?oc=5",
-        "pubDate": "Thu, 01 Oct 2026 13:33:04 GMT",
+        "pubDate": "Thu, 01 Oct 2026 11:00:11 GMT",
         "snippet": "Accenture\u2019s Tech Clients Helped Quarterly Revenue Beat Estimates&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Tech"
       },
@@ -258,45 +258,45 @@
         "source": "Bloomberg Tech"
       },
       {
-        "title": "The 2 most important skills for entry-level workers in the age of AI, says IBM's chief talent officer - CNBC",
+        "title": "The 2 most important skills for entry-level workers in the age of AI, says IBM's chief talent officer - cnbc.com",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWlRhWFNFU0d1VWtnR1c1S19WYjE4bDVyc09lOFdEZUFUbG5JRHZtdk0wNUphNmVfdklNOHVaYUhWc19KUVM5b1o0RmJlc0tra1VFUVJiZHZDYXkwMG9JUUszY1kxWWxlZUZzVC1XSEFmdEYwMFZhdGpjMm1mellqNkp5eHRGTDRTbUhQSDNLOWxnTjDSAZgBQVVfeXFMTnVpNHNRTjJka0t2VWV4ekt0RDNRWk1kbDVvemJQYzRNOXd2U1lQb2pQcFhWVHZOcGotLUhUdkJ4ZGlWS0c2aUJxM29GbWRiSWxhTWluMjAta1ZQRWhjdWVqOUFKNVNESHVlX0liNjVsQW1WOUI3a2h6djlfb1pMWFVOcHNXYXRpM0NBWWhYbVNaMUZMZ21Uci0?oc=5",
         "pubDate": "Thu, 01 Oct 2026 18:15:03 GMT",
-        "snippet": "The 2 most important skills for entry-level workers in the age of AI, says IBM's chief talent officer&nbsp;&nbsp;CNBC",
+        "snippet": "The 2 most important skills for entry-level workers in the age of AI, says IBM's chief talent officer&nbsp;&nbsp;cnbc.com",
         "source": "CNBC Tech"
       },
       {
-        "title": "Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says - CNBC",
+        "title": "Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says - cnbc.com",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTDVlTE1GRTBsOGtKWlFMUEtqMV9hbFNDMXVBZ1kxeGkzT1hFOHRwcmJUdjZYMXZOeUExZVFyT19oeFZ0WktIY1BHVFJfX25MeGJOSkdRZTM0WWV0VGNIdUtkM1M2dUNYdmZsMDhkV0lBcDZBUmZ0eUtyYW1sMUl2VkdCR295NFA5N0N1MnpkN19nQdIBlwFBVV95cUxOWjJLbklNcUVaLXR6ekNvRmhpbm45Zi1sSEFlOG53eXpMSnJmX05YdURRN0ZiekU5Wk5oY3F2THpmR1ZOY0c2SThxTzh2Yk9jTzMyMFN5TUdzQndMQm9uejVOakdLb1QyeThUdjZiR2hac2t3MnFnMENUWlEyVEpJT3BqOUY1UnhiOE1mV0t5MW13NXBlOEVB?oc=5",
         "pubDate": "Thu, 01 Oct 2026 12:20:57 GMT",
-        "snippet": "Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says&nbsp;&nbsp;CNBC",
+        "snippet": "Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says&nbsp;&nbsp;cnbc.com",
         "source": "CNBC Tech"
       },
       {
-        "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers - CNBC",
+        "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers - cnbc.com",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUkdhZGNReVpJcWxxUzVmZjljcURHdm5oc3ZjMzFWZ3lTd08zUUVISno0QU5LUklld1JSVGc2LVprclc2REVPZW1LN1hveWNpNXhncTlJZjgwMUtvRlJCWHBRUXFLWGVjcXNnNl9mQ0k3VTh0SnBiTmowOFVVZEhseVZLbzM3dkdjaWJNaTZ2aFY2ZmlrTHhscEN6WEpZUlUyVVctWXh5d3hQd9IBrwFBVV95cUxQYVJadHZIVjJjd1dIQUR3cHZiWTZUNzhSMkxVdzV4czFEWDVCajdVNEFPR1ExaERiZE5UbERZNFlwOEoxQkRnMVpfOU1TbTFHcUpGQjNyZHljdWd4aTJTX0lMelRZdUJFSkhYLWlYdk9BdjVfZ21WYzlGN1lYNWJ5Wk1Ud3dFYVRsZ0dGWlVlcW9fckhVcG5teG5JU0RHYzVGNE5NSEkxOHFCT2NlNmFj?oc=5",
         "pubDate": "Thu, 01 Oct 2026 11:20:15 GMT",
-        "snippet": "SpaceX launches Google AI chips into orbit in push toward space-based data centers&nbsp;&nbsp;CNBC",
+        "snippet": "SpaceX launches Google AI chips into orbit in push toward space-based data centers&nbsp;&nbsp;cnbc.com",
         "source": "CNBC Tech"
       },
       {
-        "title": "Health insurer points finger at AI as nearly $1 billion in questionable hospital charges appear - CNBC",
+        "title": "Health insurer points finger at AI as nearly $1 billion in questionable hospital charges appear - cnbc.com",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdEZUNWFhTFBITTB6RGx0UlpDUXFvdS11VndWM0dmbmp0MWIwdVZEdjVfZWlGVXRrc0VGSURXQUVheG85cURJUlM0ZFpZNlNaS0EyLV9jZTZ1YUJvWFVvd1c5Sm8zdDltRlB0Z21FTFZUcE1Vamt0TS1XaGMzVWpHcHplMjlPa2p6SHfSAY8BQVVfeXFMT0dGTVJkNXlUczlXZU4xUy1McWJyOGwwWjhsQ2hWN05BOE5feHRmYjlEZnIwS0haQ2huVTdlbW1LRnp2WS1OOEpodVpnNUZNRkUtc3N6a1BCNzZJRlpjZGtOYmh3OG43RU14eFZNNlFUclhFcGxMenNlTF9tcDlLUUctaHVsU0hnSWN2UlRHWVk?oc=5",
         "pubDate": "Thu, 01 Oct 2026 11:30:01 GMT",
-        "snippet": "Health insurer points finger at AI as nearly $1 billion in questionable hospital charges appear&nbsp;&nbsp;CNBC",
+        "snippet": "Health insurer points finger at AI as nearly $1 billion in questionable hospital charges appear&nbsp;&nbsp;cnbc.com",
         "source": "CNBC Tech"
       },
       {
-        "title": "Google unveils latest AI model, but Wall Street wants a breakout personal agent - CNBC",
+        "title": "Google unveils latest AI model, but Wall Street wants a breakout personal agent - cnbc.com",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRnl0RGo0clZVWk13V2ttZGw4TlI2aTB0OTc5UzYyblgydGtBd2I4SWxqTUJ6VWtUcEhvbjdUUnRTUHJpMW0yaU5PX1VpUzRqMlVjc3RPVEQ5dk42UjJ6cDZDRE01Z2I5V1dManlFOW5DeVA3Q1VWS1Z5NzVtb1JJc2xDNmRfYWswYlRGczVXSFRxVzZyX1dJcVFXZ01xSGV6Qmpj0gGoAUFVX3lxTE9jVzM5SC1xaEVWcnkwWGpGMHFWWU9NRkR1b3c2ZFpGQlBJSGZoOEFfOGt5YzZBUXNjdmhteWgya0QxYTIwdEZTV2NrR1ZGMUhZNjRaOUlCSGJHdHNmRFQ0ZmpXRU9xNHBqVThTQlN4R3FuX3g4OVp0YmpLLVBrc0FzYU5EWXZPMHd3THRGdnF2Xy10YzFlU3hYbDRUSERfYXRfVWMxTTVlVQ?oc=5",
         "pubDate": "Thu, 01 Oct 2026 18:29:49 GMT",
-        "snippet": "Google unveils latest AI model, but Wall Street wants a breakout personal agent&nbsp;&nbsp;CNBC",
+        "snippet": "Google unveils latest AI model, but Wall Street wants a breakout personal agent&nbsp;&nbsp;cnbc.com",
         "source": "CNBC Tech"
       },
       {
-        "title": "Trump\u2019s AI lunch included every major tech company. Except Apple - CNBC",
+        "title": "Trump\u2019s AI lunch included every major tech company. Except Apple - cnbc.com",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWhaVGlFMFhRaGhGX1prSlFKVGNQY0hHTjhYa25PcERoaE5zU3FNOHh6MUN0S1ZXdDJlakozMnFfcnZvbW9YdTR0NmhZNGVTRDZTalNwSmFOaVF1VWppRlJ1Wlh1SWRIbU9jSk1GN3VheS0zUnZOeEw4MDg2ZG5nT3JoWkRkZEXSAYwBQVVfeXFMT1B5NV9RSGxQdGlKYXdDNUVDdlFMODVUMjRHazlVRTRpQ21EQWVJLUVzTUUyOTBINHRKVzVuYnZlYzhPUUI4Y1RDOHQxZkJLbUFEUnBNeTBwSU1Tb0trODRfVnJmZ0ExQ2o0SDRiV0FPWmJzc2htTW84RDBLR0lJZjlmeEJwakpJYlQxRGw?oc=5",
         "pubDate": "Thu, 01 Oct 2026 02:07:00 GMT",
-        "snippet": "Trump\u2019s AI lunch included every major tech company. Except Apple&nbsp;&nbsp;CNBC",
+        "snippet": "Trump\u2019s AI lunch included every major tech company. Except Apple&nbsp;&nbsp;cnbc.com",
         "source": "CNBC Tech"
       },
       {
@@ -379,10 +379,10 @@
         "source": "Reuters Banks"
       },
       {
-        "title": "State Bank of India buys nearly 40% of Reliance's $1.35 billion debt sale - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbVlmdFkzNUtMX0J0RElReHdjc19wZldJVEh6d0Z0UTU1OXpFdDcxdzllX1dEWW5hS2FRY1F6VDloMS13R09yQVlpRXlPUEJFSzBTWC1iNXFGcUZGbjVNaWlNcTU5TW1GNE05NmZUT2c5UmNONnlIWUhlTHhJMzBBZzJpdF9vRm91M245bnRndnBKLWYzeHVtdmZlbzlvUHd2cXY4dWN6UVl4c0dzODNWTQ?oc=5",
-        "pubDate": "Wed, 30 Sep 2026 11:35:56 GMT",
-        "snippet": "State Bank of India buys nearly 40% of Reliance's $1.35 billion debt sale&nbsp;&nbsp;Reuters",
+        "title": "Bank of England official says central bank mishandled its first response to Iran shock - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcFFDV0VIUlhqd2p6QzJXRWpTZzNIQWlNOG1JTUhfNnJHV1REN19JWGU5N3BhcHY0Z3l6cnFZUDd0SHZ1VFlNLXgwY09OeVNuQjB3clpGcTlBNzhNZUI4d1lGUFBKQlRpQzNreXV1UlR2YlJHOF81Zmo3MTFMQi16bmdMZEZVeWV3c2NjTTZzVmxjZXNGUUZ5U1FaQ1VwNGo0YjNJ?oc=5",
+        "pubDate": "Thu, 01 Oct 2026 14:32:24 GMT",
+        "snippet": "Bank of England official says central bank mishandled its first response to Iran shock&nbsp;&nbsp;Reuters",
         "source": "Reuters Banks"
       },
       {
@@ -428,45 +428,45 @@
         "source": "Bloomberg Banks"
       },
       {
-        "title": "Deutsche Bank CEO warns Germany\u2019s political shift is troubling foreign investors - CNBC",
+        "title": "Deutsche Bank CEO warns Germany\u2019s political shift is troubling foreign investors - cnbc.com",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRFBwbTh4cnU2bVNYYzZPZ0kzVW81Z2tyVGRmX1lJNVJkRzQtMmlRRFRHLUlOaEp6WGVJcVgxRXltUkhzQnZUeFpjai04bThRV1Z0QXllOElzZEszT3lMMjlFUkpySHcybkQxeGcyV1cxdHg0Y2daLXUtVTFPSG5uQ2pWZmjSAYoBQVVfeXFMUDlhRC1XMVQ4Y0p4VVVmWHFxSmd0d2RPYVlZa2UzNEhrbWg3SlpZVHl6T25GT0lBamE4eG00MzExWnFDUTlkY3ZaNmlFUDI1cTdqdW1CR3dIMnRXTFB2dkR6ZTR4TDVuaVhGMThmNS1jZzZTRWIxendiNDhGallKZzJTRXBzVHZoOE13?oc=5",
         "pubDate": "Wed, 30 Sep 2026 15:00:54 GMT",
-        "snippet": "Deutsche Bank CEO warns Germany\u2019s political shift is troubling foreign investors&nbsp;&nbsp;CNBC",
+        "snippet": "Deutsche Bank CEO warns Germany\u2019s political shift is troubling foreign investors&nbsp;&nbsp;cnbc.com",
         "source": "CNBC Finance"
       },
       {
-        "title": "Fed watchdog finds renovation failures, but no grounds for criminal referral - CNBC",
+        "title": "Fed watchdog finds renovation failures, but no grounds for criminal referral - cnbc.com",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeTVyMWtmNzlBb2lWbmMtSGlIQmp5LWtTOWpldVVaUUc2ajVIZGVLVmZsQ2FVRjlEWnJnZmtrMUozLXVqMF9TVnJBX3JzR0xDRUFYNk9TVnpvNWtmT0tob0NhYndoNDhweERoaE9yQmVEWUpzQnpkTkRaTW5yZkkzbDVTZ3PSAYoBQVVfeXFMTlNJWDM0OVp2aWZwZjREdFlXUS1VMWF5RzdUODJRUjhVdEUzbVBxNHVTWF84QkFnT1FMQ0JNVk0yTXFnMEN6UEhRS0Nyc0xvSTg3R3RkOHptQXJacHFJMkJ4b1BoSHk4RDh3RDJISVRibmdfX0NxS2diTmZhQ1Z1X0JORE1rTGNkWUl3?oc=5",
         "pubDate": "Wed, 30 Sep 2026 17:00:01 GMT",
-        "snippet": "Fed watchdog finds renovation failures, but no grounds for criminal referral&nbsp;&nbsp;CNBC",
+        "snippet": "Fed watchdog finds renovation failures, but no grounds for criminal referral&nbsp;&nbsp;cnbc.com",
         "source": "CNBC Finance"
       },
       {
-        "title": "Clients said to be sticking with Morgan Stanley even after leaked deal pipeline - CNBC",
+        "title": "Clients said to be sticking with Morgan Stanley even after leaked deal pipeline - cnbc.com",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQTkNoUGlkbXhwbHE0RGZLRHVQamZNZFlKM1BwZ2FVa3Y5am9ZSDRid0c1MEZPVWF2ZTRmcmxoSnRhaHo2SjNSYlk0a0JCRllRRlUzNXFTalg2Y3pMbGNBNVBpQkZ6RmIzSmRmTHo2M0NKZU82U0NyYVpGSErSAYIBQVVfeXFMTzBKVXdfTjRCS0tfTTQ1ZFVaNzNiMXZTajZGYkVYSG9zeG44T0FJUmJtYkRmNkNhWGJiQ1JjRC1nYkxOMFdrQWZMOE1hMjAxRXdSZFZtSEZ5TmxRRFU0dEtBQjlmdTI4ODl1d1o3WWpzNmc2TUxiUjBsNDFkb1BrQ3RWUQ?oc=5",
         "pubDate": "Tue, 29 Sep 2026 23:00:01 GMT",
-        "snippet": "Clients said to be sticking with Morgan Stanley even after leaked deal pipeline&nbsp;&nbsp;CNBC",
+        "snippet": "Clients said to be sticking with Morgan Stanley even after leaked deal pipeline&nbsp;&nbsp;cnbc.com",
         "source": "CNBC Finance"
       },
       {
-        "title": "Treasury launches student loan support center as new data show 9.3 million borrowers in default - CNBC",
+        "title": "Treasury launches student loan support center as new data show 9.3 million borrowers in default - cnbc.com",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iNGtISVFtQ2ZaVHozRlVfRGF6SkN6QmRicXc3Y0t5YS12Mm1nVkl0VEt5SWRNdFR5aW5KUnkyWnJtcWJsMkdodEQyLTE1Y2hiR2JUX1dOX1VmdGVWbkdrVmJPOWFEekgzMkFPLW5IUVg2a1l3UkRQU2FRZGzSAYIBQVVfeXFMUF8zRVRPaC1VYkZRUGJYalhmZDk3V0NwY05FRDhVdlpRY09oWDNfMUl4WHZpS1dRNWE3UVE4R0JnUlRrUUZDTGNFVHBScWJvQ2NZdVVURk1OV1MtUE5XTzU5b2t6TVdXeHFiMXVRdGJfakhUMWxRT2ZWcThLRUtGUEpsQQ?oc=5",
         "pubDate": "Wed, 30 Sep 2026 15:56:15 GMT",
-        "snippet": "Treasury launches student loan support center as new data show 9.3 million borrowers in default&nbsp;&nbsp;CNBC",
+        "snippet": "Treasury launches student loan support center as new data show 9.3 million borrowers in default&nbsp;&nbsp;cnbc.com",
         "source": "CNBC Finance"
       },
       {
-        "title": "Trump administration starts sending $500 Obamacare refund checks \u2014 who stands to benefit - CNBC",
+        "title": "Trump administration starts sending $500 Obamacare refund checks \u2014 who stands to benefit - cnbc.com",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5VlI2OWxzZ1JnTHNzMFZnQzNVRVpZdlZUTmhiSUZtM0VyTTNtZ2dzemZWMjVzc09tVlhGZXVrTS01N2pPVW5YelVxeGpCYzBGWm9acWtUQ1hPTU1teDJOeF91Rm43YjJFcEJISTg0cUJxUdIBd0FVX3lxTFAya0JyVFdJNERHTUNLN3dETGlRWE9jV0hxQS12Q0x6ZEQzZnEzZE9kNEcxRW9TbjY3NjIwTHJwN2d5YzZITXpUd0V0RC1FRGhaOEllRGFIYVoxZXVNMUdDUFl6RzI1Nm9ZR2Z6MHF5a0pVOWVQSFI0?oc=5",
         "pubDate": "Wed, 30 Sep 2026 16:18:11 GMT",
-        "snippet": "Trump administration starts sending $500 Obamacare refund checks \u2014 who stands to benefit&nbsp;&nbsp;CNBC",
+        "snippet": "Trump administration starts sending $500 Obamacare refund checks \u2014 who stands to benefit&nbsp;&nbsp;cnbc.com",
         "source": "CNBC Finance"
       },
       {
-        "title": "Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says - CNBC",
+        "title": "Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says - cnbc.com",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTDVlTE1GRTBsOGtKWlFMUEtqMV9hbFNDMXVBZ1kxeGkzT1hFOHRwcmJUdjZYMXZOeUExZVFyT19oeFZ0WktIY1BHVFJfX25MeGJOSkdRZTM0WWV0VGNIdUtkM1M2dUNYdmZsMDhkV0lBcDZBUmZ0eUtyYW1sMUl2VkdCR295NFA5N0N1MnpkN19nQdIBlwFBVV95cUxOWjJLbklNcUVaLXR6ekNvRmhpbm45Zi1sSEFlOG53eXpMSnJmX05YdURRN0ZiekU5Wk5oY3F2THpmR1ZOY0c2SThxTzh2Yk9jTzMyMFN5TUdzQndMQm9uejVOakdLb1QyeThUdjZiR2hac2t3MnFnMENUWlEyVEpJT3BqOUY1UnhiOE1mV0t5MW13NXBlOEVB?oc=5",
         "pubDate": "Thu, 01 Oct 2026 12:20:57 GMT",
-        "snippet": "Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says&nbsp;&nbsp;CNBC",
+        "snippet": "Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says&nbsp;&nbsp;cnbc.com",
         "source": "CNBC Finance"
       },
       {
