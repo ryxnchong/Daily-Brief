@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "updated": 1790849318,
+  "updated": 1790851237,
   "tabs": {
     "global": [
       {
@@ -25,13 +25,6 @@
         "source": "Reuters"
       },
       {
-        "title": "COMMENTARY: Trading Day: Shrugging off a volatile September, markets shuffle into Q4 - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaThZWmxxSzE4Q3hOazJLT29OcExPMnFWcGRpTFhGWlkxV2xkbV9qTlB1WDRpWGJKYXJRdk9QR1pKZzlSeENqMnlXbGo0TFI5dERyQlZsVEZubnFLdFNzLVhRQ1ZrdWs3RlZwbC1wYTdlNzhpdjBhdUduTnYyMVJuWjNfTE1FeFZ2Q0ZCaUx0eF9LMUxNWjNFXzIwNA?oc=5",
-        "pubDate": "Wed, 30 Sep 2026 21:05:35 GMT",
-        "snippet": "COMMENTARY: Trading Day: Shrugging off a volatile September, markets shuffle into Q4&nbsp;&nbsp;Reuters",
-        "source": "Reuters"
-      },
-      {
         "title": "Global bonds gripped by fiscal worries, US 10-year yield hits 24-year high - Reuters",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUVhtMHBxQWdQNG5xWlpJeHkzeVpHQXgtSDVVN3hVdTFONDZnanFkcDctT2dzZU1QVFRpT2lWdEZvQ2xJdzZ6dDJQdjNpT2FuekdycUxURXRtby02MUhXRlhJMWo0emY3YTBsRUFLZEx0Rjl1b0R0WGItU2ZrclFBUERFamRxdzdGRE1sRXlTb09VRktCWTExaU1MblhDZ19yZURhZQ?oc=5",
         "pubDate": "Thu, 01 Oct 2026 06:25:00 GMT",
@@ -39,10 +32,17 @@
         "source": "Reuters"
       },
       {
-        "title": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5",
-        "pubDate": "Wed, 30 Sep 2026 01:39:00 GMT",
-        "snippet": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets&nbsp;&nbsp;Reuters",
+        "title": "COMMENTARY: Trading Day: Shrugging off a volatile September, markets shuffle into Q4 - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaThZWmxxSzE4Q3hOazJLT29OcExPMnFWcGRpTFhGWlkxV2xkbV9qTlB1WDRpWGJKYXJRdk9QR1pKZzlSeENqMnlXbGo0TFI5dERyQlZsVEZubnFLdFNzLVhRQ1ZrdWs3RlZwbC1wYTdlNzhpdjBhdUduTnYyMVJuWjNfTE1FeFZ2Q0ZCaUx0eF9LMUxNWjNFXzIwNA?oc=5",
+        "pubDate": "Wed, 30 Sep 2026 21:05:35 GMT",
+        "snippet": "COMMENTARY: Trading Day: Shrugging off a volatile September, markets shuffle into Q4&nbsp;&nbsp;Reuters",
+        "source": "Reuters"
+      },
+      {
+        "title": "Citi raises bitcoin, ether forecasts on strong crypto activity - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVHIxQ2w0Yk5PREktR1RYTlhhbF9DY2tMNTZnVmk0V2dNUTQ3NlRnNHdFVGRZcUtsa2drNGdIZTlhcXFtaUJpaDIwQTJLeEFwaW1DUWhGTWxhMXdIblplX2NqcVIwdWlRdkphUmRhRzZvY3EtZ3pyRE1tM2MwV3dzSENXaHBzY2syUmtHWmF5Q1pwUHF1am05eFJMOF9zaXp4S1J6aldBVmN5OUNKMTUzTA?oc=5",
+        "pubDate": "Thu, 01 Oct 2026 08:52:56 GMT",
+        "snippet": "Citi raises bitcoin, ether forecasts on strong crypto activity&nbsp;&nbsp;Reuters",
         "source": "Reuters"
       },
       {
@@ -174,6 +174,13 @@
     ],
     "tech": [
       {
+        "title": "Chinese hackers impersonated ex-US official to steal emails from AI experts - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHRqRS1jN2w4cEJmeUFHYkZ1N2RFVTJiRUtJYnZWSTRvMWVHNWVNU2IyYUh4Qjd1aG1pT21SSVRPbEpYVlBRUXRtZTFjS3dzMlF5SThULW1NaXRZTXlHNXdodTNfdGE1QmpMTHdGS1NSbmUxdkh2RXFubWs2eFRPSFF3MkMxVGx3cmd6U0xsSWthamd3YVdFaE8wU183SktHU3ZhNE5NVDNURFpHMU81N25YMG5jbDhQTXZjSg?oc=5",
+        "pubDate": "Thu, 01 Oct 2026 09:19:43 GMT",
+        "snippet": "Chinese hackers impersonated ex-US official to steal emails from AI experts&nbsp;&nbsp;Reuters",
+        "source": "Reuters Tech"
+      },
+      {
         "title": "China\u2019s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3F1ZTMtVFZsOVNXOEU4X09jTTI0RDVYNUJmQUNVVUhJQkV6YlRmdldFaWwyVzU1UnZLQl9Ia0tqTHlBZ09SUXZ6VC1kcEx6bjQyQlgxXzI1YVpwYldSV3NwNXZRRkFPSWQzclhFbE04anBtbnRZV2FwRUlIMmU2eVV3M0VscEE1Znd5bU5rNEhwWVVXdlR0c2tIbnlnald3VVBJdVFiTDZMUmhqV0x1bE1jVVR2STZ5bHdF?oc=5",
         "pubDate": "Thu, 01 Oct 2026 03:12:00 GMT",
@@ -209,24 +216,17 @@
         "source": "Reuters Tech"
       },
       {
-        "title": "Google announces Gemini 4 flagship AI model after months of delays - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0kxM3JDazhISnQtVGJ1Q2phRmxPR2Mtb2R4X1dQX0U3TkVZLWV0YUZNSnRfQ25OQnRuWHpNczNHSzhCZFFkdHFCWEVXYUhuazBDLWJ0eV92WU9nMDR6Nnl5ZDRCOG5UdWtwNnpTNkVtS2NLejVrX1Y3eXFvbDRMc0Y2Q2hvN0Q5YTEzTVA3NDFLaHprbnpuNWVBejNPVUlKemJCSHZUcHZSVE9iNmt3TWxXMXFBWkU?oc=5",
-        "pubDate": "Wed, 30 Sep 2026 22:16:26 GMT",
-        "snippet": "Google announces Gemini 4 flagship AI model after months of delays&nbsp;&nbsp;Reuters",
-        "source": "Reuters Tech"
+        "title": "Chinese Hardware Stocks Cap Worst Quarter as AI Rally Unravels - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZFhRRVc5RG1Td0FGaTFEZXlVWXdCVG40SS1reDB3akJnNHlNc05id01YUGh5ZEVWUGtZRWU0dUhEd3VYZmdNSDZydnJjS2JrM1hCdUpETHVPNEhzQkozUTlSdFM2TXBpanZZeUxBZVlnbUJxaWJpR2dmNTRzVWVFODVBM2JPX0NSREllcm5yWUNwdTRDZFAyQXF5MXNlcVVQNDY4MVVPajZldm9XZm52Snd4c0ptQQ?oc=5",
+        "pubDate": "Wed, 30 Sep 2026 07:41:25 GMT",
+        "snippet": "Chinese Hardware Stocks Cap Worst Quarter as AI Rally Unravels&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg Tech"
       },
       {
         "title": "Nokia, Iceye to Launch Sovereign Satellite Service for Defense - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM3dLSEUyTF9MZ1E2c3NXYUMyZlRaYVFOZ3NTSUE4SUpmNFVWXzEwblBRcDVEUWwxSlZNUkJjT29kTUpmY3ZpVk13bU1pTGV5Y04teTRNam9oRXpJQy02YUFQWTZ1UjVrXzFSeUJEUHVZRmtnSTM2Slg5R1E0eHVxT3NWSWFiR0RDYzVVZ1lQRWYxQUZBX1BXX2lvOVRVaXJsanRpZ3hDNXRCc20yU0JXaGpB?oc=5",
         "pubDate": "Thu, 01 Oct 2026 06:30:00 GMT",
         "snippet": "Nokia, Iceye to Launch Sovereign Satellite Service for Defense&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg Tech"
-      },
-      {
-        "title": "Chinese Hardware Stocks Cap Worst Quarter as AI Rally Unravels - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZFhRRVc5RG1Td0FGaTFEZXlVWXdCVG40SS1reDB3akJnNHlNc05id01YUGh5ZEVWUGtZRWU0dUhEd3VYZmdNSDZydnJjS2JrM1hCdUpETHVPNEhzQkozUTlSdFM2TXBpanZZeUxBZVlnbUJxaWJpR2dmNTRzVWVFODVBM2JPX0NSREllcm5yWUNwdTRDZFAyQXF5MXNlcVVQNDY4MVVPajZldm9XZm52Snd4c0ptQQ?oc=5",
-        "pubDate": "Wed, 30 Sep 2026 07:41:25 GMT",
-        "snippet": "Chinese Hardware Stocks Cap Worst Quarter as AI Rally Unravels&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Tech"
       },
       {
@@ -237,17 +237,17 @@
         "source": "Bloomberg Tech"
       },
       {
-        "title": "Watch Trump Rejects AI Safety Laws After Meeting Industry Titans - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRHZ6dFYyVHJtSXQ1dU5Jb0Z2RHMzeDhGNjBPem5aSml6SDNYTjRLS0lCMWQxT3lHQ2Zaa3dtSWJWWHNucWx3WEJmZ29qVWF6d2ljOG5rdEdUWWxTS1FSd19qY3U5Ymd5bjBIZmp5T0xLTTdEbnppS1ZOVFVab3lNTE90STVqRzRPUTZXb1hjc2I4YmxDRHBYR1E0R2Jvdw?oc=5",
-        "pubDate": "Tue, 29 Sep 2026 21:18:34 GMT",
-        "snippet": "Watch Trump Rejects AI Safety Laws After Meeting Industry Titans&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg Tech"
-      },
-      {
         "title": "PaleBlueDot AI Seeks $600 Million Private Credit to Buy Chips - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMW5sN0dvQmRIVUxuNmloY19QVXNRRUVkcGhwRVNYYjc1UHNEMVdTUFJ0TXRCb1h1WV83WVNoa3pRTmxwU0xJZnNxd1Z5LVlBbE1hb3Nlbnhqa1NDWmNkSzFaRVRVa0hndXNtb2VUS29ha2NYV0VEZkhyUkd1SGxoQ21La2lNWmlOTldMTmhWVThwVmctM1FRZl84bGZQeERZa0w1eEVZd2VxMXItYWl0aA?oc=5",
         "pubDate": "Wed, 30 Sep 2026 03:52:00 GMT",
         "snippet": "PaleBlueDot AI Seeks $600 Million Private Credit to Buy Chips&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg Tech"
+      },
+      {
+        "title": "Watch Trump Rejects AI Safety Laws After Meeting Industry Titans - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRHZ6dFYyVHJtSXQ1dU5Jb0Z2RHMzeDhGNjBPem5aSml6SDNYTjRLS0lCMWQxT3lHQ2Zaa3dtSWJWWHNucWx3WEJmZ29qVWF6d2ljOG5rdEdUWWxTS1FSd19qY3U5Ymd5bjBIZmp5T0xLTTdEbnppS1ZOVFVab3lNTE90STVqRzRPUTZXb1hjc2I4YmxDRHBYR1E0R2Jvdw?oc=5",
+        "pubDate": "Tue, 29 Sep 2026 21:18:34 GMT",
+        "snippet": "Watch Trump Rejects AI Safety Laws After Meeting Industry Titans&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Tech"
       },
       {
@@ -335,10 +335,10 @@
         "source": "The Verge"
       },
       {
-        "title": "Google announces Gemini 4 and says it\u2019s so capable that only \u2018trusted cyber defenders\u2019 can have it right now - The Verge",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tVmN1YU41STc0U2Q4Z09JRUJZNzB4aHdEVHhTWHdKaXh0SFY1c24wMmZZMi1aMTNEcHcxbE1sOWFEZzVRNzg4S20xclItX0RyUHk4eDJGVktQMEVJMDdsLXJVMm5fODlYQXhr?oc=5",
-        "pubDate": "Wed, 30 Sep 2026 20:41:41 GMT",
-        "snippet": "Google announces Gemini 4 and says it\u2019s so capable that only \u2018trusted cyber defenders\u2019 can have it right now&nbsp;&nbsp;The Verge",
+        "title": "Microsoft Jewel is now on mobile. - The Verge",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSNXRqMDJRTVhaVDVJV2l0a2ZOZmpPY2JLVThidmNLRzR0dEFKUVllRmxEZ3Nvb0hkUVNaQ3E0cGpRaFA3OURTY2RUVWJKZXFOQ3VkYUVOWFlmbDRwRE0zYzBQYUNQYnItRGI3R2E5UWJJUTRoWTRfaDgzVQ?oc=5",
+        "pubDate": "Wed, 30 Sep 2026 18:05:44 GMT",
+        "snippet": "Microsoft Jewel is now on mobile.&nbsp;&nbsp;The Verge",
         "source": "The Verge"
       }
     ],
@@ -372,17 +372,17 @@
         "source": "Reuters Banks"
       },
       {
-        "title": "Fed finalizes bank 'stress test' overhaul - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd2dfSDlWdVBOYTBlWUlpZC12Qkc1SzZRcERBX2lSWTdZT3VfNDJZOU5DVDExTi1zdl9VNVN0Q2xuSVlyS1JhMENlT09SMjNBMDRwYVZaZTJQRUhoeEo4YXJXclJaU3FmeXkwWnVCRXkwOEtaWGNLZTE2amJfVmpiVW02YlBSMHhQWi1DSXNkaXBKcUVRSTI4?oc=5",
-        "pubDate": "Wed, 30 Sep 2026 14:27:13 GMT",
-        "snippet": "Fed finalizes bank 'stress test' overhaul&nbsp;&nbsp;Reuters",
-        "source": "Reuters Banks"
-      },
-      {
         "title": "US investor Artisan urges UBS to quit Switzerland over capital rules - Reuters",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaENneFN5UG9uUHZxQlI1TEd1R05lVXRFMFRSaFE1STVxdTBERko2MVpKVDhrQVQyVFd2UE0xZm95V2hMQTAzZUJ6MGcxYUdscWQ4ZU94aWpmZXlFU21tQTFWUHl1RTBSYjBsX0tUWGxiTDZZbFU3Y1lnR2NjV1U1WkdJejBlWHZRYWdFT2FWOWZkVk1sbDBZZHlXUVlpNlAyNW03TGFwOFFGRjZJUGExM2I3d0xQUGppQmdMbGhB?oc=5",
         "pubDate": "Thu, 01 Oct 2026 06:20:00 GMT",
         "snippet": "US investor Artisan urges UBS to quit Switzerland over capital rules&nbsp;&nbsp;Reuters",
+        "source": "Reuters Banks"
+      },
+      {
+        "title": "Fed finalizes bank 'stress test' overhaul - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd2dfSDlWdVBOYTBlWUlpZC12Qkc1SzZRcERBX2lSWTdZT3VfNDJZOU5DVDExTi1zdl9VNVN0Q2xuSVlyS1JhMENlT09SMjNBMDRwYVZaZTJQRUhoeEo4YXJXclJaU3FmeXkwWnVCRXkwOEtaWGNLZTE2amJfVmpiVW02YlBSMHhQWi1DSXNkaXBKcUVRSTI4?oc=5",
+        "pubDate": "Wed, 30 Sep 2026 14:27:13 GMT",
+        "snippet": "Fed finalizes bank 'stress test' overhaul&nbsp;&nbsp;Reuters",
         "source": "Reuters Banks"
       },
       {
@@ -472,7 +472,7 @@
       {
         "title": "King\u2019s bank Coutts hit with new lawsuit after \u2018debanking\u2019 - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVVqMWlWQVozS0l1QnZLc3gxMVlzOEl3V05LOHN3TWdsVGlfWkxYbnh2RUFhUno5X0ZNZTJ1a0l2UlhnVjZIU0hjMkRkX3hNVGl4TW15N3lYYThpSFVYaXhnY0huOFRpZDZUVEwwalhMVl9xOE5xb2tTbXp2WGtONVFKUEw?oc=5",
-        "pubDate": "Thu, 01 Oct 2026 04:00:24 GMT",
+        "pubDate": "Thu, 01 Oct 2026 04:00:49 GMT",
         "snippet": "King\u2019s bank Coutts hit with new lawsuit after \u2018debanking\u2019&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
@@ -675,10 +675,10 @@
         "source": "Reuters SG"
       },
       {
-        "title": "Asian factory activity expands thanks to global AI boom - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNemVNRUxKT1NZNGNMa05HVHkwM0dEWmUwU2xvOEFncHFrRW51QlFjeDc2WGpUMlFsMGdsWlpWMTEzeVBoVS1OWjhtREdKSlZKQy01SXNFbXBCVnpWMWVHQ0hZZzB5MXQ4aWlSMXhCaXpnZEVFcTlZaFdVVk5rcHd6aUV2NEdpdGFUUGtQQ0ZpREYxOVlobGZ0dE5zbnotSnFoT3NZZWhKSWhUVGl5ekJmSERDc2FhUQ?oc=5",
-        "pubDate": "Thu, 01 Oct 2026 02:24:00 GMT",
-        "snippet": "Asian factory activity expands thanks to global AI boom&nbsp;&nbsp;Reuters",
+        "title": "Rupiah breaches 18,000/dlr for first time since August on rising yields, oil - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObG95OTdTOEdjcENjeWlQcm5IVTBoVlpWWkwxUEhDb3FTYS11dEU4ellNN2M1VDJJc2Q3RUlJVGVmUDU1MVlqWkRackE3MTNsQkpXWG9iNTNva3RVM1VweUgtMGhMTGkzdHc0YUpxRkExU3JveThCQTlTSHBYd0xrYlVvSGVZQjV2MTdiRF9ZcXJ3eTJ6SWR3X05LdnZoMmxJV1AzSDJLd05CRmR2clU2SjlrVW50Z0tMeDdmaTZ3?oc=5",
+        "pubDate": "Tue, 29 Sep 2026 08:38:45 GMT",
+        "snippet": "Rupiah breaches 18,000/dlr for first time since August on rising yields, oil&nbsp;&nbsp;Reuters",
         "source": "Reuters SG"
       }
     ]
