@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "updated": 1791322800,
+  "updated": 1791324342,
   "tabs": {
     "global": [
       {
@@ -15,13 +15,6 @@
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZk8xUmkwZm83ZUdaTWpWaEVibFZzckNxOVFNOG9OTjlWdzJBdXRqWk5GUUFoME5DWXJmNThNRlIzdVBxUXNfeGd5cTFFNjlVZmg1VkFwVXdONzVLNGh0RVF5S203NlRieWFBNEY3b0dnZlZ3MERxUGlYWTRDaGwzYUJaYWJxWjI1WTlJbDNfMFJ0TVlqSjdFNnl6SVF6UVhmQlhNM2pRUnltSDVMMXNmS21JZkMySWNFVjhtbXVSMUw?oc=5",
         "pubDate": "Tue, 06 Oct 2026 17:39:05 GMT",
         "snippet": "US EIA hikes oil price forecasts again as Iran war drains global stockpile&nbsp;&nbsp;Reuters",
-        "source": "Reuters"
-      },
-      {
-        "title": "Brazil markets' Bolsonaro rally sends stock exchange to record high - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNnBVVGg0X283c2E3UVFRekJud193dksxLU9RcDJSLXVoT3dpN1k0emRjS0k4RnJ2Yk1VN3lMd3Z3al94X3FreFRuWV82ei1RY21IUkFTZHB3djVIQkxlZzc1TElvY2JfNWpTOXNucTRVSFpNQ090ZnlFVEVDWnpHMy02WmQzLXRqTmRRTnFGeWhJbTV3MEh6TV9EMmhDOWpQNHBpM3JXWlJvalpm?oc=5",
-        "pubDate": "Mon, 05 Oct 2026 21:34:19 GMT",
-        "snippet": "Brazil markets' Bolsonaro rally sends stock exchange to record high&nbsp;&nbsp;Reuters",
         "source": "Reuters"
       },
       {
@@ -46,17 +39,24 @@
         "source": "Reuters"
       },
       {
-        "title": "Why Americans Are Unhappy With an Economy That Looks Strong - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQVdsUDNmcFoyV0dNblZxdnhTV0swYUJLRmhHRTJnUWRheVMxTTItdERpaDV3TnBldXZxWGQ2Q3U2WTB5ajdvTjhSQ2NXTDA4S1d2SGdyLTc1cS13ZlV5c0I5M2JDWHgzWUk1bWxXeHdkVGxPYjhfMFNCRk9nbkQ2UElkU3dCeFNDZHExSmUzMmo2aWxoWmRzb2QwcXVjbW1iaU8zUTctbENqZ3JUS2Fj?oc=5",
-        "pubDate": "Tue, 06 Oct 2026 09:00:00 GMT",
-        "snippet": "Why Americans Are Unhappy With an Economy That Looks Strong&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg"
+        "title": "Nvidia, Broadcom shielded as AI power crunch hits chip supply chain, says Morgan Stanley - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMF9lcTkxVU5OWUp5THhibUJWc3U0MWo5c2dreS02dFk3TGt4SlBXLVdpX0htOV85SnVsc3RUZjZJZDJac3p3bFgzS05uU2hjVXh5N0RjcFVtQml0TnBRSllwREVDdUVFOTBoTTRMT01RMnVUNGQtZk1ZY0ZIdUZHWHNBbjlaMk10dEpJZ3J5eTZHYjlDQW9JdEg4STBBLVNYNlFRb1J1aUJudHJkS2lmT0otSUJHdE5wVnJaXw?oc=5",
+        "pubDate": "Mon, 05 Oct 2026 14:15:59 GMT",
+        "snippet": "Nvidia, Broadcom shielded as AI power crunch hits chip supply chain, says Morgan Stanley&nbsp;&nbsp;Reuters",
+        "source": "Reuters"
       },
       {
         "title": "S&P 500 Hits All-Time High on AI Bets as Oil Drops: Markets Wrap - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMGNaZ3F4bG13LTdnUDBaRk54UU5oUkxNTi05R0dqS1l4dlNucGgyYnJVWUJrZDNoNXN2N1VFS1F3YmdWU2RyTWJRenJwMC05aWVJcDFTUEdCdVd2NndGbTBJTWRJODNiYWRLSnd4eE5NdFFpTnR2MXNSUXV5V2hvMTQ1YWhKLTV3Sk5vY3UxSE1WSnYzcWJnMTNVdzhES25JSmhiNGpia3lvVlhtWTlGZDVEc2VjU2Y2dW56MDF3?oc=5",
         "pubDate": "Mon, 05 Oct 2026 23:13:44 GMT",
         "snippet": "S&P 500 Hits All-Time High on AI Bets as Oil Drops: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg"
+      },
+      {
+        "title": "Why Americans Are Unhappy With an Economy That Looks Strong - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQVdsUDNmcFoyV0dNblZxdnhTV0swYUJLRmhHRTJnUWRheVMxTTItdERpaDV3TnBldXZxWGQ2Q3U2WTB5ajdvTjhSQ2NXTDA4S1d2SGdyLTc1cS13ZlV5c0I5M2JDWHgzWUk1bWxXeHdkVGxPYjhfMFNCRk9nbkQ2UElkU3dCeFNDZHExSmUzMmo2aWxoWmRzb2QwcXVjbW1iaU8zUTctbENqZ3JUS2Fj?oc=5",
+        "pubDate": "Tue, 06 Oct 2026 09:00:00 GMT",
+        "snippet": "Why Americans Are Unhappy With an Economy That Looks Strong&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg"
       },
       {
@@ -81,10 +81,10 @@
         "source": "Bloomberg"
       },
       {
-        "title": "Scott Bessent\u2019s Rosy Forecasts Are Putting His Credibility at Risk - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY25CXzVxMHRPX0JJamVGZDRsdUZqNmowMzd1bVcwdVFnUG9TSVV2cDRsMkhPQWN5TVRYUV9WRGZHWDl4ZXdzVGthSWMyUW5tSkpqc2lWd0hReU5EZUtIMmxsNl9NRWpHNnBUOXFMRzBnZFpGRXhWenduVXpkeTlfY0VILUhPUWs5X2hmYWI4WlpFeUF5clhCN2l3MjBFSEJROXk2QWFJcmFYR1k0LTBJQ2RBTQ?oc=5",
-        "pubDate": "Mon, 05 Oct 2026 11:00:03 GMT",
-        "snippet": "Scott Bessent\u2019s Rosy Forecasts Are Putting His Credibility at Risk&nbsp;&nbsp;Bloomberg.com",
+        "title": "Apollo to Favor Aircraft Funding Over Junk Bonds for EasyJet - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONDNXRWtYeGxQRlVZOUYteEhpNnU4SDdVdEVSUjBZem5DanBFUUhXUXNNVDJnTXRoVE5teW1DMndkX3VFZGFDU0tWTTdZYmpWRWVPd0lvLUhNclRtODV5MHlWNE1aZ2RfS0hDby1QRjhORWdZczA5N2dIZ3plckFONEkzVVZMNVBaNHZROVNhZURuQWhwdmU2blR3VkhwV0NTbDF3b2hkWmFkeFI0Vzh4NnFlZUdKdw?oc=5",
+        "pubDate": "Tue, 06 Oct 2026 11:10:32 GMT",
+        "snippet": "Apollo to Favor Aircraft Funding Over Junk Bonds for EasyJet&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg"
       },
       {
@@ -102,17 +102,17 @@
         "source": "CNBC"
       },
       {
-        "title": "Kalshi launches transparency features on its election contracts ahead of midterms - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSFVUcG5MSEhrZ2NlNjZ5RW1ETTc3dGRTaU0xSmlfdGN0MUNaUElicV9QVVc3MHJ3dE1aUTUxVzF4cUJudzRPTzNtVkN6QndtaVJkbWZKbXhEdXhFeFhYOF9CRTlQMGdmblVYUUFkcktLM3ZvZ2ZPT21NNUtwaFVobkVaZ3RqZXBVS3FvaGk2MC1aU3JtUHZOM25DNzd6N19rMTBLVFZfODU0bDhaME5NMHo2MXd1eXNfb1Br0gHAAUFVX3lxTFByVnFERkk2NnlhS1V0ekU2c0VobWRydm4ySXoteklIZHJMSnBVV1RTRXhGRERwdmxraDNWdDhYLWNCdlJUVkFZOFZtU2p0dDByLUJINGY5Zzc4OVBWb2gzczBOOElUaFd0TEVlM3lFNk1rOGR4eDRiZmhudVVmcjhoV1VfeU00TzBwTkZhLTJvdVZ2VWRGaWlCLVBMbjJKS0xWMV9NLWd0MHlWSl9mOExteHZ4clhPR2pNdUpKZWFmUQ?oc=5",
-        "pubDate": "Tue, 06 Oct 2026 18:33:19 GMT",
-        "snippet": "Kalshi launches transparency features on its election contracts ahead of midterms&nbsp;&nbsp;CNBC",
-        "source": "CNBC"
-      },
-      {
         "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record - CNBC",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQmlBdnVhWUNUNGhIWk8yakRHeUpxcHJNTGVvS2g5U3ZPZlNkUTVqOFFFZDhBRnktQ3RUSUd1THMzOXlmY1ZHYWlfY2lta2dxVEVYNlZXU1VPOGVrLUstTzltWTJubGZfcHZfM1FmN2t6SjhTSlJyWWo5Q1k4RE5WSDFETXFfeURVRllEcy0zdzlFOWpUbEJNZkw0aHJfc2FJWEdRUG5FSErSAa4BQVVfeXFMUFpCZXZQemlnTlYtVW9ELTljWFBZMTdWckJpcmZMRHB6cUZkZTB2dG1mMGkyZFVOdWc4QVJtQzBLMEVVNmdER0NFWFE5Rjkyc2tOUXZQNlgtcVN4TXZCQkliRktNSExVUnlubkRlSDJHMldIeUZ6VHVOSDRUdUFlSXRKSmdBNjdNcjhNSUVXZ2NnWFg2ak9JOFkwczJ0cDdWRTgtdk8tTEpKLW1jLTJR?oc=5",
         "pubDate": "Tue, 06 Oct 2026 20:41:31 GMT",
         "snippet": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record&nbsp;&nbsp;CNBC",
+        "source": "CNBC"
+      },
+      {
+        "title": "Kalshi launches transparency features on its election contracts ahead of midterms - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSFVUcG5MSEhrZ2NlNjZ5RW1ETTc3dGRTaU0xSmlfdGN0MUNaUElicV9QVVc3MHJ3dE1aUTUxVzF4cUJudzRPTzNtVkN6QndtaVJkbWZKbXhEdXhFeFhYOF9CRTlQMGdmblVYUUFkcktLM3ZvZ2ZPT21NNUtwaFVobkVaZ3RqZXBVS3FvaGk2MC1aU3JtUHZOM25DNzd6N19rMTBLVFZfODU0bDhaME5NMHo2MXd1eXNfb1Br0gHAAUFVX3lxTFByVnFERkk2NnlhS1V0ekU2c0VobWRydm4ySXoteklIZHJMSnBVV1RTRXhGRERwdmxraDNWdDhYLWNCdlJUVkFZOFZtU2p0dDByLUJINGY5Zzc4OVBWb2gzczBOOElUaFd0TEVlM3lFNk1rOGR4eDRiZmhudVVmcjhoV1VfeU00TzBwTkZhLTJvdVZ2VWRGaWlCLVBMbjJKS0xWMV9NLWd0MHlWSl9mOExteHZ4clhPR2pNdUpKZWFmUQ?oc=5",
+        "pubDate": "Tue, 06 Oct 2026 18:33:19 GMT",
+        "snippet": "Kalshi launches transparency features on its election contracts ahead of midterms&nbsp;&nbsp;CNBC",
         "source": "CNBC"
       },
       {
@@ -132,7 +132,7 @@
       {
         "title": "France: between the bond market and the barricades - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTGd2SHllWWVRNllScGw2RVRNdlgwZ2pxeW1ycGFzeUkzU0JIRkNlaThRZE5UcV85c1otM1l4ejlGcElFanZGYkhrc09ERDdzWEhFRDF4THlXODZ3RVB0Vm9lNVV5TF9RNTRqdVRpSDNEQmNXOGFMMmFuV2Zvc3pGLUQ4QzY?oc=5",
-        "pubDate": "Tue, 06 Oct 2026 04:38:18 GMT",
+        "pubDate": "Tue, 06 Oct 2026 04:00:17 GMT",
         "snippet": "France: between the bond market and the barricades&nbsp;&nbsp;Financial Times",
         "source": "FT"
       },
@@ -174,6 +174,13 @@
     ],
     "tech": [
       {
+        "title": "US Justice Dept tells staff to call AI 'super intelligence' under Trump order - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0M0T3dic0tvbGhzbmx3WVNKNm9iU2l0ZUNBUk5jbzZCM24zT0FOV3RFYXpVQ3NPS1BuMU1zOXNzSmdvbE9falZVOTZja2hqMGtVQWxpXzg2VE15T1FVT0pCc0NLRVowMnBKY0J4dTl0WkJTWUlsbXFOeE1VZjJTUlpEOHlldTE3MTdrMGVRQjF3NEo1aDZxUFNJa21Zb0hMdWFLSjY5dVA5YUlBQjltbmcwSDRZV1M1S2xPQUtWSXVGd2M?oc=5",
+        "pubDate": "Tue, 06 Oct 2026 20:13:08 GMT",
+        "snippet": "US Justice Dept tells staff to call AI 'super intelligence' under Trump order&nbsp;&nbsp;Reuters",
+        "source": "Reuters Tech"
+      },
+      {
         "title": "Anthropic opens its most powerful AI models to more security teams - Reuters",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRkxQM2QzdFNaWVZ2cDdhMGNGb24za0lLSjNZOTlLTkMwMTNPNDBnSjMyaHRXZ0QwVkRLV2RwNUdob2ZpNHhfX19TVkNxQW1XOFEybjdJWTZFbGZPU1hLR1pEcFpyNmZLV19IUVJqUm9LOWxZNnNhRjVSc1pFQU1YR2lXZEw4X19FT3pXM0dVUmdZdW5QNWtKU3YxS0RkLUI4UnJPZXJkeERJdlNSakNLUE9GX2d2Zm8?oc=5",
         "pubDate": "Tue, 06 Oct 2026 19:03:45 GMT",
@@ -202,17 +209,10 @@
         "source": "Reuters Tech"
       },
       {
-        "title": "PODCAST: AI runs hot - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYlBxaVV3Y05hcTBKM2hXSE9jdU5HQ2prUERIX2IxdU9XRG5oRE51S1M0QVB2dWQ3cnNMOWJaLXRCSC1iOUc5SnVHS29OZW1fTWxjSDNUalROREFHbEtpMGpUWUpwdjNRM2ZYTmpvckVTTFZLRS1uc2x5UWFIcVJSRnlB?oc=5",
-        "pubDate": "Tue, 06 Oct 2026 13:44:18 GMT",
-        "snippet": "PODCAST: AI runs hot&nbsp;&nbsp;Reuters",
-        "source": "Reuters Tech"
-      },
-      {
-        "title": "South Korea's Lee says AI appears to have been used in bank hacks - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlNMcGlRUHRDdG9PMTZVVHBHWllVblNzOFJqQXZDZDFUQUFkR0R6eGFOUmwzZE1rMEhqc0VUdkY2Z2RBaXlBaHMyTkZqQnBTdGNhUC1JbnlEcmZsQ1pEdE1RODRReXdXcmJQQmxWOURfVGJCNkQwcHRsS2FDZFBpYTRmWEowcjV5ai1uSl9DcXFXMnczZ0xHN19HR21rTE4zVmc?oc=5",
-        "pubDate": "Tue, 06 Oct 2026 02:13:00 GMT",
-        "snippet": "South Korea's Lee says AI appears to have been used in bank hacks&nbsp;&nbsp;Reuters",
+        "title": "Citigroup bets on Meta's Muse as AI's 'front door to the internet' - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbTEtTzZyUDMwaXNvY2QtYy1YTHNmY2xONUdQV3pVUTBhY3ZoZnJ4T1pGQVg3OGVGTm45Y1pNaGRPTUhuM2VsbFpSdUJJYmFjal9RN3dMR2czdG85V0M2Mm5HZ3NjNjlZTzNqRTI1aWVUTXZwUTN3amNicy1taDE4NTNBWmt6cUJPTUpMNTREZ2l2TGdwdXhjYzNB?oc=5",
+        "pubDate": "Tue, 06 Oct 2026 13:47:59 GMT",
+        "snippet": "Citigroup bets on Meta's Muse as AI's 'front door to the internet'&nbsp;&nbsp;Reuters",
         "source": "Reuters Tech"
       },
       {
@@ -227,13 +227,6 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHFDRnZGRFVzbHJ2T2pHTE5yR0pGWkNxTmxrWldxNkNONFVWSThUU2Zta3VJV0Ryd3BTcjRsV3V1QXRPZFZzS09weVdicWpxOEhSbFliTGVPVVU2X3BDZHhQSE9GdmJJcUlJcV9fSEtMaGdCYmdmYUtadDBnWnpTMUFUSFBMRGVDQjdhYWhLd0NQWmMxMERTSlhhUlc5RjFWc0gzWmZCVUVGaUhYN0MzMQ?oc=5",
         "pubDate": "Tue, 06 Oct 2026 18:58:42 GMT",
         "snippet": "Anthropic Expands Access to Latest AI Models for Cyber Firms&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg Tech"
-      },
-      {
-        "title": "Startup Hark Debuts AI Agent Ahead of 2027 Hardware Launch - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYklpRDlBREdYMmNhZ09VUjM4TGUzR0NwUklfNmtsS3FPaE9hRExwdmJ2NnJ3S1E5alBleFh6ZlJYaTU5N01jY0hHallvdFU3TndudXNBNFdtdTB4NFE2QnBrRkQ5dFFHVEFfVGM5SV85bmdlWmhzTy1YQjZibmxqbHBaNVdYdENEaUdySl9wZFhxU0l1STdiQXZIdmh1MTVraG4wdUUyZHhZRFZlbVlWNGRpSUNPQXpfZEwtS3BPQVJaZTNo?oc=5",
-        "pubDate": "Tue, 06 Oct 2026 16:15:12 GMT",
-        "snippet": "Startup Hark Debuts AI Agent Ahead of 2027 Hardware Launch&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Tech"
       },
       {
@@ -255,6 +248,13 @@
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdE02V0J1WUxHU09MaUNQZHk0cndQWk5mV1VVdG9hY0JLamRrRjQzVEdzYkNhVldEWFN4U0NZc20xV3I1UTlMcnZPMEpLZW1YZTNtWDhVVHpVUUIxaTJGSEJUV3RUZ3BvV3VaUEswbmpnUERsazRIYk1vQ0FuX3JSS2V3NUx0NXNvQi00V2dweDRfOWdWbDBzajQtbExJcEY5c2VfcF9EYWFrbDctSGJKRG03TQ?oc=5",
         "pubDate": "Tue, 06 Oct 2026 19:12:46 GMT",
         "snippet": "Waymo Boosts Private Debt Deal to $5 Billion in Push for Growth&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg Tech"
+      },
+      {
+        "title": "Startup Hark Debuts AI Agent Ahead of 2027 Hardware Launch - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYklpRDlBREdYMmNhZ09VUjM4TGUzR0NwUklfNmtsS3FPaE9hRExwdmJ2NnJ3S1E5alBleFh6ZlJYaTU5N01jY0hHallvdFU3TndudXNBNFdtdTB4NFE2QnBrRkQ5dFFHVEFfVGM5SV85bmdlWmhzTy1YQjZibmxqbHBaNVdYdENEaUdySl9wZFhxU0l1STdiQXZIdmh1MTVraG4wdUUyZHhZRFZlbVlWNGRpSUNPQXpfZEwtS3BPQVJaZTNo?oc=5",
+        "pubDate": "Tue, 06 Oct 2026 16:15:12 GMT",
+        "snippet": "Startup Hark Debuts AI Agent Ahead of 2027 Hardware Launch&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Tech"
       },
       {
@@ -365,6 +365,13 @@
         "source": "Reuters Banks"
       },
       {
+        "title": "JPMorgan hires veteran dealmaker Rob Sweeney amid investment banking expansion - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaGVxUkN1eFlCdlJYZk1XU2RSNmNsOXF0enAwZFpLcDl2SklQbmJndWwzcmh4Yzh4X3lpQ05PUGpqdi1uNFd4MlFlRE9aM1VJMXU2Y3RhVjlHX195THlsZzZ2SFJITVYtWjJ2TndMS18zOUo2cTh2aFVOUDdvVW9jWFE3M2F0SkMzTlZ1dy1EVTNQVXJTT19KYVNGZl8zM3JUa1kyT3RLdnB1NV95VE1DOG9kbk9JRERtR1BxVjZ0dEVjN1d2YU9vSVZBay1vX1U?oc=5",
+        "pubDate": "Tue, 06 Oct 2026 17:36:09 GMT",
+        "snippet": "JPMorgan hires veteran dealmaker Rob Sweeney amid investment banking expansion&nbsp;&nbsp;Reuters",
+        "source": "Reuters Banks"
+      },
+      {
         "title": "BOJ may signal underlying inflation has hit 2% goal, sources say - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM2EwSzZ0dnlrOEY4dFNVczAzNlBqamI4eUwzWFByN0VVZU9qOFExTGJfLXNCRS1HN0hza0JwdXJuNUNpeExJMk9IMkI5R2gzbktldlBVejF6VWp6aG5DaVdldGdGRVVUTU4zeXBETHZJQVpobGh5RlZxTS0wQWI4WXRvcGNhQmVmdXNpd3RNT2o1aENxMmhEU2FFa25oVHJpSXRoQmR1MXd1WC02ZVQ4S1NlQnA2LWdh?oc=5",
         "pubDate": "Tue, 06 Oct 2026 04:28:00 GMT",
@@ -376,13 +383,6 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVkVHcERWcXVaT3FTNktpcnJoVmoyamo1UThqNzd1V0M0cWlyZ1I4SkRiYU91VjJMcldFV2M0YUdyT25uellhYXpxcGJNcFQwRlFWQkpUWHVLdi11Z05HYmJNYW9LVEFVQVJwdmI2ZVh0eEhVWnhKekVwU2hUaVF1UEY1cmd4VUxWY01oYTVkdHhVOVVaVU1RenpVNExwNEliQmRQNWdITWNOUQ?oc=5",
         "pubDate": "Tue, 06 Oct 2026 10:19:58 GMT",
         "snippet": "High inflation has become embedded in Britain, Bank of England's Mann says&nbsp;&nbsp;Reuters",
-        "source": "Reuters Banks"
-      },
-      {
-        "title": "German bank board member to leave despite clean brothel loan probe - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWXk1cjRLUTk3Z1JXbTFiVndpZzlfdFRLb1lmUV9YWC1INHZpbDRycnhTYk45YU44UVFQa2szeFQ0ZmtMZElJSHlnMVNrNVctYWRCZ1p1d2stWjVBcFU5QVhBNDZabzlPbEhta2s0TGlrTlB3VTktRGZyaWlGUEVSMkdEbEtnZHhTNm0zTUlBeDQzWlU2VGg5amlkZWpJUk5BSkt0MGhyQXdCUWpWRFNnYzh5bmpadw?oc=5",
-        "pubDate": "Tue, 06 Oct 2026 15:49:15 GMT",
-        "snippet": "German bank board member to leave despite clean brothel loan probe&nbsp;&nbsp;Reuters",
         "source": "Reuters Banks"
       },
       {
@@ -442,13 +442,6 @@
         "source": "CNBC Finance"
       },
       {
-        "title": "Little room for \u2018giving and taking\u2019: India\u2019s finance minister confirms trade impasse with the U.S. - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsOHN5LU5EZG5IU21RS3hnRXdHeWk3V3ZsNEZoUjlnUDhGN0lVQVdrRGY1aU1kOEhDdHJHYmcyWV9pV0h2TlhHekxwb3B6N1Z0Rno3M2hLYWpBdlZCLUUza25kczZlbHl6SFBXbzNpYk1VV1RYUTBzWDZjclbSAYIBQVVfeXFMTXpRbnRpc3diNzVKN244d0pjRlA4REMtcE4yb3NXVDEtdm91X1E2aEZ0UjNlRWhhRUJvTVdKalBnVk9FVURrQkY0aFBoenAwSVlJNHNhdGZhZ2RkNEUxUFFJYktMaWloY2t0SERQM1RmWWM3ZDdycDZYVlB2Tzlic1BLQQ?oc=5",
-        "pubDate": "Tue, 06 Oct 2026 02:29:00 GMT",
-        "snippet": "Little room for \u2018giving and taking\u2019: India\u2019s finance minister confirms trade impasse with the U.S.&nbsp;&nbsp;CNBC",
-        "source": "CNBC Finance"
-      },
-      {
         "title": "Britain is on 'thin ice,' warns ex-Bank of England chief economist \u2014 and it must act to 'appease financial markets' - CNBC",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13cWhwWTNzUWtacGQ5SmJ1MnZOUlFabkcwaVMtWkFHQ0xwdFhRdkJOUGkyLVJXMEhGaGNmdVFLTG1JWnhaVllUS1d4d0o2RWNrc255SGlnTkZua0QyVmJMMk01X2FFekw4Mkh4V0dUOGJXWHN4Sy1DSXZYUGVxbEXSAYQBQVVfeXFMTUVUMmhYYlZrTVdnanc5VUwtZjhNNTVDOTZ3cFVmc0FBclBPc3ZvNUYxM0U1anNoZnJEU2NEN3RDQVFRaTJSOWNNT2Q4c1lYVFJKdWJuVVFpY2ZVeV9fVDZJREp1aEwwd3NLSUtjVlBhOTBQUVF3UTFTUDNWVW1DNjFvR0x1?oc=5",
         "pubDate": "Tue, 06 Oct 2026 07:28:32 GMT",
@@ -460,6 +453,13 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeHBvQ1prY29SU2g2U3BwYVZvSC1qZ1U4Zl9QVGFJSWFxa05uNnZxemNrLTRUVkFHa3Bxa0lMVVZ1YTZpQUVEdVJONnd2VHpTRU44MFEzZ3VvcW92bnc0VVYzemZaa1Vzb2x0WkFEZzFOSnI3YXd6UGVsSXlpMV9ZV0FVUVRqWkc4ZUJkYmRMMFZKeFNEajZTajVxNkRhMTVobHdsN0hsM0FXSUZXZGFkdnNB?oc=5",
         "pubDate": "Tue, 06 Oct 2026 13:22:52 GMT",
         "snippet": "JPMorgan and Deutsche Bank just upgraded Brazilian stocks. How to trade them&nbsp;&nbsp;CNBC",
+        "source": "CNBC Finance"
+      },
+      {
+        "title": "Little room for \u2018giving and taking\u2019: India\u2019s finance minister confirms trade impasse with the U.S. - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsOHN5LU5EZG5IU21RS3hnRXdHeWk3V3ZsNEZoUjlnUDhGN0lVQVdrRGY1aU1kOEhDdHJHYmcyWV9pV0h2TlhHekxwb3B6N1Z0Rno3M2hLYWpBdlZCLUUza25kczZlbHl6SFBXbzNpYk1VV1RYUTBzWDZjclbSAYIBQVVfeXFMTXpRbnRpc3diNzVKN244d0pjRlA4REMtcE4yb3NXVDEtdm91X1E2aEZ0UjNlRWhhRUJvTVdKalBnVk9FVURrQkY0aFBoenAwSVlJNHNhdGZhZ2RkNEUxUFFJYktMaWloY2t0SERQM1RmWWM3ZDdycDZYVlB2Tzlic1BLQQ?oc=5",
+        "pubDate": "Tue, 06 Oct 2026 02:29:00 GMT",
+        "snippet": "Little room for \u2018giving and taking\u2019: India\u2019s finance minister confirms trade impasse with the U.S.&nbsp;&nbsp;CNBC",
         "source": "CNBC Finance"
       },
       {
@@ -486,7 +486,7 @@
       {
         "title": "How a convention-defying start-up became South Africa\u2019s most popular bank - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRG82eVhhcF9KUjlrSUQyYzZRaFdCem9GYU51NmhfdnBNRkZMd25oeUdkV0ZkN3Jiam52VktWSnZWaVQ0Q2k4WW1OWFNCVkowaUYzaExiTEtFYUJiNjViVEhKYklOUk9CYTdjczFEa0c5WHdiLWhQZmFlbXd5ajg0TmhVT0s?oc=5",
-        "pubDate": "Tue, 06 Oct 2026 04:12:23 GMT",
+        "pubDate": "Tue, 06 Oct 2026 04:00:08 GMT",
         "snippet": "How a convention-defying start-up became South Africa\u2019s most popular bank&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
@@ -591,17 +591,17 @@
         "source": "Straits Times"
       },
       {
-        "title": "Singapore's digital economy grows to S$144.1 billion as AI adoption accelerates - CNA",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRTJVa3hCbVRndEVMMjZCOFM4b1VOU29NRlo2U2ZvSDBFc0RaVmRDZmp3dTdWbFRqSklia1NGUVJRU1FYdVhBdHJuUG9kUndSZnRKNEFYUHVsWFV2MWxVQWJ5d19ra05RZ0laOThldnU4eUxMOXRycnI3NjlIeEdKRjBMWnBxQ1pFMTZGTmFpSk1BVTk3YUxpcEJIXzYwUQ?oc=5",
-        "pubDate": "Mon, 05 Oct 2026 07:13:00 GMT",
-        "snippet": "Singapore's digital economy grows to S$144.1 billion as AI adoption accelerates&nbsp;&nbsp;CNA",
-        "source": "CNA"
-      },
-      {
         "title": "Singapore\u2019s digital economy grows to more than S$140b in 2025 - CNA",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUHVoLVpwTkdySVRkM1RJeVY0MnVaQUlONWxNZHJoT3RzUHlqRmY1dWZYT2F5MGh4UW5kaGlTY3p5b0tJNFVHTHZyd0poQXgwUzlXS3BERUhoZ1dJRnB2b1pvMXFCYl9zUjRveVVsQnlDMDNheFFtWDYtUUs4RXMwenNlYmZ2UU03VkRBTTdjNEhFTzNFdXVsR1JaTEN3QQ?oc=5",
         "pubDate": "Mon, 05 Oct 2026 14:47:00 GMT",
         "snippet": "Singapore\u2019s digital economy grows to more than S$140b in 2025&nbsp;&nbsp;CNA",
+        "source": "CNA"
+      },
+      {
+        "title": "Singapore's digital economy grows to S$144.1 billion as AI adoption accelerates - CNA",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRTJVa3hCbVRndEVMMjZCOFM4b1VOU29NRlo2U2ZvSDBFc0RaVmRDZmp3dTdWbFRqSklia1NGUVJRU1FYdVhBdHJuUG9kUndSZnRKNEFYUHVsWFV2MWxVQWJ5d19ra05RZ0laOThldnU4eUxMOXRycnI3NjlIeEdKRjBMWnBxQ1pFMTZGTmFpSk1BVTk3YUxpcEJIXzYwUQ?oc=5",
+        "pubDate": "Mon, 05 Oct 2026 07:13:00 GMT",
+        "snippet": "Singapore's digital economy grows to S$144.1 billion as AI adoption accelerates&nbsp;&nbsp;CNA",
         "source": "CNA"
       },
       {
@@ -619,13 +619,6 @@
         "source": "CNA"
       },
       {
-        "title": "CNA938 Rewind - Two Singaporeans in L.A: How are they coping? - CNA",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORVJkaDlkdmpucVRXMUFVQ0lpQW9ibzF3ZVlpWVNaUzJGbVZ5VHllbzNXZE4xRV9mVkFteWFaSzY0ZVRWOTNETldwajR1ZndlR3ZuR2dSbmU3b3FzRGJ4a2diLWdHQnN1S2tDZTFKWmVId29BVmtlZU1NaFZvQ2NrN1pxdlY4WC1KaTlrd0pCcjlRMDB2bWwyQ29Yank1QUZpQ1hTTW4tU1FLMW1ETnR2ZUVsa0tIRWt4dlc1c1RTcVVMSHAwZjFIM2s0MmpBMzhPYkJR?oc=5",
-        "pubDate": "Mon, 05 Oct 2026 23:46:17 GMT",
-        "snippet": "CNA938 Rewind - Two Singaporeans in L.A: How are they coping?&nbsp;&nbsp;CNA",
-        "source": "CNA"
-      },
-      {
         "title": "CNA938 Rewind - Stock take today: Record-high bond yields, warnings for the AI party - CNA",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOODZaSHBRclZwakJ0RVA5cTlzLU9jNEJLMzNveTB5Z3dWYXUtUlJSSThJdFByTkpCUmFNdEJGSDFZTEN0R1lUUjJpUDd2NnhYRFlwRVdWTXNtaE01ZVVqTlRURGFBX3dlMlRZY0g0bnpYdkFjcmxPaThwN0JvcjNtcFpfLW5BWkpxSExIcmFfdWtNZEZYeDUxSUxGc0xDT3A3Z1lVeXJJWlRzYVNtUzExUWNtd3BCcnZNVGhj?oc=5",
         "pubDate": "Mon, 05 Oct 2026 01:29:48 GMT",
@@ -633,17 +626,24 @@
         "source": "CNA"
       },
       {
-        "title": "Singapore's Zerra DC lands Macquarie backing for Asia-Pacific data center expansion - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcUJPM3IwaFpNSmxNSkRUd1NUbUZLWndJaWlRa1EwbU11TDhUMDE2dXEyRVprUXMzeVZBWkhEbUY3T096T3lWc3ZlcUNXSWlzc2U0U2VXeGctRm9DS21DLXJocUZIYXBBUlpLVU1neW1rNFVHcko0R1pzcW5CR0xFQnFMajVLOVdiWlNzN19kMkNrQml6VTYzSG41cE1XZFUtUTRSZHk5UWNtVVJKRzYwQlpqajQwRmJFV0RFeklEZGFjQ05lbUZhVksxc0ZvUQ?oc=5",
-        "pubDate": "Mon, 05 Oct 2026 22:14:17 GMT",
-        "snippet": "Singapore's Zerra DC lands Macquarie backing for Asia-Pacific data center expansion&nbsp;&nbsp;Reuters",
-        "source": "Reuters SG"
+        "title": "CNA938 Rewind - 7-Eleven revamp: Redefining the future of convenience stores in Singapore - CNA",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRkhWTHM5Yl9UajFOTXp2cVZISkNycUFiWWthSlRYU3NBRW83dEdubERGdWVfODYzdlFrV244X3ZXUlRCcndROENQZ1hOWUF1eWxudEFGaWZBOUFyNzhiall4RjR4dkVaTUItdEdEMTdYMk9QTWtFWlRuVUNnZ2JySElzN2FGS3pZdmtGbThrcXBfMVlDMWVPUEw2SzViZEtzVno0ZDFmUHg0a3NpVzRNdjJTekU0LXd3OXRkd0F2LW5ST1ZIekdWTm5fcUdmTmVQSXQzdTlrbTNfVXJURVB4R09XaGhzUExod2tlWlBhYURXdw?oc=5",
+        "pubDate": "Mon, 05 Oct 2026 03:50:06 GMT",
+        "snippet": "CNA938 Rewind - 7-Eleven revamp: Redefining the future of convenience stores in Singapore&nbsp;&nbsp;CNA",
+        "source": "CNA"
       },
       {
         "title": "Singapore refers 8 civil servants to police after investigating report alleging privileged information was used for home purchases - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR0hRV0pUQlpXSE1KUGVDdFRRNERQQnU5SDlIcjN3QUxtbndybzFaYjgzVldCY2xMSlpId2NlU0M5QVpmcHhFZC1GdVo1Um52cVlYOElnV1VNcTJDQlpzTXR2M2hWeFpwRDFPZmx4SjcxbDV2bUI3T0w5WGhhODF5NHhjUFh6akk2TUZwM3dDNFh5T09rY2tpZFB1ZFNaS05UaXMtTVNZbFhER2Nuc2U0U0VfWnNJTnN0YjZsVm5lbjNFcU5wVGJDeGVBTQ?oc=5",
         "pubDate": "Tue, 06 Oct 2026 05:26:00 GMT",
         "snippet": "Singapore refers 8 civil servants to police after investigating report alleging privileged information was used for home purchases&nbsp;&nbsp;Reuters",
+        "source": "Reuters SG"
+      },
+      {
+        "title": "Singapore's Zerra DC lands Macquarie backing for Asia-Pacific data center expansion - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcUJPM3IwaFpNSmxNSkRUd1NUbUZLWndJaWlRa1EwbU11TDhUMDE2dXEyRVprUXMzeVZBWkhEbUY3T096T3lWc3ZlcUNXSWlzc2U0U2VXeGctRm9DS21DLXJocUZIYXBBUlpLVU1neW1rNFVHcko0R1pzcW5CR0xFQnFMajVLOVdiWlNzN19kMkNrQml6VTYzSG41cE1XZFUtUTRSZHk5UWNtVVJKRzYwQlpqajQwRmJFV0RFeklEZGFjQ05lbUZhVksxc0ZvUQ?oc=5",
+        "pubDate": "Mon, 05 Oct 2026 22:14:17 GMT",
+        "snippet": "Singapore's Zerra DC lands Macquarie backing for Asia-Pacific data center expansion&nbsp;&nbsp;Reuters",
         "source": "Reuters SG"
       },
       {
