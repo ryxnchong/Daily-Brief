@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "updated": 1791355619,
+  "updated": 1791356959,
   "tabs": {
     "global": [
       {
@@ -88,13 +88,6 @@
         "source": "Bloomberg"
       },
       {
-        "title": "Singapore's Temasek warns of the \u2018biggest risk\u2019 facing markets right now - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOekgyVzk5SDc4S0lTUDJzdzNMMzhSS2ZYeVc3QVo2WDJ3N1JjM3VSeExaTEFpZVZrS0R6cEppVzU2YTNGaGZ6VklSYldxTkpnN3drSU8tVTFjeWdGY3ItUkxEZGNTV0pLLTVLTHBPaDltNG5MX2JuS2ZyTmNKY2xDVkh3bmdiSl9ma3l4ejNrek9IV0RxR21hbFhDTdIBoAFBVV95cUxQZUt3M3NDaTdYRXY5VzY0dl9XYkQ2N05ISDZ4QndoNVZPYWVTb2ozb2ozdGFFQ1UtTEhJQVYzTHJRaEhmeENQVmduREZuWlVaQ194bHQxSTJTVFFKQnpxZVBZVDctVVBKMUNJMlBUbGRRNUQwbGJDRGVaQVBFVWxKSGZvaE1SV3Z3UWtiOWxqS2lybl9VbkYxYjc3ckFFbjVF?oc=5",
-        "pubDate": "Wed, 07 Oct 2026 04:33:11 GMT",
-        "snippet": "Singapore's Temasek warns of the \u2018biggest risk\u2019 facing markets right now&nbsp;&nbsp;CNBC",
-        "source": "CNBC"
-      },
-      {
         "title": "Wednesday's big stock stories: What\u2019s likely to move the market in the next trading session - CNBC",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaE85QlcwazZSb1ZrbHhhNjg3VUR0bTc1dWl4M1hOZXBJSTVHVUVTN3Ntc3hNZFJjXzhyZVZrNWpCY1Vic1Q1Q1c5Nl9YQXFjcjlDMVVZWnB6cHkzbTJxMDJVVTdNdUJ2b0xTRGE2bklDVWVYazRJWEJiTW11ZnNBb242cDEtaFlEcFFDX2V6bm1nX19ycDlKeWl4aFpGQQ?oc=5",
         "pubDate": "Tue, 06 Oct 2026 23:51:26 GMT",
@@ -130,9 +123,16 @@
         "source": "CNBC"
       },
       {
+        "title": "How the S&P 500 can be at record highs, while the market remains oversold - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZWdCTmladVN6STFMb2RrYVRQalV0MWhaN0ZxeXkybV9LZXgwV1pDRnVPcVkyM1NXcENiTHZYRUU1S0VMUVk4WU95QjBoTFQwYkRGTjVkS3dfOEczV1BFTHBOZ21vdEZKNXdGTDJwTEotbml2Qm5FXzlHa0VMZlRXemVPU3B0MVR1UzdmMUhXS2ZlblQ2djNLRVhJZVZ2bWRHR3E5NDhKVXFUaDI4RnFmLVlHYUZYdWdlZHZ2RlVKQQ?oc=5",
+        "pubDate": "Tue, 06 Oct 2026 17:41:46 GMT",
+        "snippet": "How the S&P 500 can be at record highs, while the market remains oversold&nbsp;&nbsp;CNBC",
+        "source": "CNBC"
+      },
+      {
         "title": "France: between the bond market and the barricades - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTGd2SHllWWVRNllScGw2RVRNdlgwZ2pxeW1ycGFzeUkzU0JIRkNlaThRZE5UcV85c1otM1l4ejlGcElFanZGYkhrc09ERDdzWEhFRDF4THlXODZ3RVB0Vm9lNVV5TF9RNTRqdVRpSDNEQmNXOGFMMmFuV2Zvc3pGLUQ4QzY?oc=5",
-        "pubDate": "Tue, 06 Oct 2026 14:00:17 GMT",
+        "pubDate": "Tue, 06 Oct 2026 04:38:18 GMT",
         "snippet": "France: between the bond market and the barricades&nbsp;&nbsp;Financial Times",
         "source": "FT"
       },
@@ -174,17 +174,17 @@
     ],
     "tech": [
       {
-        "title": "South Korean megachurches probe suspected AI-linked cyberattacks - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHBENnFFZExrOWJJY3plamJVNVUtU1d0bXA5RW1Va1ZBbjc0VWgzemdxZGZWakYwZW01T2lzWE9WMGpiYmc0aENrNmh6QmotUGZrQTl4THlKUzVEa1kyS1lfVlJ4V3dNSG41aXBOcEdHRTdobEhaOXgyY0RhNjBSOTFfWmFiVWdEcWF5SGN5OG9hX2pVT05VU2FZeEdlc3I0TnRZd2FPQ3RvLVBpV1ZBaGo4VWlvSmdp?oc=5",
-        "pubDate": "Wed, 07 Oct 2026 03:00:00 GMT",
-        "snippet": "South Korean megachurches probe suspected AI-linked cyberattacks&nbsp;&nbsp;Reuters",
-        "source": "Reuters Tech"
-      },
-      {
         "title": "HSBC plans job cuts across UK wealth business in AI push, FT reports - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNjBjMnNYdjI5bzJVSHlZcU9KM1Rqci1HNXRlQlA1R3AzRjN5bkFRdzFzZU1JUTQ0OG9SeDY1ZWwyOHRwcGNjWERsYnBXVkJ3NFBNVHZUSENsVWt6b1kxckczejA0YlhobmVoX0wzYTZyM21RY09CWEhaajRSRkhja1NUTmx3VjhuMjZMUlBBeFM5aWNrREJqd0JjSjFSRWRjdTQ3NE92WEQzcjVnVWwyWmdGdXEyNlVa?oc=5",
         "pubDate": "Wed, 07 Oct 2026 04:17:00 GMT",
         "snippet": "HSBC plans job cuts across UK wealth business in AI push, FT reports&nbsp;&nbsp;Reuters",
+        "source": "Reuters Tech"
+      },
+      {
+        "title": "South Korean megachurches probe suspected AI-linked cyberattacks - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHBENnFFZExrOWJJY3plamJVNVUtU1d0bXA5RW1Va1ZBbjc0VWgzemdxZGZWakYwZW01T2lzWE9WMGpiYmc0aENrNmh6QmotUGZrQTl4THlKUzVEa1kyS1lfVlJ4V3dNSG41aXBOcEdHRTdobEhaOXgyY0RhNjBSOTFfWmFiVWdEcWF5SGN5OG9hX2pVT05VU2FZeEdlc3I0TnRZd2FPQ3RvLVBpV1ZBaGo4VWlvSmdp?oc=5",
+        "pubDate": "Wed, 07 Oct 2026 03:00:00 GMT",
+        "snippet": "South Korean megachurches probe suspected AI-linked cyberattacks&nbsp;&nbsp;Reuters",
         "source": "Reuters Tech"
       },
       {
@@ -351,17 +351,17 @@
         "source": "Reuters Banks"
       },
       {
-        "title": "Fed plans to overhaul bank supervision responsibilities, Bowman says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXUxU2F5X1UwSTZreDdOc3FaTDdsWVBreUNYY3U1WVlpZXVUNGM1UE8tLU50eUU1UTlzVHRPVlhOTlBmemF5ZTJGY3lNa2Njc1NwaFNkWG04OVdTbkUxVGd4d1E1WkFkVkpXdmFoVkEyUHFkX24tSUlMTkZaS3FUYy1pQzJfQ1Nldy10bDhwdEhoOHg5eHFpVDFMWDJ6bkcyT1F3R0tDaWhFSU4tb0RHeUVYNFVSUHJT?oc=5",
-        "pubDate": "Tue, 06 Oct 2026 18:15:37 GMT",
-        "snippet": "Fed plans to overhaul bank supervision responsibilities, Bowman says&nbsp;&nbsp;Reuters",
-        "source": "Reuters Banks"
-      },
-      {
         "title": "South Korea's Lee says AI appears to have been used in bank hacks - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlNMcGlRUHRDdG9PMTZVVHBHWllVblNzOFJqQXZDZDFUQUFkR0R6eGFOUmwzZE1rMEhqc0VUdkY2Z2RBaXlBaHMyTkZqQnBTdGNhUC1JbnlEcmZsQ1pEdE1RODRReXdXcmJQQmxWOURfVGJCNkQwcHRsS2FDZFBpYTRmWEowcjV5ai1uSl9DcXFXMnczZ0xHN19HR21rTE4zVmc?oc=5",
         "pubDate": "Tue, 06 Oct 2026 02:13:00 GMT",
         "snippet": "South Korea's Lee says AI appears to have been used in bank hacks&nbsp;&nbsp;Reuters",
+        "source": "Reuters Banks"
+      },
+      {
+        "title": "Fed plans to overhaul bank supervision responsibilities, Bowman says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXUxU2F5X1UwSTZreDdOc3FaTDdsWVBreUNYY3U1WVlpZXVUNGM1UE8tLU50eUU1UTlzVHRPVlhOTlBmemF5ZTJGY3lNa2Njc1NwaFNkWG04OVdTbkUxVGd4d1E1WkFkVkpXdmFoVkEyUHFkX24tSUlMTkZaS3FUYy1pQzJfQ1Nldy10bDhwdEhoOHg5eHFpVDFMWDJ6bkcyT1F3R0tDaWhFSU4tb0RHeUVYNFVSUHJT?oc=5",
+        "pubDate": "Tue, 06 Oct 2026 18:15:37 GMT",
+        "snippet": "Fed plans to overhaul bank supervision responsibilities, Bowman says&nbsp;&nbsp;Reuters",
         "source": "Reuters Banks"
       },
       {
@@ -379,10 +379,10 @@
         "source": "Reuters Banks"
       },
       {
-        "title": "JPMorgan hires veteran dealmaker Rob Sweeney amid investment banking expansion - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaGVxUkN1eFlCdlJYZk1XU2RSNmNsOXF0enAwZFpLcDl2SklQbmJndWwzcmh4Yzh4X3lpQ05PUGpqdi1uNFd4MlFlRE9aM1VJMXU2Y3RhVjlHX195THlsZzZ2SFJITVYtWjJ2TndMS18zOUo2cTh2aFVOUDdvVW9jWFE3M2F0SkMzTlZ1dy1EVTNQVXJTT19KYVNGZl8zM3JUa1kyT3RLdnB1NV95VE1DOG9kbk9JRERtR1BxVjZ0dEVjN1d2YU9vSVZBay1vX1U?oc=5",
-        "pubDate": "Tue, 06 Oct 2026 17:36:09 GMT",
-        "snippet": "JPMorgan hires veteran dealmaker Rob Sweeney amid investment banking expansion&nbsp;&nbsp;Reuters",
+        "title": "Vietnam's banks tap investors for $7 billion as economy runs red hot - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSHo4NlJqZktPYWpaZGJOdjdzRXhwcENlTHkwZXNsVjJtbktRUklSaloxTHYxZTUtcm1oa1JId2U0QTg1SkdvVFRDdnQtLUpmUHFnZGpPVmNLRXRKcEY5UmVYblZSb3hWbGJyMTJRYkxIbThodnJNWmtlendmZFpIZjlsdUpEWGVYb1lRZUhEQnpiRlVkdmk4UWs3aUpXMnNjaGtjLXl4V2ZGY0VnRFRySTVR?oc=5",
+        "pubDate": "Wed, 07 Oct 2026 01:02:00 GMT",
+        "snippet": "Vietnam's banks tap investors for $7 billion as economy runs red hot&nbsp;&nbsp;Reuters",
         "source": "Reuters Banks"
       },
       {
@@ -442,17 +442,17 @@
         "source": "CNBC Finance"
       },
       {
-        "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5% - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnJmTjNJUXdKOExfRUh0MGdLeVFKSGhLVUdibGIwcGJxSUp0WFBVTXlsamZmN084dnNoNExOZ2QwLTlTZTNSZVREOEh5TTV1M3JPMzBjdmVtZzU4RVQ3alRjX1p4WDhjbFFSWC1iVHN2SmZIdEt3RllEbG8wM0I3RFpFOHFmcVNzT2ZUMVRQb9IBlAFBVV95cUxPUHZPYTZXQzNkQ2VlVGhvSW1ERV92WVE1bGJxVzc0UGo4RERETlFIcGt0U1lhSVQtMU45cEJUVjVkMm94ZnZENXdQQVpzcnhqWTNPZmppUUR0anE5V2FJZVE0WkNWVl93ajNCSTZsTmFQSGVaemRTaGg3UkNYLV9FVmVMaU9pSHBjR3ptNmtPUUFycDA5?oc=5",
-        "pubDate": "Tue, 06 Oct 2026 04:06:57 GMT",
-        "snippet": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%&nbsp;&nbsp;CNBC",
-        "source": "CNBC Finance"
-      },
-      {
         "title": "Britain is on 'thin ice,' warns ex-Bank of England chief economist \u2014 and it must act to 'appease financial markets' - CNBC",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13cWhwWTNzUWtacGQ5SmJ1MnZOUlFabkcwaVMtWkFHQ0xwdFhRdkJOUGkyLVJXMEhGaGNmdVFLTG1JWnhaVllUS1d4d0o2RWNrc255SGlnTkZua0QyVmJMMk01X2FFekw4Mkh4V0dUOGJXWHN4Sy1DSXZYUGVxbEXSAYQBQVVfeXFMTUVUMmhYYlZrTVdnanc5VUwtZjhNNTVDOTZ3cFVmc0FBclBPc3ZvNUYxM0U1anNoZnJEU2NEN3RDQVFRaTJSOWNNT2Q4c1lYVFJKdWJuVVFpY2ZVeV9fVDZJREp1aEwwd3NLSUtjVlBhOTBQUVF3UTFTUDNWVW1DNjFvR0x1?oc=5",
         "pubDate": "Tue, 06 Oct 2026 07:28:32 GMT",
         "snippet": "Britain is on 'thin ice,' warns ex-Bank of England chief economist \u2014 and it must act to 'appease financial markets'&nbsp;&nbsp;CNBC",
+        "source": "CNBC Finance"
+      },
+      {
+        "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5% - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnJmTjNJUXdKOExfRUh0MGdLeVFKSGhLVUdibGIwcGJxSUp0WFBVTXlsamZmN084dnNoNExOZ2QwLTlTZTNSZVREOEh5TTV1M3JPMzBjdmVtZzU4RVQ3alRjX1p4WDhjbFFSWC1iVHN2SmZIdEt3RllEbG8wM0I3RFpFOHFmcVNzT2ZUMVRQb9IBlAFBVV95cUxPUHZPYTZXQzNkQ2VlVGhvSW1ERV92WVE1bGJxVzc0UGo4RERETlFIcGt0U1lhSVQtMU45cEJUVjVkMm94ZnZENXdQQVpzcnhqWTNPZmppUUR0anE5V2FJZVE0WkNWVl93ajNCSTZsTmFQSGVaemRTaGg3UkNYLV9FVmVMaU9pSHBjR3ptNmtPUUFycDA5?oc=5",
+        "pubDate": "Tue, 06 Oct 2026 04:06:57 GMT",
+        "snippet": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%&nbsp;&nbsp;CNBC",
         "source": "CNBC Finance"
       },
       {
@@ -472,7 +472,7 @@
       {
         "title": "HSBC plans sweeping job cuts across UK wealth business in AI push - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOemI1djlTdHByYmUwNnVIUjNid0dxZjgtajdWYy1kOUxQZ3V6a2plWlU1dzY4OWxuUkl0b0NKTVc3Y1cyTjctenlfNHlGRmkzMTg0R3paM3lqYWRUT3lESmc2WURJakZ1QUVLSGsxemI3c2dwZ2N1Q0hvbzh5TXE1d1hsdHo?oc=5",
-        "pubDate": "Wed, 07 Oct 2026 04:00:47 GMT",
+        "pubDate": "Wed, 07 Oct 2026 04:00:22 GMT",
         "snippet": "HSBC plans sweeping job cuts across UK wealth business in AI push&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
@@ -484,17 +484,17 @@
         "source": "FT Banks"
       },
       {
+        "title": "The tide of bank branch closures is starting to reverse - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3RfYWd3RGV5dXFScVhJNkQxRXRmaG9GZEhDcmhKOFNOZ0lLWTlSc1RfUklnWVNjdTNCLUxzYUpQOS1aMmpzUmhFWllnMVFwVDY1azBwRndMODhJaW1oSUpBQjYyMEZoZ0RJaGt3a1Zzcng2QkdMVF9BWFRwbDVOYW5oTkI?oc=5",
+        "pubDate": "Wed, 07 Oct 2026 04:00:03 GMT",
+        "snippet": "The tide of bank branch closures is starting to reverse&nbsp;&nbsp;Financial Times",
+        "source": "FT Banks"
+      },
+      {
         "title": "AI models used in bank cyber attacks, warns South Korea\u2019s president - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWtJVDNxaldQMWl4Q2FFMDJSallVSkk0UTJPLURfTEdOR2Zvb0t2VzljTDc4WGswM3RTZGlTaFFoYm9LMVVYZVQxUXk5emVNa3dyYjRRc2FYTHRyWU1QZmYtcVhZWDBVZlJrZGpWV1ZlT3pXeHlST1k0MERhOVJONGxmQVc?oc=5",
         "pubDate": "Tue, 06 Oct 2026 08:35:09 GMT",
         "snippet": "AI models used in bank cyber attacks, warns South Korea\u2019s president&nbsp;&nbsp;Financial Times",
-        "source": "FT Banks"
-      },
-      {
-        "title": "The tide of bank branch closures is starting to reverse - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3RfYWd3RGV5dXFScVhJNkQxRXRmaG9GZEhDcmhKOFNOZ0lLWTlSc1RfUklnWVNjdTNCLUxzYUpQOS1aMmpzUmhFWllnMVFwVDY1azBwRndMODhJaW1oSUpBQjYyMEZoZ0RJaGt3a1Zzcng2QkdMVF9BWFRwbDVOYW5oTkI?oc=5",
-        "pubDate": "Wed, 07 Oct 2026 04:00:47 GMT",
-        "snippet": "The tide of bank branch closures is starting to reverse&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
       {
@@ -675,10 +675,10 @@
         "source": "Reuters SG"
       },
       {
-        "title": "India-US trade talks hit 'plateau', finance minister says, as tariffs narrow room for deal - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM1J5UEt2X3M2VGctS2FVQnMtVkJoOEwzdUZ4SENyTzNJRUZkUmJBYjBjWkVCbkVUNG9ITHRueUJONGpBUHVpZ3VaajhUNGY3SThiYTJHQVB3U2l0MXlaaGNKY1NLbWZ6TXNYV3FmNm9BVjJ0Mktod2d3SWV6TWRjUDNkanRCVHdpRU9oZFgtc2RGbUx1TUwyMU0weVM2Ry0wOGJMN0VMZGM5VGhUdDJ5bWNjYWh0WHhWQlE?oc=5",
-        "pubDate": "Tue, 06 Oct 2026 05:40:35 GMT",
-        "snippet": "India-US trade talks hit 'plateau', finance minister says, as tariffs narrow room for deal&nbsp;&nbsp;Reuters",
+        "title": "South Korean president orders probe into data leaks across financial industry - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU1lNVUVZZ2h4VG9hWTZ3d2lLYk4wX281Nk5LbGpWT0xRWGZKX0I5UWU2bzdNa0xKam9sRjRTREh1QmY2aVRpRlluYzhJQWVjbnZoY3dCcG13dnBtaXU0Z2ZwcGc0dmJiOThqd29QTjMtYmRaa2ZmOHNpVjBPNnV5a0ttMFVLcmk4eWZKTmEtNFBUS1dsNmhrYTJMWk9lMnh2ZFZXYS03NzhIRjQ4Qk5JdG1lTG56TXhjOWlJekZGcVI2MFpjWXd6WlIwYWU?oc=5",
+        "pubDate": "Sun, 04 Oct 2026 20:34:04 GMT",
+        "snippet": "South Korean president orders probe into data leaks across financial industry&nbsp;&nbsp;Reuters",
         "source": "Reuters SG"
       }
     ]
