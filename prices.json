@@ -1,5 +1,5 @@
 {
-  "updated": 1794183814,
+  "updated": 1794207485,
   "quotes": {
     "SPY": {
       "label": "S&P 500 (SPY)",
@@ -78,8 +78,8 @@
     },
     "^HSI": {
       "label": "Hang Seng",
-      "price": 24481.86,
-      "pct": 5.097529794689039
+      "price": 24528.19,
+      "pct": 4.851256683531876
     },
     "^STI": {
       "label": "STI",
