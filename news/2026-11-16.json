@@ -1,10 +1,679 @@
 {
   "date": "2026-11-16",
-  "updated": 1794812441,
+  "updated": 1794847624,
   "tabs": {
-    "global": [],
-    "tech": [],
-    "banks": [],
-    "singapore": []
+    "global": [
+      {
+        "title": "US aviation shutdown blamed on L3 Harris installed router - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWEQ1ckJVbXlQSHI5ZHU4VEppWVVZbXBYa0ZRWjdDdFNGWWxSdHF5bEtwR1Q2OHRxN2plYXctMm5lTU5TV0hzb2xQazg4U09MNDhyRnpOalhGYXJWN01mak9NR0dXWG0yR0k5WUtycmNhdkdZZkpYcXp5N2w0N2RQSUxEX1F5aEY1TGhDTzV5ZXl3dWR6QmdabDduOFBBWTNPdXBvVVY1VlAwVW1XYnIyQ2FwU2ZOeW5x?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 16:03:45 GMT",
+        "snippet": "US aviation shutdown blamed on L3 Harris installed router&nbsp;&nbsp;Reuters",
+        "source": "Reuters"
+      },
+      {
+        "title": "Japan's economy unexpectedly shrinks as inflation squeezes households - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXFYOEg3cHpDTUFrTU9IRlQyWDlvRGVMVVN3VmxOelY3WnhCREJNdElKcEY5ZWpBSmhoalMzWDdaM0Y5Z0VXbkxVemg3YmdhSUg5UmYybnhFOHhWbVhXdjdoT1BUUGNQUFVtX2o1SkJRSnBJNEdLX081amJyUll6WHFpUk5SaWlkd2JGN0VnRFZKYi1WT1B0NzFUOUVKdkFfcTQ5RmdFeHdvcWI5c2pRaXF6MFBydw?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 00:13:00 GMT",
+        "snippet": "Japan's economy unexpectedly shrinks as inflation squeezes households&nbsp;&nbsp;Reuters",
+        "source": "Reuters"
+      },
+      {
+        "title": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRENJR2FvRjB1WmJfWk56alNqNHBwRHExSk0tdU91LV9wSUMzVm9PZEtRdHc0Y1JaMW44OVBJc3puTENpMXNBY3VmSVNjSTZIazlYRGh4aUxVaW9GdXNBamZla29sRzJnajdMdU1yQU9xekdPcUwyRXdaRzF4TXhiZXV6RDZIN21yVS15bGpNVUJFZUpnWU1ZTFJqbm94OXhjamR3SXFRV3F0YWZWSnA5ei1Gd2o4UW1PSnlrTnFtMENUb2V1VjVDc09XSFJNN0JaWXc?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 20:26:00 GMT",
+        "snippet": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites&nbsp;&nbsp;Reuters",
+        "source": "Reuters"
+      },
+      {
+        "title": "Tyson Foods shares climb on signs of improving US beef business - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUVl0X0lHVVpiMDY5bVZVVWs5VTRHaklFeHRuWnZ1a0ZOMlJQNF9LQnFlQV9YNFg5ZjFocmI2cjgxdVg4bU9mbldkWlFNYnUzOExPamlYYUdYNzRsdGZVVDg1MGQzUEhXR2cyVnQtVk5EcjZYQWNRU09GNDU0M0ZPVnk5UWNHdVM3ZnBqeUkyT1pBRUFsVkt1c0FMTjRpWmtiWVdPTzdja3U2UlVYRHpLYngweDlEcmVkUUVmTTV0TEJSYmpabHc?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 16:01:54 GMT",
+        "snippet": "Tyson Foods shares climb on signs of improving US beef business&nbsp;&nbsp;Reuters",
+        "source": "Reuters"
+      },
+      {
+        "title": "Stocks dip ahead of Nvidia earnings, Anthropic IPO - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3g3MVMxZ2lSN1ZpTmpaWkdYR25ZdDZ4M3BELXQ3ZC1PZDhtNTVjYmpQdHlJZUFtLWxiUkFLbXhUVHM0OHNScEUyTWFHUU5MMmZYb0EyVW51dXd1OWJFak1NbVFwazhlVzBIcHB3TENzRG1IZ2FvVFlpS0xubFBadXlPYw?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 01:35:00 GMT",
+        "snippet": "Stocks dip ahead of Nvidia earnings, Anthropic IPO&nbsp;&nbsp;Reuters",
+        "source": "Reuters"
+      },
+      {
+        "title": "Oil falls as recovering Middle East exports bolster surplus outlook - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXlabl9ocWtiOEZLcnc2SGNVSEh2bjltWURkWU1RSDVTejZWMEtNYTR4QW9sT19DQy05SVhHVmphTEtIQXdtVzlUS25Vdk1oS0hjdWZ0MHpUb01NQUp4dzlBcE55anIwR0hKVmhCUDRsT3V3ek9jTURVYkcySDNBM1B0RmJ3emdUaHpPVWpENENfZ2JGRHB3MlJuekVfUWlFa2lfUQ?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 02:00:00 GMT",
+        "snippet": "Oil falls as recovering Middle East exports bolster surplus outlook&nbsp;&nbsp;Reuters",
+        "source": "Reuters"
+      },
+      {
+        "title": "Nvidia Fuels Half of Israel\u2019s Growth as Economy Beats Forecasts - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbWpyODU4NXRqQXViUUNld0QtalBPc0thWW83TkRzZm5BZUs2OE5STURLdVRXVWRiazBEc0pMZEREQ2ZIVm5LdjRFVEVhQXp1MDJ2WU9INEIzMFR5N0tLc01GbFBncGJmY3dtVU1ydUxwd0daZW11T1Nhd3NMQUdiRS1LakdDeWxtMjg2WVRyMEZsRG5JakVscEowbmJObHo2bnd0dnhPMjhvb3hNenZubmJYYmM?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 15:07:59 GMT",
+        "snippet": "Nvidia Fuels Half of Israel\u2019s Growth as Economy Beats Forecasts&nbsp;&nbsp;Bloomberg",
+        "source": "Bloomberg"
+      },
+      {
+        "title": "China\u2019s Economy Disappoints With New Stimulus Yet to Kick In - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZjFiTE1FdTd4TV93WnROMERVZXMtQzdSZDRTOTh3cVhocV9Sb1NSRVVGelJYamtpWkwyLWc5WTc2MGRWVUJWckNkVVJTOVBUZTNuN3Jxdl92R1E3dWRySnk3RTAyZ3BlVVI2bGZKbjJKb0U4WkNSS1VJU3dQZ1B2eUJXaUF3TVZaWk4zS0N5RlVVSWRlcXZ4UkZQYl9nQkxrRkFxNF93dm94c0NLWEdCa1d3X2Z2UQ?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 07:31:00 GMT",
+        "snippet": "China\u2019s Economy Disappoints With New Stimulus Yet to Kick In&nbsp;&nbsp;Bloomberg",
+        "source": "Bloomberg"
+      },
+      {
+        "title": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3BQd2lUam5YX1RGekdqV203U1BmRzNUQnlhem10ajRycVpfTUYzRWtOM2h1ZDd5M2tvUnNXeG1VOHRGTEl4VkJsSUhuQk41UlcyNU1EZDJaSTNTd2NvM3lDUDV5NU95SUtxSHZaZEpjSnMxRGgtamUtb0lYWUtHMTFZZDBLblVaeXhVTEhSa2ZPeF9y?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 16:09:51 GMT",
+        "snippet": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap&nbsp;&nbsp;Bloomberg",
+        "source": "Bloomberg"
+      },
+      {
+        "title": "Skipping the Gym? British Bank Analysts Are Paying Attention - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXZKUllWX2I3WFJmY0lfbXRWcVRNdnNVd1hyNVNyWXJDemhsdU1mZGNIYUk2cWJGaUlucFMtd3VmUERHR2NHVUhOeEZPWnlSVk1sWTYwV2hjNlMzOXptc2dpSHpScFAyT0JMT09wdy0yRzhBWHJ3M2pQRUFNOFM1MFhJWmprMFdHMzBJYVczZE9iZ2FwemxTSThlYWVEZlZDeFdUdW50Z0dwdHpWWGpHTHR4THpoUDRjcDByYXBwcC1kdw?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 06:15:00 GMT",
+        "snippet": "Skipping the Gym? British Bank Analysts Are Paying Attention&nbsp;&nbsp;Bloomberg",
+        "source": "Bloomberg"
+      },
+      {
+        "title": "Peru\u2019s Economy Unexpectedly Slows as Mining, Farming Slump - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSVhockkzRFRGOVVORHBoeUJLMXhkUkZ4WFhtWE1DQ2d3enBEZ3dVUm1MNnRaNDNBQWJZOV9ZUGtXVGxyblJsdFR4RkZraDk0aHFWWURZSU5VU2JVZHBTRGQxcTg2NDVHQkQwMW1ScjdCczJfQVVTeXB2U2FGU181ZmJwclMtRVR4Q1htSnJ1QUM1dDAweWctSjlyOHdtcmxucDNHOG45VEdZdzgz?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 16:28:13 GMT",
+        "snippet": "Peru\u2019s Economy Unexpectedly Slows as Mining, Farming Slump&nbsp;&nbsp;Bloomberg",
+        "source": "Bloomberg"
+      },
+      {
+        "title": "Anthropic Holds the Key to the Future of the AI Trade - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU1FzNzR6RDRPLVdrcFBxeTlfLXBUNTNVSGFoQW1sWFRscnIzbXNyLUtIY1RXN29mVGI5WlhsZUp2T3VTdjRLTjNyVFJVdW9wdmpkNzNNVFFmTTNFWkJZNTdPWS1GcFZ0N0xUbUZ2RFF3V3QyUE1keE9PQS11MjBWVFV2RmZqZzdoZC1DeWc1WkdxT19ZeGplTTRmaFMxWEJzeDVSeUtjQTcwQkU?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 10:37:40 GMT",
+        "snippet": "Anthropic Holds the Key to the Future of the AI Trade&nbsp;&nbsp;Bloomberg",
+        "source": "Bloomberg"
+      },
+      {
+        "title": "Jim Cramer's top 10 things to watch in the stock market Monday - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVHZhUS03cHlBclV5R1RvaDNvYkhfSkpGT08xRFZscTRRQXd0b1lud1pWR0dwMjNLc280MmYxOTltZGQ2STRNd2I3c3dPcXR0RjNXYmlQVTRGXzhyczZHYXMteDdrTXhKXzY0TWhzZVltYVlrdWhxMEVGWDRzRGVOd0hwbzcySDZIdUtnc285Y3Z5WTRobmwzUTRmXzU0SUhTcnZkZ1c4VDc3X1dhaHNBMWFB?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 14:11:36 GMT",
+        "snippet": "Jim Cramer's top 10 things to watch in the stock market Monday&nbsp;&nbsp;CNBC",
+        "source": "CNBC"
+      },
+      {
+        "title": "From AI to oil, here are Goldman and Morgan Stanley\u2019s outlooks for 2027 - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOUN0T0ludy11cVJVRDI0MWY0STVHeUtCVjVpYUhxeHVkRjFnVDFaNHloWGJybC12bEw5Z282ZHg4YTBoUXVEdGJYNEZXTk9nYjRSTWx1Q2FONi1vbVBzYUpJclZQdU8ybnV2a241ZXloVnBpeFgtb1BWdVVtZmZhME00VUR2WDZkaDBKM1dPcw?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 10:28:30 GMT",
+        "snippet": "From AI to oil, here are Goldman and Morgan Stanley\u2019s outlooks for 2027&nbsp;&nbsp;CNBC",
+        "source": "CNBC"
+      },
+      {
+        "title": "Trump says Nvidia scandal did not put U.S. national security \u2018at risk,\u2019 defends Lutnick - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONVZuVWJHaTJ6elZWYk81VFhVenZSVVJVa1NHb0lycThIQVBXZFNyNHZpNHVzZnNib28tOGt0XzdOMmotZkxCVXhnNFlrMk9wb09uRTZxdVBkSkNYbDVUcDFWV0M2czFlNmd2MzQ3RGMxdmp4elBTeGY1aGpteVB2TTNKeG9FUUpCaVBwRHAzbmNCUdIBlwFBVV95cUxPeDdvNW94aFJlaVExSzIyR19OWERVUGV2SWdiNUFkWWxQSF80U1VzTU90Z0FVX3BKMDl5LTJKZGRoNDl0MzNNWVdfX2t5R19KV0ZueGh5aU1zQ1FVTDduRXlIVTZLdV9tdFJBcmJ5VVlIbU9PdFVjT2tmaXlDV194NUY3UmF1Y3R4UGhteVdmUWo5eUUtSlBJ?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 14:58:09 GMT",
+        "snippet": "Trump says Nvidia scandal did not put U.S. national security \u2018at risk,\u2019 defends Lutnick&nbsp;&nbsp;CNBC",
+        "source": "CNBC"
+      },
+      {
+        "title": "Nvidia fallout: Commerce cracks down on third-country loophole that allowed China to use computing power - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yWU92TlhWYTJNSmRPc1U1cUhXZEZ0S0VzZnN4elVCdlhGWC1KcVdlaFZueDByekdBRS1sY2VIYng4a3hYS2ZCaFFIcWhxSEpXMGZrc2lnTUJnQ2h0WFlSaDZ2bnhqUmYzTG1BbDhvZmdfSTdm0gF6QVVfeXFMUHFJM25PazZPemswSExvMGFkZDdFSnliWTh3R1VDdElTbkF2d2x2ZlM2UlQ1OU5OOVVvWU91bGREaXNaRW4tamNOLURnTUFIQUJBMVp0TDBkaDdUNENDcnhUOHdZWk9Tdy1MeGlWbjJNZjhHMG5aSndhamc?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 13:47:23 GMT",
+        "snippet": "Nvidia fallout: Commerce cracks down on third-country loophole that allowed China to use computing power&nbsp;&nbsp;CNBC",
+        "source": "CNBC"
+      },
+      {
+        "title": "Nvidia gets two more price target cuts from analysts ahead of earnings - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLXM2WlNzd2l0SW1PN1NVa2prRmI1Q0dhLUIyLXFKZEd1RHNUZ1YwcE1YWmFjZENBMW02dGRsVlk5THd3OE9jcFo4el84dE9xNW9LWWdTT2Q4UVdHR1lySWFqR2ZGTk0xTWtROUlZZlhBeUU5VV9fVUprekljcGxOOEw5X2IyaWV4UFRuZkJmemlJTGlvbFN4bDgyeUFOWE8wUUozMHIwZXZpclk?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 12:36:20 GMT",
+        "snippet": "Nvidia gets two more price target cuts from analysts ahead of earnings&nbsp;&nbsp;CNBC",
+        "source": "CNBC"
+      },
+      {
+        "title": "Warren Buffett donates $5.5 billion, says kindness 'compounds' in Thanksgiving letter - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX1RLMWxyMUxTODVHTDFZSlZhSlA3Y0ZCN1lRRTQyOTNGeEo2UjVjcWtJSVVRMmtEVlBUckpsQkVFT19qNGk1b3dPVmI5bi0wRTE2bGVUNjV1RDdWakZCMm9IOGtvR2F1c3hrLWlxSVNPbThJbTNpMjZhTEJ5QjJGR3lvNEcwenJSVUVPNl9FMVZTZ9IBlwFBVV95cUxQdWNWQnFPQ0JJMmduc0YyRjM3TTBpT09QSjJEYUdoNWpPaFJGLUF3TkN0U25hU29uZHFhd0QtMy0ydThhdFNXMkk4VHNDdWFfZHJhN1NxU2xiM1pvVVpJY3VzYzd6WjlhQ3dROVZkUVRJZHBvLXZkaHZtbU5PSzF6TFFYalVjSU44VGtCMmZma1NUdG13dS1R?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 12:05:30 GMT",
+        "snippet": "Warren Buffett donates $5.5 billion, says kindness 'compounds' in Thanksgiving letter&nbsp;&nbsp;CNBC",
+        "source": "CNBC"
+      },
+      {
+        "title": "Japan\u2019s economy contracts for the first time in a year - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1lPOXRFWUhnTmhxMFpXNGxVeWhIX1pKbjRFZmlRVXNOSWtnMTMxNDZyMVBrVmxIaWpBVTJqanQ4V1NhZVdsRFZobDluWkRINmFHUk43djFDVHAwSUxSM3QtZ0oxUExEUzdnaXNxSUJHS3RhSFlRUFlTZUZSZW51cTU3OV8?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 05:02:17 GMT",
+        "snippet": "Japan\u2019s economy contracts for the first time in a year&nbsp;&nbsp;Financial Times",
+        "source": "FT"
+      },
+      {
+        "title": "China\u2019s economic activity slows more than expected in October - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdUh5THNud2ZrVGJuYTd2YXRlaEVFclZiU0JYQVBJM0ZCbThIdUdUM1d2eElJZXBhRXBBdFNRdHdkb1l0QTdRQWtuNE45dVJYNjB6dnZZUnJkTFBab3Y0UUstRVl1MVFobENIeWxmWlBOM0s0WEFtZy1XVWhuU3gtSk9walM?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 02:41:45 GMT",
+        "snippet": "China\u2019s economic activity slows more than expected in October&nbsp;&nbsp;Financial Times",
+        "source": "FT"
+      },
+      {
+        "title": "European banks\u2019 risk transfer boom raises exposure to \u2018forced deleveraging\u2019 - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMUZwY1BsOS1BZ3JBZER6aV9qdGlCRy1jY28xN1BUQ1dwTWpnSU9HdGlzU2hGQjhSNldobTV3OEg2X2ozMUJkSTViV1RkOWhYNF9Ud2lDaS1PQzVGQXZUUDAtd3kyZFZXeUd4eC1ZdW1iM2I4cGJGQVJtdnZYUXRFVDNhNFQ?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 08:44:44 GMT",
+        "snippet": "European banks\u2019 risk transfer boom raises exposure to \u2018forced deleveraging\u2019&nbsp;&nbsp;Financial Times",
+        "source": "FT"
+      },
+      {
+        "title": "Best books of 2026: Economics - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmhjUEY1QnBZTlJRQUZLVFBsVnNIdzBaRlhJVmo0SzFBejdkX0Z3Rk5La0FHSm9FbXlLeW8zaldBVTNyQW5VSklUdWg4amRlaTZHQWljdjBNaWRHZjlCMWViQm1fdVdmaW1QdXJSam1JUG91Uy1icWpZYjJNUERuR2dEMEw?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 05:02:17 GMT",
+        "snippet": "Best books of 2026: Economics&nbsp;&nbsp;Financial Times",
+        "source": "FT"
+      },
+      {
+        "title": "Anthropic\u2019s IPO is the next big test for AI - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOelhLb2QtNy1faTdqOEwwQVNzSk5IX25mc0VOQjQzVTdPc3pZdUMyOE9EWkxVd1pJX0huTDZMMTBNR0ZLV0E2WHVkb1Vuam1vMjJ3TUptVGloS2VhWFlmYW1ITGJvVjJpNzNCdkYyQ3hTdXIzUlhaUElJN01UQzVWc2NfSjE?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 11:40:44 GMT",
+        "snippet": "Anthropic\u2019s IPO is the next big test for AI&nbsp;&nbsp;Financial Times",
+        "source": "FT"
+      },
+      {
+        "title": "Biggest IPOs this year lose investors money as AI frenzy fades - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQckgwU2t6YXJ0aXBGWVp2TEFXUkhNOVpJWTgtX1Q0V0N3S1d2R0JYSnd1ZWMwcm4tSlNaaTRvN3BRaVpzOVhmY19iaEhPdEtEQ1FlTmY4bHBuclFjU1lRbTNnTXdYQ2Y3RFBEWTlOUm13MG9xTTloN3p3NFJubWR1QUlWWXA?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 05:01:11 GMT",
+        "snippet": "Biggest IPOs this year lose investors money as AI frenzy fades&nbsp;&nbsp;Financial Times",
+        "source": "FT"
+      }
+    ],
+    "tech": [
+      {
+        "title": "US to curb China's access to AI chips as Trump heads to Asia - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFRscFU2Tnd4dkpNWURqN2NDcEg1eHBNUW9VTTd5YkRBNlA2eVJkV0xsWHpqNExCek4xTUY0VlU5TjJYM1ZJaWE3YkVNZndhUE5CamYyZlh3WGhRUHhUVzhDRW1IUkVTXzBBQ1hXMTkzM0tiNF9DZGpZcUlTb0xQOFBsVEM1VDhnV0taSlpYYTNsQUpyMnlKQzNSenU3alBia0ZJR1QyQ2hSX3g5bG1yX3d3dTBublY1?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 14:41:09 GMT",
+        "snippet": "US to curb China's access to AI chips as Trump heads to Asia&nbsp;&nbsp;Reuters",
+        "source": "Reuters Tech"
+      },
+      {
+        "title": "Nvidia's AI financing machine may survive Huang, but with less risk appetite - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd2JkdDdXVFVDWWplOU5DRUtSZ0tQS25DanRfRl92ZUU5WVNDQnBwUUhhM3RRdDRSdEdISTNwa002U05EdkRlSlFXNE1PZ1RSVElZUjU5ZnRvT2RqQjZjaVRidXJRQ2dtb3FuRG9GQ0hrMm1ialRwSkN3U0VLTkZoNUhpUTYwakJUUUlOR0FMWWVMdUI0MUlkdVdYdUZOYzc5YVNtYk5wMjlHYlRKaG1RUWNOMGtnM1dCZEJpUEw4cThSc1Js?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 15:24:05 GMT",
+        "snippet": "Nvidia's AI financing machine may survive Huang, but with less risk appetite&nbsp;&nbsp;Reuters",
+        "source": "Reuters Tech"
+      },
+      {
+        "title": "Senator accuses US Commerce Department of failing to stem flow of AI chips to China - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcHNHRklwUzFDcEI3SGJYeUxvRlloS25SR2VfUHd3ZldiQUdldUlsQ1JUOUdXWW1QU1FOanlHSGxza3Zqa04yNGQ3clFqcVcxMGkxdWM4cjI2aDE0ZTFKWmdBeWx1NV9QajF1NlhHUjhieUszTHdvZE5kMjBMa3lOTTFmWDF4Mlg5cURTTVh0X1BpRlVxbUpLbHV6T3hzU1FRNFNHVFpHNWlEZ1lkMjRDREFMbkdsRk9nS005Rk1vbmZodw?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 10:31:40 GMT",
+        "snippet": "Senator accuses US Commerce Department of failing to stem flow of AI chips to China&nbsp;&nbsp;Reuters",
+        "source": "Reuters Tech"
+      },
+      {
+        "title": "US, allies team up to protect AI tech and infrastructure amid China rivalry - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQME9ldVY0V0JLTVYyLTZZcXZlVmZwNnNlcWw5MHYwa0F4VUdRbGFueXVXX29SaXdiWTR4LWpfbDY5dV9sclVXNHBhakdiMUlBeWc5S1M0dmZTMW5IcmYwV2REZ1hUYnhyWFJDT2t5dkFuRlh6Q3RMYUxfVFh2X3JCR3VxMENuYzdMMWxFZzFSOV80OC10ZFNyMldjR1dyOTNOYlY5Y3JyTDJRSEV4anRmaHFidnJ0dw?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 09:04:16 GMT",
+        "snippet": "US, allies team up to protect AI tech and infrastructure amid China rivalry&nbsp;&nbsp;Reuters",
+        "source": "Reuters Tech"
+      },
+      {
+        "title": "Papa John's turns to AI to check pizzas from customers' photos - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZDZ6bDUtUllZZ3NDMkZuWTlEYXpvdlM2dXVaN05Bal92WV9zR000cXpHQ0JueURPcG01OFZnUFdOYzNYMEFpbUl2ZlN4Z1RzaW9hZEx1MFJPQ042eGhMUWRWd0NfaThqbmtBT0lmdkg5T001d2JnNXY4TFRQR043aHpYYzBFS282TGNUYkhJc1dSWnlwcE9jTGRR?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 11:05:44 GMT",
+        "snippet": "Papa John's turns to AI to check pizzas from customers' photos&nbsp;&nbsp;Reuters",
+        "source": "Reuters Tech"
+      },
+      {
+        "title": "Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYkh0ckZncVlZLW10eldobVVJNEs3SHAwbGNnakh3bExOZ2t6SEtpNjloRHZndS13UTBFUXZMUVA4RGZCZE9DTUVxRWJBMmxRdndNX1Y3YXJ3NWMwUm5JQXlkdEFxMEZJcVhmaUZtd0tGTk4yRFBKOWtjT2pJaXQyX1JxZi1Sd2FTS0VWS3A0bDFmdk1RQTE3MnptQTVIa1o1UUFiRXExaFNETEtLcV9OV0dzWTBUcV9DNmptN1lEREgxd0dZLWdV?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 12:15:34 GMT",
+        "snippet": "Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps&nbsp;&nbsp;Reuters",
+        "source": "Reuters Tech"
+      },
+      {
+        "title": "Alibaba Unveils New Flagship AI Model in Riposte to US Rivals - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON1VKTHI4cWNWNG10TkNPUDNKb0tLQXlxMmJ1aHE2d0twMW5Gb3NfREZMZmRhcnlMeFpHWVBfU0xoYnJ2TW1KTXRLbWxHOW5hWVZITUlRUW1OTlcxVENtM2t2aXRQZV9VR0tnVkVJU0podW1wLWRiVUJXLWQ0UWtGYTBkTGthd1o5YzQyOGJyR3lWSUtaWlRXblZZUVVIUnFfSkYxcEh4ckFaM3FqVi02amp3?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 02:00:00 GMT",
+        "snippet": "Alibaba Unveils New Flagship AI Model in Riposte to US Rivals&nbsp;&nbsp;Bloomberg",
+        "source": "Bloomberg Tech"
+      },
+      {
+        "title": "SK Hynix Plans Chip Testing Hub to Boost Smaller Korean Players - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNGpvY3ZSMGZRMk5qWHE2Z2xOQlJIZHdYem03RVJVYm1FMGZFbVhESnpET0tfbVoyeDdmNFZSNXl2d2lQSExTcVQ4QTBBM0hmel9FTEU4MHVkZmxzaTJaNk5KR3RHNUdSS2NJclliSmFkeWhGSG5HMTA4bUNaV2FWN0lWNGVZOUN1S1JkdVNMVEtNOEpOaVNUaHhTdlAxLXJSSVh1Yy05QzN3YzNNUkVPSzFaLXg?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 00:00:00 GMT",
+        "snippet": "SK Hynix Plans Chip Testing Hub to Boost Smaller Korean Players&nbsp;&nbsp;Bloomberg",
+        "source": "Bloomberg Tech"
+      },
+      {
+        "title": "Kakao Prepares for Historic Split of Internet Empire in AI Chase - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZXVFbHh4RDN4dnZ5czN1YzIta18tUFRsTzFfZW1FakVMRzNVN01BcU5JeVhkOVEtSzF5dHAtUEFPSGR5dTg4aGFMUlotOVR5THphRUZFTUxrYXlfcWxweThkWlptazF3TGcyQmFwcWo5VUoxQk5aUEJ1RXVEY09pd184c1puRDR2UWtHelNMWlpQYWJ0WFgtQVdNbGRPZjJHZE1qRWFZN09SaGpIV0dQNW11cVM0QQ?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 01:10:00 GMT",
+        "snippet": "Kakao Prepares for Historic Split of Internet Empire in AI Chase&nbsp;&nbsp;Bloomberg",
+        "source": "Bloomberg Tech"
+      },
+      {
+        "title": "India to Benefit From Unwinding of AI Trade, Top Official Says - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjI3SndwMUVoNGFwY0gwR1hVSE1QS0JWU0FEeC1uZnBzUlYwLXZNaklHVXYwelpwOTNMaG9UcEQyWWJzbnlPOWtPMTRQZV9QOUpvQmRDaHFjY2pxYzI2ZWhvMmpsSWxPTm5kcmVNa3dtZHJrdU1Yd0JvLXRDNnJrdkRLT0FuSGFGN2xrRUM5c0FtcWFkOWdqcXhxUU4xVkplTUxKdGo1ekttLTFpaHJXQ1pB?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 04:32:00 GMT",
+        "snippet": "India to Benefit From Unwinding of AI Trade, Top Official Says&nbsp;&nbsp;Bloomberg",
+        "source": "Bloomberg Tech"
+      },
+      {
+        "title": "US, Allies Agree to Guard AI Supply Chains From China, FT Says - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWdZazV1cGI2aFI0Ymdpb2hhRTU1Z3FjZ1hTdkZWVlRzT0Y4RzZnZXMzSXdPS2VEaFp4NGg2STQxdzhxQ2tGN1AxZzJQc3BkUjE4RnVoenRnM3dwN2t5TzV1dVpyUjAyd254NU1kM1ZSTTdoZkVnU3V3dUJxSE1LVFBiQWxWQzFkSHNIanRhQVRlU3ExV3MzYnpEeVhlZUZjbkRBZ1o4bVQ1YnlsdVl4TA?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 20:16:10 GMT",
+        "snippet": "US, Allies Agree to Guard AI Supply Chains From China, FT Says&nbsp;&nbsp;Bloomberg",
+        "source": "Bloomberg Tech"
+      },
+      {
+        "title": "US Moves to Curb Remote Access to Nvidia\u2019s Advanced AI Chips - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3diZGZDaW14MTdtajJNSTFnMXF3MWtpODZRZDN3UVVRZXBwQllnQXFRRUFYbTAzQmJkLW1qTDAzZDhyYW54UjdBVjFrZVRzV3JiTVRTdmlybkVtRnZVSWlMTnFvYVp3dkFGeWhUVFdrUE1Na3E0WTVuekRuSm5jN1A2aDBnb1NjYXRhYmJfdjlBQWY1X093Q1hHTDM4ZzNhdlYwNVRn?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 14:45:42 GMT",
+        "snippet": "US Moves to Curb Remote Access to Nvidia\u2019s Advanced AI Chips&nbsp;&nbsp;Bloomberg",
+        "source": "Bloomberg Tech"
+      },
+      {
+        "title": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ldVNDZVFSVmJ6dW1CSnZPQlJwZlhwVWNUTmhCMG9zNDFtTXFrcDBMOFA2ZkhOT0MySTFzbWdqYzhkajhNdHRPWlBTQ2J2MWRBekpUa0tSX0d6bHpnM3QzVG9oVzgxT0lMX1Vxc240cWcwbkhOd2fSAXtBVV95cUxQYzFJYk80R1pCSk5OZ0tnc2lEb2VSenNhcTN0OTNrRGs4LU5wcUdCNS1PVjZkQXc2UzhjXzltM09BdXF4T2Y4VDFZcUZUSW4zNjFORW1JMWNEYVRFM25LZC1yQVhpYmllQkVJWEVTdGpJMTY0cjFpZGhnR3M?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 10:00:01 GMT",
+        "snippet": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting&nbsp;&nbsp;CNBC",
+        "source": "CNBC Tech"
+      },
+      {
+        "title": "\u2018Standing on one leg\u2019: IMF chief warns about global economy as AI circular financing hits $1 trillion - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2Y4OFJIb3ZGWnNHQmZicjBxSlV3cmRoVmppVm01OXJFM2FrUFltdjR5bkVpRjkyRVdQUE5WcXRQdFViSnh2VWFLbm83YlM4ck1NRWFIc2R2bE9WZjQ4bzBGVll0MG8ySXdwSnRLTE4ta21yVWYwTGJOYmdfNFhtVU5fRnNWbWvSAYwBQVVfeXFMTVJ3aHB1VkxySHItTS1FeWJjbWE1VmlQWElKb0xjRDJBbzFnX0UtTk1PV1JKVklpdVpsU2Q0SHd6XzJwYTVMVWw5bExaMk41V2JFcjZQeVowdWh3Q254QjRwb2lacmxMeGRLc04wcnpYenlmODJhTGt5Z3c3OUpUcW5fOGRQRjY1VnNILWE?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 09:10:14 GMT",
+        "snippet": "\u2018Standing on one leg\u2019: IMF chief warns about global economy as AI circular financing hits $1 trillion&nbsp;&nbsp;CNBC",
+        "source": "CNBC Tech"
+      },
+      {
+        "title": "AI is reshaping banking jobs \u2013 but its ability to drive profits remains unclear - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHZIa09iVmpJVUxUeDNFV0hybmJBTmhQcHVzSmIxUk1QWXptVUUydG15TURacjltYlRnX1lqTTNZeDlpU3BYN3VHTVRNSURVaWpIQndaNjMtTUNaWTJtZmpFQ0ZibE9LVEdsVUNJb1lPckJsNXJkU0tGeHdlSUY5S1dXMzhzV1gxcFVqa0JCcXrSAZYBQVVfeXFMT0ZhUU5Ld3hwdUtKUnFWQ0dTNzBkazZnOXhsZzFtY2dXNDV4blVIOWpuakY0NkxFOUl4aDd4RmhVUzg2NnpGY1dVTTZEZ2U1R0UweFdVRF9wQW1tM0IyWVlOUkFpNkVEVFJvX0hfOXlycm9hOWZhR2FiRDJHRnVQa2loUTJja2lhd2lLNXBldnJycHNuUEdB?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 06:20:55 GMT",
+        "snippet": "AI is reshaping banking jobs \u2013 but its ability to drive profits remains unclear&nbsp;&nbsp;CNBC",
+        "source": "CNBC Tech"
+      },
+      {
+        "title": "From AI to oil, here are Goldman and Morgan Stanley\u2019s outlooks for 2027 - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOUN0T0ludy11cVJVRDI0MWY0STVHeUtCVjVpYUhxeHVkRjFnVDFaNHloWGJybC12bEw5Z282ZHg4YTBoUXVEdGJYNEZXTk9nYjRSTWx1Q2FONi1vbVBzYUpJclZQdU8ybnV2a241ZXloVnBpeFgtb1BWdVVtZmZhME00VUR2WDZkaDBKM1dPcw?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 10:28:30 GMT",
+        "snippet": "From AI to oil, here are Goldman and Morgan Stanley\u2019s outlooks for 2027&nbsp;&nbsp;CNBC",
+        "source": "CNBC Tech"
+      },
+      {
+        "title": "The tech world's calls for Jensen Huang to return to Nvidia are growing - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zZGg4VnlWUVpIeXZqdVlBSnRlcHVKbkV0bHhhdlAyYXRXM2pGZ0tTazdBSDVTdjg2bDJVWHFUTW1sNGplSGc0am1CUWNacFlVRDhSaEdSZUY5Tnk3U3JqUG5zV0hEVDI5VTRscXZ1dmV3aGF3azhV0gF8QVVfeXFMTTNNam1SSml6UmxyVDB6T2IyQU93Y2lQbjlRb3ZMQVlqSXllSnQxNzR1QmNSTEo2aTZjUjRKS1lLMTltRTAzZHlOLWpRWGUwS0NxakR2STYzbXh3UTItbDU0X042Y2NMeUFuSlU4bm1PS1VLdHJfZ0dtYXI0Yg?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 01:50:00 GMT",
+        "snippet": "The tech world's calls for Jensen Huang to return to Nvidia are growing&nbsp;&nbsp;CNBC",
+        "source": "CNBC Tech"
+      },
+      {
+        "title": "I've owned this stock for a decade. AI slowdown fears gave me an opportunity to buy more - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KNlBEQk50RjhrMmswTUltREEzSlk3d0VKdjJiM0REUndNejB3dTI5UW1jTU5wUXBDUXlzWFZucU9KTUU3MThXaW9fNmVDa3UxeXMyNWk0ZDN3TE1pLVJKaFNBc0dRcVR0cU5tcjNQTkI1ckpP?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 23:11:26 GMT",
+        "snippet": "I've owned this stock for a decade. AI slowdown fears gave me an opportunity to buy more&nbsp;&nbsp;CNBC",
+        "source": "CNBC Tech"
+      },
+      {
+        "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama - The Verge",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OVjFWZVhXd3ZmZ0ExMEpBS2FJenNSVFJTNTVoVEVMMDhGeGJhWW5aRDVsYjFOb3FId29LWktoMktYYkhCWHBiNGRfanVFQWozN2JnS25lcWY3OU1BMWs5WUZvbFpZWndNV1V2SzFGbU0xaHh5VU4xNXFlbjIzck0?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 20:43:49 GMT",
+        "snippet": "Jensen Huang might be plotting a return and more of the latest Nvidia drama&nbsp;&nbsp;The Verge",
+        "source": "The Verge"
+      },
+      {
+        "title": "Apple\u2019s new study looks to improve the effectiveness of AI health tools - The Verge",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVnkxVDhKR1dTaFpDNllSTVV3M1huNjE2VktOUXNYNUNBMkhUWFBjZWd6aUE0Y1RWWlJhTW83WGh6TjFrNWI5dVpDU2R5TE9FclBORjZ6cnZYSXZ3U2ZwQzdjZjZ4cjI2T21nNzdzeGN2X0o5VGlNTmxPc1g2YklRbzNDZUI5THVEVmUwQWNrcmJvbHl5M2ZnV0F2bnZIWWp1M0hiVXZVQXpGa2VH?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 01:26:00 GMT",
+        "snippet": "Apple\u2019s new study looks to improve the effectiveness of AI health tools&nbsp;&nbsp;The Verge",
+        "source": "The Verge"
+      },
+      {
+        "title": "Magic: The Gathering is getting a Netflix animated series. For real this time. - The Verge",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXFDZURqTDV3ZDcwTHpUV2NJYVBTVzRwSGhkMFVnUHl2MmRMODFlRXZ0YnlldF9sSjFUY1dpaWkwRnI3Z1o2aVA2dm90aDA3TE5UUXhrdWJfc3J5T3I1NUYzWkxvaWZhQ2kzbjNHbFhzUU11cWQ2OUVyZjVfX01vc0tVaWxiM0Nl?oc=5",
+        "pubDate": "Sat, 14 Nov 2026 19:47:40 GMT",
+        "snippet": "Magic: The Gathering is getting a Netflix animated series. For real this time.&nbsp;&nbsp;The Verge",
+        "source": "The Verge"
+      },
+      {
+        "title": "The Sony Aibo was a robot revolution dressed like a dog - The Verge",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWXp0dW9mS29oNUs1YWtFNENFUU12OERIQk9LOXZMR21ITFBNNEZtdXRoWm85dlRjYmJ1WExhNnVZeG8xQ3lBSTFsRE55aU1sZTVaVkVvd2NOZFFvWUZnZ0FicU1SWUVmNWUwOURubW9iLU1kT2FNRmFiOXNQUWllRlJR?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 13:57:30 GMT",
+        "snippet": "The Sony Aibo was a robot revolution dressed like a dog&nbsp;&nbsp;The Verge",
+        "source": "The Verge"
+      },
+      {
+        "title": "Work to replace old copper wire led to the FAA\u2019s ground stop - The Verge",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTGFqeE1BTkxFX2V4VF9JN2JiQ0dNaDg1UVZCSE02aHcyTk13V0hrTjJzbUdITE5weHNDLXNBc1NDNTJPQWNvUGJ0dUxESDdlczBiSGJTRjhmcU1kTzVTSExLOW5ydFgyaERPT0M4NE43UkhwbDkxUC1ad2VTNUtrb0FwWEw5Q3Q5OVNNZWhHT1RUaVha?oc=5",
+        "pubDate": "Sat, 14 Nov 2026 17:44:28 GMT",
+        "snippet": "Work to replace old copper wire led to the FAA\u2019s ground stop&nbsp;&nbsp;The Verge",
+        "source": "The Verge"
+      },
+      {
+        "title": "Microsoft is bringing back the original Xbox bootup animation. - The Verge",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXpKVGpJTWlVOVhPRWRoenZ1OVJkUkNZS01WdUJxV25FSmFhN25RSHhXZjMwZGxMeFB2ZW00UFlDTGQ1c0EtSnpPTC02TVQ4blJMZHdFbUFqeGlkeFpsMmpmMnJ2LXMxMTFzaWpxb2NkUG05b3NLWjBHQWx6TlpxbGllbko3emktNDNQZWRYYnhpWS1GVXhPRUhodUVlaGxLdHc?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 19:21:47 GMT",
+        "snippet": "Microsoft is bringing back the original Xbox bootup animation.&nbsp;&nbsp;The Verge",
+        "source": "The Verge"
+      }
+    ],
+    "banks": [
+      {
+        "title": "EXCLUSIVE: Italian court places Revolut unit under supervision over money-laundering - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSU8ybmo1bVRKX3BseGRZODRWaUNpNm9kMlI4cDlydXhCbmU2SjBibjM1cVJpRmFxM3FvazZBRm5qMXd3REdGM0l3dU9Pd1hTeUlISnA3Z19IWTRiZHgxZGtVN3MwRE1yN09NZ0JUOXVXQ2NDNDZyMFg2TEYyZS1FU2hQVkJnV0M5UWZhZ2JjQVhiWVNuX1R6WnhnaElGdUFJSHowTmJpMTlwU3VVZGJ6V0JZTmd6LXFEOC1NNjU2WUtfZ0hk?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 10:42:22 GMT",
+        "snippet": "EXCLUSIVE: Italian court places Revolut unit under supervision over money-laundering&nbsp;&nbsp;Reuters",
+        "source": "Reuters Banks"
+      },
+      {
+        "title": "UniCredit wins EU and US approval for Commerzbank acquisition - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdUw2SG5ZR1g0ZTJkTU5RUlBsaHlHS3NoSFJEMWVweWQ4eXY2N19JVEF2Q2loSDVjdTRNSW9sQjE0OUtfVWM4bzdQOWNRWnVidXRRTlNLX0NrQjJaWld1b1ptT1N0dEg4YnhDSTRxejh0RTQ4R1dOZ0FPUFNJTGxUU2kzWmRkdzl1YzA0RU9UUEgtQkFQRm5vQ2JPSnJkSDh6NVdKdFdn?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 11:53:52 GMT",
+        "snippet": "UniCredit wins EU and US approval for Commerzbank acquisition&nbsp;&nbsp;Reuters",
+        "source": "Reuters Banks"
+      },
+      {
+        "title": "Hawkish BOJ policymaker Takata calls for swift hike in rates to 'good' position - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXYydzdHVVhRTmFVV1ZhQ2pQSzN4SDFXTFVMMHpWeTlNWS1OZlNPRFhkVmhVS3kyZktET0pKampiajdMbG9RRUFBMFphTDRvRmJYVC1YY0lyUHhfNFlyQWVFQ1pBTlh2akFSNW5TY3FzZkZkeFdMUzk2NG0tdEV1dDRUaUtjWmhPWHNReTY5Vk1CdnlxNW93RW9ISHlVbnA5NmlGSjhR?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 04:29:00 GMT",
+        "snippet": "Hawkish BOJ policymaker Takata calls for swift hike in rates to 'good' position&nbsp;&nbsp;Reuters",
+        "source": "Reuters Banks"
+      },
+      {
+        "title": "Outsourcing is a bigger risk than scams for euro zone banks, ECB says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcWlIZXQ0YmV0OFJMYUhvQ1dHNy15eklRWXU3U25CRFpnS3M3eGNGcVlQOVFQaDJVWGlZT2YtVDd0VXpWcGV6aldQWEtNLW1PZVhlRjBlUThtQTVzWWhBV1NBSTRHZWxyZ2U3dU10R09QTTJNZUFDellQaWl6QldPNFpQUUFQWHFLNUxnc1FfOFE0RXBoSGFTazA3VWN0eDFWMUktRE9yUTRhaVlPb2lWbEtNalVDZw?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 09:47:43 GMT",
+        "snippet": "Outsourcing is a bigger risk than scams for euro zone banks, ECB says&nbsp;&nbsp;Reuters",
+        "source": "Reuters Banks"
+      },
+      {
+        "title": "What court administration entails for Revolut - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZGpLUlRKTU5ubFlqd1pXNE9yYnZCV1RsMlBxTHFZRzd1ZXdHem1XMDlLb3FpLUZtSk02ckJNRzBGZ2hXRmRXMS1zbUtHcVZvXzAxU241QkU1bnF5dmFFZFpyWFVoLUNuOXlPNTdjQkZhZzBxelZwUzZSMTlwa0tZV2FDZkJraFIxQ0IyQ0lNb2NmZjIwbUdLV3h3TXk?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 10:09:32 GMT",
+        "snippet": "What court administration entails for Revolut&nbsp;&nbsp;Reuters",
+        "source": "Reuters Banks"
+      },
+      {
+        "title": "Gulf bourses slide as Hormuz tensions and houthi strikes rattle traders - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ1U5SnRYV0N6dE01QU1sOFNRWHR0WndCRG05bDl3UEhURE1jR01ZZ2p4dmFpb1llajB6QzdpRmp3WUZYSkhRRmhHT0tKY2hfWjN1b0U3UzJuUkZ3N3ZpWlU1Sk1pOWJvZ3cxcVVRVmhycW9ON2R1Um5nR3ZSQUtzTHE5aHlMb28wM2xyMzQtdnZHNUFfMWR4ZVZwN2pfc2RmcTRMTEtfY0NHbEh0dUo4N0g5UHNGTGJ3c1E?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 13:31:43 GMT",
+        "snippet": "Gulf bourses slide as Hormuz tensions and houthi strikes rattle traders&nbsp;&nbsp;Reuters",
+        "source": "Reuters Banks"
+      },
+      {
+        "title": "Deutsche Bank Takes Aim at US With Traders Set for Record Year - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZnhsTElxLVZYTW11eUMwakJWdmZXb1lMa2gtVlpsSWx4RXZ3UTN4cmJXbzJ0X0NTa3pVYi01MlRmM084WEJGTmlDUnZxMnhrMmt3eGZhLUZKN0ZUR0VpQVdrV0l3RkRYQlRxUlYydU5XYms5anFjY3lLaGF2S1ZqT28xX3MxYlRqUEJGY0Ytbk50U0FSTDlFbW1SLU5xYndhd0lVZkRBYUlROFU4UlZoWTdqRVZhdFk?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 05:00:00 GMT",
+        "snippet": "Deutsche Bank Takes Aim at US With Traders Set for Record Year&nbsp;&nbsp;Bloomberg",
+        "source": "Bloomberg Banks"
+      },
+      {
+        "title": "Watch Inside India\u2019s $130 Billion Wedding Economy - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRy1vckp3elc1VlNZUnNQdTAzSC1Cd3FQTl9VLTd5NDVsZnZYdW1Pa1U4X1p3M1BCRXhlVXBuVXR5dHpUNU51bmZQc1lDTHQyZjI0V3pza2FZTjVmNzN0dHpBYldLYmpLdzRGWUFuOVZQclctQk85M0RCUUZVdFE2aG5kM2h3ZllkWE9VMjlkR0xvOTdlS2l5d1lGMWxxdw?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 15:08:16 GMT",
+        "snippet": "Watch Inside India\u2019s $130 Billion Wedding Economy&nbsp;&nbsp;Bloomberg",
+        "source": "Bloomberg Banks"
+      },
+      {
+        "title": "Anthropic Is About to Become the World\u2019s Most Important AI Stock - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0FXWUttSDRhNUNacC1GM0hiUWtnSVRoamZreG5QRkFqNlZVTHdSUjNNeHNCNmhGWWZBcGxiaTBIcDhvSDZxNExuclFYRlBJTXFuRXdjd2xzNkdpZ2RkblFZYlFNNnBkcHdfU0VRQXhvaWNaamU2SUNNdDNCVTctZnB5cUZiVmFuXy1aWFNqRWlXQ3pZSl9NcGQ1MFFnWEZBTHdaZE9GNGI5cEJSaG1pQkhGNA?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 19:00:20 GMT",
+        "snippet": "Anthropic Is About to Become the World\u2019s Most Important AI Stock&nbsp;&nbsp;Bloomberg",
+        "source": "Bloomberg Banks"
+      },
+      {
+        "title": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3BQd2lUam5YX1RGekdqV203U1BmRzNUQnlhem10ajRycVpfTUYzRWtOM2h1ZDd5M2tvUnNXeG1VOHRGTEl4VkJsSUhuQk41UlcyNU1EZDJaSTNTd2NvM3lDUDV5NU95SUtxSHZaZEpjSnMxRGgtamUtb0lYWUtHMTFZZDBLblVaeXhVTEhSa2ZPeF9y?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 16:09:51 GMT",
+        "snippet": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap&nbsp;&nbsp;Bloomberg",
+        "source": "Bloomberg Banks"
+      },
+      {
+        "title": "Jensen Huang Returning to Nvidia Would Ruin a Very Good Thing - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSEFwNHphSW9lRHFwbUxxOTRqamhIVmN6REZnWFlIaXZtS20yWXJuZG5kOVJFUHBhUHNWemczT1hOQW5LanZxNE9hR3JEaTN0ZERKOWlfOUlWaU1wUV9SQkFOZmtRQzVGdnFWMmpjWGdseDdjMTBTelkyVU1PallhaDlzSzFfVFhiSTdIcnhrSzdXSjRlQnZiOEpTYzhFSjR2SWg4WFhiTDJrODdFREI5MVhKTQ?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 08:45:12 GMT",
+        "snippet": "Jensen Huang Returning to Nvidia Would Ruin a Very Good Thing&nbsp;&nbsp;Bloomberg",
+        "source": "Bloomberg Banks"
+      },
+      {
+        "title": "AI Will Have to Destroy the Global Village to Save It - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdUZid2hyV0NvS2U3eTlSeVpsNVRVblVQRUMzdUZXSlBkVjdTQ19OS3phMWpvNmo4VlU1OU5JeTRHdjM3Sk8wdEgzbE1iVC1ZVGJxc2trUWExYzBLbXpkcnVlZVEwUEdzci11Mm5lSGt6V2VOSUtkd2VBbTVaV2EwcUxzUC1LQnp2YTB1cVJTSWd5TFExcy1wS2ttMDVqNkJEMXg0WTFZa2xhU2c?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 11:00:07 GMT",
+        "snippet": "AI Will Have to Destroy the Global Village to Save It&nbsp;&nbsp;Bloomberg",
+        "source": "Bloomberg Banks"
+      },
+      {
+        "title": "Morgan Stanley is out with its 2027 outlook for equities. Here\u2019s what the bank expects - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vWTItVzlxaVp1YlJiNHU1bXBqa3hTM1Ywdl9FN0ZZY0x6eDBCRkJoaE5JaGVIamtJeUtxMXYyMlR3UV9TQ2dGSHA3SmdWVW5kZVQ0cFJfbzMwU2JCQzZaQ0ZzUDJZSFVyb1hBMkhKSW96N0ZiMGVsRU1B?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 14:25:21 GMT",
+        "snippet": "Morgan Stanley is out with its 2027 outlook for equities. Here\u2019s what the bank expects&nbsp;&nbsp;CNBC",
+        "source": "CNBC Finance"
+      },
+      {
+        "title": "Bessent calls for \u2018dramatic shakeup\u2019 at Nvidia, urges outside CEO - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2V3FTYlVUQ2VXQjBsaE1rbGpaU0FsM2RJN2FydGM4VHJsSU43eDR0SUMxNFhXZGtfZ2M2cDFWa2xLakZIellLQWNlaHpNazBCamhVeG14T25tREVFZG1ST3ExMHJma2l4Z3RCWktVbFBXRXduZlFFdHJsaXIxd9IBgwFBVV95cUxPeGkzNkNkWTB4ZkUzekc2SVFfVUlfQ0lFQTFtcWNMS05oaTA1dWhadV80YVZjNzJYLWhsT083bjFSZGNPdjEwU0JMeUZHVWdQS0ZmWTJOYm1hNU1qOVRtRnI5ZjJ1ZjgwV29ZTVhmNzVsMFZfUExiazhQeUltenVvU2tzYw?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 16:49:11 GMT",
+        "snippet": "Bessent calls for \u2018dramatic shakeup\u2019 at Nvidia, urges outside CEO&nbsp;&nbsp;CNBC",
+        "source": "CNBC Finance"
+      },
+      {
+        "title": "Jensen Huang's return would boost Nvidia stock: Analyst - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YVmNCcHJNeHNXTHlTWHdISWx1YXYxMXRwTFV6UzF6RWV3eHZ4dEZmRnBWQjAtMVNWMThXbzJQeDVTeFlJU1ZMS2taYURVZUlyYVRfRUJ2b05mVHZwS0staTBneXgteE1XLThxd0x5VUJqUDFUNEE?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 08:05:00 GMT",
+        "snippet": "Jensen Huang's return would boost Nvidia stock: Analyst&nbsp;&nbsp;CNBC",
+        "source": "CNBC Finance"
+      },
+      {
+        "title": "From AI to oil, here are Goldman and Morgan Stanley\u2019s outlooks for 2027 - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOUN0T0ludy11cVJVRDI0MWY0STVHeUtCVjVpYUhxeHVkRjFnVDFaNHloWGJybC12bEw5Z282ZHg4YTBoUXVEdGJYNEZXTk9nYjRSTWx1Q2FONi1vbVBzYUpJclZQdU8ybnV2a241ZXloVnBpeFgtb1BWdVVtZmZhME00VUR2WDZkaDBKM1dPcw?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 10:28:30 GMT",
+        "snippet": "From AI to oil, here are Goldman and Morgan Stanley\u2019s outlooks for 2027&nbsp;&nbsp;CNBC",
+        "source": "CNBC Finance"
+      },
+      {
+        "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51ZGpUMGRueFdhOHZwSVZsV0NKaDRHbzgwUWZkODNQN3V0Y2w3Z2kzQjRlTVNleXdJaW1LVmloeGFDamJLdUhfUk1ESXhRT1Jfc19KWkxhZElZa0hldTJtdUI2OUREaHNzR2NNQ1YwYXNPSUVSa3fSAXtBVV95cUxONng3eHcteEVaaVZBOUlKa3ZYaHdiTUZPSVhJel9mTDN4RFhPUU5QR3BRSjZXWEtYSHlqbjYtc1pCQV9YV1lxTzJPU3FtLWt3UXlSMkZLd1dwVWJNc0Rnc3RUX0lua1pWSW1Qa1V3TEpsTW43ejZXUm9ZUHM?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 23:57:19 GMT",
+        "snippet": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite&nbsp;&nbsp;CNBC",
+        "source": "CNBC Finance"
+      },
+      {
+        "title": "China\u2019s slowdown deepens in October as industrial output, retail sales, investment miss estimates - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR2M1YTlBdHBScHZBdV9FWFhGcWgzVGVxbG9Cb044OXdIYnRtZ2l0RFlnY09kUW9vWGZjNGRZOVdkUXRvTVBEa0MxMnItWDZsVzhRVkJWNTNydURkZmFaSkt6ZGNkSWRZWnNrLW9kd2dTeVU4eVduUThfZHMtbzA1Q3ZxNGtQeHhkazNjWWh0Vk1nOWczWjdZ?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 02:14:00 GMT",
+        "snippet": "China\u2019s slowdown deepens in October as industrial output, retail sales, investment miss estimates&nbsp;&nbsp;CNBC",
+        "source": "CNBC Finance"
+      },
+      {
+        "title": "European banks\u2019 risk transfer boom raises exposure to \u2018forced deleveraging\u2019 - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMUZwY1BsOS1BZ3JBZER6aV9qdGlCRy1jY28xN1BUQ1dwTWpnSU9HdGlzU2hGQjhSNldobTV3OEg2X2ozMUJkSTViV1RkOWhYNF9Ud2lDaS1PQzVGQXZUUDAtd3kyZFZXeUd4eC1ZdW1iM2I4cGJGQVJtdnZYUXRFVDNhNFQ?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 08:44:44 GMT",
+        "snippet": "European banks\u2019 risk transfer boom raises exposure to \u2018forced deleveraging\u2019&nbsp;&nbsp;Financial Times",
+        "source": "FT Banks"
+      },
+      {
+        "title": "UK short-term borrowing costs hit three-year high - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcm5hNXRRcENaVGhWWlZacXpRaC0tMjY3eUFZVUM1QzRYQWw5STFEV1ktM3NsWDgxUl9YNWctNUR5bEVsWFBoblhUN0FnVzNuVE9iOGJrNmdYYlNjUHhkYjNxXzZXQjZnN0lYV2lJdW9nYkVUWE45MS02b25ZZUg3MFhsb18?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 15:15:33 GMT",
+        "snippet": "UK short-term borrowing costs hit three-year high&nbsp;&nbsp;Financial Times",
+        "source": "FT Banks"
+      },
+      {
+        "title": "EU banking watchdog veers away from single deposit insurance scheme - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlk3R2s0Q0duekZTaFc2a0JVekZJelhuZU9ZMzBuN2tGSmJWSzhOaDVzSGg4X2V2UWtaMjlndldPTF9rVy1YeUg4NHp1TzZBVUN2TXdNYmVaNjNwY3YxclEyUDFEMkpLMVcyWUN3ZGhLRFAxUDRtdlZhcjFvVTFnWHRRSWc?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 05:01:25 GMT",
+        "snippet": "EU banking watchdog veers away from single deposit insurance scheme&nbsp;&nbsp;Financial Times",
+        "source": "FT Banks"
+      },
+      {
+        "title": "HSBC\u2019s bet on bots could reshape the wealth wars - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdnpNeW02MHc1dUlVVnlkNUpSdUJtd1IzTE0zUklJY0E5VUJFTmMwZnpOd3lzZEt4UmJoZ1JpSmhlSDZWRkVJcU9RWnFrNmRVRzVkM3ZsVTJ4eGxmOERPZkJDTk5hUmc2dDkxRnZKRlhVVW5mVVh1VTJCajVVV2xSQXVNSzk?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 05:06:12 GMT",
+        "snippet": "HSBC\u2019s bet on bots could reshape the wealth wars&nbsp;&nbsp;Financial Times",
+        "source": "FT Banks"
+      },
+      {
+        "title": "\u2018Low fire, low hire\u2019 job market hurts US and UK productivity - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPampTRjFQdm9jcE9lZ3lCTUNXZllPTDZJUHhoRk45eDFUQVBGRVdkMWxKZHc1bXlmY1VoVG1PeTFzSUdsb1psWVJlQXNyeEJLUF9sLUpyN0l5bm45MGwwck1RSUwxbW1pT2stSm1qejQ0Qk1xejNFQ0d4ODRNWnFIV0JkMS0?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 09:26:45 GMT",
+        "snippet": "\u2018Low fire, low hire\u2019 job market hurts US and UK productivity&nbsp;&nbsp;Financial Times",
+        "source": "FT Banks"
+      },
+      {
+        "title": "Brookfield and KKR vie over $700mn deal for Gulf retailer Eyewa - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZm45cDJUeFgxT1F6ZFN5aF9xQVViT3BBZk5vXzRxMnVPRkNYU3MwZ0t0T3pTMHItRFY5Q0tyMVI1VV9GbXVaZlRnQVRTcXJLQ2ZwZzBCbUhRdkhpdjJBWlNSYlF2VVc3cFMwUFdPVUZYMFNjdFZMcVY5eHhMRjZoS3JvMkY?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 05:05:37 GMT",
+        "snippet": "Brookfield and KKR vie over $700mn deal for Gulf retailer Eyewa&nbsp;&nbsp;Financial Times",
+        "source": "FT Banks"
+      }
+    ],
+    "singapore": [
+      {
+        "title": "Asean states sign Digital Economy Framework Agreement, which kicks in from early 2027 - The Business Times",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNHVhTnlMejVTTnZodlpwa1Z5Mm43RE82NDU0anJFbHpiei1lb3B2U2FvMDQxMTl1cmVJM2FXZE5mNk84SzFCQjMwbEpYd0Q5NFBYTUx3MGpGdklQNzVmLWdjUlhhblZnQ3YxczV1RFpzWFJoS0pkMS1rcGE4VFoxT095Y2E1Mk14WDAzdmdLdEp5cnZ5aUdVZDNFTzlmQm5mcWRlbUxhMkVZdXpnQU0zQlZKWTZfN1RiWlB5MU5WeGdFRXRWVkVLdQ?oc=5",
+        "pubDate": "Sat, 14 Nov 2026 11:40:00 GMT",
+        "snippet": "Asean states sign Digital Economy Framework Agreement, which kicks in from early 2027&nbsp;&nbsp;The Business Times",
+        "source": "Business Times"
+      },
+      {
+        "title": "PM Wong to attend Asean Summit in Manila, with digital economy, energy security on agenda - The Business Times",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHA4QVBpcjFwRFpWZENQb0NSaGNLaTdmamhIUHN1WnYzaC16ZlVlQVZIYWhNMEJkWWVNVjdrN1JVS1FiNEhzZGVHNmw4OHlZTUJCNW1kSW5nQkNSUFVoVlVlOC10R1lfRXVQOUZCNTJCUlFYUFRSWVdZZTJvRXAySGNTS3RvaXRqRDMzWGRqQmFLT2hPY0ZwcW1wZ0g1SWVUNjdOQ3dhVkxiQ1p6UUlBMGR1TTFIbS1LaXhEVw?oc=5",
+        "pubDate": "Sat, 14 Nov 2026 10:00:00 GMT",
+        "snippet": "PM Wong to attend Asean Summit in Manila, with digital economy, energy security on agenda&nbsp;&nbsp;The Business Times",
+        "source": "Business Times"
+      },
+      {
+        "title": "Japan\u2019s economy unexpectedly shrinks in July-September as consumption falters - The Business Times",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUHhJNFVUYXc3MmJnWU03bjBQR0JqR2NYOGpGdlk2SHcxcUo0XzhROHNrVmlEQ1g2a01UUmdHLV8zSzlZTWZ5emVzc1NIUjhMVWp3S3lKX0hvaGZVbE1IS19Ec1FiaExEMEN6Y1J6MXN3N1gwd1ZydXl1eFZQWG1wYTFUdXA2clNIQ0tDNkMwLVNwZ05kYVp5WUstZ2lpNERULTYyMTM3bHlyWUszRFR2RnZEVWRydGg4?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 00:36:00 GMT",
+        "snippet": "Japan\u2019s economy unexpectedly shrinks in July-September as consumption falters&nbsp;&nbsp;The Business Times",
+        "source": "Business Times"
+      },
+      {
+        "title": "China\u2019s economy falters as factory output, retail sales undershoot expectations - The Business Times",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOREtKSFI3LUc0WXJscWI2aEVYckhYdEFXcHJ1YU5lMWtLN2g3eGlwbVB6UWxqdzBCYkgta2gyZTlhVU45RFlNTTJxc1JaOE9OclY4UUxrNzk2ZWhHNEoxb21nSWRTV1B0X0VsWkpqdTBnMFEtRnVXX2dZaDVqbkJzR2ppMTduY0dDYjJBXzhfcDZfV3FmOHJhOGwzalNSUWZxZm8wb2pjQ3VGRkwtR0kyTmh1SjdvMEZBdjBHbE5hcFVDY3AwbGg4?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 03:25:00 GMT",
+        "snippet": "China\u2019s economy falters as factory output, retail sales undershoot expectations&nbsp;&nbsp;The Business Times",
+        "source": "Business Times"
+      },
+      {
+        "title": "Thai economy picks up on AI as finance minister warns of K-shaped recovery - The Business Times",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeEk1UE56MU1TcFh5NW9rT2ZFRlJoNHdJQVFLZXp0a2tfLXdoQ1AyUGozcWNSWHVyZkFZMnE5YXAyalZGVkZZb1dranFqbkp2ejNWOVZKbk9KSHlUbDN3NDRjT243Um90VnRtUVVvX0V2NnJQb1dwaDlqMS1fN3NzRnlsMEVZRnlpcU5hVGtpQXpxQS1YeWg1NVJBZDY4S1huU01femVzMGlQdlRSTjVvVFFWZGdhQQ?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 04:16:00 GMT",
+        "snippet": "Thai economy picks up on AI as finance minister warns of K-shaped recovery&nbsp;&nbsp;The Business Times",
+        "source": "Business Times"
+      },
+      {
+        "title": "Singapore firms snap up cyber insurance, but coverage gaps persist as AI threats grow - The Business Times",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ2RmRmp2ZVBLYzIteXIwSWpGMEdFNjZKaGYzN2cxZUVHQ0xrS28tTld4MWF6SkZjOWdUYkQ2TnIyMV9ILXE2bm5FeHk4ZTJtVkh1X25EVENzYkJscENEcW15REV3Ui1jX1BHQ3RxM2RlbGt2aU1qNHRPRXg1Yll6TXM2SmhRMERwcXN3TGgxODJYb1liaVZhZ2d1cGFMWDBzSzJBWXZaNG1LUXE4eE9DaW13aHVVS1VON0pzZHl3Q1MzNTg?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 05:00:00 GMT",
+        "snippet": "Singapore firms snap up cyber insurance, but coverage gaps persist as AI threats grow&nbsp;&nbsp;The Business Times",
+        "source": "Business Times"
+      },
+      {
+        "title": "Jensen Huang\u2019s ousting sends tech stocks tumbling; Singtel CEO sells shares: Markets this week - The Straits Times",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQjc5TnB4Z1gwckNPR0h5YkQxbzBWOHpNbUdRQURSc21OWThMbUtUaWhaVzJ1WEo5US1QRk1WUUt0MFN5WWRRZHBzMF9JVkFQd21ZWkRsSGVmelZHTTVmM05LNFdpNnJlMHRkcUFfY1Z0MHpOb2NHWWVfMEZHRTJyOTk1Q25LVFBveExLOUVfay1wMUdEOEcycVo1dE51TnFMeEFyRklwbC1tV3FuelBrZy1UM1BfQjRhUGJBN3piWU5BcjhCU3d2RTQ2WlZ4bjNNNkM3YkxUVmd1RWp4Yl9SRg?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 02:00:00 GMT",
+        "snippet": "Jensen Huang\u2019s ousting sends tech stocks tumbling; Singtel CEO sells shares: Markets this week&nbsp;&nbsp;The Straits Times",
+        "source": "Straits Times"
+      },
+      {
+        "title": "MNCs flock to Singapore as headquarters but keep teams lean: Experts - The Straits Times",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbi1vMjlMQUFWX2tUSUIxU0I2aUE1NlhNOXBlNjFueEtWNmR1Y3R6N0lZaVRhXzFlcnNmd1JLMEN5QXVra3huWHFwQm5KaW9fV29kcFh5ZnZVT1hHbW5sYlRaQTNTRWtGTDFPQjdhWnoxYjZITXBtVGw0c1haZzV6RGpoNmZ5aF9xaHljREppWXR4VDhZM2ZNdWRFcFh2UUtqalg0WHZPaFI0elg1d09pdXh3?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 22:00:00 GMT",
+        "snippet": "MNCs flock to Singapore as headquarters but keep teams lean: Experts&nbsp;&nbsp;The Straits Times",
+        "source": "Straits Times"
+      },
+      {
+        "title": "ASEAN states sign Digital Economy Framework Agreement, which kicks in from early 2027 - The Straits Times",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS0gzODhwdV9PUEJheHllNjI5MWNHYktLZngwVFM5dWk1YlhLWThaM3ZqbkpuVFFpeG5xUlFhMWpBNVVSTUVmTzhIUWRjd1lyak5RWkpobG4tcEhBZlRtS1pkMEFJTkhRb3RNa3Z5Z29UeDIwTUlCMkxMa1ZxVEo5ZjZTLWF1UmVsMmVOSzRKQXlsTUMyYzRoWGlnSUwzY3pyQmRfZkZvcjlIUE5YY0xRZkExb2k2ZG05eFRERFJDUnhzYmp3?oc=5",
+        "pubDate": "Sat, 14 Nov 2026 09:29:00 GMT",
+        "snippet": "ASEAN states sign Digital Economy Framework Agreement, which kicks in from early 2027&nbsp;&nbsp;The Straits Times",
+        "source": "Straits Times"
+      },
+      {
+        "title": "Goldman Sachs predicts \u2018sizeable surplus\u2019 for oil market in 2027 - The Straits Times",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSmNxMUlJcE9FNmhDRUNuOXJHbFhxNVZndVVZeFhrcXNjVE4yWHFZV1MyMXRNVzIwaVhnakkybVdDRGJOWWRYaFRJd1NBYlRLLWRJVGFWNFdRd3p6Qm1SVFgyY29VQ3FYaGhURzFIdXFVemFuQ1M3U2tkZDIzVHdnU2x6MWZYbldLUnB6VjFVdzJXTURkYzVFNEpFaGxjejM1REE?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 05:18:00 GMT",
+        "snippet": "Goldman Sachs predicts \u2018sizeable surplus\u2019 for oil market in 2027&nbsp;&nbsp;The Straits Times",
+        "source": "Straits Times"
+      },
+      {
+        "title": "Singapore-based billionaire Leo KoGuan vows to halt Nvidia buys after Jensen Huang exit - The Straits Times",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdFd6QmEzMGltNnRSRGJPVHNPMExHc3hlM256MHBaSC1JS0hRZW9ZR2RLRURQYW1WWmVTYWxubUgyNGRrTmstanFiU3h4V3pOajBjeFQ3bXFSdHJOdW9iS3QwSFg1WkVPSldmSHhsYUtCVFJRdUJUaUFMaFNnMWRKeXpjMzRtaFZhTmNQS0ZZZDNpUzNFS0ZzSTNIX2xOczJNaHF6R25zWGlxVlk0TnA1Wm45YjV6MVFhaWtnTVFFamRQaWtYZkFSeUQxV0JuRnR2c280SW1ya2R2TTQ?oc=5",
+        "pubDate": "Sat, 14 Nov 2026 08:00:00 GMT",
+        "snippet": "Singapore-based billionaire Leo KoGuan vows to halt Nvidia buys after Jensen Huang exit&nbsp;&nbsp;The Straits Times",
+        "source": "Straits Times"
+      },
+      {
+        "title": "Japan's economy unexpectedly shrinks as inflation squeezes households - CNA",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZFd0bkFkRXNsLU1DaWo4a0JCZzlYQUR6U3FSTm5BNmp0ZVJhazdoaEZMUnRtT2pmVFBpWFAzbDBxVXBZX1BKUGJLUTlQLTNfbFpnMXN4WjJMRVFKUk1rZ0FYc245b2JJMWNhNVUzT2tIMlhxMnNnVDRxZkVCTTFLYlRjVUl4Z2ZxaGZubVhVYWJ5ZndhQlpSRHd6ZUJWdFRteUZqZWtZaw?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 00:12:00 GMT",
+        "snippet": "Japan's economy unexpectedly shrinks as inflation squeezes households&nbsp;&nbsp;CNA",
+        "source": "CNA"
+      },
+      {
+        "title": "Japan's economy contracts annualised 0.1% in July-September - CNA",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdk5CWFUxcDBpTGNkMUdodExLRnVWNTE5eTVybUowckhneS1TSFdlZ3p6RHpIS29iN3NJNG9GdEROTEt0RmlwTmdjWG1JemtHMTVwRkJXTXl3dklkVGhqdzVsTmtHeUdxQkFDSU5nOGpDTTRsaWIzRndGYk5VT0stQkgyLVBQOTNUQ0NWS0NlOXdETHdRZ1JQZUJta0ZMbnVTdHlTUXBlSkk?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 23:58:07 GMT",
+        "snippet": "Japan's economy contracts annualised 0.1% in July-September&nbsp;&nbsp;CNA",
+        "source": "CNA"
+      },
+      {
+        "title": "ASEAN countries sign world's first region-wide digital economy pact, laying foundation for collaboration - CNA",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmhEZ3NHOHZpX2NwSENWWDRzMWlGQml4N2h3RV9aNzZQUTFVOVItQTBPdzNPbFlnSU1pRkZ5emdpRXBabnBXN1VxRlN2cEtnLThaYWJrY3FodGF0RVNmaG5DcVpDTURCM2kyYjU1QjROSE5OQXNGUTVRZTJwVXp4eEtJVEpXYVhENjBHY2VoczdDRGhmakE?oc=5",
+        "pubDate": "Sat, 14 Nov 2026 09:00:00 GMT",
+        "snippet": "ASEAN countries sign world's first region-wide digital economy pact, laying foundation for collaboration&nbsp;&nbsp;CNA",
+        "source": "CNA"
+      },
+      {
+        "title": "ASEAN digital economy agreement to make cross-border trade cheaper and easier - CNA",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUzhzZWRHcXNaeF9DY1c5VkZXaG5wZXN0TklWdjdlVU56S2lFMEFQY1c0UU90ODBpRUY4UnJmU29aT1FCZDViel96ZUhlaFhSVlhnRXFmQkhWZlJvcUhSR1lDeFlLQlB0cWxzVE1PNEtTdl9xTnJwdlVYaDVsN1hmUlJSbnZHakdHaThsMWM3R2xvMC10SVA1Z0ZLYWJ1QVpHRkY5aTNfc3p2SDBUNy1LUlZlNFFER2NxbmxzSA?oc=5",
+        "pubDate": "Sat, 14 Nov 2026 14:48:23 GMT",
+        "snippet": "ASEAN digital economy agreement to make cross-border trade cheaper and easier&nbsp;&nbsp;CNA",
+        "source": "CNA"
+      },
+      {
+        "title": "ASEAN members sign Digital Economy Framework Agreement - CNA",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMmJCMG5TRFdaTDBuR1hDWUFYVm54eVFpMENNQnFSdWMyeUg5Q2RuY1dLcTZ3Y3NjMGppZUp2TTh0VTMxb0xvcHdzX2s1dUYtQ3ZXT2xwZDY0UnU2OVhEaUJjdVNCUGx0MXp1RHhIUDdVYlNRYWZKdDI2dV9OUnJPTVlkN0t5RGN4SzlzTXlBUThLenhzZWhMTENDT1hWUGlBcHc?oc=5",
+        "pubDate": "Sat, 14 Nov 2026 15:38:37 GMT",
+        "snippet": "ASEAN members sign Digital Economy Framework Agreement&nbsp;&nbsp;CNA",
+        "source": "CNA"
+      },
+      {
+        "title": "CNA938 Rewind - OCBC\u2019s change of guard: Helen Wong retires - CNA",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa1B0eG51azlhV2ZHUWJtOVllU2J3THZuWjZsejZwdzJUUWJrT2VBVmFScmhIQmwzSHZTNW92T3hwYzlzY1NLQkdud24tQV9PbmNrc1NKN3daZERCVXQyNW1mS0huM3VRSzVvQWx5S0dPWkNVaDVSaElHWklzcW5PaGNYZHJ6a3FzNi1nY3NVWVg1cC0tWVRJTElYYXRqcnpZOWdiY1NBZllEanBjT1JFY2dITXFFc1MzUGduTlZDVWZYT1dLcHNZbjEyMmI?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 14:45:42 GMT",
+        "snippet": "CNA938 Rewind - OCBC\u2019s change of guard: Helen Wong retires&nbsp;&nbsp;CNA",
+        "source": "CNA"
+      },
+      {
+        "title": "What we know about Chinese businesswoman Alice Huang - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNVlveUI2ekRqQWdDUnE5Rk9IR0hVQWdqVmNFam5oRWZXWVQ2UHBOZjV5NFhEYUszSnNuWkhfb3ltV1NSbFdteXRaaXhTMldYNDBHeVNCSkM3d3Z0Sm1VcnU1R2FMZnBYZHhKTGZVSXlRZVhMMjZIWkNSbFpWcm9fYkpzS0xvQ3JpWnpxcmR0OXdIVU1kZzBleEhXZllNTTNOS1ViSEUxa3FXbjQ?oc=5",
+        "pubDate": "Sat, 14 Nov 2026 09:23:05 GMT",
+        "snippet": "What we know about Chinese businesswoman Alice Huang&nbsp;&nbsp;Reuters",
+        "source": "Reuters SG"
+      },
+      {
+        "title": "Indonesia president conveys apology to Singapore, Malaysia over wildfire haze - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHo5U295dTNfU3R0MVRNU1FYbkVCc3FtbXgxV2hwOHF0dnptUExXdjFqU0NQR3lldzh3UTlubXpORUNvU3NSdml5T0t2a0M3LUs2ZXBWcGtWM2RRNUNNYVV0c1hScjU0STVyZkg4ZnJ4Skg3ZWhiWF9XWjNQUTZ6SnlPcDg5UmpBdHBuYnEzWjBNV1Q0cm1HaGRSaEpuRXVhZTdFcFNoX0ItcU9MSGdwNmxKU3J6TUUzTnJCbUVVMVNRcEc4czRDTV93?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 16:25:41 GMT",
+        "snippet": "Indonesia president conveys apology to Singapore, Malaysia over wildfire haze&nbsp;&nbsp;Reuters",
+        "source": "Reuters SG"
+      },
+      {
+        "title": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3otVnY4ZXphd1g5Q0REOVlqY3c1WXBMSmMtNThTbGlaRGVkVkZXZml1RHlEN3djZXRMT0pSTnJ6c3JiZ0tOdVRRekpJUlBfRV92ZEFEUU9GVU5XZHBYVmotRjFpcExuaER3S1BUaF90UWFaRnVBcFlHazgzOXBSWXJfN1RMSFNrcWY2TVRkQmVTYkNHUUhMeHAyM1huRXItSVhKZU95Q2wyTmg1MnlZcGduR01vdzFBcmpiVA?oc=5",
+        "pubDate": "Sat, 14 Nov 2026 05:13:48 GMT",
+        "snippet": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say&nbsp;&nbsp;Reuters",
+        "source": "Reuters SG"
+      },
+      {
+        "title": "Singapore, US agree to keep discussing Megaspeed as scrutiny of Nvidia scandal widens - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0pxOWhsOERwTHZyU2JuUjFrSENFSkNUWnlLdFBvaEdkb2NKQkxVUmNOZXVHSS1qdkJobDF6ZzB4MzdESk5BZHhaY3ZlV0JVZWRfR1FrSUc2WGdWbTVJaTN2a1hjWnRXY25yZ2R2SFRBSEYyaklDUml5ekFrWnhIbEhCd3ZxVjh2am1oMXFkZG5QaFNOa1VUUWVtcEJZWjNLVllyUG53bmZXaldEaXRKT29CeXc0aWNPLWZxVQ?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 12:47:03 GMT",
+        "snippet": "Singapore, US agree to keep discussing Megaspeed as scrutiny of Nvidia scandal widens&nbsp;&nbsp;Reuters",
+        "source": "Reuters SG"
+      },
+      {
+        "title": "What is APEC and who will be there? - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGUtWDdCbkpKT0p0c2lwR3dQVG1Pa3E5eHUzb0g4MllEWXlnclA3SEpSV3BIY0hEQXRzN29qM3hxalB6MjZwWW5ub2NuRDZZLU9iaVJZZjlwT2lHWllHWVd6NURNRlFNY3BaeTlNOGhqby1ydjdRS3dEZTRUdGo2SGV2bkZtZnF3dFNUOFNURUtVc1JLVDByX2hkN25sdWFYNUF1ZVJVUW1tZGFj?oc=5",
+        "pubDate": "Sat, 14 Nov 2026 04:32:42 GMT",
+        "snippet": "What is APEC and who will be there?&nbsp;&nbsp;Reuters",
+        "source": "Reuters SG"
+      },
+      {
+        "title": "Indonesian police raided Nvidia partner Megaspeed's local unit in early 2026 on US request, Straits Times reports - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLU1GeHExbUdxcTVjVHhtNjNOUmhTNkRJTEZ5QlRRR1lsVGN6WkRmZ204VjZCVkN4Nm5JZ2tfV1loOHhRYU5JN2I5UGVyVDQyVkFpQ1JWQzlUSFlGYzlmREU3MG0yM2pGQkxxQ2JnTm9TdkVxQUw5SW5BMGJXR01RTnNaSFZYSVBlQVZDcXl2SXV6OWZhamYzRUYxc3pOTHN4WUZZdUdrQU1TVEdqTVRENkd0Nmx2SDkteURUQzcxamFoYmZQYmsyRXJB?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 07:42:00 GMT",
+        "snippet": "Indonesian police raided Nvidia partner Megaspeed's local unit in early 2026 on US request, Straits Times reports&nbsp;&nbsp;Reuters",
+        "source": "Reuters SG"
+      }
+    ]
   }
 }
