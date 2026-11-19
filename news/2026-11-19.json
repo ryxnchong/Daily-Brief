@@ -1,62 +1,13 @@
 {
   "date": "2026-11-19",
-  "updated": 1795098944,
+  "updated": 1795127520,
   "tabs": {
     "global": [
-      {
-        "title": "After $6.3 billion crypto heist, Binance plans Asia expansion - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbnZiblFkQkE2ci1kNUpEUVB1YnE1SFZmSmV1VzEyUVN2ZmZkVVlvZW1UbEIwOVFMUi03OUVUQlFZYlViSy03WlFWd2JwTlpDaHhiMXJzMXJ0NUd1c0o0bUpsMENLMFNlbnRGT0NfbmNNZXg5ci1ybXVHRjNrcjN2LTNGaHJLZGRqU3B3bUVaM3dyeTc4SWowSzRYbF9QNVh2eTVnNnRQc3p4ZUxRa3VEZGRvbGtLWnNSYVB3d2Fmeno?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 07:40:00 GMT",
-        "snippet": "After $6.3 billion crypto heist, Binance plans Asia expansion&nbsp;&nbsp;Reuters",
-        "source": "Reuters"
-      },
-      {
-        "title": "Gold recoups from 14-month low, tighter Fed outlook caps gains - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0RVRVVhd0g1djYyRGpzbTcyZXFtSXd3cTV1T0REekJaYm9FOTlzblJzU3hlMmsxSkF0UmtzZ1gwWVFiUzI3VXdGNzJLTndoZC1oVkpXSnRmZ0ZmNkEybVRFSnhIVzFCNnlTS2hQRGV2bnNGTHVsaUZ5RmllU0otWWcxV2wwejMwcXpTOWFxam1xb2dRMXMyQ1c0T0RkZy1SX09YR3lYdmxkQQ?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 06:53:00 GMT",
-        "snippet": "Gold recoups from 14-month low, tighter Fed outlook caps gains&nbsp;&nbsp;Reuters",
-        "source": "Reuters"
-      },
-      {
-        "title": "Tech outage wave reaches US government; Trump says all is 'fine' - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTFrNFhKT3ZkYUp6V1R4ZTlwSnlGT2RHTnZUanZxZ1dSNEZwLUtBd2YzZGNZZk1XQ3RHT3hPU2FFaEVwSEkzbzFoNmt1d2ZkenRyTjV4MWlQcnZwWUJ6c3B3Mk5BejhqNkJUaFI3WTZZSlczN0dpYUIzQ2VnNGJ4LVNZeWJuenBuT29LQ1JheGtxbk85aC15cnJlYk85YklfYTN4UHY1aG1qTVE4YVdNSWpjTTNmUFktTnZKQ3dha0ZVSlU?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 04:10:30 GMT",
-        "snippet": "Tech outage wave reaches US government; Trump says all is 'fine'&nbsp;&nbsp;Reuters",
-        "source": "Reuters"
-      },
-      {
-        "title": "South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYjJyUW83NEllOTVXWDNHUnY0UW85MjF2dzVVQ1NxOVBGaW1EY0trbjRZZU5zZWFLUnZnQ1RGUkhiM3ZmZVA2VUxZNm5UQlpJR2F2OXotX0EzOUJJdHNkZlhCUXVnM2xqaEZ1Zmh6R19sSmUyelZzSVJSSkVTZHBvd2ZUQkNJOFZPaEZ6amhLd1BGWlcxd2M4N0pLa0J5Z28taFE2M293Z1puMWViY3FhZDh6WXd4SjFsNzg0dkZ3?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 06:29:00 GMT",
-        "snippet": "South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom&nbsp;&nbsp;Reuters",
-        "source": "Reuters"
-      },
-      {
-        "title": "Energy-security response to Iran war could cut oil demand by 4% by 2035, IEA says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRlVLekJsV1lXTGsxOWFDNkJLTDZhV3JSeFRQWS1zNXlobWJ6cDB0dXdhUE5IZ2VBY3N1THJOdVFtNmhEcnVTcUpWS2x4cVJRV1BscHJ2cVRmbGxtUEJLd0xvRUhkYlpUZU1PcnZpUzJ5cWx5R3ZnWFN5VXdiWmkwczJpci1yQkpVWWtMNV9yY3JHc3NfNzc0V2R2ZWlkSDVaa3V1MUhJVUNoSV9MQl91ckE5c2J4c1c2VFlPSHBIYzAxX2RZYXpZ?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 05:05:00 GMT",
-        "snippet": "Energy-security response to Iran war could cut oil demand by 4% by 2035, IEA says&nbsp;&nbsp;Reuters",
-        "source": "Reuters"
-      },
-      {
-        "title": "Markets should help discipline France over high debt, ECB says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRElzYTFiWWlJOExoeTRZU0lzWUdFWFVQVFgtV29PclpRRHRBR3o1UVpmWF8wYTBNQkM5VGIzc1VNNUgtd0RqN1M0WHdVUjM1dGxRZW5RR3BPTzl0UlBhZGZPNEZjaEhBMGR2aDI0UlJzbXRtZnl1al9ETUpydmpNak1RbHJWbnY3Wk9JSkdvZWx0OWUtRDZGUWFUZENFZC11VzhvMTJxZ0ZoMnhqVExoZENxaWNBNUNC?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 10:14:53 GMT",
-        "snippet": "Markets should help discipline France over high debt, ECB says&nbsp;&nbsp;Reuters",
-        "source": "Reuters"
-      },
       {
         "title": "Anthropic Gray Markets Indicate First-Day Pop After Record IPO - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNDFGNWFPNzlyZllvRnktWk54QndaMUgtTlFmUV9kZHVwWXpJM2Ztc0N5TUJabkFHMjlVTzVmSHpQcndMT2FWQXVlMVBGdExGRlhBYW0xZU1QSlNldjB1ekR3X1NOQVlvVDl5UlVibmdEdnBCUHFTbnFiSXAybUNFRmlJUmo5UUNKZ2I2cnl3ZXMwQkE1SHozcldvYW85cmN1WWFQaDdmRVJtWmZZODRFZG9kbw?oc=5",
         "pubDate": "Thu, 19 Nov 2026 11:00:07 GMT",
         "snippet": "Anthropic Gray Markets Indicate First-Day Pop After Record IPO&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg"
-      },
-      {
-        "title": "US Futures Rally as Anthropic Fuels AI Enthusiasm: Markets Wrap - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 13:43:22 GMT",
-        "snippet": "US Futures Rally as Anthropic Fuels AI Enthusiasm: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg"
       },
       {
@@ -67,25 +18,53 @@
         "source": "Bloomberg"
       },
       {
-        "title": "Mexico Leader Goes Viral in China for 21-Hour Economy Flight - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMUU1RVBpZ1k3eDJGMEZJajdmYnM3UE90WmFqY3VpTjJ2TXlsOXE1WU9mR1l0ZEdVY2hySklMTTJMZnFNQngtU3p0M01DVUQxRnNJcXRKWndwcGJqMGZUajV4a3pHdmZtSy1SMFBMQU9RbUs4cHJaazRUbVh4eE13dF9xMFBuQlRXRmtBVy04MEc1X1FLRld0Q3RCY2FlSUg2N190RjFmQWl6ZWJVT2l4SUY4d190UQ?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 16:04:22 GMT",
-        "snippet": "Mexico Leader Goes Viral in China for 21-Hour Economy Flight&nbsp;&nbsp;Bloomberg.com",
+        "title": "Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 22:07:41 GMT",
+        "snippet": "Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg"
       },
       {
-        "title": "Stocks Fall as Nvidia\u2019s Earnings Rally Sputters: Markets Wrap - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 22:07:08 GMT",
-        "snippet": "Stocks Fall as Nvidia\u2019s Earnings Rally Sputters: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
+        "title": "Anthropic IPO Hands SK Hynix Tycoon\u2019s Firm $3 Billion Windfall - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWGNLLU4td19HNzA2NGJmY25DV0RnaGRFLW56ZnpfZWRnbWlEMkZLQngxWmlVclpTZy1ZSjV1LXpEdW0zM3k3aEhLYXVsNkw4ZVRybXIxQUs5QTNEUGtBXzFQX2o3QkRac2p4MGNMcTBmYm84amlvT3pKRUh1eVFMTUVfLWpySHRnSmg4d1E0RXNnSG5LNzJtdWVuV25yclFfQldYbVo0dC1vVVJKb0lRTVpB?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 03:29:00 GMT",
+        "snippet": "Anthropic IPO Hands SK Hynix Tycoon\u2019s Firm $3 Billion Windfall&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg"
       },
       {
-        "title": "French Risks Have Traders Betting Euro\u2019s Slide Is Far From Over - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeWlfaEkxeWdqZ24zWGNZTWtYMjNtSGRHVUZvNEpzYmdBU2tQYnVhVW9VYkRObUk0VkFLalRLYVhGNTJhNkFJX1gtOURfOFVQcEVLbGFrWmtUalF1N0k4QzBXeGtDd2JVWTBQbjVHNVpVQXFzSUpwMXVVd3diU25OODQtZzlHbDBHVHQ5LXlJWTJMZzZaRzNlSGdOcnZRVWkz?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 10:51:58 GMT",
-        "snippet": "French Risks Have Traders Betting Euro\u2019s Slide Is Far From Over&nbsp;&nbsp;Bloomberg.com",
+        "title": "Sanofi Weighs Takeover of US Drugmaker Insmed - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWxvWmd2QUhzd2gyeS1WNmdFNmVhMlhodXNjUjU4b2VwQllva2d5dFpBMC1aZHVrOUdJX2c1SUpWRkpBSnZrbXA4emlMT3lXYXl3dDFwSV93OFhXdGQxLU53TUNidy0yeTZYZVNtcnZ2Rkk1ckVkY2d6ajZpZjZTY1ptb0ZEMTFreHNxb1VRVnduRHh1Wno2a1ZTMWQ?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 17:30:39 GMT",
+        "snippet": "Sanofi Weighs Takeover of US Drugmaker Insmed&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg"
+      },
+      {
+        "title": "Mexican Peso Hits 17-Month Low as Fed Outlook Rattles Markets - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUlpnbkxHVEExS0lGS1ZYWmdlLU5HT1gzdTZYR0RUbW1VeDlaQ0lXdWFXQzdjR3U1YUVQOHl1cHIwVHdLZV8taUVmb0NhejNvTmtlcGRaS19lSmlzbEpma3lVN1BSc2JmMEJzVFpFaU1ucFFhZGRIYVdMekpKUlR5azFoOGdJaUtlZkJaZXJBNFgyNFQ0YXU4WVBXQkoxc2xEQUFoeFNITy1XeS1iRFdqeS1n?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 17:41:13 GMT",
+        "snippet": "Mexican Peso Hits 17-Month Low as Fed Outlook Rattles Markets&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg"
+      },
+      {
+        "title": "The stock market could be headed for more turbulence. How one investor is preparing - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEZyQWZsNnZDc3J2QW9YVE5nMjBNMzRRZEVNUjBVODVWNXFwRzlKMjFsdFNGbkZQaVBqNjRKS2FBaTVUSG5yV080U081ZkNEd1VPTk5BOXBNbjg2T2pReHlWR3R0aU5Hc3VzN3R0TWlTYmlzM2JnVUFQaDBzYTVIMy1FdWVzNWNDVl9yaGFWSkV4Skt6ZWQzU3BidVNjRmxDQjdpYlBmQWtXMXBPakNlYWJMaWsxNjZGVzRz?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 19:12:12 GMT",
+        "snippet": "The stock market could be headed for more turbulence. How one investor is preparing&nbsp;&nbsp;CNBC",
+        "source": "CNBC"
+      },
+      {
+        "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 19:55:41 GMT",
+        "snippet": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says&nbsp;&nbsp;CNBC",
+        "source": "CNBC"
+      },
+      {
+        "title": "We're adding to a consumer stock as the market enters oversold territory - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNmdpU0lxdHVkdnM0cENBa2NSS0F3emNmZ2wwdDZfRFBrOC1KM0p4UEtKUUlIQWRrTXdHd2RuM1lQWnNMWGNMNGdHMXFKU2I5REQzNjJBZDMxaXNLeHJfQjRsUmtQbTFOUWpTcDd0MlMtN1ctXzN5TEFpV0lIUmFYRkhON1kxN2JwNzlsNWtEcUxscG1vZE5GZExNQW00aUFzeWR0Z3RLaXEzSWlZTlZhYnEweU1GNy1RMHhVaFpSWQ?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 17:04:09 GMT",
+        "snippet": "We're adding to a consumer stock as the market enters oversold territory&nbsp;&nbsp;CNBC",
+        "source": "CNBC"
       },
       {
         "title": "Jim Cramer's top 10 things to watch in the stock market Thursday - CNBC",
@@ -95,124 +74,103 @@
         "source": "CNBC"
       },
       {
-        "title": "Gold's bad year is getting worse. Why its price keeps falling - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzVTZVem9vcm02QmpsTmpncE9tZVV6MUJqMkJyM2lUTUhPNmlFdThJTExTS193aWV2LW9PTmVjQjdaSTZ1eTNYbVF2Q1U5QWtyaHBZX2xQcFBNNjAxVW9zWjlMR2ZQSkcyNWJCNnNTaml6RU9KTUdHYkRn0gF_QVVfeXFMT0pFQVJ0ZWI5Q2xIaXRteFVKMzByRWdYNWRJa2dnOXVnOU4zUzgxd0JGRzdkTkxIMlJhUm5GXzZVcVM5enluNXhFQjdheUlkbzdITjI0U3A4N3lMZEJZcDdrdndzSmRjYTFjbDQ3a2FVUTAyd3dzODQ1YTdnM3dfbw?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 13:37:52 GMT",
-        "snippet": "Gold's bad year is getting worse. Why its price keeps falling&nbsp;&nbsp;CNBC",
+        "title": "We're buying 1 non-tech stock and 1 tech stock as the market tips oversold - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONmktMUhwYWkwSnZUY3pIUnNmUGdNWlFmaEJuODQzbnlzUEdTNEdSaGNJdkl4SlZGbHcxUWszVmdlQlhhV0JkWnhSR19yMWhnbUY2X0hmcmVmWUp4bVZhLVJfcmh2ZkhvdGFTU1FXWGdrSm4xbU9LbFRWR2wydnJuMzNJUmhsQXlCV3hJSjVfaDkwa1NlVE1MakMwcVo0UktTOHFaLUlHLXhLVVNDbWlHUEpBWGZsM1Rjc2c3RlRKQ2xwQQ?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 13:56:27 GMT",
+        "snippet": "We're buying 1 non-tech stock and 1 tech stock as the market tips oversold&nbsp;&nbsp;CNBC",
         "source": "CNBC"
       },
       {
-        "title": "Trump says U.S., China, Russia \u2018uniquely positioned\u2019 to discuss reducing nuclear weapons at historic meeting - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbmxtN3dYVWtVYjVSUXBGeHRLMWtINWt4bXBOTzF0TUliSTJBZXByYWVObXNQYklDNTRfNE5PUVRUSk1jd0xBM3dXemtuTldWVnp3QXNmNlNrdTRraXRmY0stcmtBTEFhU25WTDVsd2doVnUtSWU0SnJUaGppZXotcXJB0gGHAUFVX3lxTE5kV25yMkhOSVMzZlNqWkpTLURuTmt5d3FTWWwwTVRVcVlCSDdVYmxqSWFSYzVmUE9RRFFwT1RmVmQ4bmUtaWNITzJ5XzJVSmcyc2VrdkE5cTR4SDNZR0tENWowdDZxT3U5RkNsbWljUFU2ejJxZHlDRWJ1RGRDZk9qUVIxZlJjaw?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 08:42:26 GMT",
-        "snippet": "Trump says U.S., China, Russia \u2018uniquely positioned\u2019 to discuss reducing nuclear weapons at historic meeting&nbsp;&nbsp;CNBC",
+        "title": "Outlook 2027: CLSA sees correction coming, but says bull market remains intact - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjhqaEVodExyVVlQcDFRbmhGRlZ6eVRSQkJnQUZfN01lZlR1d0xhOWtRcW1rM0xUWThQYUNEUjlCa1FVNjd1TGQxRjByb0JDNkJJR2FMRkZpdlBBTDdTNW9HcU0zYmRGQkwtVksweWR2U21DbEQxa0ZpZ0JUWUpVOC1qQVRhUHZqMzFRSmotbmlQS3hOZ243LW1iZDZLY05VZlFidjM1Tl9fY3JZV3FhUGUybw?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 14:52:35 GMT",
+        "snippet": "Outlook 2027: CLSA sees correction coming, but says bull market remains intact&nbsp;&nbsp;CNBC",
         "source": "CNBC"
       },
       {
-        "title": "Anthropic is ready for its IPO. Three analysts see huge gains for the stock - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcmpmX21xNUk1b3lTelZGS0F6YnZweENLaXRvUlh6X05tV3hvOGVPME1rdmdNVV9Edmg5TGpLeC1TR0psOHNVeFVMTkhMUVRNN2FpRVBwckdsS21Zamc3Ml9OM2xrY2J6XzRhX21tOU5EeEhhaTlJelRORVNVNWhJQWRQQk5OeTV5SkNETlN1ZExYZmFKeE45VzdvUjVyLVZaUXFHaDNTMlpYcVV1TUpndA?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 12:09:11 GMT",
-        "snippet": "Anthropic is ready for its IPO. Three analysts see huge gains for the stock&nbsp;&nbsp;CNBC",
-        "source": "CNBC"
+        "title": "\u2018Buyers are out for blood\u2019: With home sales at a record low, buyers are calling the shots - MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQng5LWk2YXZ4SWEzWnh3NVhwakpKYWprb1ZpcERSUDdFRHNRNkdnYWUtTV9ZTGlfcnhZNUgzNi13X1pMZVZzMEFWeC1tZWxvSVZxWDZraXZWRWtJTXhJX0pfRUdDUE5PZU4wd21RNEl6dEdEMlllaFB3LVpZbTB0R0N2U2l5RENCRy05SEFpamJMaDNsb0tmbU01WTBtOVJaOGJTdTZHbXBvZThOVnJn?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 16:14:00 GMT",
+        "snippet": "\u2018Buyers are out for blood\u2019: With home sales at a record low, buyers are calling the shots&nbsp;&nbsp;MarketWatch",
+        "source": "MarketWatch"
       },
       {
-        "title": "Takaichi gets chilly reception in China on first Japan leader visit since 2019 - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxQ1JXaFZFUE1LM2t5bW9VUkpFbkt4Ujc3V1A0VWhVUkMtWk50MVZuZ1hUUFA1cjd4dl9YZlpES1l3bmMwVlFUWEg4RFhNd3dsWnJiazdreDNYS05jck1PdEoyVXcwa1VBd0RDU09HbUUtb0hXdkVQZURjc9IBgAFBVV95cUxPcHp4MjRqYlNpTXhzYzBBRnA4TXhfVnNpR1BYZmJ5cUlKaDkxUU5IMW9xeGxwSlQtSEVBNEFfZXJybFRNalVDZU9iNUhjVFBOYU1WT0RPbDE3ajV5YUdKWUd2SXVsUEVsVE9kSU9sdU9pZ2dDdVVjRGRPcVpNcUJ5bA?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 06:39:53 GMT",
-        "snippet": "Takaichi gets chilly reception in China on first Japan leader visit since 2019&nbsp;&nbsp;CNBC",
-        "source": "CNBC"
+        "title": "What\u2019s next for the AI trade after Nvidia\u2019s blowout results are met with a shrug - MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOckY2T2ZTcU1uWksxSTVzRzYzVG1jQ0ZkNGU4R0twQWhyOVIwQTZsMWdOR2VWVmVrd255T1BqOEJXVklaWVRlUGhmV0pLakh5alc2R1RvSkR6LU5Nb1hYYzhldjNKX01ZYXl6amVpZU1uWDdTUUE5TFIwTHdPNVkyUktnQzNzOTJWRU5Da3piUThBTXNUUWx1OFZVVWYxUHpsd2MyRi1YbWp5cTl2NWhjdFVsWFM0MHVKVVg4OERn?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 21:19:00 GMT",
+        "snippet": "What\u2019s next for the AI trade after Nvidia\u2019s blowout results are met with a shrug&nbsp;&nbsp;MarketWatch",
+        "source": "MarketWatch"
       },
       {
-        "title": "Walmart raises sales and earnings outlook as e-commerce sales jump again - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LV0lxTE41NmNVYW15ZTE3dndjYy1YUFdVYm5uNkFiWWE5NU53ZVEwc3RuR0cxdFNqWXdVX3lTYUVOYXFlaGVGUnJvU3Y5QTFpdU8yWWdxTnVGMVh1TVFfMlM0WndyTmpjcW5HTGlaZWc4dVHSAXhBVV95cUxQMjhJaXpYODlkQ2xkSHB3Z1FCc1pDdkpCWU1NbnZleFV2Q2VoMG9RekZ6U2RfS2ItcVU1X3VuZUZTSlhCUGZGLUN3M1pIdDlXT0tEdXBJZkJSU050VUFBV0NVVGlOcGtLVXRyZjJJQVpnM0I2bFJzY1A?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 05:01:01 GMT",
-        "snippet": "Walmart raises sales and earnings outlook as e-commerce sales jump again&nbsp;&nbsp;CNBC",
-        "source": "CNBC"
+        "title": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan. - MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVUlxU0NuUDNCc0Rxc1NzVkxUMVRYU1dNcHg4SG9aNzA0TlIzRWM3NFdHcjJnVTJEQllqTkxKS25YTXRvT2VNSE54cWpRV19udnRBUjN3Z25Wbmh4eU10VHNoQklubDI2QXFOd2VJQjlKblVqV1czTjhjWjZiUXNOekowTi1ZSFdpQ3VkRFFpWEdpYjI0NGJiOXAzby1zN216N0M4TU1uUm4yaVVSWDNUaG5VZm1ZYkl2dWVSaWVuU2hIcjZKUldta3VMd1FSWGdCNE9naW5WMkRhRFpjeFVGQQ?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 16:53:00 GMT",
+        "snippet": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan.&nbsp;&nbsp;MarketWatch",
+        "source": "MarketWatch"
       },
       {
-        "title": "Energy markets can \u2018manage without\u2019 the Strait of Hormuz, says IEA - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQclpkNktKMTQyVEd2elBKSFpFaHVBM0FXTEdaLVRIcVVUbEpNZk5nLXZWR0FiZ0FtUTVNcjh3aXNkYXBzOE91NFFfOTJtQjlMWFFIenprVF83QUk1ZDlpYmlSTW9qRFZZLXk4ZlhSMEJnZ3Z6clJ2T3BJOXkxNENzTThUOU8?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 05:01:23 GMT",
-        "snippet": "Energy markets can \u2018manage without\u2019 the Strait of Hormuz, says IEA&nbsp;&nbsp;Financial Times",
-        "source": "FT"
+        "title": "Opinion: This closely watched investing guru just sold all of his stocks - MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNkw3RTh5V0R3YVRYMHU1MTA4WjFyOWRkdnJsbUtPSGNLcWlpQTB4NElweDdRNGJMc3F6XzZPR3lpN0psOHh2b2I3bGtNd2VnWW5BSW51am1WNDBwVTZJN0s0ajdrTVUwVXhmNi1OLU1RTnkxV1R6ektTQldyRTdTUXFnTEhWYVRBZGVJMzBqLXI3Uzg?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 11:37:00 GMT",
+        "snippet": "Opinion: This closely watched investing guru just sold all of his stocks&nbsp;&nbsp;MarketWatch",
+        "source": "MarketWatch"
       },
       {
-        "title": "Russia imports record volumes of petrol as Ukraine strikes refineries - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlo1NHhQX2p6Q1J5UXNHTUg3VzJWRVd5UWpROWhVZjRldmpNNnNFeWxKYkVXMGVBeDJZa1pqdnNJYXMwS2hxOFR6ZDhtWnVaSTJaVmlUdFY1dWdqdU16Zmg1RTBMY2F3MXVpZ3dVVmNsUlhsWnhMTlQ5RGJSNlN3YzVHSjI?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 09:46:03 GMT",
-        "snippet": "Russia imports record volumes of petrol as Ukraine strikes refineries&nbsp;&nbsp;Financial Times",
-        "source": "FT"
+        "title": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind - MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ0F6RGVGUVBNSG54a2JlamtJWXpLeDY1Q2szNFhEMnppRHM2ekF6eTdKYkJxbkZiSlJFOTF5Qmtfamhoa0ZFWE1PNlQweUU5d0RrYlRCeGQxbGJMZFRMU3lHVXFfeUFRVlB6ZW4wYVBJN3NYTE5Vd1l4TWNvbURfX19nZGpXNGRSZU40STV0a1BJQUJBWVoyR20tMzRZVldQR21RX3NibTlpUFk1Q1F3d2Y3Y25hQlFZQXM4dWNPVTJmYTFBU1RDbGJ0U21RYWJyOXc?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 11:54:00 GMT",
+        "snippet": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind&nbsp;&nbsp;MarketWatch",
+        "source": "MarketWatch"
       },
       {
-        "title": "The name\u2019s bond - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXNXSnlpSkliMnJkT3ZISFN1Q281M0lSZzJKX1ZzZ3dhYjYtOFJtS0xRQWdMcFhxOGNjSGxnb2VmckJnVTV0R2g3WFJtNUpOemFrdDRzTDJLNWY2RE5WZm1hLUVwTy0xMnZXS21HLVowNE9mT0RLYUJ1T0taZzctYnp6WU4?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 06:30:06 GMT",
-        "snippet": "The name\u2019s bond&nbsp;&nbsp;Financial Times",
-        "source": "FT"
-      },
-      {
-        "title": "Gold loses its lustre for investors - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWt2V0dObzlXMDV5M2drblMwOVRkbEJxQTF4MHoyU3VKSkZDS0lpYURmV25JU3FqWDV5QnlXX3RMLVM2NmR2aDdpNDNDSXNUMndlNGw4V2doU21RbXdyR09aUklpa0llUWdxMWpqX0J1WFFqd0lHbGxSZUhMbERNLTVLODI?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 05:00:17 GMT",
-        "snippet": "Gold loses its lustre for investors&nbsp;&nbsp;Financial Times",
-        "source": "FT"
-      },
-      {
-        "title": "Citi settles sex harassment case alleging threats to managing director - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPajJFVmFjWW4ybjQtQUNSQ2RCVXRKZ2I4cVBORWstTDFEQ3B4SGtWVmRRZXhJQVdzSHdOTTljYVEzcDlMNjNxSm9kYWJtYm15azRVakxWLU5ITy1VRjBNWmphbHVSUWJCOERRdDI1ZXljUno2dktuVTN3bDEzajBUTGpGcW8?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 19:52:21 GMT",
-        "snippet": "Citi settles sex harassment case alleging threats to managing director&nbsp;&nbsp;Financial Times",
-        "source": "FT"
-      },
-      {
-        "title": "\u2018Bigger, better\u2019 \u2018Grand Theft Auto\u2019 set to smash entertainment records - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaWRPdVlXejFYbmxMbFZuTEI3dFZMQXdrQXI5YjhPNzFNOTcxSGFXVUxyRGtaX3kxQTJhclNlWkZvb0VSRGpQVTlnaU1kR21zbktDclVSSWdnaGlkdWZWRVJyNUx0dUpScm00cTNrZFJROEFTUVVSb2FVaEp3UU9qMld6VEE?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 21:00:04 GMT",
-        "snippet": "\u2018Bigger, better\u2019 \u2018Grand Theft Auto\u2019 set to smash entertainment records&nbsp;&nbsp;Financial Times",
-        "source": "FT"
+        "title": "Has the stock market\u2019s slump hit bottom yet? Here\u2019s what these contrarian indicators say. - MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON042YXBuSWdwR05PVDQwNFhFdFZGd2pNM2UybWRxbEd2d3lWUV8zb1NJYktFdmtVaTdhd0pHV0hUbno4VUQ5bkpRLThZVllrak44TGN1eEhGN1EzWWdPNXlBMG9yYUtyNzk1cVh3V3ViN0tSaWJqMV9VM1hQUkNycnlwREVMdVIxUXJjNEpya2N5bXRzaXhJbzZRdFJ1Q1VqaVBBT3U1S1hFWmdHbEczSE13MGRscG52MVhLbGFkMHFiYjN6cGpHYzRjdGxKUQ?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 21:58:00 GMT",
+        "snippet": "Has the stock market\u2019s slump hit bottom yet? Here\u2019s what these contrarian indicators say.&nbsp;&nbsp;MarketWatch",
+        "source": "MarketWatch"
       }
     ],
     "tech": [
       {
-        "title": "Anthropic's historic debut to put AI's promise and peril on Wall St trial - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 14:09:38 GMT",
-        "snippet": "Anthropic's historic debut to put AI's promise and peril on Wall St trial&nbsp;&nbsp;Reuters",
+        "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, committee says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 21:37:20 GMT",
+        "snippet": "US signed off on sales of nearly 900,000 AI chips to China in six months, committee says&nbsp;&nbsp;Reuters",
+        "source": "Reuters Tech"
+      },
+      {
+        "title": "Google picks Bezos' Blue Origin to launch AI computing satellites in 2029 - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN3VqbnV1MzJhUTVfQzlfY2kyX2gzdk1FU0lyNU15dWhzVk40ZGNtRFlPaUFlS0hYeEhZQ0trUkdMUV9OQmIwZTE5aWliLVVYX0Faa2cxUUpjdWw2TFE5OTBCSnh6d3BqWnA0Znc1MV82SnpMdGZVQzRPXzVXcDV5X0hrckZ0TklGQlJmTTdiOFdob19wajZDT2dnUnlhNEZtVkhKMllQZ3R0U3VhOHdOQTl6WU5kRTNieHZqWVIyQlRERms?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 14:22:37 GMT",
+        "snippet": "Google picks Bezos' Blue Origin to launch AI computing satellites in 2029&nbsp;&nbsp;Reuters",
         "source": "Reuters Tech"
       },
       {
         "title": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc1pDUGRULVJNeGdkT21ERVNzMEl6RHJKTEtLRWFFQjFpYjdxWU5NMmM3Zl8zUzlHQUd3UzJlNE1UV2tlZnZFTEZrNnRKSWU1Y1lkSU1ISmF6U1JGNWNEeUJETVpHNDI5QTEwMWJTTmRraUgyaDR2RUJ1UlRadVJZMW9MUTZCeXdpZHRZRWl1X1VIZ0xBbllSWEUxMGxmdmllVFgxbmxuTmljOFFBTUkyUGR2NDRfTmM0Rm5xcXFxaHk?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 12:48:08 GMT",
+        "pubDate": "Thu, 19 Nov 2026 18:39:46 GMT",
         "snippet": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say&nbsp;&nbsp;Reuters",
         "source": "Reuters Tech"
       },
       {
-        "title": "Alibaba tops revenue estimates on AI cloud growth; profit up on investment gains - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFBCQUxKTlhNeXBLMWVCbUU2enl4bG1PTVFoLVpRVjRySlVEMjJhZ0I0c3Mzd3VJb1hQOHFnYW9wOUlQZnp3ZXgyYWZjRTVueVdIMlozaklSWXZUdFBsS25EdUdZRHVZQVRuVUNSYk1wc3lvbGROSzgtM0tacUVWY1JRRUVsWFR4a0Z0NlIxNDV0UnZMenZJd2xGSVY4cHNNQVQwWVlVWGpLM3NaMlE?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 11:59:15 GMT",
-        "snippet": "Alibaba tops revenue estimates on AI cloud growth; profit up on investment gains&nbsp;&nbsp;Reuters",
+        "title": "Anthropic's blockbuster debut tests Wall Street's faith in AI boom - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 21:10:31 GMT",
+        "snippet": "Anthropic's blockbuster debut tests Wall Street's faith in AI boom&nbsp;&nbsp;Reuters",
+        "source": "Reuters Tech"
+      },
+      {
+        "title": "Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 21:38:51 GMT",
+        "snippet": "Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor&nbsp;&nbsp;Reuters",
         "source": "Reuters Tech"
       },
       {
         "title": "EU Commission confirms it was targeted in cyberattack through use of AI tools - Reuters",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2FuVDFlVnk2V2ZQX1cwZDZTVVgtNGcyVkRjdWVPa0dWMnFUVWkxVjU0MmJCZEhqZTNURWtRUlpWTFpHYTJDUS1TckpwbDFOYWl3WjR5Z0hyR0xMRVNQbXNZOWw1dHUtWDMwUl9VTVJRSUVfOWh6cjd1eVBpY3hySU9zbnlvZ2V1UFpBSlFraWZIMTAxTGtXQnVYaGhNLWRkRVhmaE96UQ?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 12:48:27 GMT",
+        "pubDate": "Thu, 19 Nov 2026 18:10:43 GMT",
         "snippet": "EU Commission confirms it was targeted in cyberattack through use of AI tools&nbsp;&nbsp;Reuters",
-        "source": "Reuters Tech"
-      },
-      {
-        "title": "South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYjJyUW83NEllOTVXWDNHUnY0UW85MjF2dzVVQ1NxOVBGaW1EY0trbjRZZU5zZWFLUnZnQ1RGUkhiM3ZmZVA2VUxZNm5UQlpJR2F2OXotX0EzOUJJdHNkZlhCUXVnM2xqaEZ1Zmh6R19sSmUyelZzSVJSSkVTZHBvd2ZUQkNJOFZPaEZ6amhLd1BGWlcxd2M4N0pLa0J5Z28taFE2M293Z1puMWViY3FhZDh6WXd4SjFsNzg0dkZ3?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 06:29:00 GMT",
-        "snippet": "South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom&nbsp;&nbsp;Reuters",
-        "source": "Reuters Tech"
-      },
-      {
-        "title": "Nasdaq futures jump on renewed AI optimism ahead of Anthropic's market debut - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 12:40:59 GMT",
-        "snippet": "Nasdaq futures jump on renewed AI optimism ahead of Anthropic's market debut&nbsp;&nbsp;Reuters",
         "source": "Reuters Tech"
       },
       {
@@ -223,31 +181,10 @@
         "source": "Bloomberg Tech"
       },
       {
-        "title": "Anthropic, Other AI Models Regularly Identify Civilians as Military Targets in Tests - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSS1jZVhGcHo5bUV2U1RFTmhhaVpURXhZSXVwcFUxYkpLcHAzUG1yclpmNmxkQVR3SS1ndWprbGdZYThiRm12b2lMWmkzaUliVWRCSUs0QkVpZGFUUVQtUm9MUzg5QkhQaDlEcmVfakwzUE5yY0xNdUZOZkVxYTltMXRWbXBCb1pjZ0V2cll3bmtYRE1HQVZzbno0UWd1Q0tkd2hYWkFhSERSUGZjaldCdldaa2FsX2gyYmFIQzFkUQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 15:00:38 GMT",
-        "snippet": "Anthropic, Other AI Models Regularly Identify Civilians as Military Targets in Tests&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg Tech"
-      },
-      {
-        "title": "The Biggest Winners in Anthropic\u2019s Landmark Public Offering - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWEROWDAyTlh0N2FsV2c0SlMxUXhIVFptMmhvZTBzaVJpMTVsLU5uMUp4UTJ2WGN5SXNDMzJtSlk2ekEzZXNKYU1uUnZpenVjcUdfSU9pNm1DVG84MnFqNUs1UlhLQWhXMnZNLTRiV2ZRa1JUSGhGSE5RamxiY3NybVhHOVhkSm5IOTMyRWhhNFRpN3I3YkJkSG9lRHE0VlFIbHVLMkoyaEMwRl9yNEZZ?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 06:33:00 GMT",
-        "snippet": "The Biggest Winners in Anthropic\u2019s Landmark Public Offering&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg Tech"
-      },
-      {
-        "title": "Nvidia Raises Outlook, Says It Can Thrive Without Huang - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQUp2Z1haU0NNQkJ2ekdiQnZFRjJ2cWN4ckVMdnNJY05BOFNCUlNqbzl2RkNoblhlRTFuU1djbWdoenZmdGZYZ1VjNlhnS0E2YXJLLUQ3c21UZGZCNzZrQWhaa3RGVnlBX2phdUVkTTlIc3U5VDBkenFQUXpmQnVqRDg0bFNOODZsdTJMeDgxQWE0Z1NZMEd2cVZPUVRyT2xPYWUyZnZQanRQQnhFZmc?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 21:24:23 GMT",
-        "snippet": "Nvidia Raises Outlook, Says It Can Thrive Without Huang&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg Tech"
-      },
-      {
-        "title": "Bitcoin Bounces Back Into Green Ahead of Anthropic IPO - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUDhpMy1RYjlZSXlPb0M1UEFMWkQtd1o0S2p3cHByejFleGcyRWg4Tl9sZEpzMFNDaVktei02dUFyZ2dhaGNMUGpVYkZDemZ1MFNtdEFra2hMYnpaWjZjYmhSZG1Hb0VyMUpaaGdkR3F5WEd1N0hiTUtIdzFIaFUtOTd2WTBneUhmU3E2R0MyVkpFRko2YXFHRnIzbTFhZjNSNVRrV01PWlc?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 11:31:44 GMT",
-        "snippet": "Bitcoin Bounces Back Into Green Ahead of Anthropic IPO&nbsp;&nbsp;Bloomberg.com",
+        "title": "How Anthropic\u2019s Low-Profile CFO Helped Grow Startup Into AI Powerhouse - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcE9KTDkyZUNBNmNqZ1Fib2VRbUhkaVBZZjhUdnB2LUZSNnV6Slh0QVNaOTktZTl3ZDhSd0dPdmJ4czNEVWlScW9MdEFPakxVM3A2Tkk1bTVTUWlTeEx3Q2IzWFY1RnFxNXdSa093VEZjOGpYMjNTYTg3bVljSFoxMThCbW0tbnZ3emduOHFPT2xhd2lQR1Jid0hJN2ljT3dRX25ucEpkWENpVnpOY0JPWDBYUTlfQXYyd1E?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 16:01:12 GMT",
+        "snippet": "How Anthropic\u2019s Low-Profile CFO Helped Grow Startup Into AI Powerhouse&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Tech"
       },
       {
@@ -258,46 +195,74 @@
         "source": "Bloomberg Tech"
       },
       {
-        "title": "Family offices moved more money into stocks, but hedged AI risk - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXFVTW9LM21GRjUxb0ppMGtrOFg1UzBsMHp6NDNmemFyZlVUZG92V1ZwZUJXZ1UyNVVBczVUM3JEbG01b0VDR3VvczBwRHMyVkJrZEVrZkxfRU56WWdsV3JCZjZxb3NFZUNrdjdnenRxd2QyWHQyc3VzS1JGS0xOeEpMWGpHU1N3aHNFbnVfM052cUZNMm54YUdTSW5VUjlJ?oc=5",
+        "title": "Nvidia Moves Ousted CEO Jensen Huang Out of the Spotlight - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlduRDVoZzhvc3Z6OW9BZWpnamNyT0cydURmSlctVDRhajZFRDIzdl9uMUx1MFZaUDVSUG4xYzByek5JTFRvRnRUdl9WMHZWSV90a05mMDJQb0pXbGRzWTZkaXV6TXBqbkl0RERGY0pTcDBidUtmcHJPX3dUNGo1b29RN2NsSFRqR1ExRHQyOGItOFhpMUdOT2hyV29LVExjN0luaER3OWZFME9WTzZuVg?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 12:02:01 GMT",
+        "snippet": "Nvidia Moves Ousted CEO Jensen Huang Out of the Spotlight&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg Tech"
+      },
+      {
+        "title": "CoreWeave\u2019s McBee Favors Tech Spending Over Debt Buyback - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWHNnV3lPODZ3R1UwbUE2OVRCNi1pWHdSMC1FRUYxTjdkTnVTTVBua0lzY0pHS05XamI4RU9BZHdOUExycV9lZ3pvYWJoX1JrRVp1cjdCOFQtRTlaVUx1ejAxS1dyQTUxbHpEMlFrejYtakFDUkhFc2Y2X0FZckNrNGhnQ2xyNjI1U3NnRFRSd2czU1EzR1ZjOUZZR215Y1dPdVpqS2dRbDRpWXFpUU5LTW1LcWtZUQ?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 00:25:00 GMT",
+        "snippet": "CoreWeave\u2019s McBee Favors Tech Spending Over Debt Buyback&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg Tech"
+      },
+      {
+        "title": "Advent Is Said in Talks to Buy Business Services Firm Boardroom - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOWltSDJRclNMNDU5TW90Z0FSeDZoWlBZV0NVY3dZX1d1ZHJRMDkwTV9JWC1NSGp5cHcyVWtGaXluS2pyb3VMd2hLcVk5RWJDZ2JMTmNDcjFTYm93aUdVaHJrVTU0Nmg3WkJvRzlhWGFxMHA0b01BTDRuX3Ewc1JoNFloMk9nbUxkOEhFek9yZ1k3SWhQX2RGdnNVZ20tOE54bi01ZWhCamVvU3BYdGNfNE1lN1c?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 10:08:56 GMT",
+        "snippet": "Advent Is Said in Talks to Buy Business Services Firm Boardroom&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg Tech"
+      },
+      {
+        "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 19:55:41 GMT",
+        "snippet": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says&nbsp;&nbsp;CNBC",
+        "source": "CNBC Tech"
+      },
+      {
+        "title": "Jim Cramer says to buy stock in this sleeping tech giant 'aggressively, aggressively' - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVhSUVl6OU84ZWVnckpvbjJoYzgwdnVwTUQ5R3FTY3Z6bWtHSzFxSUhONWhJV1g4RnJ4NDMxQnp5ZGlfVTAtM2NYQ0pUNG1xRml2NU81NWk4S0RQTEx1aWtPcGI5OWxqQVo1YkNGNjRYbmdBam9tR05KSW1xR2NOLWgyMmkzeGxzVXlqYW5MZ1ExLTA3ejZWeTJPQWNra21rNmZwb0RUTDI0T01nZGdKQ3R4VlVVZ3VjNTUwMw?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 17:15:33 GMT",
+        "snippet": "Jim Cramer says to buy stock in this sleeping tech giant 'aggressively, aggressively'&nbsp;&nbsp;CNBC",
+        "source": "CNBC Tech"
+      },
+      {
+        "title": "Morgan Stanley says this is the 'ultimate off-the-grid' stock as worries about tech outages increase - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckdlNGUzRU9OX2NEX2F2bV9BWFppbkFtM0N3NldrRnFKZzhqaWZvUDFPaHgtOFpvcGtvYnFEWGk5cVZZYmZtUkdOOG1QTHVtYXVNUHktVE56UmhRRXBOYXBibDJpcWhDS245eXZHMldLWWJCWGpYeER0aC1saEFFeElaXzVCMGRSbnRER3ZYbWxTV1VlSWk2d2FDSVN3aWxYSEE?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 15:07:52 GMT",
+        "snippet": "Morgan Stanley says this is the 'ultimate off-the-grid' stock as worries about tech outages increase&nbsp;&nbsp;CNBC",
+        "source": "CNBC Tech"
+      },
+      {
+        "title": "Anthropic IPO, AI wealth spawn a new, leaner kind of family office - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQUlCck41bVlFamthWGZnMXNTRG8wSm1KejZibkVvRHk1RWhpRHlMRENjTUVVZXZ1M2ZLdUkzZ3BnczZDY0JRU0t0d1J4LWZ5NndLNDdQX1BmNE1iblFHQkFpSDZlWmpTUVBOZ0t4NVZfYzh2dTduZFBvV1VibTlwNVZaaWg2QVc0MjUtMWpDNXd6OVRuNkg1QnJjSzg0WWFDQnlz0gGoAUFVX3lxTE0yc1BGd2w2T3FZY0owLXVKc1dNdTVCaDFTOGZxeDhuV2RzN0lsZjFBTDN6NThodlZEU2pMcHZZenktUzRLVFVPeDJjRmQyS3dOSy1PTkkwM2xaNVBXSlpGNUN4U0ZOUl85dVUxLXZwWVBDMFBtSE1YOGtwR3dIOENxUDVhRFZTNkJNQjFVUHhsTjh3dC1FZnNsQTR3QTBfd2ZZYVlrenQwRg?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 14:00:01 GMT",
+        "snippet": "Anthropic IPO, AI wealth spawn a new, leaner kind of family office&nbsp;&nbsp;CNBC",
+        "source": "CNBC Tech"
+      },
+      {
+        "title": "We're buying 1 non-tech stock and 1 tech stock as the market tips oversold - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONmktMUhwYWkwSnZUY3pIUnNmUGdNWlFmaEJuODQzbnlzUEdTNEdSaGNJdkl4SlZGbHcxUWszVmdlQlhhV0JkWnhSR19yMWhnbUY2X0hmcmVmWUp4bVZhLVJfcmh2ZkhvdGFTU1FXWGdrSm4xbU9LbFRWR2wydnJuMzNJUmhsQXlCV3hJSjVfaDkwa1NlVE1MakMwcVo0UktTOHFaLUlHLXhLVVNDbWlHUEpBWGZsM1Rjc2c3RlRKQ2xwQQ?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 13:56:27 GMT",
+        "snippet": "We're buying 1 non-tech stock and 1 tech stock as the market tips oversold&nbsp;&nbsp;CNBC",
+        "source": "CNBC Tech"
+      },
+      {
+        "title": "Family offices move more money into stocks, hedge AI risk, according to CNBC Family Office Portfolio Tracker - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXFVTW9LM21GRjUxb0ppMGtrOFg1UzBsMHp6NDNmemFyZlVUZG92V1ZwZUJXZ1UyNVVBczVUM3JEbG01b0VDR3VvczBwRHMyVkJrZEVrZkxfRU56WWdsV3JCZjZxb3NFZUNrdjdnenRxd2QyWHQyc3VzS1JGS0xOeEpMWGpHU1N3aHNFbnVfM052cUZNMm54YUdTSW5VUjlJ0gGmAUFVX3lxTFBob1g2cUlZVVJsMFJDWm9JSWFYeWZSR3l2ak1TQzFvdU5kclAzUnFQYnlxMkhHeldMM1ZuZFVHUEQzQmVDRTZqdHR4WTZQSkxTSW1vV3Z5TDlLZEQ5WGJQVXVLWldtQy1CY2RBZkExbHBXZzRGVWZuQ1JyUTBqT0tIWEhpMnU3eTBSZmEwZ2p0NFBlY0Y5TElYR3JVRU9LSzU4THk1Snc?oc=5",
         "pubDate": "Thu, 19 Nov 2026 12:30:01 GMT",
-        "snippet": "Family offices moved more money into stocks, but hedged AI risk&nbsp;&nbsp;CNBC",
+        "snippet": "Family offices move more money into stocks, hedge AI risk, according to CNBC Family Office Portfolio Tracker&nbsp;&nbsp;CNBC",
         "source": "CNBC Tech"
       },
       {
-        "title": "Anthropic lifts Nasdaq futures and tech stocks ahead of its record-breaking IPO - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM2J4VWlna2g3QW9JczFndk5ScUg0YldfR2xCV3U2S09qQUsybjhhSG15eFB5eTJYNVF1ak5aU0pnbDVUSklYUU04bUF3YjA1V0ZST1Y5OWZranIyV25adnlHd0IzMS0ycGNPTE40cFBGclJLbmRsczMtRDBrbW0ySThleXB4ZnpyMy1JNmozYnl0eUlabzVod1kxRFRlLUEyTW1JNVdpbEtmV09ndkxpYXE2cnNETmPSAbwBQVVfeXFMTWNWbXplM2s0SlQ5U2xYM0pYWi0ydnM4RGNyNW5YSXJfVFUwQ24wb0Nac3p5b2E0MFdPSnpyNktrZnhuNGFhS2sxaGx2YkJ5X0FmZmNNZjFQYmRVOXE3OW54MjZhdXVvNGtscGkwaG9zZThTOU5xclc1TUItU0Zfd0x6Smg0QktzQTNYbzdlSUNJTFJEMmZfb1lDQ1BQR25OVGtwSzNhU2ZGSG1FaGhjdzJmZzMzVDFjay05bnU?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 12:29:55 GMT",
-        "snippet": "Anthropic lifts Nasdaq futures and tech stocks ahead of its record-breaking IPO&nbsp;&nbsp;CNBC",
-        "source": "CNBC Tech"
-      },
-      {
-        "title": "Intel signs first external customer for advanced 18A chips - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05Um1NdEdUSk5QVXZMWjVfNWZSbjMwWDBDUS1CSU14T3dUaVZXUWVQdFhGYUV3cS1BbmpTVHV2bC1LRldBbl96eVJGWXhHZW0zR0RPRXFiZW15dktuQW9ESE54Y1luQVJJNkdmS1N5QnNNRTFUQlFhVdIBfkFVX3lxTFBFVWo1RldiN1N3VGZFclp6VEpDN1ExYmY5UGxuR3g4bTNhTnFSTzlhQXJsVi1yeDZTMms2RUFMOU5RLWp2aVd6U2dJVkx5cGQ4NUI1WnV2blA2WHFRNHFRN2dtaXRqdDI5SHRNeml0cGttTGxpSUtJbjRUaUxGdw?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 01:05:00 GMT",
-        "snippet": "Intel signs first external customer for advanced 18A chips&nbsp;&nbsp;CNBC",
-        "source": "CNBC Tech"
-      },
-      {
-        "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb29LX2twdWJnUUNJU1RDcGtFektCNmV2NkdIbWVfak5KMDNnTDNCWHQtNWgzWHpVbWRfeHBmd09XWTJJcmdHaGl2V05lZVBlamlPTjRBU2VudXM4Q3Q0bThCVnJXWTFoVDFzYkVacjN5VXFQQjFaQ1pDU3RyWDFKeGF2MF_SAYoBQVVfeXFMTUJWbFM5R3ZJYXFiZWc2Wm9GdER6aldoWFRmdXZOZzRkMHVOSFNKOUtSUjlWaVE2dHhSZ1pqQ05WQTB4ZER4YTFVeGVLQWhvREhmOHRhQ0lqSk45UTBsdDFvV01NNDdRNUJnWXBDNDg3dlkwaUZXNTBOdWZDbXRfdUNySjdBZTZnNThB?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 21:47:56 GMT",
-        "snippet": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings&nbsp;&nbsp;CNBC",
-        "source": "CNBC Tech"
-      },
-      {
-        "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91OXNXQ0tPMEw4dmRsaGVzS2ZoSXNmS1pOMWxRbWpMRlhPR0h6bHdVWWZaQS0xeXJZNTV4RUlFMTdHNFpyaEY1bkFHYTN1RWV2WTNXOG9KTDNzTTZCbDFIZzF6aDd6Zm5McGJtS09R0gFzQVVfeXFMTW1hd2NYMG1mYzRnUUxHVHBLMXNVT0dyQTVVUHM2LUpsOWdHYXdfRDRKM2UweUdDbUlaNzZnQ2YxU19ha1o2R3BsUHA5MUFkQ1JwTGpwb0d0Z2hjNDZ3Rk44OVZUbVE3clJrT2VmenhEQjBfUQ?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 19:00:50 GMT",
-        "snippet": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show&nbsp;&nbsp;CNBC",
-        "source": "CNBC Tech"
-      },
-      {
-        "title": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa3g0SzhLQXQyeVBHYW96cmVJT1E1cUJkcVVHb0hqU00ycWRzR0xVYTFUaklGSUJkMFk3aHV1cXlrX2tVdzVuWElwM1NsSHIwVmJDelI5dUkxTEsyblBmNzhkV2tOQ2pqVmVwTXJaUUxpSWk1Z1ZVRHAtUHVBWFFjdlgyZnpicXJOUXdj0gGQAUFVX3lxTFBhZnJpWkMwTE9Xc1l6TXBSMFFycGtxMXp3M3l3alk1Z0FOQmFIM3FtbV9MRk9uV2NSRTd1WDB4N29VRVhhSFVZeUdBbkhuQUtiNTVIaHc5QWRpbGVLb1dCaG8zR0tFTDlHTVlNWnl6M2dHTjJwY0dfQTh4TDRwMXIySFJKVFhmNVRmVE9hd2U3Qg?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 18:43:26 GMT",
-        "snippet": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO&nbsp;&nbsp;CNBC",
-        "source": "CNBC Tech"
+        "title": "Google is forcing Android app developers to properly support foldables - The Verge",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNallnZVhjM2pfaWozajdwdS04NElORzh3VXlzcE5JbS1Obl96Yzk1QmpERG8wOW55ZjNhNGpkamZQZDh3ZkdrS2U3Wm5JUlZ3RXdCaFZJRWxKQ3hTV1VUcGxkTGlfUzRYdXkyTzZKZU1KMjBXR1hZQ0xpLWFZblNQZG5WUUF1cWtQRm1vcDBjQVZIQ1JNYWc?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 18:00:00 GMT",
+        "snippet": "Google is forcing Android app developers to properly support foldables&nbsp;&nbsp;The Verge",
+        "source": "The Verge"
       },
       {
         "title": "Satya Nadella says he\u2019s AGI-pilled now - The Verge",
@@ -307,24 +272,24 @@
         "source": "The Verge"
       },
       {
-        "title": "Google\u2019s Spark AI agent becomes \u2018Tasks\u2019 \u2014 and now it\u2019s free - The Verge",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QWWU3aGFiSEZaZy1MSTBMN2J0eVZjQWRCSGhXVGhUQ0Ffdmp0X3R2UDFzVnV4VU5tVHlBbVBFeTR5VGFVRG5Bbm1qeHIxbXpYQ2FBWnZ3MVJCUU4ySnRIcWJIeUJQZGQtVFlpVF9MX0NZUQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 18:58:01 GMT",
-        "snippet": "Google\u2019s Spark AI agent becomes \u2018Tasks\u2019 \u2014 and now it\u2019s free&nbsp;&nbsp;The Verge",
+        "title": "Canva adds an AI \u2018off\u2019 button - The Verge",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcE4xZV9mX2VDUGs5LVlMbWtKRjVocGl0NlJzaXhKTlJJLXdfeHlVQnN1MXBsRXdvZldTTnRwc0FCLUVfQ3Vra0ZGZ0hMbWRyQXdQY0JPdmk4N05hVTVZSmtaYkRSQm1LZnU1a0k0UVM4ZFBTN3JXSXY0NHBENXphaTdrWjE2U3lfeV9kQ0QzTXFyZw?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 12:30:00 GMT",
+        "snippet": "Canva adds an AI \u2018off\u2019 button&nbsp;&nbsp;The Verge",
         "source": "The Verge"
       },
       {
-        "title": "Inside Microsoft\u2019s giant Outlook outage - The Verge",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lNmJPNzh3SlFOeFc5dVJpU3pxVG5JRWRoRS1hek9IR01XMXd2ZmtrRjRPdGRFUUY0ZXNES05aa3ZOUlhna2ExRDVEd3kzbTJMeHpzUWk5cUtlUmdwTF92Rlhjdkt1NFNvZnMxTHc1Y1owdXF4OFE4aDhB?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 17:00:00 GMT",
-        "snippet": "Inside Microsoft\u2019s giant Outlook outage&nbsp;&nbsp;The Verge",
+        "title": "Grand Theft Auto VI understands just how important a smartphone is - The Verge",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOHRpRmEwVUVjc2RHYjBwdzJobnpIcGdVdHVxdmZkUXl6Wnl2bHA2Wm9EUFN5RlVNXzdVVWZDTzRWNVIyVWx5MUpNUlFGTjlXZVJSS2xjUm8wak5RWFFIZDV4WFoxaXhwRFZiekt2UEpFenZJYWZGTURSdnk0ZEpzbzZn?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 13:30:00 GMT",
+        "snippet": "Grand Theft Auto VI understands just how important a smartphone is&nbsp;&nbsp;The Verge",
         "source": "The Verge"
       },
       {
-        "title": "You can now preorder the Flipper One that puts a Linux computer in your pocket - The Verge",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzRUVUtRRWw0dldUYUtzZ0xBSy11bkNreks1QnFGUEdUR25UcHlYaEM3c3VjR1NjVDJHcXN5YTl1eHdyNGt4bDEtQjdyRUF4U0VMTTV4bzRubGRHQXdQOE80cGd1NzNCV2RobXpOamVRejJORC00c0FWcGZSWFNBdTY1MS1BYlBzdnNLZXowdDBjYkdGTllpeFVXMmVHYmRuNkxRTm5KRjRTcjh0SjVadEhEcTZOUQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 16:00:00 GMT",
-        "snippet": "You can now preorder the Flipper One that puts a Linux computer in your pocket&nbsp;&nbsp;The Verge",
+        "title": "ChatGPT can transcribe as you speak now with Live Dictation - The Verge",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOUQtVG5tdWhKOFZoTmRaQzNEVjBNYVA0ZzdKSjhJU2xoaERaa25DeTJhaUVXaWRrWTdRT1JaTHhvMnlscEJnWXo3YWxoV3lRVDdzTGF5UV94dmdqRW5pSlI2TWpreEJJcU5hTG85ZkNha3FvdDFJQkcyQXVpaXFMcnA3SWFLRWNpUFQzMHNseUdLdG8?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 15:16:45 GMT",
+        "snippet": "ChatGPT can transcribe as you speak now with Live Dictation&nbsp;&nbsp;The Verge",
         "source": "The Verge"
       },
       {
@@ -333,16 +298,16 @@
         "pubDate": "Wed, 18 Nov 2026 22:08:06 GMT",
         "snippet": "Google released another Gemini 4 model.&nbsp;&nbsp;The Verge",
         "source": "The Verge"
-      },
-      {
-        "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO - The Verge",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWURsb29fbVFJeVpsOGpyVVFxWGJ2akEtbVpNekdGYm5iaFlMYmxSOFprUUVKRGRTcTN4dUNNYXM5UUZjaGlnUjZ0QV9mdjItYkJEcGdjWEpIUHpzLTBPam8yOXVKaTBObEZvdEo5RFI3eDZlYkVRVEtHMk9TYjVjbUcydURfaTBoSGI3MmFCNEhiMEl4Vks0aA?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 22:05:05 GMT",
-        "snippet": "Nvidia says it does not intend to reinstate Jensen Huang as CEO&nbsp;&nbsp;The Verge",
-        "source": "The Verge"
       }
     ],
     "banks": [
+      {
+        "title": "JPMorgan, Visa, Mastercard say third-party vendors targeted in cyberattack - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1VHOTlUSTlCVmhEY0dIdi11T2tlc2xPMG16MHhDWkl0SnlBVFl0cHNiZlVPaEtNRERzYXJGa28yUG9DSVZobFBicGFwcXBUWG1icU1RSzYtRUpNV3V4YU1uNkVkNGtQN0tJOVpTMExic1VCMWIxMzhUZm5ISjN4eWJoRFBmSzhZM0x0YlJIRjBJYWJsNlF5WUMxN3NsUE9pWndFLVhTcG1saUE?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 20:34:02 GMT",
+        "snippet": "JPMorgan, Visa, Mastercard say third-party vendors targeted in cyberattack&nbsp;&nbsp;Reuters",
+        "source": "Reuters Banks"
+      },
       {
         "title": "Surge in software patches likely behind recent tech outages; bank regulators on alert - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbG5MRktqdzhYemc3QU9Yd0xudG9uN1lSbkd4YTd3dG44VUlfcTRzcW5WQ19qb2JTX0o0QVV6VHNuV0oxRFNzYUZSX2wySm9WRmk1S2swN2djcWNJc3I0S0FqbzBrV09oZlAzbVFGQUI5bWktb2ZYU3ExYWdCd2hNOHZIei16QU9UZXJDQ0FNRkk0S0FjRG85UUlXX09KTmFtYzQ4SVZQOXBXcHY1VVlzcV9wdGxTR1Mw?oc=5",
@@ -358,17 +323,17 @@
         "source": "Reuters Banks"
       },
       {
+        "title": "Bank of Japan to raise interest rates in December and again by end-March, economists say - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd2tVS3ktQThQZmhzbFBGVmwzRDlycmtudVhLTk1vLWpJeDlQMFBqV1J3bFZXNGtTT0VfRGJaWUxBeWNWck0tblgzbTJsQmM4SXNRbUVXZEo1Nk1UdWpONURjY1I5RnJsVmRuRzdra2VFSVlyYnJUTnhjUXNjNUJKU2YtWDBfQkZuWFV2d3FJZTdFSzZKdHgyM242QzVReUJENE52TEtXaWlfMnNlNGZkejlzRGR3TnM?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 17:17:27 GMT",
+        "snippet": "Bank of Japan to raise interest rates in December and again by end-March, economists say&nbsp;&nbsp;Reuters",
+        "source": "Reuters Banks"
+      },
+      {
         "title": "India's RBI says Yes Bank AT1 ruling could weaken future bank rescues, filing shows - Reuters",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUw0YUxNVUVtcWpnajdqRnJhb2JSOWFKdS1GNGxNTjFvVC1ma1JVTlIzdDhUcktaWjFLVndUTmoxRU5iMldLSHBWQktfUmt2Z0tUYnpEd1U0S3g5SXlyTldtUEtsRFNSRXdzaWd0SHVocjU5cjZIZ0RINzJ4S2MwLVJHd2k5ank1emUwV21pbFJCRjVnZGJqYU15SnBjMHk4ZVVVSm1odExCeHFFUmtPME9ia0NMQUo4RTRING90MW1pTEp4ZGI4?oc=5",
         "pubDate": "Wed, 18 Nov 2026 12:23:43 GMT",
         "snippet": "India's RBI says Yes Bank AT1 ruling could weaken future bank rescues, filing shows&nbsp;&nbsp;Reuters",
-        "source": "Reuters Banks"
-      },
-      {
-        "title": "European stocks mark worst day in eight months on AI jitters, Deutsche Bank slides - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc1Vva1dwekNvTXd6MjdZLVNNUEsxSjNHWTA3NGhtUHZsMnhDVFJVekJVbTUyQ0czc0txSnA2cVJCUnVYMkEwQ3piZGhUbmxBS0JkMFU2RGNSanB5WjRjTUlsYTlOS3RHanEtamowSlN1Q1A5MGd3dHY5LUNrTWQ1Rldfb3F1VmwxZXRkN3JSWFpWUzhVdXVjaXdJeGxySi1NU2lvcTFB?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 17:34:00 GMT",
-        "snippet": "European stocks mark worst day in eight months on AI jitters, Deutsche Bank slides&nbsp;&nbsp;Reuters",
         "source": "Reuters Banks"
       },
       {
@@ -379,24 +344,10 @@
         "source": "Reuters Banks"
       },
       {
-        "title": "Indonesia resumes rate hikes to defend rupiah, more tightening seen - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQanJKMzJaNDVraEhpYUJhZ0JYZjdwQU9QSG5xNGtvR3VWaEtRSGJ4ZE9fTkxDYnBObnB2c3Z4bk1kdWtFekF5bG9aZVJvMjk3S2dBWlp5QURJcngyNUVWZkFCZXFjZFRaNXRlN3NGeU9ybm9JWTMtY1NBQ2xjVkZxLU1HOTJnNTgzRjd6Qm5MNXYwbkQ1c1E?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 07:23:00 GMT",
-        "snippet": "Indonesia resumes rate hikes to defend rupiah, more tightening seen&nbsp;&nbsp;Reuters",
-        "source": "Reuters Banks"
-      },
-      {
         "title": "Anthropic Banks Land $550 Million Fee Windfall on Record IPO - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNWVOQ3dPVW9ySFV5enl3Z2pWa1IwN3NtMGlkbGd4TmhHc3dhUmJXdE1ia0hfSU5CZ21naU11djhNdThzNndnRG9qZS1MQ21tSDduRmZRR2cwdnZzamhZUlNidUZNMUxXZWJselBUTTFhbXVObUo5X0pUWW8tb2VHNnFnN016Sy1xQ3JSd2tzcDVDNHA1ZUoxdmN3ZHJkdW52c1M1NFgwcmJZWTEzdUt0OTRRck8?oc=5",
         "pubDate": "Thu, 19 Nov 2026 12:37:15 GMT",
         "snippet": "Anthropic Banks Land $550 Million Fee Windfall on Record IPO&nbsp;&nbsp;Bloomberg.com",
-        "source": "Bloomberg Banks"
-      },
-      {
-        "title": "Anthropic IPO Puts Wall Street\u2019s Speculation Factory on Display - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUQtR1NEVkpoMm9DVkEybFRtNDV2TDhsdmF5YXhrY2cxUXY1TEZ6d25mN2xIVWw0eG5FVm5pbzhXUHJDNWd4QmhkRTctYm1GelhjSms5SFVzSEJ2Z19BTzgyNXVHZi1vSWp4ZU44QXdIN3c2eGFNY2tQaFI1VDNsU2lpNkVEbWx2d0FXb3Rwd1RXWGtoUTdVc0JtMTYwaWZPTUtOcm94dGUwT05rd1RXV28yUDY?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 12:30:54 GMT",
-        "snippet": "Anthropic IPO Puts Wall Street\u2019s Speculation Factory on Display&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Banks"
       },
       {
@@ -407,17 +358,17 @@
         "source": "Bloomberg Banks"
       },
       {
-        "title": "BOE to Test How Private Credit Market Could Amplify Shocks - Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS2MyNVV6bVo1RW5kM1RIbWphU09MUXNHNlhjeHpESUZpQUhtcnl1Q1drZ1gtTmJnQzJMM093d1pCM3FKQU9leTJXX3B5UHllWEFCcDJpTUJwTW9ScWduYlo0Z3ZvaXQ5Nno0XzZyNUVpQTJZMDRrdkJOSmdnRTlab0FEOGxxNURsUVZWMzJ2SVpJUjdldWhpenNkVUg3aWh4TlBBdzAybzJaTjRQMXc?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 14:40:06 GMT",
-        "snippet": "BOE to Test How Private Credit Market Could Amplify Shocks&nbsp;&nbsp;Bloomberg",
+        "title": "Anthropic IPO Puts Wall Street\u2019s Speculation Factory on Display - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUQtR1NEVkpoMm9DVkEybFRtNDV2TDhsdmF5YXhrY2cxUXY1TEZ6d25mN2xIVWw0eG5FVm5pbzhXUHJDNWd4QmhkRTctYm1GelhjSms5SFVzSEJ2Z19BTzgyNXVHZi1vSWp4ZU44QXdIN3c2eGFNY2tQaFI1VDNsU2lpNkVEbWx2d0FXb3Rwd1RXWGtoUTdVc0JtMTYwaWZPTUtOcm94dGUwT05rd1RXV28yUDY?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 12:30:54 GMT",
+        "snippet": "Anthropic IPO Puts Wall Street\u2019s Speculation Factory on Display&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Banks"
       },
       {
-        "title": "Nvidia Starts to Sell Life Without Jensen Huang - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcFZCT1BfVVpXZzVrd2FaWEF1eEUxSThLb1hBYzVyeHQxaEpRclRYWEtxWEtPbGtjRkNpaFppSFdPTGJyWkhQZ2syMnhNckt0cnZSOXhEekgwMDdsS1kwWWgtWkM3TEt5elVmQW1jU3lTWEdlanVuXzJVZnNzYVE2SGdNc09BQ2lXUUd1ZnZ5Q3RDY2Z2a09BSVRoNUh5QmtBSWVfa0JmZDBSTzc4dEp1b041ZTNfc0xfQ1k4QQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 23:58:22 GMT",
-        "snippet": "Nvidia Starts to Sell Life Without Jensen Huang&nbsp;&nbsp;Bloomberg.com",
+        "title": "BOE to Test How Private Credit Market Could Amplify Shocks - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS2MyNVV6bVo1RW5kM1RIbWphU09MUXNHNlhjeHpESUZpQUhtcnl1Q1drZ1gtTmJnQzJMM093d1pCM3FKQU9leTJXX3B5UHllWEFCcDJpTUJwTW9ScWduYlo0Z3ZvaXQ5Nno0XzZyNUVpQTJZMDRrdkJOSmdnRTlab0FEOGxxNURsUVZWMzJ2SVpJUjdldWhpenNkVUg3aWh4TlBBdzAybzJaTjRQMXc?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 14:40:06 GMT",
+        "snippet": "BOE to Test How Private Credit Market Could Amplify Shocks&nbsp;&nbsp;Bloomberg.com",
         "source": "Bloomberg Banks"
       },
       {
@@ -428,17 +379,24 @@
         "source": "Bloomberg Banks"
       },
       {
-        "title": "The 'exceptional' dollar scenario that forced Deutsche Bank to change its FX forecasts - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUEZ5Nmg4WG5vTWRTZG50LTdNQnQyb0Q5bkEtMER4TVVtSVJzdXVWeXNMZlNRb2Vzc0lvM3B6aDNmbEJwUzFhMmlhZ1ViVXJMU3E4N2lUb3BaOG9aQXprWFRSYTRwTWluMG5VdzAtTDU4ZTNQSWZva0pFTF9Hcm14ZTR1d0lVcFBmNmNVNkVrWGVnX2RDWHg5SEYxTE43M2lmM1E?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 05:28:53 GMT",
-        "snippet": "The 'exceptional' dollar scenario that forced Deutsche Bank to change its FX forecasts&nbsp;&nbsp;CNBC",
-        "source": "CNBC Finance"
+        "title": "Nvidia Starts to Sell Life Without Jensen Huang - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcFZCT1BfVVpXZzVrd2FaWEF1eEUxSThLb1hBYzVyeHQxaEpRclRYWEtxWEtPbGtjRkNpaFppSFdPTGJyWkhQZ2syMnhNckt0cnZSOXhEekgwMDdsS1kwWWgtWkM3TEt5elVmQW1jU3lTWEdlanVuXzJVZnNzYVE2SGdNc09BQ2lXUUd1ZnZ5Q3RDY2Z2a09BSVRoNUh5QmtBSWVfa0JmZDBSTzc4dEp1b041ZTNfc0xfQ1k4QQ?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 23:58:22 GMT",
+        "snippet": "Nvidia Starts to Sell Life Without Jensen Huang&nbsp;&nbsp;Bloomberg.com",
+        "source": "Bloomberg Banks"
       },
       {
         "title": "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate hike - CNBC",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
         "pubDate": "Wed, 18 Nov 2026 12:20:11 GMT",
         "snippet": "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate hike&nbsp;&nbsp;CNBC",
+        "source": "CNBC Finance"
+      },
+      {
+        "title": "The 'exceptional' dollar scenario that forced Deutsche Bank to change its FX forecasts - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUEZ5Nmg4WG5vTWRTZG50LTdNQnQyb0Q5bkEtMER4TVVtSVJzdXVWeXNMZlNRb2Vzc0lvM3B6aDNmbEJwUzFhMmlhZ1ViVXJMU3E4N2lUb3BaOG9aQXprWFRSYTRwTWluMG5VdzAtTDU4ZTNQSWZva0pFTF9Hcm14ZTR1d0lVcFBmNmNVNkVrWGVnX2RDWHg5SEYxTE43M2lmM1E?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 05:28:53 GMT",
+        "snippet": "The 'exceptional' dollar scenario that forced Deutsche Bank to change its FX forecasts&nbsp;&nbsp;CNBC",
         "source": "CNBC Finance"
       },
       {
@@ -449,24 +407,24 @@
         "source": "CNBC Finance"
       },
       {
-        "title": "Chase Home Lending CEO says he plans to 'go on offense' against non-bank lenders - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOTRrX2FjMk1MNnplalI2TjJvNHJLX1JfR05ZdTUyMHVGek9IM2E0RlVhTUUyQ24xSV81ZVJCQ2d5VVB4R0o4alc4U3hMY2Y5cUR2TXVCVEwzbXVmZTRZb0dySmVoYkprMk5aWGdHal9hUkVXY3R4UjIzTG9uZnp4MU1xWVZoUG92SU9Wd2xB0gGTAUFVX3lxTE9mSDBHTUxiYmIyTmIzSkh4eFhzYzFnbGFVaFczOXpWZkMzc0djX1VkRkxjek1ldkpycUd1WUdydVQyZ1B3cWZXcjYyYm5yNENHVmQxTzRIbUpZWlR0NlZkbnZMYzVhZUppcGw0bnd0S29lWVBpbkwtOUpESzROUUZOMHQwV3U3NkUtQlVYcG9RTmpDQQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 16:00:01 GMT",
-        "snippet": "Chase Home Lending CEO says he plans to 'go on offense' against non-bank lenders&nbsp;&nbsp;CNBC",
+        "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91OXNXQ0tPMEw4dmRsaGVzS2ZoSXNmS1pOMWxRbWpMRlhPR0h6bHdVWWZaQS0xeXJZNTV4RUlFMTdHNFpyaEY1bkFHYTN1RWV2WTNXOG9KTDNzTTZCbDFIZzF6aDd6Zm5McGJtS09R0gFzQVVfeXFMTW1hd2NYMG1mYzRnUUxHVHBLMXNVT0dyQTVVUHM2LUpsOWdHYXdfRDRKM2UweUdDbUlaNzZnQ2YxU19ha1o2R3BsUHA5MUFkQ1JwTGpwb0d0Z2hjNDZ3Rk44OVZUbVE3clJrT2VmenhEQjBfUQ?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 19:00:50 GMT",
+        "snippet": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show&nbsp;&nbsp;CNBC",
         "source": "CNBC Finance"
       },
       {
-        "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrenZzS2J3U01hMzZWdnc1QUdyQ3NfMnQ1cjZydFF0emRKMzRMeVk2U3Q2TzNMbGtJc010MGV0YUg3ejYwa3VIWjdMY295WGtISm9VdnV1NHc1SVpoc0M3TjlCcG1pNmY1VENUVHhoODhrbjVOZ0VyWm53RUR2d9IBgwFBVV95cUxNd1lWUk5QV2pLblVYcjdTTEVFU21ENnpvT1o1WWlCMi1ZSkxJUmhuekxtQ2ladnlBWkdqeDRQN2lQRUVKY0hOa01CX01RWDZvejY1bWg4M2ZEWnBLUGlUc3d3cVNvQmVUSXh4SEh4UXpwZURLcXBzOHZndlctTG5iWklEMA?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 20:35:00 GMT",
-        "snippet": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything&nbsp;&nbsp;CNBC",
+        "title": "What Ron Johnson's 'Ponzi scheme' label gets wrong about Social Security, experts say - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSG0zSnlsTTR1b3Rnd09NWkZpOFVMMkJFdWVfeEloVkRpekhZb1l0VTJEOXF6YUFIZUJNb2JodFpRRzlTOFpXRHFpWTlzNjZBdDgzYThwR2pOS0h3MmZubmZMeWFKazFZYXNsVjhjN09jR1dFaGtVQW9Ubi1OZW1FOXVBVdIBiAFBVV95cUxNbGxxSVFoOUt0VVViYVJ0LWNRRkZ1aW9ndTA3b01hS1hfT2I5WlNwYVJTM3gySC1lMXpuMFFVQjVMckNLLXVNV0M2UC1Od1B6di1PRUstY2M0bVM5eXNmczRtVVRSU0s3QXFRMzRxdkptSzh6OXdHT2NfRllRbmQxakJzSVFPdmxD?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 20:34:35 GMT",
+        "snippet": "What Ron Johnson's 'Ponzi scheme' label gets wrong about Social Security, experts say&nbsp;&nbsp;CNBC",
         "source": "CNBC Finance"
       },
       {
-        "title": "Apollo CEO Marc Rowan warns neocloud financing access could 'disappear' - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oTWhZd1oxMk5VTHEzb090TkN0SzRabHRueS04akFTY0g5Rm5SLWNCX01uczI3NGNnWGR1NEhvZ3VRQTN3Szk5cGFnUmdNT29xYzNTMTJFbFN4b1hiMTdENGh4Vkc3b2tfTlJNb3Y2UjF4VE83RFlRY9IBfkFVX3lxTE1XVnoxMFVzdjNRbHdfdUM5SXIwM1hhSUxOMFpQWkxDSFgxQk12UHB1YWQyLUxkMFZfZDB1U2tHNUZSbTl5VWFxVjd5QU1LN0JPZ1pCMEQ1dDZ5Szd0MU9sbnlLNmlqV2tLczBjNFhocWZKdGc1UVZRTTV2eVQ1UQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 16:28:46 GMT",
-        "snippet": "Apollo CEO Marc Rowan warns neocloud financing access could 'disappear'&nbsp;&nbsp;CNBC",
+        "title": "Congress passes bill to protect older investors from financial fraud - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMVctUXhRS0hBU193czF4c2hVSTcwQ1l6MUk4RDFtc2Z5Q1dEY2VnRjVGMDVFQkhfVElFOVJlWVBDNDZmWlhPeXBsdGhvM2gyaEswNF9YYXZwWnNfcGpGR2ZiVENMd2dnZV9hblJSaFVmY2t3UHdFaUZpR01oNS1YeEY2a3czOVdPamRJcGszNDZ0WFVwMmNEMUpFbTHSAaIBQVVfeXFMT0dOdnk1T2xPM2Q2OUtWcXlHN04xQVNiX1ZDN01qclJlb0VsNWlCVDMtYk00Smc3WnY0VXNrUmtuY2ZDdGZtSkNJMnBnSGhKQjdyOG1CMzBrSTlIVDdhTk10NmNpaHZtcmJGeTJDNUs0bHZ5RFI3ZnlpTVFpX2NPNW1BdmtHVW54NXkyU0ZhMUNrNW50ZjJXN3MxNGNwREFrWnJB?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 20:36:48 GMT",
+        "snippet": "Congress passes bill to protect older investors from financial fraud&nbsp;&nbsp;CNBC",
         "source": "CNBC Finance"
       },
       {
@@ -477,24 +435,24 @@
         "source": "FT Banks"
       },
       {
+        "title": "Central banks \u2764\ufe0f US dollars - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zS1k2NUxOOGZHbjJEbWE4eXhmZHN6enEycVktTjBpdjdvZkVaS2M2WVA3WmFGQ2pfZkVXNU1Da0FoMEFZZk1fa3ZwUWdxV25LYlduVUsySFVsVlNmX2pJbzlnOUo5Y1BtbFhCMG9FVFg?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 16:50:48 GMT",
+        "snippet": "Central banks \u2764\ufe0f US dollars&nbsp;&nbsp;Financial Times",
+        "source": "FT Banks"
+      },
+      {
+        "title": "UniCredit agrees deal with Berlin on Commerzbank takeover - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTHRxSlUtdkhxXzZodnNZY0xRbUJHTFNwV0VnTi1jSzdNckp3VDgtTXRNMDdMTl9KZDNINkdRdENGOUVlRk9hSGdRcjFKNTNuSkJfeDdsRG83WUoybG5BX3pnMGZROHY3UGhlR2t0Q1kteTJwanZ3emJTeW16VzllX2JZTTc?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 08:02:52 GMT",
+        "snippet": "UniCredit agrees deal with Berlin on Commerzbank takeover&nbsp;&nbsp;Financial Times",
+        "source": "FT Banks"
+      },
+      {
         "title": "A Russian oligarch, a Bristol address and the suspect money that flowed through Deutsche Bank - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObEtCTVM3WjBaeTVubm0tYzVHTDNxVk9hTjZWN3JBNTlRVXgzY2xXWExHZXpIVXlIcS1valZ3LUV5UmFDeUpXVjM0am1TSGtjTXByVV9JcFZJQmJJZ0FMdWVGVnFnT0pTaGd6bVBHTzktUG1VOWswQ2JLZ3Q4Xy03Q0Y0Si0?oc=5",
         "pubDate": "Wed, 18 Nov 2026 14:00:06 GMT",
         "snippet": "A Russian oligarch, a Bristol address and the suspect money that flowed through Deutsche Bank&nbsp;&nbsp;Financial Times",
-        "source": "FT Banks"
-      },
-      {
-        "title": "Deutsche Bank waved through thousands of potentially illicit transactions in Colombia - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNmJGQTd0bGdybUpnaC1WOXJoY0FFeDlQaWlHNUdKdHRFdHV1S3M3TkhnSVNuRkhQeWM5cUVYUG1aMnRrWnZiUEIwY193MVRiU2Q5UWJkLTFkcTNhM1Z5Y2FSOFA4cUxlV1REblhyYTJqSnY3YW83VE1LRUpWT2JwaGFWOVI?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 06:00:55 GMT",
-        "snippet": "Deutsche Bank waved through thousands of potentially illicit transactions in Colombia&nbsp;&nbsp;Financial Times",
-        "source": "FT Banks"
-      },
-      {
-        "title": "Deutsche Bank hired a Qatari royal. Why? - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQWNPWC1QTWZGZmM2SGU5WGZUOXVVZ3NGY1ZPU1I1bXQzQXJHck05SWlBblpoX3dkTXpQRVlMYkJUdDBnX0Fib3dWbVRFUkhQV2JGWFlRbVdJMUFPbmwzQ1RRV3JWRExyVGpaZTRDYXJ1MWNQWTZxU21KQ0pUakxDU0t0dHk?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 06:03:18 GMT",
-        "snippet": "Deutsche Bank hired a Qatari royal. Why?&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       },
       {
@@ -505,55 +463,20 @@
         "source": "FT Banks"
       },
       {
-        "title": "AI borrowing binge has \u2018historic parallels\u2019 with subprime bubble, says ECB - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFY3aERKeGE0QmV1OVY5akNDaDhaVDJ2NEJjS3FZb2U4UWNMVl9tRmdYWllCaEhYVXZXUGhZTUVkcTdySzMzNktNZnE5bTc1cm1tR3JPbXA0OS0xS3V2a2VRd3M3NVVQOHVjR3I1dXEyOTAzUm91S0ZVQmgtWjVXM0NleHo?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 09:00:07 GMT",
-        "snippet": "AI borrowing binge has \u2018historic parallels\u2019 with subprime bubble, says ECB&nbsp;&nbsp;Financial Times",
+        "title": "Leaked files shine a harsh light on Deutsche Bank - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQkhQMTZHUmI1NDdDTWpab1E4MzQtZ1NON0JLRTJjTU5KRl9NMmtyTTJ0OUd3RGNwZ2tvMkNobXdNTkswTUgtLXpLZGd4MlBRZ2ZPcGd0Xzd4N09tLV9BREk5a3hZaFZ6MVNhYjNQSmNHXzVNdjFSUnBvMnIwb0k0ZXU4TDg?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 18:30:01 GMT",
+        "snippet": "Leaked files shine a harsh light on Deutsche Bank&nbsp;&nbsp;Financial Times",
         "source": "FT Banks"
       }
     ],
     "singapore": [
       {
-        "title": "MAS to develop \u2018Know Your Agent\u2019 protocol for customer agents and financial institutions - The Business Times",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOGhLT1V0V1JCR1lzUGhsakRhMDdXMTNDaEpLNkw3REhKeldmdXBLMlNGQXNoZkpVZnJpenVGOHNKclpJU0F6QUNZWGJUVzhFdFgwVGtZUUdmU0w4Rm81X2RNOEpQS05majVvUzNId2N1dUtQZExOeF9IU3FSLVhxeEJlVFlWaElwb1FGMERUMlFpZk01czJIQ0pGM3J0QWlQN09idTg3ZUxXUWZKSXgtZjhBWFpYQ0dpdUhyM3V4RzJYYzh6MFNZRVRR?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 03:19:00 GMT",
-        "snippet": "MAS to develop \u2018Know Your Agent\u2019 protocol for customer agents and financial institutions&nbsp;&nbsp;The Business Times",
-        "source": "Business Times"
-      },
-      {
-        "title": "MAS lays groundwork for AI agents to make payments, manage funds with proposed safeguards - The Business Times",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQTZLdUVMeXYxUXlHLUNfY1FyaVRLTktXa2hJcGpIc05wY2Z6Qm9QUnBoRjBkOGJDX0JiZ1RwbHhpQ2Ffb2RHUGx2MTIwT1B1U0FjLXo1MlN4c25JZTJoaEVZSXBYb0dHaWVYZEpmc2kta2MycFZNM2RhMWNMWkpJNHJhT3k5QkZvUVl1eW9kZi1PMXZqQ1Nja3dINTJjTXR3WjJGQk9TZnFFTFdTWDljNVFVanI1b3dmSWs5N0tSVWlKS2I4ckE?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 03:19:00 GMT",
-        "snippet": "MAS lays groundwork for AI agents to make payments, manage funds with proposed safeguards&nbsp;&nbsp;The Business Times",
-        "source": "Business Times"
-      },
-      {
-        "title": "Singapore unveils national AI missions for finance amid US chip restrictions - The Business Times",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY3NEQklqa29nS1BJeTE5ZGxnRXA2LS1kdl81aThrci1lRkRaMHRrWDZXZV9FQzhDbTJPVlFNM0FTTXZ6dlpqc3pCZlJ2dWFHLUFUQjlGRGZYN00wX1FTTHVaNk9kYnkyT3h6NXFiRVBRbUxzaXl4TkFZcnRmRTFOWnpodzhyM1BDR0t5cVNydENWVFFUUW9EV2NUM28xV1o3dmtJT3J3X2N4OUlSdGtDVjhRM2lRT1N3RVBPamE0UG8?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 02:40:00 GMT",
-        "snippet": "Singapore unveils national AI missions for finance amid US chip restrictions&nbsp;&nbsp;The Business Times",
-        "source": "Business Times"
-      },
-      {
-        "title": "The geoeconomic limits of Singapore\u2019s new gold vault - The Business Times",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzNMclB0ekw0Vk1wM0hucTVUY2lRZVg3WFFicEpGMDNkbU5PUlFxRFhQYURIMzlXNWs2b1lJSHlWNXU3bWk1b19uNVpocTA2QVY1ck8zMFNQMFRpaVhwdFFNSUlnSUY1MVVUMWpJZHAtZjVCeU50Wk9mYXpNTHZVZjZRQzZPdzcxeGFJYnU0T05hblRmcnlzRTNB?oc=5",
-        "pubDate": "Mon, 16 Nov 2026 23:00:00 GMT",
-        "snippet": "The geoeconomic limits of Singapore\u2019s new gold vault&nbsp;&nbsp;The Business Times",
-        "source": "Business Times"
-      },
-      {
-        "title": "Ex-MAS chief Ravi Menon: Banks, wealth managers must curb AI agents' autonomy over clients' money as risks grow - The Business Times",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM0JPaU9zZkhNcXFYekVxYTIxR2VnNjE4bE1idDh5RVlKZUxBNE9YQUd4SDg4Y056RTZiWkJIRFZZTEg2VjVHakswVGZkMEpmZE9kbW1HM0lQdHlYQnhTTjdpS2tpTnNZOE92QjFpbXJYN1lwNG5TN1NNb21qc1NWWlVEYTZLcUhqSEVhMkxtVWpzalRvQ0lHM0psLXZVLVNEZ1pWSi1yLXVnWWpNWnZzS0J5dXVHQU5QNkN1UUE2QnU4aUtSd1VndTNJY0FyOUNmOTF4R3M5R0c1cUdNa0xibElBak4?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 10:54:00 GMT",
-        "snippet": "Ex-MAS chief Ravi Menon: Banks, wealth managers must curb AI agents' autonomy over clients' money as risks grow&nbsp;&nbsp;The Business Times",
-        "source": "Business Times"
-      },
-      {
-        "title": "PayNow Gen 2 road map plans for interoperability, higher-value payments, clearer rules on disputes - The Business Times",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRGJpR21uNEhRMmVlRVQ1a1Y4dEhSSzljbkw5VktnQUotZGRsclRhT3ZpWmI5UnVjcjlxeXBKbDdJanE0OVhnNkNjbVQ0c2xBVl8tNE5SaWVBdEJrU1g4ZDgxRUZ3UzJCbTJpS1EtdnJHdDJmeXcxTDQ2X2RxRnA5S1J5TWNoY1hGSmgzOTdkbUZId283VDBGTi14dG80R3Q0NXJSdzlMWGxxYzNiOVMyR0xvX2syWlFmMTlQRmtnMWVCY3FkTlpIZWs0aVRCZzdqUVpkVkRYRzRRajd6eUZVaVdVZ29Najh6dl9LTw?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 08:24:00 GMT",
-        "snippet": "PayNow Gen 2 road map plans for interoperability, higher-value payments, clearer rules on disputes&nbsp;&nbsp;The Business Times",
-        "source": "Business Times"
+        "title": "S\u2019pore\u2019s key exports surge 79.8% in October, but tighter US chip rules spark uncertainty ahead - The Straits Times",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZXd6LVNfdXliNUVDdHFibmFuWGpGQ29vSURJMWh4X2JQRmYyN19lM0lGSklSOTZxMEN5aUpfZUxWcEx0SnJfMVduWjdOdTFSdUZqRjBZc2w0aDh4XzVWV2YtbFdIMndudnpieXBXc1JLMlZqWlpyVE1OOVh4NlowOHFJUmJkeXViNTl1c0w1bnJiT3ZFRlJ5S2tjdmNNcDZlS0k4QU0zdE1aY2d4?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 00:30:00 GMT",
+        "snippet": "S\u2019pore\u2019s key exports surge 79.8% in October, but tighter US chip rules spark uncertainty ahead&nbsp;&nbsp;The Straits Times",
+        "source": "Straits Times"
       },
       {
         "title": "Brief rally for S\u2019pore tech stocks after Nvidia\u2019s strong earnings exceed forecasts - The Straits Times",
@@ -567,13 +490,6 @@
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUR1b3QtWjZCTDA3YjA0RDVIclRDMmRDT0VCM3JzSG9aQk9ka3dFM3dJLVRaYWZkenUzRzNxYy1iYV8tS1lYRTV0Z3loeHRhcVo0SUZzbGxINEZwMjUyS3lrdHM0b2o4QUNYVDV2TFlyaXZtSmpEY3RQNG5mZ05PNUNxZ3E3amJENk1OdFVxSGJwY0VLTUUzS1YyV0NzS3JZemItVUZxUGN3ajY3MU1aVV9fSjh1VHR5VVIzYVc3MA?oc=5",
         "pubDate": "Wed, 18 Nov 2026 03:15:00 GMT",
         "snippet": "Anthropic\u2019s IPO: Will Singapore investors back AI\u2019s promise or help fuel another bubble?&nbsp;&nbsp;The Straits Times",
-        "source": "Straits Times"
-      },
-      {
-        "title": "S\u2019pore\u2019s key exports surge 79.8% in October, but tighter US chip rules spark uncertainty ahead - The Straits Times",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZXd6LVNfdXliNUVDdHFibmFuWGpGQ29vSURJMWh4X2JQRmYyN19lM0lGSklSOTZxMEN5aUpfZUxWcEx0SnJfMVduWjdOdTFSdUZqRjBZc2w0aDh4XzVWV2YtbFdIMndudnpieXBXc1JLMlZqWlpyVE1OOVh4NlowOHFJUmJkeXViNTl1c0w1bnJiT3ZFRlJ5S2tjdmNNcDZlS0k4QU0zdE1aY2d4?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 00:30:00 GMT",
-        "snippet": "S\u2019pore\u2019s key exports surge 79.8% in October, but tighter US chip rules spark uncertainty ahead&nbsp;&nbsp;The Straits Times",
         "source": "Straits Times"
       },
       {
@@ -591,13 +507,6 @@
         "source": "Straits Times"
       },
       {
-        "title": "Asia stocks set to snap losing streak on Nvidia beat as Anthropic looms - The Straits Times",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcVJFMkNaT1JQOVhDT1Bvb2Q4cy1YY3NuUFkzZDZ4VFpHYnBXeVlwN1pRUTdOVElXSnhmSkFMUnpnWUd3QWlCeUNZYWpiU3NDdXJieHRzSF9aa3laMXZNRHUtUWVzbFNVRkluQ3NMSXYtRzlLYmtJSXVpS0RSZFQ3ek4zMWtDM3MtUFV4V3o0UkhBaGlORzktaUZ6Sm1CY2JqM3V6aHR0OHRIdklPenNoVzhFNE80QkVQQWh1MElranBwa2N6QWJJeUxB?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 02:20:00 GMT",
-        "snippet": "Asia stocks set to snap losing streak on Nvidia beat as Anthropic looms&nbsp;&nbsp;The Straits Times",
-        "source": "Straits Times"
-      },
-      {
         "title": "Laws That Shaped Our Nation - Thriving Economy - CNA",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeUVjWWo2N3BISlQ2V0dqN0FNdGgxQUdIMk1naldiVTVaYmVKUnR3bFpEeHNkYzFNTHJlb0NodVRCN2FSblFHNE1NZV9CYXE5dVhDcldHd1owNzdiLVpwVll6RzF4U1BmT1pvUGRDeUctUzBxeGN6S0VFUFFCY1RCRUpaajJXckJ0Q2dVZFdn?oc=5",
         "pubDate": "Thu, 19 Nov 2026 11:30:00 GMT",
@@ -612,10 +521,17 @@
         "source": "CNA"
       },
       {
-        "title": "Next Order Of Business - Can a Singaporean startup help farmers save their harvests? - CNA",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ0swRUE2UHNOcU9Ed2pudUJKNXNjdWZBTFNMZTdsS2x2ajdFYnF3d0JQdnRndlVMRjVhWmNOYTlpY1lMT2Jpb0FhZEd0eEo4OTJmUUpzMG5VcUVJNnc1aHFPUUIwQUdlWUdKU1pNb242NlhYb3pIVU1DMVhJODJlTTdDN0pSV3RVTy1qZVg2MWxOY1BCZVoxdHZ6bTZpYlBSN2Q0bmg0NEh4czBhZm0yY2ZiLUxFVXpBNTd1QUlCWQ?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 13:00:00 GMT",
-        "snippet": "Next Order Of Business - Can a Singaporean startup help farmers save their harvests?&nbsp;&nbsp;CNA",
+        "title": "AI surge could strain US capacity and overheat economy, Fed's Goolsbee says - CNA",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWE5TbTNONG5BX2Y2bkxDQ2hRMXo5LUp1clRURlExeXBqUzhlYTdUZ2gxTGs4ZlVLZHhzQmZVc2hqRS1sVDQwdERqVEhRamo5Q3F5MTRQNU10ZmY2QlhzaFNwM29CbEZDaFZXdGt4a042Nk1wSlhlYkpxOXM2UWpLdzI1Vk1EaEZzSDkxYVpsZzJhMFNuc0tUbmVUT3lhckEtU2FTLUlUeGJZS0UwUU96dkxuWlcwVzAtRHBDRmNWNA?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 20:37:11 GMT",
+        "snippet": "AI surge could strain US capacity and overheat economy, Fed's Goolsbee says&nbsp;&nbsp;CNA",
+        "source": "CNA"
+      },
+      {
+        "title": "Fed's Goolsbee says AI surge could strain US capacity, overheat economy - CNA",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORC0zLUJ5Z0xBd25vNldKMXlVNUtjcXIyZnVOeExKTzBiQVlES3htRmYtRXlEQ1VQc0doeU5MZENmdGpJdjdxZnowRFpBeWxfaHFyRmRHNWQxUi1zSEp1U21qWWZOUU5yZVZVUHNFTXJrZnZXZzVDWnVxNkxaUjFUSENNV3k5bG16elpOV05GaFJxNEM4Wm5McUt5SC1vYTdYYXBSbUxpbHpTWUVLOFlMTlJXZWxzNUJFZ2c?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 20:37:11 GMT",
+        "snippet": "Fed's Goolsbee says AI surge could strain US capacity, overheat economy&nbsp;&nbsp;CNA",
         "source": "CNA"
       },
       {
@@ -626,17 +542,10 @@
         "source": "CNA"
       },
       {
-        "title": "APEC China 2026: Singapore expected to push for stronger supply chains and markets, say analysts - CNA",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMll3UkVsY1BXMUNmdzRLVU4wNDdvZnBGdmFEdkQyNWVDdDliYWVDSzljMnRWNkFJcWVfTGFkRVFMck8wbnBCaktuVEVRczVpM1lQS0hyU01OMnhkaUN2NWVVZWZ1Z3ozUmtJdjN5Q3RUZkpDVXBlUmFhc1ZoX3BIZFFuMi1aZ3I0MUJ4VmVPSlFqOXVPNVJ6cmNkT2owSVZRZmJWWW8wMWxhYVBXSXFadjRlQzZweTg1X1dtNkdBVE53Y1pkX05VM0lLZmJoZw?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 15:16:30 GMT",
-        "snippet": "APEC China 2026: Singapore expected to push for stronger supply chains and markets, say analysts&nbsp;&nbsp;CNA",
-        "source": "CNA"
-      },
-      {
-        "title": "EU proposes 45-billion-euro Ukraine loan for 2027 - CNA",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVHp4Y3dNMUctRW5KNlBVY2lZZk1NZFNjQTJQYW1VNWdSWEJYbWM0OTFHdFJ5YTRhSzhNTXRqR0J4QVk2ekhRQlRDeUVuaFVxS2U4RzRiXzhWLWVQdlJuS3VlOUVvNU90WXdUd01UYU1DVjg5bm1Fa0lPUXNIVmNfakVETDZMUExsMzV6WG5wWjc2VWcxWVE?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 20:06:52 GMT",
-        "snippet": "EU proposes 45-billion-euro Ukraine loan for 2027&nbsp;&nbsp;CNA",
+        "title": "Next Order Of Business - Can a Singaporean startup help farmers save their harvests? - CNA",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ0swRUE2UHNOcU9Ed2pudUJKNXNjdWZBTFNMZTdsS2x2ajdFYnF3d0JQdnRndlVMRjVhWmNOYTlpY1lMT2Jpb0FhZEd0eEo4OTJmUUpzMG5VcUVJNnc1aHFPUUIwQUdlWUdKU1pNb242NlhYb3pIVU1DMVhJODJlTTdDN0pSV3RVTy1qZVg2MWxOY1BCZVoxdHZ6bTZpYlBSN2Q0bmg0NEh4czBhZm0yY2ZiLUxFVXpBNTd1QUlCWQ?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 13:00:00 GMT",
+        "snippet": "Next Order Of Business - Can a Singaporean startup help farmers save their harvests?&nbsp;&nbsp;CNA",
         "source": "CNA"
       },
       {
@@ -644,13 +553,6 @@
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0VmMzhXalBmSHhhNS1CUkdHZ2RrVmoydG5SR0E0S1ZVOVZTYzBlaVRFb2pWV09CWkl4anRNdFBqNXZHZkQxbk1odUNiUVAtRm5wR2tTSC1vcm9NdkhseVd2M2d0NjNUVEt1Sk5pUE9JYU5HMlVTNkJhZVhpM2Y2bjBHaDF0ZzhvMzRETHcySE9UY3hjblVHZ3JpS3FNTDFwZ19vRGR0c1Q3UnZKNTRNWTV2aHRCNDcz?oc=5",
         "pubDate": "Wed, 18 Nov 2026 02:07:00 GMT",
         "snippet": "DBS partners with Circle to expand institutional access to USDC in Asia&nbsp;&nbsp;Reuters",
-        "source": "Reuters SG"
-      },
-      {
-        "title": "Nvidia's AI financing machine may survive Huang, but with less risk appetite - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd2JkdDdXVFVDWWplOU5DRUtSZ0tQS25DanRfRl92ZUU5WVNDQnBwUUhhM3RRdDRSdEdISTNwa002U05EdkRlSlFXNE1PZ1RSVElZUjU5ZnRvT2RqQjZjaVRidXJRQ2dtb3FuRG9GQ0hrMm1ialRwSkN3U0VLTkZoNUhpUTYwakJUUUlOR0FMWWVMdUI0MUlkdVdYdUZOYzc5YVNtYk5wMjlHYlRKaG1RUWNOMGtnM1dCZEJpUEw4cThSc1Js?oc=5",
-        "pubDate": "Mon, 16 Nov 2026 17:23:00 GMT",
-        "snippet": "Nvidia's AI financing machine may survive Huang, but with less risk appetite&nbsp;&nbsp;Reuters",
         "source": "Reuters SG"
       },
       {
@@ -679,6 +581,13 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUZneTdzdWxRaHFVbVYyMWVfM0Vjc3lsUHNNZlU5UHRMNXB3Y2xtb3ZIeG1xUUVMMW1qOXZ3WXoyM2c5TTFSQ3J6NVdjcXZReXZYbGJ1d3RvUDczYmRxNjRWOFhnU1g0LXBtckQzS3V5Q1ItYjFvUkVDQVVNY3JTM2NwZGFVdGhmaG5sOEtHR3JnWVRnUVRnMWsyc1J6TUZvYkdLS0lSSkEyclh4UExkSQ?oc=5",
         "pubDate": "Tue, 17 Nov 2026 12:11:43 GMT",
         "snippet": "Vinicius nets first-half hat-trick as Brazil crush Singapore 7-0&nbsp;&nbsp;Reuters",
+        "source": "Reuters SG"
+      },
+      {
+        "title": "US releases details of Megaspeed probe, says investigation began in 2024 - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMU0tbGd6YXl4clNDZzNQY1Q3N2tFWmsxNVBRa0NOMFEwbjFJYzJFRzdVT3BrdFdpRDZRdmJTR0Fhck95bWlTdWp2NmtoazBXbWl2ZkZnOXNlUWhhazN6NFRqRXNrZU5kNXgzTWpadHF4NU5PTFZuQ0QzcTd2TFN5cG04dFNBMC1JSmN3VnE1WGV3eS1zbWp2OTg3VmdXRTZpMTM4aG9wUnpyeV9nYXFPRnREWHRLMW1WWXhyN2hUZTY?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 05:18:00 GMT",
+        "snippet": "US releases details of Megaspeed probe, says investigation began in 2024&nbsp;&nbsp;Reuters",
         "source": "Reuters SG"
       }
     ]
