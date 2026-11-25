@@ -1,105 +1,105 @@
 {
-  "updated": 1795580667,
+  "updated": 1795617870,
   "quotes": {
     "SPY": {
       "label": "S&P 500 (SPY)",
-      "price": 718.78,
-      "pct": -0.486
+      "price": 697.66,
+      "pct": -2.9383
     },
     "QQQ": {
       "label": "Nasdaq (QQQ)",
-      "price": 638.1,
-      "pct": -1.9861
+      "price": 609.97,
+      "pct": -4.4084
     },
     "DIA": {
       "label": "Dow Jones (DIA)",
-      "price": 499.74,
-      "pct": 0.7947
+      "price": 489.75,
+      "pct": -1.999
     },
     "AAPL": {
       "label": "Apple (AAPL)",
-      "price": 354.07,
-      "pct": 1.4295
+      "price": 349.36,
+      "pct": -1.3302
     },
     "MSFT": {
       "label": "Microsoft (MSFT)",
-      "price": 496.13,
-      "pct": 0.7371
+      "price": 478.43,
+      "pct": -3.5676
     },
     "GOOGL": {
       "label": "Alphabet (GOOGL)",
-      "price": 279.05,
-      "pct": -1.0812
+      "price": 263.01,
+      "pct": -5.7481
     },
     "NVDA": {
       "label": "Nvidia (NVDA)",
-      "price": 155.38,
-      "pct": -5.8588
+      "price": 141.8,
+      "pct": -8.7399
     },
     "AVGO": {
       "label": "Broadcom (AVGO)",
-      "price": 301.08,
-      "pct": -3.977
+      "price": 280.31,
+      "pct": -6.8985
     },
     "JPM": {
       "label": "JPMorgan (JPM)",
-      "price": 317.1,
-      "pct": 0.139
+      "price": 311.05,
+      "pct": -1.9079
     },
     "MS": {
       "label": "Morgan Stanley (MS)",
-      "price": 168.79,
-      "pct": -2.2074
+      "price": 163.46,
+      "pct": -3.1578
     },
     "BAC": {
       "label": "Bank of America (BAC)",
-      "price": 48.56,
-      "pct": 0.8725
+      "price": 47.63,
+      "pct": -1.9152
     },
     "C": {
       "label": "Citigroup (C)",
-      "price": 113.85,
-      "pct": -0.4373
+      "price": 110.73,
+      "pct": -2.7404
     },
     "WFC": {
       "label": "Wells Fargo (WFC)",
-      "price": 81.19,
-      "pct": 1.4875
+      "price": 79.58,
+      "pct": -1.983
     },
     "HSBC": {
       "label": "HSBC (HSBC)",
-      "price": 82.03,
-      "pct": -1.1806
+      "price": 79.91,
+      "pct": -2.5844
     },
     "GS": {
       "label": "Goldman Sachs (GS)",
-      "price": 806.02,
-      "pct": -2.1369
+      "price": 777.04,
+      "pct": -3.5954
     },
     "^HSI": {
       "label": "Hang Seng",
-      "price": 22265.68,
-      "pct": -4.417604825121539
+      "price": 21966.01,
+      "pct": -5.704032024383183
     },
     "^STI": {
       "label": "STI",
-      "price": 4951.52,
-      "pct": -2.0449505330481945
+      "price": 4930.83,
+      "pct": -2.4542571648443463
     },
     "D05.SI": {
       "label": "DBS (D05)",
-      "price": 65.7,
-      "pct": -1.852405138930378
+      "price": 65.44,
+      "pct": -2.24081266806095
     },
     "U11.SI": {
       "label": "UOB (U11)",
-      "price": 35.45,
-      "pct": -1.882092443952393
+      "price": 35.2,
+      "pct": -2.574038195405479
     },
     "O39.SI": {
       "label": "OCBC (O39)",
-      "price": 26.54,
-      "pct": -3.1386861313868595
+      "price": 26.38,
+      "pct": -3.7226277372262757
     },
     "C6L.SI": {
       "label": "SIA (C6L)",
@@ -108,13 +108,13 @@
     },
     "Z74.SI": {
       "label": "Singtel (Z74)",
-      "price": 4.24,
-      "pct": 4.950495049504955
+      "price": 4.21,
+      "pct": 4.207920792079206
     },
     "BN4.SI": {
       "label": "Keppel (BN4)",
-      "price": 8.2,
-      "pct": -10.087719298245613
+      "price": 8.32,
+      "pct": -8.771929824561392
     }
   }
 }
